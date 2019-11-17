@@ -1,12 +1,4 @@
-Feature Apps
-------------
-
-| Manifest | Description |
-|----------|-------------|
-|  |  |
-
-
-Question
+To Start
 --------
 
 **Install the apps from this bucket**
