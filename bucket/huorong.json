@@ -4,7 +4,7 @@
     "version": "5.0.31.6",
     "url": "https://down5.huorong.cn/sysdiag-full-5.0.31.6.exe",
     "hash": "cd615c16e1750e9b6e0b811d671c93087f8a88c230a456794c8f09f27727cc3d",
-    "bin": "HuoRong.exe",
+    "bin": "HipsMain.exe",
     "shortcuts": [
         [
             "HuoRong.exe",
