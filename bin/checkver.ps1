@@ -1,4 +1,3 @@
-#Requires -Version 5
 param(
     [String] $dir = "$PSScriptRoot\..\bucket",
     [Parameter(ValueFromRemainingArguments = $true)]

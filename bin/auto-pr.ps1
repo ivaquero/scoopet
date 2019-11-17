@@ -1,4 +1,3 @@
-#Requires -Version 5
 param(
     # overwrite upstream param
     [String]$upstream = "integzz/scoopet:master"
