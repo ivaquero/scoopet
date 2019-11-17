@@ -1,0 +1,17 @@
+{
+    "homepage": "http://www.huorong.cn/",
+    "license": "freeware",
+    "version": "5.0.31.6",
+    "url": "https://down5.huorong.cn/sysdiag-full-5.0.31.6.exe",
+    "hash": "e65389788da4f14caf333b49aed8e11be23dd8fd893c895d696600b6019734ad",
+    "bin": "HuoRong.exe",
+    "shortcuts": [
+        [
+            "HuoRong.exe",
+            "HuoRong"
+        ]
+    ],
+    "autoupdate": {
+        "url": "https://www.huorong.cn/downloadfullv5.html?1563359375"
+    }
+}

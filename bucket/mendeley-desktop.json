@@ -1,0 +1,17 @@
+{
+    "homepage": "http://www.mendeley.com/",
+    "license": "freeware",
+    "version": "19.4",
+    "url": "https://desktop-download.mendeley.com/download/Mendeley-Desktop-1.19.4-win32.exe",
+    "hash": "e65389788da4f14caf333b49aed8e11be23dd8fd893c895d696600b6019734ad",
+    "bin": "Mendeley.exe",
+    "shortcuts": [
+        [
+            "Mendeley.exe",
+            "Mendeley"
+        ]
+    ],
+    "autoupdate": {
+        "url": "https://www.mendeley.com/autoupdates/installer/Windows-x86/stable-incoming"
+    }
+}
