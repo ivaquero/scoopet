@@ -2,13 +2,9 @@
     "homepage": "https://www.esdict.cn/",
     "version": "12.4.0",
     "license": "freeware",
-    "architecture": {
-        "64bit": {
-            "url": "https://static.frdic.com/pkg/ehsetup.zip",
-            "hash": "6ae6c27a882324e93ca9cff467f877c6c3fb5f9725bf953100daa8ae13aa00fc",
-            "extract_dir": "ehsetup"
-        }
-    },
+    "url": "https://static.frdic.com/pkg/ehsetup.zip",
+    "hash": "6ae6c27a882324e93ca9cff467f877c6c3fb5f9725bf953100daa8ae13aa00fc",
+    "extract_dir": "ehsetup",
     "bin": "ehsetup.exe",
     "shortcuts": [
         [
