@@ -1,0 +1,18 @@
+{
+    "homepage": "https://www.esdict.cn/",
+    "version": "12.4.0",
+    "license": "freeware",
+    "url": "https://static.frdic.com/pkg/ehsetup.zip",
+    "hash": "e65389788da4f14caf333b49aed8e11be23dd8fd893c895d696600b6019734ad",
+    "innosetup": true,
+    "bin": "eshelper.exe",
+    "shortcuts": [
+        [
+            "eshelper.exe",
+            "Eshelper"
+        ]
+    ],
+    "autoupdate": {
+        "url": "https://static.frdic.com/pkg/ehsetup.zip"
+    }
+}
