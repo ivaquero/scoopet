@@ -9,7 +9,7 @@
             "extract_dir": "ehsetup"
         }
     },
-    "bin": "eshelper.exe",
+    "bin": "ehsetup.exe",
     "shortcuts": [
         [
             "eshelper.exe",
