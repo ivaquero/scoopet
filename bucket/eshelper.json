@@ -3,7 +3,7 @@
     "version": "12.4.0",
     "license": "freeware",
     "url": "https://static.frdic.com/pkg/ehsetup.zip",
-    "hash": "e65389788da4f14caf333b49aed8e11be23dd8fd893c895d696600b6019734ad",
+    "hash": "6ae6c27a882324e93ca9cff467f877c6c3fb5f9725bf953100daa8ae13aa00fc",
     "innosetup": true,
     "bin": "eshelper.exe",
     "shortcuts": [
