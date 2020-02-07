@@ -2,8 +2,8 @@
     "homepage": "https://im.qq.com/pcqq/",
     "description": "An instant messaging software service developed by Tencent",
     "license": "Freeware",
-    "version": "9.2.2.26569",
-    "url": "https://dldir1.qq.com/qqfile/qq/PCQQ9.1.6/25786/QQ9.2.2.26569.exe#/dl.7z",
+    "version": "9.1.6.25786",
+    "url": "https://dldir1.qq.com/qqfile/qq/PCQQ9.1.6/25786/QQ9.1.6.25786.exe#/dl.7z",
     "hash": "ddde13e2f01aca9716310117f7afd8ced114d5d48ee31bb6bc6cea0bedeaf40d",
     "installer": {
         "script": [
