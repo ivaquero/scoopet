@@ -2,7 +2,7 @@
     "homepage": "https://im.qq.com/",
     "description": "QQ是腾讯QQ的简称，是于Internet的即时通信（IM）软件。",
     "version": "9.2.2.26569",
-    "depends": [
+    "dependencies": [
         "vcredist2010",
         "vcredist2019"
     ],
