@@ -1,0 +1,7 @@
+{
+    "homepage": "https://www.grammarly.com/office-addin/windows",
+    "description": "Grammarly for Microsoft Office",
+    "url": "https://download-office.grammarly.com/latest/GrammarlyAddInSetup.exe",
+    "hash": "4e076e97b2a25c2e98de7d03cc04637a9f06b3bfd166c72d4884bd32b1415351",
+    "innosetup": true
+}
