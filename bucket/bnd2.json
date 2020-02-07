@@ -2,7 +2,7 @@
     "homepage": "https://github.com/88250/baidu-netdisk-downloaderx",
     "version": "2.0.0",
     "license": "freeware",
-    "url": "https://github.com/88250/baidu-netdisk-downloaderx/releases/download/v20190715/BND2-v2.0.0-windows.exe#dl.7z",
+    "url": "https://github.com/88250/baidu-netdisk-downloaderx/releases/download/v20190715/BND2-v2.0.0-windows.exe/#dl.7z",
     "hash": "ff0068e256a7173daef820284ba5f8d7c52962652d977efa0272db4ca7ed4ac4",
     "bin": "BND2.exe",
     "shortcuts": [
