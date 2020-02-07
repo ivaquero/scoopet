@@ -3,7 +3,7 @@
     "description": "百度网盘PC版 ",
     "version": "6.8.9.1",
     "url": "https://issuecdn.baidupcs.com/issue/netdisk/yunguanjia/BaiduNetdisk_6.8.9.1.exe#dl.7z",
-    "hash": "3c37135bae20b72523b9488ef8cf3ed11086e7cf39cfb0679cc5fcac81b6d5f0",
+    "hash": "4e076e97b2a25c2e98de7d03cc04637a9f06b3bfd166c72d4884bd32b1415351",
     "bin": "BaiduNetdisk.exe",
     "persist": "users",
     "post_install": [
