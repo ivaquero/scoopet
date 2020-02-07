@@ -3,6 +3,6 @@
     "description": "Grammarly for Microsoft Office",
     "version": "1.0.0",
     "url": "https://download-office.grammarly.com/latest/GrammarlyAddInSetup.exe",
-    "hash": "4e076e97b2a25c2e98de7d03cc04637a9f06b3bfd166c72d4884bd32b1415351",
+    "hash": "64a681fe9cb983bd4ba7e82d77f5eaee65f65322601e5552ec00102d12361c91",
     "innosetup": true
 }
