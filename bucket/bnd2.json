@@ -10,11 +10,5 @@
             "--unattended",
             "--private"
         ]
-    },
-    "shortcuts": [
-        [
-            "BND2.exe",
-            "BND2"
-        ]
-    ]
+    }
 }
