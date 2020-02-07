@@ -5,10 +5,6 @@
     "url": "https://desktop-download.mendeley.com/download/Mendeley-Desktop-1.19.5-win32.exe#/dl.7z",
     "hash": "0d291c98f208854b1788410313d2be09c81278321c26acc8f6f0cee8c812f4cb",
     "bin": "MendeleyDesktop.exe",
-    "post_install": [
-        "Remove-Item \"$dir\\`$PLUGINSDIR\" -Recurse",
-        "Remove-Item \"$dir\\`$TEMP\" -Recurse"
-    ],
     "shortcuts": [
         [
             "MendeleyDesktop.exe",
