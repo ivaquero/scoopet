@@ -7,12 +7,13 @@
     "bin": "BND2.exe",
     "installer": {
         "args": [
-            "/S"
+            "--portable=\"$dir\"",
+            "--unattended",
+            "--private"
         ]
     },
     "uninstaller": {
-        "file": "Uninstall BND2.exe",
-        "args": "/S"
+        "file": "Uninstall BND2.exe"
     },
     "shortcuts": [
         [
