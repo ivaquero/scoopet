@@ -7,7 +7,7 @@
     "bin": "ProtonVPN_win_v1.12.0.exe",
     "shortcuts": [
         [
-            "ProtonVPN.exe",
+            "ProtonVPN_win_v1.12.0.exe",
             "Proton VPN"
         ]
     ]
