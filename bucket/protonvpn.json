@@ -2,8 +2,14 @@
     "homepage": "https://protonvpn.com/",
     "description": "ProtonVPN: Protect yourself online ",
     "version": "1.12.0",
-    "url": "https://protonvpn.com/download/ProtonVPN_win_v1.12.0.exe#dl.7z",
+    "url": "https://protonvpn.com/download/ProtonVPN_win_v1.12.0.exe",
     "hash": "b254bf51675a8c615378556b217a30a8adb449662bc2b944e939eb1573bf3f3a",
+    "innosetup": true,
     "bin": "ProtonVPN_win_v1.12.0.exe",
-    "shortcuts": "ProtonVPN.exe"
+    "shortcuts": [
+        [
+            "ProtonVPN.exe",
+            "Proton VPN"
+        ]
+    ]
 }
