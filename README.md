@@ -10,6 +10,8 @@ set-executionpolicy remotesigned -scope currentuser
 iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
 ```
 
+> For more information, please visit Scoop official site at https://scoop.sh/
+
 **Install the apps from this bucket**
 
 Run below command in PowerShell to add the bucket:
