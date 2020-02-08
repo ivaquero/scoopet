@@ -55,4 +55,3 @@ scoop install scoopet/<app_name>
 |              uTools              |  0.8.9-beta  | Official exe |
 | VirtualBox [Plus Extension Pack] |    6.0.16    | Official exe |
 |          WeChat  (微信)          |  2.8.0.111   |   Nightly    |
-|            WPS Office            | 11.1.0.9339  |   CDN exe    |
