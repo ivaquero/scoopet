@@ -3,6 +3,8 @@ To Start
 
 **Install Scoop**
 
+Run below command in PowerShell (Administrator needed)
+
 ``` powershell
 set-executionpolicy remotesigned -scope currentuser
 iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
@@ -13,13 +15,34 @@ iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
 Run below command in PowerShell to add the bucket:
 
 ``` powershell
+scoop install git
 scoop bucket add scoopet https://github.com/integzz/scoopet
 scoop update
+# recommend also add bucket extra
+scoop bucket add extra
 ```
 
 Install apps from this bucket with below command:
 
 ``` powershell
-scoop install scoopet/<app_name>
+scoop install <app_name>
 ```
 
+
+**Summary**
+
+
+|               App                |   Version    |   Edition    |
+| :------------------------------: | :----------: | :----------: |
+|     BaiduNetdisk  (百度网盘)     |   6.8.9.1    |   Nightly    |
+|            Cyberduck             | 7.2.5.32097  | Official msi |
+|             GeoGebra             |  6.0.564.0   |   Portable   |
+|         Lingoes (灵格斯)         |    2.9.2     |   Portable   |
+|      Mathpix Snipping Tool       |  02.01.0021  | Official exe |
+|         Mendeley Desktop         |    1.19.5    | Official exe |
+|    NeteaseMusic  (网易云音乐)    | 2.7.1.198242 | Official exe |
+|                QQ                | 9.1.6.25786  |   Nightly    |
+|              uTools              |  0.8.9-beta  | Official exe |
+| VirtualBox [Plus Extension Pack] |    6.0.16    | Official exe |
+|          WeChat  (微信)          |  2.8.0.111   |   Nightly    |
+|            WPS Office            | 11.1.0.9339  |   CDN exe    |
