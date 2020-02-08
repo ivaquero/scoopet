@@ -15,6 +15,7 @@ iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
 **Install the apps from this bucket**
 
 Run below command in PowerShell to add the bucket:
+> Ignore the lines started with # or ##, they are comments for the lines below
 
 ``` powershell
 # To add bucket, you need to install git first
