@@ -42,7 +42,7 @@ scoop install scoopet/<app_name>
 |     BaiduNetdisk  (百度网盘)     |   6.8.9.1    |   Nightly    |
 |            Cyberduck             | 7.2.5.32097  | Official msi |
 |             GeoGebra             |  6.0.564.0   |   Portable   |
-|         Lingoes (灵格斯)         |    2.9.2     |   Portable   |
+|      Lingoes (灵格斯翻译家)      |    2.9.2     |   Portable   |
 |      Mathpix Snipping Tool       |  02.01.0021  | Official exe |
 |         Mendeley Desktop         |    1.19.5    | Official exe |
 |    NeteaseMusic  (网易云音乐)    | 2.7.1.198242 | Official exe |
