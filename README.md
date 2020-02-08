@@ -20,7 +20,7 @@ Run below command in PowerShell to add the bucket:
 # To add bucket, you need to install git first
 ## You can also download git manually at https://git-scm.com/download/win
 scoop install git
-# Add this wonderful bucket, mo-mo-da~
+# Add this wonderful bucket, mo-mo-da~ (mua~)
 scoop bucket add scoopet https://github.com/integzz/scoopet
 scoop update
 # Recommend also add the bucket extra
