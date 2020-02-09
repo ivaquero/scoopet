@@ -11,7 +11,7 @@ iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
 
 For more information, please visit Scoop official site at 👉 https://scoop.sh/ 👈
 
-## Install apps from this bucket 🚗
+## Install Apps from this bucket 🚗
 
 Run the below commands in PowerShell or Cmd:
 
@@ -30,7 +30,7 @@ scoop bucket add scoopet https://github.com/integzz/scoopet
 scoop update
 ```
 
-###  Step 3: Install apps ✈️
+###  Step 3: Install Apps ✈️
 
 - For common installation
 
