@@ -2,7 +2,7 @@
 
 ## Install Scoop 🚴
 
-Run below command in PowerShell (Administrator needed)
+Run the below commands in PowerShell (Administrator needed)
 
 ``` powershell
 set-executionpolicy remotesigned -scope currentuser
@@ -13,7 +13,7 @@ For more information, please visit Scoop official site at 👉 https://scoop.sh/
 
 ## Install apps from this bucket 🚗
 
-Run the below commands in PowerShell to use this bucket:
+Run the below commands in PowerShell or Cmd:
 
 ### Step 1: Install git first 🎫
 
@@ -49,6 +49,12 @@ scoop install scoopet/<app_name>
 ``` powershell
 scoop bucket add extra
 scoop update
+```
+
+#### For usage of Scoop
+
+```powershell
+scoop help
 ```
 
 ## Summary ⭐️
