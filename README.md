@@ -51,7 +51,7 @@ scoop bucket add extra
 scoop update
 ```
 
-## Summary
+## Summary ⭐️
 
 |               App                |   Version    |   Edition    |
 | :------------------------------: | :----------: | :----------: |
