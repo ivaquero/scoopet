@@ -5,7 +5,6 @@
 Run the below commands in PowerShell
 
 ``` powershell
-set-executionpolicy remotesigned -scope currentuser
 iwr -useb get.scoop.sh | iex
 ```
 
@@ -15,7 +14,13 @@ For more information, please visit Scoop official site at 👉 https://scoop.sh/
 
 Run the below commands in PowerShell or Cmd:
 
-### Step 1: Install git first 🎫
+### Step 1: Install aria2 to accelerate downloading 🚅
+
+```powershell
+scoop install aria2
+```
+
+### Step 2: Install git before adding bucket 🎫
 
 ```powershell
 scoop install git
@@ -23,14 +28,14 @@ scoop install git
 
 You can also download git manually at https://git-scm.com/download/win
 
-### Step 2: Add this wonderful bucket, and update, mo-mo-da~ 💋 🚅
+### Step 3: Add this wonderful bucket, and update, mo-mo-da~ 💋 ✈️
 
 ```powershell
 scoop bucket add scoopet https://github.com/integzz/scoopet
 scoop update
 ```
 
-###  Step 3: Install Apps ✈️
+###  Step 4: Install Apps 🚀
 
 - For common installation
 
