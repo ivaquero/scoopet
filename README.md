@@ -20,6 +20,15 @@ Run the below commands in PowerShell or Cmd:
 scoop install aria2
 ```
 
+You can tweak the following `aria2` settings with the `scoop config` command:
+
+```powershell
+scoop config aria2-retry-wait 4
+scoop config aria2-split 16
+scoop config aria2-max-connection-per-server 16
+scoop config aria2-min-split-size 4M
+```
+
 ### Step 2: Install git before adding bucket 🎫
 
 ```powershell
