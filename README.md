@@ -1,7 +1,6 @@
-To Start
---------
+# To Start
 
-**Install Scoop**
+## Install Scoop
 
 Run below command in PowerShell (Administrator needed)
 
@@ -10,37 +9,42 @@ set-executionpolicy remotesigned -scope currentuser
 iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
 ```
 
-> For more information, please visit Scoop official site at https://scoop.sh/
+For more information, please visit Scoop official site at https://scoop.sh/
 
-**Install the apps from this bucket**
+## Install apps from this bucket
 
-Run below command in PowerShell to add the bucket:
+Run the below commands in PowerShell to use this bucket:
 
-Step 1: Install git first
+### Step 1: Install git first
 
 ```powershell
 scoop install git
 ```
 
-> You can also download git manually at https://git-scm.com/download/win
+You can also download git manually at https://git-scm.com/download/win
 
-Step 2: Add this wonderful bucket, and update, mo-mo-da~ (mua~)
+### Step 2: Add this wonderful bucket, and update, mo-mo-da~ (mua~)
 
 ```powershell
 scoop bucket add scoopet https://github.com/integzz/scoopet
 scoop update
 ```
 
-Step 3: Install apps from this bucket:
+###  Step 3: Install apps:
+
+- For common installation
 
 ``` powershell
-# For common installation
 scoop install <app_name>
-# For specific installation
+```
+
+- For specific installation
+
+```powershell
 scoop install scoopet/<app_name>
 ```
 
-Recommendation: Add the bucket extra
+#### Recommendation: Add the bucket extra
 
 ``` powershell
 scoop bucket add extra
@@ -49,7 +53,6 @@ scoop update
 
 
 **Summary**
-
 
 |               App                |   Version    |   Edition    |
 | :------------------------------: | :----------: | :----------: |
