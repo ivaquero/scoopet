@@ -5,6 +5,7 @@
 Run the below commands in PowerShell
 
 ``` powershell
+set-executionpolicy remotesigned -s currentuser
 iwr -useb get.scoop.sh | iex
 ```
 
