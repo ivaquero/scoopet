@@ -87,3 +87,4 @@ scoop help
 |              uTools              |  0.8.9-beta  | Official exe | https://u.tools            |
 | VirtualBox [Plus Extension Pack] |    6.0.16    | Official exe | https://www.virtualbox.org |
 |          WeChat  (微信)          |  2.8.0.111   | Nightly exe  | https://weixin.qq.com      |
+|            WPSOffice             | 11.1.0.9339  |   CDN exe    | https://pc.wps.cn          |
