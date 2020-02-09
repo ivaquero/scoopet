@@ -38,7 +38,7 @@ scoop install git
 
 You can also download git manually at https://git-scm.com/download/win
 
-### Step 3: Add this wonderful bucket, and update, mo-mo-da~ 💋 ✈️
+### Step 3: Add this wonderful bucket and update, mo-mo-da~ 💋 ✈️
 
 ```powershell
 scoop bucket add scoopet https://github.com/integzz/scoopet
