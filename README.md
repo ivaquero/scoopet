@@ -2,7 +2,7 @@
 
 ## Install Scoop 🚴
 
-Run the below commands in PowerShell (Administrator needed)
+Run the below commands in PowerShell
 
 ``` powershell
 set-executionpolicy remotesigned -scope currentuser
