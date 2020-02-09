@@ -6,7 +6,7 @@ Run the below commands in PowerShell
 
 ``` powershell
 set-executionpolicy remotesigned -scope currentuser
-iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
+iwr -useb get.scoop.sh | iex
 ```
 
 For more information, please visit Scoop official site at 👉 https://scoop.sh/ 👈
