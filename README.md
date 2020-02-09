@@ -15,27 +15,36 @@ iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
 **Install the apps from this bucket**
 
 Run below command in PowerShell to add the bucket:
-> Ignore the lines started with # or ##, they are comments for the lines below
 
-``` powershell
-# To add bucket, you need to install git first
-## You can also download git manually at https://git-scm.com/download/win
+Step 1: Install git first
+
+```powershell
 scoop install git
-# Add this wonderful bucket, mo-mo-da~ (mua~)
+```
+
+> You can also download git manually at https://git-scm.com/download/win
+
+Step 2: Add this wonderful bucket, and update, mo-mo-da~ (mua~)
+
+```powershell
 scoop bucket add scoopet https://github.com/integzz/scoopet
-scoop update
-# Recommend also add the bucket extra
-scoop bucket add extra
 scoop update
 ```
 
-Install apps from this bucket with below command:
+Step 3: Install apps from this bucket:
 
 ``` powershell
 # For common installation
 scoop install <app_name>
 # For specific installation
 scoop install scoopet/<app_name>
+```
+
+Recommendation: Add the bucket extra
+
+``` powershell
+scoop bucket add extra
+scoop update
 ```
 
 
