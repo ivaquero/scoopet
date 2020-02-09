@@ -47,7 +47,7 @@ scoop update
 
 ###  Step 4: Install Apps 🚀
 
-- Check the exact name of App by `scoop search` commond:
+- Check the exact name of App by `scoop search` command:
 
 ```powershell
 scoop search <app_name>
