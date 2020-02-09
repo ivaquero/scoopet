@@ -51,7 +51,7 @@ scoop bucket add extra
 scoop update
 ```
 
-#### For usage of Scoop
+#### For usage of Scoop 📖
 
 ```powershell
 scoop help
@@ -59,16 +59,16 @@ scoop help
 
 ## Summary ⭐️
 
-|               App                |   Version    |   Edition    |
-| :------------------------------: | :----------: | :----------: |
-|     BaiduNetdisk  (百度网盘)     |   6.8.9.1    |   Nightly    |
-|            Cyberduck             | 7.2.5.32097  | Official msi |
-|             GeoGebra             |  6.0.564.0   |   Portable   |
-|      Lingoes (灵格斯翻译家)      |    2.9.2     |   Portable   |
-|      Mathpix Snipping Tool       |  02.01.0021  | Official exe |
-|         Mendeley Desktop         |    1.19.5    | Official exe |
-|    NeteaseMusic  (网易云音乐)    | 2.7.1.198242 | Official exe |
-|                QQ                | 9.1.6.25786  |   Nightly    |
-|              uTools              |  0.8.9-beta  | Official exe |
-| VirtualBox [Plus Extension Pack] |    6.0.16    | Official exe |
-|          WeChat  (微信)          |  2.8.0.111   |   Nightly    |
+|               App                |   Version    |  Installer   | Offical site               |
+| :------------------------------: | :----------: | :----------: | -------------------------- |
+|     BaiduNetdisk  (百度网盘)     |   6.8.9.1    | Nightly exe  | https://pan.baidu.com      |
+|            Cyberduck             | 7.2.5.32097  | Official msi | https://cyberduck.io       |
+|             GeoGebra             |  6.0.564.0   | Portable zip | https://www.geogebra.org   |
+|       Lingoes (灵格斯词霸)       |    2.9.2     | Portable zip | http://www.lingoes.cn      |
+|      Mathpix Snipping Tool       |  02.01.0021  | Official exe | https://mathpix.com        |
+|         Mendeley Desktop         |    1.19.5    | Official exe | https://www.mendeley.com   |
+|    NeteaseMusic  (网易云音乐)    | 2.7.1.198242 | Official exe | https://music.163.com      |
+|                QQ                | 9.1.6.25786  | Nightly exe  | https://im.qq.com/pcqq     |
+|              uTools              |  0.8.9-beta  | Official exe | https://u.tools            |
+| VirtualBox [Plus Extension Pack] |    6.0.16    | Official exe | https://www.virtualbox.org |
+|          WeChat  (微信)          |  2.8.0.111   | Nightly exe  | https://weixin.qq.com      |
