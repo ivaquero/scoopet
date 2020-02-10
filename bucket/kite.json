@@ -11,6 +11,12 @@
         "Start-Process -Wait -WindowStyle Hidden cmd \"/c call `\"$dir\\KiteSetupSplashScreen.exe`\" --msiparams INSTALLDIR=`\"$dir`\" VBOX_START=0 REBOOT=ReallySuppress --silent"
         ]
     },
+    "shortcuts": [
+        [
+            "kited.exe",
+            "kite"
+        ]
+    ],
     "autoupdate": {
         "url": "https://draqv87tt43s0.cloudfront.net/windows/$version/KiteSetup.exe#/dl.7z"
     }
