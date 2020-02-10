@@ -82,7 +82,7 @@ scoop help
 
 |               App                |   Version    |  Installer   | Offical site                       |
 | :------------------------------: | :----------: | :----------: | ---------------------------------- |
-|       Adobe Acrobat Reader DC      | 19.021.20061 | Official exe | https://acrobat.adobe.com/         |
+|     Adobe Acrobat Reader DC      | 19.021.20061 | Official exe | https://acrobat.adobe.com/         |
 |     BaiduNetdisk  (百度网盘)     |   6.8.9.1    | Nightly exe  | https://pan.baidu.com/             |
 |            Cyberduck             | 7.2.5.32097  | Official msi | https://cyberduck.io/              |
 |             GeoGebra             |  6.0.564.0   | Portable zip | https://www.geogebra.org/          |
@@ -93,7 +93,7 @@ scoop help
 |    NeteaseMusic  (网易云音乐)    | 2.7.1.198242 | Official exe | https://music.163.com/             |
 |                QQ                | 9.1.6.25786  | Nightly exe  | https://im.qq.com/pcqq/            |
 |              uTools              |  0.8.9-beta  | Official exe | https://u.tools/                   |
-| VirtualBox [Plus Extension Pack] |    6.0.16    | Official exe | https://www.virtualbox.org/        |
+| VirtualBox [with Extension Pack] |    6.0.16    | Official exe | https://www.virtualbox.org/        |
 |          WeChat  (微信)          |  2.8.0.111   | Nightly exe  | https://weixin.qq.com/             |
 |            WPSOffice             | 11.1.0.9339  |   CDN exe    | https://pc.wps.cn/                 |
 |             You-Get              |   0.4.1403   | Portable zip | https://github.com/soimort/you-get |

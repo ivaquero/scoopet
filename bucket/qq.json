@@ -33,9 +33,6 @@
             "QQ"
         ]
     ],
-    "checkver": {
-        "regex": "https://dldir1.qq.com/qqfile/qq/PCQQ(?:[\\d.]+)/(?:[\\d]+)/QQ(?<version>[\\d.]+).exe"
-    },
     "autoupdate": {
         "url": "https://dldir1.qq.com/qqfile/qq/PCQQ$majorVersion.$minorVersion.$patchVersion/$buildVersion/QQ$majorVersion.$minorVersion.$patchVersion.$buildVersion.exe#/dl.7z"
     },
