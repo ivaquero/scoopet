@@ -86,6 +86,7 @@ scoop help
 |            Cyberduck             | 7.2.5.32097  | Official msi | https://cyberduck.io/       |
 |             GeoGebra             |  6.0.564.0   | Portable zip | https://www.geogebra.org/   |
 |       Lingoes (灵格斯词霸)       |    2.9.2     | Portable zip | http://www.lingoes.cn/      |
+|               LyX                |    2.3.3     | Official exe | https://www.lyx.org/        |
 |      Mathpix Snipping Tool       |  02.01.0021  | Official exe | https://mathpix.com/        |
 |         Mendeley Desktop         |    1.19.5    | Official exe | https://www.mendeley.com/   |
 |    NeteaseMusic  (网易云音乐)    | 2.7.1.198242 | Official exe | https://music.163.com/      |
