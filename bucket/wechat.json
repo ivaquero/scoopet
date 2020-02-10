@@ -1,12 +1,9 @@
 {
-    "homepage": "https://weixin.qq.com/",
+    "homepage": "https://pc.weixin.qq.com/",
     "description": "Free messaging and calling app.",
     "version": "nightly",
-    "license": {
-        "identifier": "EULA",
-        "url": "https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&t=weixin_agreement&s=default"
-    },
-    "url": "https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe#/dl.7z",
+    "license": "Freeware",
+    "url": "https://dldir1.qq.com/weixin/Windows/WeChat_C1018.exe#/dl.7z",
     "shortcuts": [
         [
             "wechat.exe",
@@ -19,5 +16,5 @@
         "Remove-Item \"$dir\\`$R5\" -Force -Recurse"
     ],
     "notes": "We don't persist your WeChat data, they are still storaged in '%APPDATA%\\Tencent\\WeChat'.",
-    "autoupdate": "https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe#/dl.7z"
+    "autoupdate": "https://dldir1.qq.com/weixin/Windows/WeChatSetup_C$version.exe#/dl.7z"
 }
