@@ -4,7 +4,7 @@
     "license": "Freeware",
     "version": "0.2.2",
     "url": "https://draqv87tt43s0.cloudfront.net/windows/1.2020.205.0/KiteSetup.exe#/dl.7z",
-    "hash": "ddde13e2f01aca9716310117f7afd8ced114d5d48ee31bb6bc6cea0bedeaf40d",
+    "hash": "d42d8076e681b201fa426723f326a702a3ffc38683df606e885f3c8a79ef4dbf",
     "installer": {
         "script":[
         "Start-Process -Wait -WindowStyle Hidden cmd \"/c call `\"$dir\\VBoxSetup.exe`\" --msiparams INSTALLDIR=`\"$dir`\" VBOX_START=0 REBOOT=ReallySuppress --silent"
