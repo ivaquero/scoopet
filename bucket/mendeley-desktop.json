@@ -12,6 +12,6 @@
         ]
     ],
     "autoupdate": {
-        "url": "https://www.mendeley.com/autoupdates/installer/Windows-x86/stable-incoming"
+        "url": "https://desktop-download.mendeley.com/download/Mendeley-Desktop-$version-win32.exe#/dl.7z"
     }
 }
