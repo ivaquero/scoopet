@@ -6,17 +6,17 @@ cache:
   - '%USERPROFILE%\Documents\WindowsPowerShell\Modules -> .appveyor.yml'
 matrix:
   fast_finish: true
-build: 'off'
+build: false
 image: Visual Studio 2019
 environment:
-  SCOOP: C:\projects\scoop
-  SCOOP_HOME: C:\projects\scoop\apps\scoop\current
+  SCOOP: C:\Users\CI\scoop
+  SCOOP_HOME: C:\Users\CI\scoop\apps\scoop\current
   matrix:
     - PowerShell: 5
     - PowerShell: 6
 init:
   - ps: |
-      (Get-PSProvider 'FileSystem').Home = 'C:\projects\'
+      (Get-PSProvider 'FileSystem').Home = 'C:\Users\CI\scoop'
       if(!(Test-Path "$env:SCOOP_HOME")) { git clone -q --depth=1 "https://github.com/lukesampson/scoop" "$env:SCOOP_HOME" }
 for:
   - matrix:
