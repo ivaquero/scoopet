@@ -2,9 +2,9 @@
 
 ## Install Scoop 🚴
 
-Run the below commands in PowerShell
+Run the below commands in PowerShell:
 
-``` powershell
+```powershell
 set-executionpolicy remotesigned -s currentuser
 iwr -useb get.scoop.sh | iex
 ```
@@ -55,7 +55,7 @@ scoop search <app_name>
 
 - For common installation
 
-``` powershell
+```powershell
 scoop install <app_name>
 ```
 
