@@ -8,7 +8,7 @@
     "bin": "kited.exe",
     "installer": {
         "script":[
-        "Start-Process -Wait -WindowStyle Hidden cmd \"/c call `\"$dir\\KiteSetupSplashScreen.exe`\" --msiparams INSTALLDIR=`\"$dir`\" VBOX_START=0 REBOOT=ReallySuppress --silent"
+        "Start-Process -Wait -WindowStyle Hidden cmd \"/c call `\"$dir\\KiteSetupSplashScreen.exe`\" --silent"
         ]
     },
     "shortcuts": [

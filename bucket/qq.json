@@ -35,6 +35,5 @@
     ],
     "autoupdate": {
         "url": "https://qd.myapp.com/myapp/qqteam/pcqq/PCQQ2020.exe#/dl.7z"
-    },
-    "notes": "We don't persist your QQ data, they are still storaged in '%APPDATA%\\Tencent'."
+    }
 }
