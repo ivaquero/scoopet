@@ -82,7 +82,7 @@ scoop help
 
 |               App                |   Version    |  Installer   | Offical site                       |
 | :------------------------------: | :----------: | :----------: | ---------------------------------- |
-|       Adobe Acrobat Reader       | 19.021.20061 | Official exe | https://acrobat.adobe.com/         |
+|       Adobe Acrobat Reader DC      | 19.021.20061 | Official exe | https://acrobat.adobe.com/         |
 |     BaiduNetdisk  (百度网盘)     |   6.8.9.1    | Nightly exe  | https://pan.baidu.com/             |
 |            Cyberduck             | 7.2.5.32097  | Official msi | https://cyberduck.io/              |
 |             GeoGebra             |  6.0.564.0   | Portable zip | https://www.geogebra.org/          |
