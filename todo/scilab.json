@@ -5,10 +5,10 @@
     "url": "https://www.scilab.org/download/6.0.2/scilab-6.0.2_x64.exe",
     "hash": "c57182929a5bd0d58fcd71ab935c211496a55425e1bb50e9516c7c81163b2a77",
     "innosetup": true,
-    "bin": "Scilab.exe",
+    "bin": "bin\\Scilex.exe",
     "shortcuts": [
         [
-            "Scilab.exe",
+            "bin\\Scilex.exe",
             "Scilab"
         ]
     ],
