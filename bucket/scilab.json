@@ -1,0 +1,17 @@
+{
+    "homepage": "https://www.scilab.org/",
+    "version": "6.0.2",
+    "license": "GPL-2.0-or-later",
+    "url": "https://www.scilab.org/download/6.0.2/scilab-6.0.2_x64.exe#/dl.7z",
+    "hash": "9354530e0b4e08cf295aae95742530d239af5ae2007f031f70167a46aa3c01fc",
+    "bin": "Scilab.exe",
+    "shortcuts": [
+        [
+            "Scilab.exe",
+            "Scilab"
+        ]
+    ],
+    "autoupdate": {
+        "url": "https://www.scilab.org/download/$version/scilab-$version_x64.exe#/dl.7z"
+    }
+}
