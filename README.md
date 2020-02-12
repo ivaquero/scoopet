@@ -85,7 +85,7 @@ scoop help
 |     Adobe Acrobat Reader DC      | 19.021.20061  | Official exe | https://acrobat.adobe.com/         |
 |     BaiduNetdisk  (百度网盘)     |    6.8.9.1    | Nightly exe  | https://pan.baidu.com/             |
 |            Cyberduck             |  7.2.5.32097  | Official msi | https://cyberduck.io/              |
-|             GeoGebra             |   6.0.564.0   | Portable zip | https://www.geogebra.org/          |
+|             GeoGebra             |   6.0.573   | Portable zip | https://www.geogebra.org/          |
 |       Kite [构建中。。。]        |     0.2.2     | Official exe | https://kite.com/                  |
 |       Lingoes (灵格斯词霸)       |     2.9.2     | Portable zip | http://www.lingoes.cn/             |
 |               LyX                |     2.3.3     | Official exe | https://www.lyx.org/               |
