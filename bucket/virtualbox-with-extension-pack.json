@@ -1,5 +1,5 @@
 {
-    "version": "6.0.16",
+    "version": "6.1.2",
     "description": "Powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.",
     "homepage": "https://www.virtualbox.org/",
     "license": {
@@ -14,12 +14,12 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://download.virtualbox.org/virtualbox/6.0.16/VirtualBox-6.0.16-135674-Win.exe#/VBoxSetup.exe",
-                "https://download.virtualbox.org/virtualbox/6.0.16/Oracle_VM_VirtualBox_Extension_Pack-6.0.16.vbox-extpack"
+                "https://download.virtualbox.org/virtualbox/6.1.2/VirtualBox-6.1.2-135663-Win.exe#/VBoxSetup.exe",
+                "https://download.virtualbox.org/virtualbox/6.1.2/Oracle_VM_VirtualBox_Extension_Pack-6.1.2.vbox-extpack"
             ],
             "hash": [
-                "f80063d935841dd59af8c71817884fa1ae1b1577fc4bfe78ae088ded82546504",
-                "51a3f8240c5d357f1c007fdc3c39e286905d53a990d90b1abd8fbcd425231460"
+                "703e7c9bcbdda0cd0040049dfcc754c0fb858b6d786a6033dc5d68f21b5fff99",
+                "54047312d836c17ef0939410f755cb5a23e3037ec402198cc97f755181b25632"
             ]
         }
     },
@@ -28,7 +28,7 @@
             "Start-Process -Wait -WindowStyle Hidden cmd \"/c call `\"$dir\\VBoxSetup.exe`\" --msiparams INSTALLDIR=`\"$dir`\" VBOX_START=0 REBOOT=ReallySuppress --silent && icacls `\"$dir`\" /grant Everyone:F /T && echo y | `\"$dir\\VBoxManage.exe`\" extpack install --replace `\"$dir\\Oracle_VM_VirtualBox_Extension_Pack-$version.vbox-extpack`\"\" -Verb RunAs",
             "Remove-Item \"$dir\\VBoxSetup.exe\"",
             "Remove-Item \"$env:HOMEDRIVE\\Users\\Public\\Desktop\\Oracle VM VirtualBox.lnk\"",
-            "Remove-Item -Recurse \"$env:PROGRAMDATA\\Microsoft\\Windows\\Start Menu\\Programs\\Oracle VM VirtualBox\""
+            "Remove-Item -Recurse \"$env:ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Oracle VM VirtualBox\""
         ]
     },
     "uninstaller": {
@@ -62,7 +62,7 @@
         ]
     ],
     "checkver": {
-        "url": "https://update.virtualbox.org/query.php?platform=WINDOWS_64BITS_GENERIC&version=6.0.0",
+        "url": "https://update.virtualbox.org/query.php?platform=WINDOWS_64BITS_GENERIC&version=6.1.0",
         "regex": "VirtualBox-(?<version>[\\d.]+)-(?<revision>[\\d]+)-Win.exe"
     },
     "autoupdate": {
@@ -72,9 +72,7 @@
                     "The following URL should be added once lukesampson/scoop#3518 is merged:",
                     "https://download.virtualbox.org/virtualbox/$version/Oracle_VM_VirtualBox_Extension_Pack-$version.vbox-extpack"
                 ],
-                "url": [
-                    "https://download.virtualbox.org/virtualbox/$version/VirtualBox-$version-$matchRevision-Win.exe#/VBoxSetup.exe"
-                ]
+                "url": "https://download.virtualbox.org/virtualbox/$version/VirtualBox-$version-$matchRevision-Win.exe#/VBoxSetup.exe"
             }
         },
         "hash": {
