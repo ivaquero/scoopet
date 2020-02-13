@@ -2,7 +2,7 @@
 <h1 align="left"> 🍨 Scoopet 🍨 </h1>
 
 <p>
-一个用于 Windows 最佳软件管理器<a href="https://github.com/lukesampson/scoop">Scoop</a>的脚本仓库
+一个用于 Windows 最佳命令行软件管理器<a href="https://github.com/lukesampson/scoop">Scoop</a>的脚本仓库
 </p>
 
 <p align="left">
@@ -105,7 +105,7 @@ scoop help
 |    QQ [构建中。。。]    |     9.2.3     | 官方 exe | https://im.qq.com/pcqq/            |
 |  Scilab [构建中。。。]  |     6.0.2     | 官方 exe | https://www.scilab.org/            |
 |         uTools          |  0.8.9-beta   | 官方 exe | https://u.tools/                   |
-|       VirtualBox        |     6.1.2     | 官方 exe | https://www.virtualbox.org/        |
+|  VirtualBox [含扩展包]  |     6.1.2     | 官方 exe | https://www.virtualbox.org/        |
 |          微信           | Beta 2.7.1.85 | 官方 exe | https://weixin.qq.com/             |
 |        WPSOffice        |  11.1.0.9339  | 官方 exe | https://pc.wps.cn/                 |
 |         You-Get         |   0.4.1403    | 便携 zip | https://github.com/soimort/you-get |

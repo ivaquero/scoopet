@@ -89,22 +89,22 @@ scoop help
 
 ## Summary ⭐️
 
-|           App           |    Version    |  Installer   | Offical site                       |
-| :---------------------: | :-----------: | :----------: | ---------------------------------- |
-| Adobe Acrobat Reader DC | 19.021.20061  | Official exe | https://acrobat.adobe.com/         |
-|      BaiduNetdisk       |    6.8.9.1    | Nightly exe  | https://pan.baidu.com/             |
-|        Cyberduck        |  7.2.5.32097  | Official msi | https://cyberduck.io/              |
-|        GeoGebra         |    6.0.573    | Portable zip | https://www.geogebra.org/          |
-|   Kite [Debugging...]   |     0.2.2     | Official exe | https://kite.com/                  |
-|         Lingoes         |     2.9.2     | Portable zip | http://www.lingoes.cn/             |
-|           LyX           |     2.3.3     | Official exe | https://www.lyx.org/               |
-|  Mathpix Snipping Tool  |  02.01.0021   | Official exe | https://mathpix.com/               |
-|    Mendeley Desktop     |    1.19.5     | Official exe | https://www.mendeley.com/          |
-|      NeteaseMusic       | 2.7.1.198242  | Official exe | https://music.163.com/             |
-|    QQ [Debugging...]    |     9.2.3     | Official exe | https://im.qq.com/pcqq/            |
-|  Scilab [Debugging...]  |     6.0.2     | Official exe | https://www.scilab.org/            |
-|         uTools          |  0.8.9-beta   | Official exe | https://u.tools/                   |
-|       VirtualBox        |     6.1.2     | Official exe | https://www.virtualbox.org/        |
-|         WeChat          | Beta 2.7.1.85 | Official exe | https://weixin.qq.com/             |
-|        WPSOffice        |  11.1.0.9339  | Official exe | https://pc.wps.cn/                 |
-|         You-Get         |   0.4.1403    | Portable zip | https://github.com/soimort/you-get |
+|               App                |    Version    |  Installer   | Offical site                       |
+| :------------------------------: | :-----------: | :----------: | ---------------------------------- |
+|     Adobe Acrobat Reader DC      | 19.021.20061  | Official exe | https://acrobat.adobe.com/         |
+|           BaiduNetdisk           |    6.8.9.1    | Nightly exe  | https://pan.baidu.com/             |
+|            Cyberduck             |  7.2.5.32097  | Official msi | https://cyberduck.io/              |
+|             GeoGebra             |    6.0.573    | Portable zip | https://www.geogebra.org/          |
+|       Kite [Debugging...]        |     0.2.2     | Official exe | https://kite.com/                  |
+|             Lingoes              |     2.9.2     | Portable zip | http://www.lingoes.cn/             |
+|               LyX                |     2.3.3     | Official exe | https://www.lyx.org/               |
+|      Mathpix Snipping Tool       |  02.01.0021   | Official exe | https://mathpix.com/               |
+|         Mendeley Desktop         |    1.19.5     | Official exe | https://www.mendeley.com/          |
+|           NeteaseMusic           | 2.7.1.198242  | Official exe | https://music.163.com/             |
+|        QQ [Debugging...]         |     9.2.3     | Official exe | https://im.qq.com/pcqq/            |
+|      Scilab [Debugging...]       |     6.0.2     | Official exe | https://www.scilab.org/            |
+|              uTools              |  0.8.9-beta   | Official exe | https://u.tools/                   |
+| VirtualBox [with Extension Pack] |     6.1.2     | Official exe | https://www.virtualbox.org/        |
+|              WeChat              | Beta 2.7.1.85 | Official exe | https://weixin.qq.com/             |
+|            WPSOffice             |  11.1.0.9339  | Official exe | https://pc.wps.cn/                 |
+|             You-Get              |   0.4.1403    | Portable zip | https://github.com/soimort/you-get |
