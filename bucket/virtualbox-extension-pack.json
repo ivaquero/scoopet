@@ -11,7 +11,7 @@
     },
     "installer": {
         "script": [
-            "icacls `\"$dir`\" /grant Everyone:F /T && echo y | `\"$dir\\VBoxManage.exe`\" extpack install --replace `\"$dir\\Oracle_VM_VirtualBox_Extension_Pack-$version.vbox-extpack`\"\" -Verb RunAs"
+            " extpack install --replace `\"$dir\\Oracle_VM_VirtualBox_Extension_Pack-$version.vbox-extpack`\"\" -Verb RunAs"
         ]
     },
     "uninstaller": {
