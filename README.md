@@ -62,17 +62,15 @@ scoop update
 scoop search <app_name>
 ```
 
-- For common installation:
+- Install Apps with assistance of plugin `scoop-completion`:
 
 ```powershell
+scoop install scoop-completion
 scoop install <app_name>
 ```
 
-- For specific installation:
+> to use `scoop-completion`, just to hit `tab` after first letters of App names
 
-```powershell
-scoop install scoopet/<app_name>
-```
 
 #### Recommendation: Add the bucket Extra 💯
 
@@ -105,6 +103,7 @@ scoop help
 |      Scilab [Debugging...]       |     6.0.2     | Official exe | https://www.scilab.org/            |
 |              uTools              |  0.8.9-beta   | Official exe | https://u.tools/                   |
 | VirtualBox [with Extension Pack] |     6.1.2     | Official exe | https://www.virtualbox.org/        |
+|      VMware Workstation Pro      |    15.5.1     | Official exe | https://www.vmware.com/            |
 |              WeChat              | Beta 2.7.1.85 | Official exe | https://weixin.qq.com/             |
 |            WPSOffice             |  11.1.0.9339  | Official exe | https://pc.wps.cn/                 |
 |             You-Get              |   0.4.1403    | Portable zip | https://github.com/soimort/you-get |
