@@ -1,0 +1,19 @@
+{
+    "description": "Free and multifunctional, multimedia file conversion tool.",
+    "homepage": "http://www.pcfreetime.com/formatfactory/index.php",
+    "license": "Unknown",
+    "version": "5.0.1.0",
+    "url": "http://www.pcfreetime.com/public/FFSetup5.0.1.0.exe#/dl.7z",
+    "hash": "8f6551aa3d340775ffbde7999c1e9780306f1ad1054f40a7bea0f408c4bad669",
+    "post_install": "Remove-Item \"$dir\\`$PLUGINSDIR\" -Force -Recurse",
+    "shortcuts": [
+        [
+            "FormatFactory.exe",
+            "Format Factory"
+        ]
+    ],
+    "checkver": "Ver:V([\\d+\\.]+)",
+    "autoupdate": {
+        "url": "http://www.pcfreetime.com/public/FFSetup$version.exe#/dl.7z"
+    }
+}
