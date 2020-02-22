@@ -1,0 +1,22 @@
+{
+    "homepage": "https://file-converter.org/",
+    "description": "Convert & compress everything in 2 clicks!",
+    "license": "GPL-3.0",
+    "version": "7.2.5.32097",
+    "url": "https://github.com/Tichau/FileConverter/releases/download/v1.2.3/FileConverter-1.2.3-x64-setup.msi",
+    "hash": "6fa6e45b5e495ea4da8b2562d612b42fdf8e35e9d0938b6b4609ea4de01b3c34",
+    "extract_dir": "File Converter",
+    "shortcuts": [
+        [
+            "File Converter.exe",
+            "File Converter"
+        ]
+    ],
+    "checkver": {
+        "url": "https://github.com/Tichau/FileConverter/releases/download/",
+        "re": "FileConverter-([\\d.]+)-x64-setup.msi"
+    },
+    "autoupdate": {
+        "url": "https://github.com/Tichau/FileConverter/releases/download/v$version/FileConverter-$version-x64-setup.msi"
+    },
+}
