@@ -18,5 +18,5 @@
     },
     "autoupdate": {
         "url": "https://github.com/Tichau/FileConverter/releases/download/v$version/FileConverter-$version-x64-setup.msi"
-    },
+    }
 }
