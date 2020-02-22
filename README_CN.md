@@ -57,7 +57,7 @@ scoop update
 
 ### 步骤 4: 安装 App 🚀
 
-- 使用 `scoop search` 命令搜索App的具体名称:
+- 使用 `scoop search` 命令搜索 App 的具体名称:
 
 ```powershell
 scoop search <app_name>
@@ -70,11 +70,11 @@ scoop install scoop-completion
 scoop install <app_name>
 ```
 
-> 使用`scoop-completion`：键入App名称的前几个字母后敲击`tab`键进行补全
+> 使用`scoop-completion`：键入 App 名称的前几个字母后敲击`tab`键进行补全
 
 #### 推荐: 同时添加仓库 Extra 💯
 
-``` powershell
+```powershell
 scoop bucket add extra
 scoop update
 ```
@@ -92,6 +92,7 @@ scoop help
 | Adobe Acrobat Reader DC | 19.021.20061  |   官方 exe   | https://acrobat.adobe.com/         |
 |        百度网盘         |    6.8.9.1    |   社区 exe   | https://pan.baidu.com/             |
 |        Cyberduck        |  7.2.5.32097  |   官方 msi   | https://cyberduck.io/              |
+|     File Converter      |     1.2.3     |   官方 msi   | https://file-converter.org/        |
 |        GeoGebra         |    6.0.573    |   便携 zip   | https://www.geogebra.org/          |
 |   Kite [构建中。。。]   |     0.2.2     |   官方 exe   | https://kite.com/                  |
 |       灵格斯词霸        |     2.9.2     |   便携 zip   | http://www.lingoes.cn/             |
