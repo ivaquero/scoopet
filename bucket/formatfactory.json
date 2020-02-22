@@ -5,14 +5,13 @@
     "version": "5.0.1.0",
     "url": "http://down.pcgeshi.com/FormatFactory_setup.exe",
     "hash": "e1c0438ec97133d85fa55a486292b93b2282ee683e8b79eb47d561a13d3f207d",
-    "post_install": "Remove-Item \"$dir\\`$PLUGINSDIR\" -Force -Recurse",
+    "innosetup": true,
     "shortcuts": [
         [
             "FormatFactory.exe",
             "Format Factory"
         ]
     ],
-    "checkver": "Ver:V([\\d+\\.]+)",
     "autoupdate": {
         "url": "http://down.pcgeshi.com/FormatFactory_setup.exe"
     }
