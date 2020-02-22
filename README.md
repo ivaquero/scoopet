@@ -92,6 +92,7 @@ scoop help
 |     Adobe Acrobat Reader DC      | 19.021.20061  | Official exe | https://acrobat.adobe.com/         |
 |           BaiduNetdisk           |    6.8.9.1    | Nightly exe  | https://pan.baidu.com/             |
 |            Cyberduck             |  7.2.5.32097  | Official msi | https://cyberduck.io/              |
+||||||
 |             GeoGebra             |    6.0.573    | Portable zip | https://www.geogebra.org/          |
 |       Kite [Debugging...]        |     0.2.2     | Official exe | https://kite.com/                  |
 |             Lingoes              |     2.9.2     | Portable zip | http://www.lingoes.cn/             |
