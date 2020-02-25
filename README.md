@@ -88,6 +88,7 @@ scoop help
 
 |               App                |    Version    |  Installer   | Offical site                         |
 | :------------------------------: | :-----------: | :----------: | ------------------------------------ |
+|          Activity Watch          |     0.8.4     | Official zip | https://activitywatch.net/           |
 |     Adobe Acrobat Reader DC      | 19.021.20061  | Official exe | https://acrobat.adobe.com/           |
 |           BaiduNetdisk           |    6.8.9.1    | Nightly exe  | https://pan.baidu.com/               |
 |            Cyberduck             |  7.2.5.32097  | Official msi | https://cyberduck.io/                |
