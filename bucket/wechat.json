@@ -16,5 +16,5 @@
         "Remove-Item \"$dir\\`$_15_\" -Force -Recurse",
         "Remove-Item \"$dir\\`$R5\" -Force -Recurse"
     ],
-    "autoupdate": "https://dldir1.qq.com/weixin/Windows/WeChatSetup_C$version.exe#/dl.7z"
+    "autoupdate": "https://dldir1.qq.com/weixin/Windows/WeChat_C$version.exe#/dl.7z"
 }
