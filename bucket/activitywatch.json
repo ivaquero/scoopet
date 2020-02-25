@@ -5,11 +5,28 @@
     "version": "0.8.4",
     "url": "https://github.com/ActivityWatch/activitywatch/releases/download/v0.8.4/activitywatch-v0.8.4-windows-x86_64.zip",
     "hash": "5cd30a2c5b85930b20e9c98e69f4c1f0f20eec397fd521f1236b629da53793c7",
-    "bin": "ActivityWatch.exe",
+    "bin": [
+        "aw-qt.exe",
+        "aw-server.exe",
+        "aw-watcher-afk.exe",
+        "aw-watcher-window.exe"
+    ],
     "shortcuts": [
         [
-            "ActivityWatch.exe",
-            "ActivityWatch"
+            "aw-qt.exe",
+            "activitywatch"
+        ],
+        [
+            "aw-server.exe",
+            "aw-server"
+        ],
+        [
+            "aw-watcher-afk.exe",
+            "aw-watcher-afk"
+        ],
+        [
+            "aw-watcher-window.exe",
+            "aw-watcher-window"
         ]
     ],
 	"checkver": {
