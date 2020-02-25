@@ -104,8 +104,8 @@ scoop help
 |  Scilab [构建中。。。]  |     6.0.2     |   官方 exe   | https://www.scilab.org/              |
 |         uTools          |  0.8.9-beta   |   官方 exe   | https://u.tools/                     |
 |  VirtualBox [含扩展包]  |     6.1.2     |   官方 exe   | https://www.virtualbox.org/          |
-| VMware Workstation Pro  |    15.5.1     | Official exe | https://www.vmware.com/              |
+| VMware Workstation Pro  |    15.5.1     | 官方 exe | https://www.vmware.com/              |
 |          微信           | Beta 2.7.1.85 |   官方 exe   | https://weixin.qq.com/               |
 |        WPSOffice        |  11.1.0.9339  |   官方 exe   | https://pc.wps.cn/                   |
-|        XnConvert        |     1.83      | Official zip | https://www.xnview.com/en/xnconvert/ |
+|        XnConvert        |     1.83      | 官方 zip | https://www.xnview.com/en/xnconvert/ |
 |         You-Get         |   0.4.1403    |   便携 zip   | https://github.com/soimort/you-get   |

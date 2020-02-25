@@ -1,7 +1,7 @@
 {
+    "homepage": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html",
     "version": "19.021.20061",
     "description": "Not only view, but print, sign, and annotate PDFs with the free Adobe Acrobat Reader DC.",
-    "homepage": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html",
     "url": "http://ardownload.adobe.com/pub/adobe/reader/win/AcrobatDC/1902120061/AcroRdrDCUpd1902120061.msp#/setup.msp_",
     "hash": "400054d5abad4546fa7b5937070946c35b24ed3643487f5119561308f9e3c1d8",
     "installer": {
