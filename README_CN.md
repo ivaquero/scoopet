@@ -21,7 +21,7 @@ set-executionpolicy remotesigned -s currentuser
 iwr -useb get.scoop.sh | iex
 ```
 
-默认设置中所有用户安装的程序和Scoop本身都位于C:\Users\<user>\。您可以在安装之前通过运行以下命令将Scoop安装到自定义目录：
+默认设置中所有用户安装的程序和 Scoop 本身都位于`C:\Users\<user>\`。您可以在安装之前通过运行以下命令将Scoop安装到自定义目录：
 
 ```powershell
 $env:SCOOP='C:\Scoop'
