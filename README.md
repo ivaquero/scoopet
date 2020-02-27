@@ -20,6 +20,13 @@ set-executionpolicy remotesigned -s currentuser
 iwr -useb get.scoop.sh | iex
 ```
 
+The default setup is configured so all user installed programs and Scoop itself live in C:\Users\<user>\scoop. You can install Scoop to a Custom Directory by running the below commands before installation:
+
+```powershell
+$env:SCOOP='C:\Scoop'
+[Environment]::SetEnvironmentVariable('SCOOP', $env:SCOOP, 'User')
+```
+
 For more information, please visit Scoop official site at 👉 https://scoop.sh/ 👈
 
 ## Install Apps from this bucket 🚗
@@ -30,15 +37,6 @@ Run the below commands in PowerShell or Cmd:
 
 ```powershell
 scoop install aria2
-```
-
-You can tweak the following `aria2` settings with the `scoop config` command:
-
-```powershell
-scoop config aria2-retry-wait 4
-scoop config aria2-split 16
-scoop config aria2-max-connection-per-server 16
-scoop config aria2-min-split-size 4M
 ```
 
 ### Step 2: Install Git for updating 🎫

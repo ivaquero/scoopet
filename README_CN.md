@@ -21,6 +21,13 @@ set-executionpolicy remotesigned -s currentuser
 iwr -useb get.scoop.sh | iex
 ```
 
+默认设置中所有用户安装的程序和Scoop本身都位于C:\Users\<user>\。您可以在安装之前通过运行以下命令将Scoop安装到自定义目录：
+
+```powershell
+$env:SCOOP='C:\Scoop'
+[Environment]::SetEnvironmentVariable('SCOOP', $env:SCOOP, 'User')
+```
+
 更多信息，请访问 Scoop 官网 👉 https://scoop.sh/ 👈
 
 ## 利用扩展库安装 App 🚗
@@ -31,15 +38,6 @@ iwr -useb get.scoop.sh | iex
 
 ```powershell
 scoop install aria2
-```
-
-可以通过`scoop config`命令调整`aria2`的如下参数:
-
-```powershell
-scoop config aria2-retry-wait 4
-scoop config aria2-split 16
-scoop config aria2-max-connection-per-server 16
-scoop config aria2-min-split-size 4M
 ```
 
 ### 步骤 2: 安装 Git 来更新仓库 🎫
