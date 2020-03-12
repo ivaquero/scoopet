@@ -16,7 +16,7 @@
 Run the below commands in PowerShell:
 
 ```powershell
-set-executionpolicy remotesigned -s currentuser
+Set-ExecutionPolicy RemoteSigned -scope CurrentUser
 ```
 
 Customize your Scoop directory:
@@ -31,7 +31,7 @@ $env:SCOOP='C:\Scoop'
 Download and install Scoop:
 
 ```powershell
-iwr -useb get.scoop.sh | iex
+Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://get.scoop.sh')
 ```
 
 For more information, please visit Scoop official site at 👉 https://scoop.sh/ 👈
