@@ -17,14 +17,21 @@ Run the below commands in PowerShell:
 
 ```powershell
 set-executionpolicy remotesigned -s currentuser
-iwr -useb get.scoop.sh | iex
 ```
 
-The default setup is configured so all user installed programs and Scoop itself live in `C:\Users\<user>\`. You can install Scoop to a Custom Directory by running the below commands before installation:
+Customize your Scoop directory:
 
 ```powershell
 $env:SCOOP='C:\Scoop'
 [Environment]::SetEnvironmentVariable('SCOOP', $env:SCOOP, 'User')
+```
+
+> If you skip this step, all user installed Apps and Scoop itself will live in `C:\Users\<user>\`.
+
+Download and install Scoop:
+
+```powershell
+iwr -useb get.scoop.sh | iex
 ```
 
 For more information, please visit Scoop official site at 👉 https://scoop.sh/ 👈

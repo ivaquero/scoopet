@@ -14,18 +14,25 @@
 
 ## 安装 Scoop 🚴
 
-在 PowerShell 中运行如下命令:
+在 PowerShell 中运行如下命令，打开远程权限:
 
 ```powershell
 set-executionpolicy remotesigned -s currentuser
-iwr -useb get.scoop.sh | iex
 ```
 
-默认设置中所有用户安装的程序和 Scoop 本身都位于`C:\Users\<user>\`。您可以在安装之前通过运行以下命令将Scoop安装到自定义目录：
+自定义 Scoop 安装目录：
 
 ```powershell
 $env:SCOOP='C:\Scoop'
 [Environment]::SetEnvironmentVariable('SCOOP', $env:SCOOP, 'User')
+```
+
+> 如果跳过该步骤， Scoop 将默认把所有用户安装的 App 和 Scoop 本身置于`C:\Users\<user>\`
+
+下载安装 Scoop ：
+
+```powershell
+iwr -useb get.scoop.sh | iex
 ```
 
 更多信息，请访问 Scoop 官网 👉 https://scoop.sh/ 👈
