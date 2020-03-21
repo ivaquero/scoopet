@@ -110,6 +110,7 @@ scoop help
 |      Scilab [Debugging...]       |     6.0.2     | Official exe | https://www.scilab.org/                 |
 |              uTools              |  0.8.9-beta   | Official exe | https://u.tools/                        |
 | VirtualBox [with Extension Pack] |     6.1.2     | Official exe | https://www.virtualbox.org/             |
+|             Picosmos             |    2.6.0.0    | Official exe |         http://www.picosmos.net/                                |
 |      VMware Workstation Pro      |    15.5.1     | Official exe | https://www.vmware.com/                 |
 |              WeChat              | Beta 2.7.1.85 | Official exe | https://weixin.qq.com/                  |
 |            WPSOffice             |  11.1.0.9339  | Official exe | https://pc.wps.cn/                      |

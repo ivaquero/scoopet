@@ -107,6 +107,7 @@ scoop help
 |    Mendeley Desktop     |    1.19.5     | 官方 exe | https://www.mendeley.com/               |
 |       网易云音乐        | 2.7.1.198242  | 官方 exe | https://music.163.com/                  |
 |    Office Tool Plus     |    7.5.0.3    | 官方 exe | https://github.com/YerongAI/Office-Tool |
+|             Picosmos             |    2.6.0.0    | 官方 exe |         http://www.picosmos.net/                                |
 |    QQ [构建中。。。]    |     9.2.3     | 官方 exe | https://im.qq.com/pcqq/                 |
 |  Scilab [构建中。。。]  |     6.0.2     | 官方 exe | https://www.scilab.org/                 |
 |         uTools          |  0.8.9-beta   | 官方 exe | https://u.tools/                        |
