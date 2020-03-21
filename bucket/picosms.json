@@ -1,0 +1,19 @@
+{
+    "description": "Picosmos is a software covering with all kinds of image functions, such as special effect, browsing, editing, composing, segmentation, combine and screen recording and screenshot.",
+    "homepage": "http://www.picosmos.net/",
+    "license": "Unknown",
+    "version": "2.6.0.0",
+    "url": "http://download.pcfreetime.com/pure/PTSetupPure2.6.0.0.exe#/dl.7z",
+    "hash": "f4a2677e8411fce6307cdc54a814331bb281d3dd9ea797a4f4bb9d4a496a92ce",
+    "post_install": "Remove-Item \"$dir\\`$PLUGINSDIR\" -Force -Recurse",
+    "shortcuts": [
+        [
+            "Picosmos.exe",
+            "Picosmos"
+        ]
+    ],
+    "checkver": "Ver:V([\\d+\\.]+)",
+    "autoupdate": {
+        "url": "http://download.pcfreetime.com/pure/PTSetupPure$version.exe#/dl.7z"
+    }
+}
