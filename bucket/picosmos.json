@@ -4,7 +4,7 @@
     "license": "Unknown",
     "version": "2.6.0.0",
     "url": "http://download.pcfreetime.com/pure/PTSetupPure2.6.0.0.exe#/dl.7z",
-    "hash": "f4a2677e8411fce6307cdc54a814331bb281d3dd9ea797a4f4bb9d4a496a92ce",
+    "hash": "d976c7941d10e9973b8fa1cf144011e2ee95871ce0f54f70f8911653382e65c7e",
     "post_install": "Remove-Item \"$dir\\`$PLUGINSDIR\" -Force -Recurse",
     "shortcuts": [
         [
