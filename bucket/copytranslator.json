@@ -4,7 +4,7 @@
     "version": "9.0.1",
     "url": "https://github.com/CopyTranslator/CopyTranslator/releases/download/v9.0.1/copytranslator-9.0.1-win.zip#/dl.7z",
     "hash": "e56c98df1c86e74feac07b9b0df0a0282dcb174ffeefd82e4a75fba488742a43",
-    "bin": "copytranslator",
+    "bin": "copytranslator.exe",
     "shortcuts": [
         [
             "copytranslator.exe",
