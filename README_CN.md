@@ -97,7 +97,7 @@ scoop help
 |     Activity Watch      |     0.8.4     | 官方 zip | https://activitywatch.net/              |
 | Adobe Acrobat Reader DC | 19.021.20061  | 官方 exe | https://acrobat.adobe.com/              |
 |        百度网盘         |    6.8.9.1    | 社区 exe | https://pan.baidu.com/                  |
-|     CopyTranslator      |     9.0.1     | 官方 exe | https://copytranslator.github.io/       |
+|     CopyTranslator      |     9.0.1     | 便携 exe | https://copytranslator.github.io/       |
 |        Cyberduck        |  7.2.5.32097  | 官方 msi | https://cyberduck.io/                   |
 |     File Converter      |     1.2.3     | 官方 msi | https://file-converter.org/             |
 |        GeoGebra         |    6.0.573    | 便携 zip | https://www.geogebra.org/               |

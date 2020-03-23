@@ -96,7 +96,7 @@ scoop help
 |          Activity Watch          |     0.8.4     | Official zip | https://activitywatch.net/              |
 |     Adobe Acrobat Reader DC      | 19.021.20061  | Official exe | https://acrobat.adobe.com/              |
 |           BaiduNetdisk           |    6.8.9.1    | Nightly exe  | https://pan.baidu.com/                  |
-|          CopyTranslator          |     9.0.1     | Official exe | https://copytranslator.github.io/       |
+|          CopyTranslator          |     9.0.1     | Portable exe | https://copytranslator.github.io/       |
 |            Cyberduck             |  7.2.5.32097  | Official msi | https://cyberduck.io/                   |
 |          File Converter          |     1.2.3     | Official msi | https://file-converter.org/             |
 |             GeoGebra             |    6.0.573    | Portable zip | https://www.geogebra.org/               |
