@@ -4,7 +4,7 @@
     "version": "9.0.1",
     "url": "https://github.com/CopyTranslator/CopyTranslator/releases/download/v9.0.1/copytranslator-setup-9.0.1.exe",
     "hash": "167dc745e1a2b954ba87cff97b50b892313d38525376a21a08b3081f61df9995",
-    "extract_dir": "File Converter",
+    "bin": "copytranslator",
     "shortcuts": [
         [
             "copytranslator.exe",

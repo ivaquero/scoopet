@@ -96,6 +96,7 @@ scoop help
 |          Activity Watch          |     0.8.4     | Official zip | https://activitywatch.net/              |
 |     Adobe Acrobat Reader DC      | 19.021.20061  | Official exe | https://acrobat.adobe.com/              |
 |           BaiduNetdisk           |    6.8.9.1    | Nightly exe  | https://pan.baidu.com/                  |
+|          CopyTranslator          |     9.0.1     | Official exe | https://copytranslator.github.io/       |
 |            Cyberduck             |  7.2.5.32097  | Official msi | https://cyberduck.io/                   |
 |          File Converter          |     1.2.3     | Official msi | https://file-converter.org/             |
 |             GeoGebra             |    6.0.573    | Portable zip | https://www.geogebra.org/               |
@@ -110,7 +111,7 @@ scoop help
 |      Scilab [Debugging...]       |     6.0.2     | Official exe | https://www.scilab.org/                 |
 |              uTools              |  0.8.9-beta   | Official exe | https://u.tools/                        |
 | VirtualBox [with Extension Pack] |     6.1.2     | Official exe | https://www.virtualbox.org/             |
-|             Picosmos             |    2.6.0.0    | Official exe |         http://www.picosmos.net/                                |
+|             Picosmos             |    2.6.0.0    | Official exe | http://www.picosmos.net/                |
 |      VMware Workstation Pro      |    15.5.1     | Official exe | https://www.vmware.com/                 |
 |              WeChat              | Beta 2.7.1.85 | Official exe | https://weixin.qq.com/                  |
 |            WPSOffice             |  11.1.0.9339  | Official exe | https://pc.wps.cn/                      |
