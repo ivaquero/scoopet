@@ -3,7 +3,7 @@
     "license": "GPL-2.0",
     "version": "9.0.1",
     "url": "https://github.com/CopyTranslator/CopyTranslator/releases/download/v9.0.1/copytranslator-9.0.1-win.zip#/dl.7z",
-    "hash": "167dc745e1a2b954ba87cff97b50b892313d38525376a21a08b3081f61df9995",
+    "hash": "e56c98df1c86e74feac07b9b0df0a0282dcb174ffeefd82e4a75fba488742a43",
     "bin": "copytranslator",
     "shortcuts": [
         [
