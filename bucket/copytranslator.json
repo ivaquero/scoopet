@@ -2,7 +2,7 @@
     "homepage": "https://copytranslator.github.io/",
     "license": "GPL-2.0",
     "version": "9.0.1",
-    "url": "https://github.com/CopyTranslator/CopyTranslator/releases/download/v9.0.1/copytranslator-setup-9.0.1.exe",
+    "url": "https://github.com/CopyTranslator/CopyTranslator/releases/download/v9.0.1/copytranslator-setup-9.0.1.exe#/dl.7z",
     "hash": "167dc745e1a2b954ba87cff97b50b892313d38525376a21a08b3081f61df9995",
     "bin": "copytranslator",
     "shortcuts": [
@@ -13,9 +13,9 @@
     ],
     "checkver": {
         "url": "https://github.com/CopyTranslator/CopyTranslator/releases/download/",
-        "re": "copytranslator-setup-([\\d.]+).exe"
+        "re": "copytranslator-setup-([\\d.]+).exe#/dl.7z"
     },
     "autoupdate": {
-        "url": "https://github.com/Tichau/FileConverter/releases/download/v$version/copytranslator-setup-$version-x64.exe"
+        "url": "https://github.com/Tichau/FileConverter/releases/download/v$version/copytranslator-setup-$version-x64.exe#/dl.7z"
     }
 }
