@@ -1,18 +1,11 @@
 {
     "##": [
         "https://docs.vmware.com/en/VMware-Workstation-Pro/15.0/com.vmware.ws.using.doc/GUID-7C47E119-7AE6-4E25-BC6F-435AB3DCD342.html",
-        "https://docs.vmware.com/en/VMware-Workstation-Pro/15.5/rn/VMware-Workstation-155-Pro-Release-Notes.html",
-        "checkver",
-        "url",
-        "https://softwareupdate.vmware.com/cds/vmw-desktop/ws-windows.xml",
-        "regex",
-        "url>ws/([\\d.]+)/(\\d+)/windows/core",
-        "replace",
-        "$1-$2"
+        "https://docs.vmware.com/en/VMware-Workstation-Pro/15.5/rn/VMware-Workstation-155-Pro-Release-Notes.html"
     ],
     "version": "15.5.2-15785246",
     "description": "VMWare. Industry standard for running multiple operating systems as virtual machines (VMs) on a single PC.",
-    "homepage": "https://www.vmware.com/products/workstation-pro.html",
+    "homepage": "https://www.vmware.com/products/workstation-pro",
     "license": {
         "identifier": "Proprietary",
         "url": "https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/downloads/eula/universal_eula.pdf"
@@ -62,13 +55,18 @@
             ]
         }
     },
+    "checkver": {
+        "url": "https://en.wikipedia.org/wiki/VMware_Workstation",
+        "regex": ">([\\d.]+)\\s+Build\\s+(\\d+)<",
+        "replace": "$1-$2"
+    },
     "autoupdate": {
         "architecture": {
             "64bit": {
                 "url": "http://download3.vmware.com/software/wkst/file/VMware-workstation-full-$version.exe#/cosi.exe",
                 "hash": {
                     "url": "https://my.vmware.com/web/vmware/details?downloadGroup=WKST-$majorVersion$minorVersion$patchVersion-WIN&productId=686",
-                    "regex": "(?sm)$basename.*?SHA256SUM</span>:\\s+$sha256"
+                    "regex": "SHA256SUM</span>:\\s+$sha256"
                 }
             }
         }
