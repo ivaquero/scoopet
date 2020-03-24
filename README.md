@@ -98,7 +98,6 @@ scoop help
 |           BaiduNetdisk           |     6.8.9.1     | Nightly exe  | https://pan.baidu.com/                  |
 |          CopyTranslator          |      9.0.1      | Portable zip | https://copytranslator.github.io/       |
 |            Cyberduck             |   7.2.5.32097   | Official msi | https://cyberduck.io/                   |
-|          File Converter          |      1.2.3      | Official msi | https://file-converter.org/             |
 |             GeoGebra             |     6.0.573     | Portable zip | https://www.geogebra.org/               |
 |       Kite [Debugging...]        |      0.2.2      | Official exe | https://kite.com/                       |
 |             Lingoes              |      2.9.2      | Portable zip | http://www.lingoes.cn/                  |

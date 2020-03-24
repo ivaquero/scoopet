@@ -99,7 +99,6 @@ scoop help
 |        百度网盘         |     6.8.9.1     | 社区 exe | https://pan.baidu.com/                  |
 |     CopyTranslator      |      9.0.1      | 便携 zip | https://copytranslator.github.io/       |
 |        Cyberduck        |   7.2.5.32097   | 官方 msi | https://cyberduck.io/                   |
-|     File Converter      |      1.2.3      | 官方 msi | https://file-converter.org/             |
 |        GeoGebra         |     6.0.573     | 便携 zip | https://www.geogebra.org/               |
 |   Kite [构建中。。。]   |      0.2.2      | 官方 exe | https://kite.com/                       |
 |       灵格斯词霸        |      2.9.2      | 便携 zip | http://www.lingoes.cn/                  |
