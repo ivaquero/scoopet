@@ -4,7 +4,7 @@
     "license": "GPL-2.0-or-later",
     "version": "0.9.2",
     "url": "https://github.com/ActivityWatch/activitywatch/releases/download/v0.9.2/activitywatch-v0.9.2-windows-x86_64.zip",
-    "hash": "5cd30a2c5b85930b20e9c98e69f4c1f0f20eec397fd521f1236b629da53793c7",
+    "hash": "41eeca975528c0461ecabd662083622d7f365c1c215358bfe214115331dd4c28",
     "bin": [
         "activitywatch\\aw-qt.exe"
     ],
