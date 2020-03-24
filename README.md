@@ -74,7 +74,7 @@ scoop install scoop-completion
 scoop install <app_name>
 ```
 
-> to use `scoop-completion`, just to hit `tab` after first letters of App names
+> to use `scoop-completion`, just to hit `tab` after initial letters of App names
 
 #### Recommendation: Add the bucket Extra 💯
 
@@ -93,7 +93,7 @@ scoop help
 
 |               App                |     Version     |  Installer   | Offical site                            |
 | :------------------------------: | :-------------: | :----------: | --------------------------------------- |
-|          Activity Watch          |      0.8.4      | Official zip | https://activitywatch.net/              |
+|          Activity Watch          |      0.9.2      | Official zip | https://activitywatch.net/              |
 |     Adobe Acrobat Reader DC      |  19.021.20061   | Official exe | https://acrobat.adobe.com/              |
 |           BaiduNetdisk           |     6.8.9.1     | Nightly exe  | https://pan.baidu.com/                  |
 |          CopyTranslator          |      9.0.1      | Portable zip | https://copytranslator.github.io/       |
