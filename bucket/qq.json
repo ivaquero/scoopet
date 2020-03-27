@@ -2,9 +2,9 @@
     "homepage": "https://im.qq.com/pcqq/",
     "description": "An instant messaging software service developed by Tencent",
     "license": "Freeware",
-    "version": "9.2.3",
-    "url": "https://qd.myapp.com/myapp/qqteam/pcqq/PCQQ2020.exe#/dl.7z",
-    "hash": "9246d7315cd207fd9e5f1eb68386f6de6883a691973fbf9036f27b6323d17732",
+    "version": "9.1.6.25786",
+    "url": "https://dldir1.qq.com/qqfile/qq/PCQQ9.1.6/25786/QQ9.1.6.25786.exe#/dl.7z",
+    "hash": "ddde13e2f01aca9716310117f7afd8ced114d5d48ee31bb6bc6cea0bedeaf40d",
     "installer": {
         "script": [
             "$qqRoaming = \"$env:APPDATA\\Tencent\\QQ\"",
@@ -33,7 +33,11 @@
             "QQ"
         ]
     ],
+    "checkver": {
+        "regex": "https://dldir1.qq.com/qqfile/qq/PCQQ(?:[\\d.]+)/(?:[\\d]+)/QQ(?<version>[\\d.]+).exe"
+    },
     "autoupdate": {
-        "url": "https://qd.myapp.com/myapp/qqteam/pcqq/PCQQ2020.exe#/dl.7z"
-    }
+        "url": "https://dldir1.qq.com/qqfile/qq/PCQQ$majorVersion.$minorVersion.$patchVersion/$buildVersion/QQ$majorVersion.$minorVersion.$patchVersion.$buildVersion.exe#/dl.7z"
+    },
+    "notes": "We don't persist your QQ data, they are still storaged in '%APPDATA%\\Tencent'."
 }
