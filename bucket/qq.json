@@ -4,7 +4,7 @@
     "license": "Freeware",
     "version": "9.2.3",
     "url": "https://qd.myapp.com/myapp/qqteam/pcqq/PCQQ2020.exe#/dl.7z",
-    "hash": "e7546282975e22d3b2fccf06c86295cfd6a83cca48e831a42fda33eacc2462f2",
+    "hash": "9246d7315cd207fd9e5f1eb68386f6de6883a691973fbf9036f27b6323d17732",
     "installer": {
         "script": [
             "$qqRoaming = \"$env:APPDATA\\Tencent\\QQ\"",
