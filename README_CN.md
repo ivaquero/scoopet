@@ -94,7 +94,7 @@ scoop help
 
 |           App           |      版本       | 安装文件 | 官网                                    |
 | :---------------------: | :-------------: | :------: | --------------------------------------- |
-|     Activity Watch      |      0.9.2     | 官方 zip | https://activitywatch.net/              |
+|     Activity Watch      |      0.9.2      | 官方 zip | https://activitywatch.net/              |
 | Adobe Acrobat Reader DC |  19.021.20061   | 官方 exe | https://acrobat.adobe.com/              |
 |        百度网盘         |     6.8.9.1     | 社区 exe | https://pan.baidu.com/                  |
 |     CopyTranslator      |      9.0.1      | 便携 zip | https://copytranslator.github.io/       |
@@ -106,6 +106,7 @@ scoop help
 |  Mathpix Snipping Tool  |   02.01.0021    | 官方 exe | https://mathpix.com/                    |
 |    Mendeley Desktop     |     1.19.4      | 官方 exe | https://www.mendeley.com/               |
 |       网易云音乐        |  2.7.1.198242   | 官方 exe | https://music.163.com/                  |
+|         NetLogo         |      6.1.1      | 官方 msi | https://ccl.northwestern.edu/netlogo/   |
 |    Office Tool Plus     |     7.5.0.3     | 官方 exe | https://github.com/YerongAI/Office-Tool |
 |        Picosmos         |     2.6.0.0     | 官方 exe | http://www.picosmos.net/                |
 |    QQ [构建中。。。]    |      9.2.3      | 官方 exe | https://im.qq.com/pcqq/                 |

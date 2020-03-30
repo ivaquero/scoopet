@@ -105,6 +105,7 @@ scoop help
 |      Mathpix Snipping Tool       |   02.01.0021    | Official exe | https://mathpix.com/                    |
 |         Mendeley Desktop         |     1.19.4      | Official exe | https://www.mendeley.com/               |
 |           NeteaseMusic           |  2.7.1.198242   | Official exe | https://music.163.com/                  |
+|             NetLogo              |      6.1.1      | Official msi | https://ccl.northwestern.edu/netlogo/   |
 |         Office Tool Plus         |     7.5.0.3     | Official exe | https://github.com/YerongAI/Office-Tool |
 |        QQ [Debugging...]         |      9.2.3      | Official exe | https://im.qq.com/pcqq/                 |
 |      Scilab [Debugging...]       |      6.0.2      | Official exe | https://www.scilab.org/                 |
