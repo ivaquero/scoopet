@@ -7,8 +7,8 @@
     "hash": "a4d108d37e1fabc0ea778fe15566042b9d03afa7b5b545031bc49e22937a1a58",
     "shortcuts": [
         [
-            "NetLogo.exe",
-            "NetLogo 6.1.1"
+            "NetLogo 6.1.1/NetLogo.exe",
+            "PFiles"
         ]
     ],
     "autoupdate": {
