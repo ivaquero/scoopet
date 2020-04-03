@@ -14,10 +14,18 @@
     ],
     "installer": {
         "args": [
-            "--portable=\"$dir\"",
-            "--unattended",
-            "--private"
-        ]
+            "/s",
+            "/v\"",
+            "/qn",
+            "EULAS_AGREED=1",
+            "DATACOLLECTION=0",
+            "DESKTOP_SHORTCUT=0",
+            "STARTMENU_SHORTCUT=0",
+            "AUTOSOFTWAREUPDATE=0",
+            "INSTALLDIR=\"\"$dir\"\"",
+            "\""
+        ],
+        "keep": true
     },
     "autoupdate": {
         "url": "http://mirrors.mit.edu/kde/stable/labplot/$version/labplot-$version-64bit-setup.exe"
