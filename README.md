@@ -109,7 +109,7 @@ scoop help
 |             NetLogo              |      6.1.1      | Official msi | https://ccl.northwestern.edu/netlogo/   |
 |         Office Tool Plus         |     7.5.0.3     | Official exe | https://github.com/YerongAI/Office-Tool |
 |        QQ [Debugging...]         |      9.2.3      | Official exe | https://im.qq.com/pcqq/                 |
-|      Scilab [Debugging...]       |      6.0.2      | Official exe | https://www.scilab.org/                 |
+|      Scilab [Un-Silenced...]       |      6.0.2      | Official exe | https://www.scilab.org/                 |
 |              uTools              |   0.8.9-beta    | Official exe | https://u.tools/                        |
 | VirtualBox [with Extension Pack] |      6.1.4      | Official exe | https://www.virtualbox.org/             |
 |             Picosmos             |     2.6.0.0     | Official exe | http://www.picosmos.net/                |
