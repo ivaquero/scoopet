@@ -3,7 +3,7 @@
     "description": "LabPlot is a KDE-application for interactive graphing and analysis of scientific data.",
     "license": "GPL-2.0",
     "version": "2.7.0",
-    "url": "http://mirrors.mit.edu/kde/stable/labplot/2.7.0/labplot-2.7.0-64bit-setup.exe#/dl.7z",
+    "url": "http://mirrors.mit.edu/kde/stable/labplot/2.7.0/labplot-2.7.0-64bit-setup.exe",
     "hash": "975ba3f5a617c907d4cd213647366691ce339869e50dd43fafe02b6a5abd0f59",
     "bin": "LabPlot.exe",
     "shortcuts": [
@@ -20,6 +20,6 @@
         ]
     },
     "autoupdate": {
-        "url": "http://mirrors.mit.edu/kde/stable/labplot/$version/labplot-$version-64bit-setup.exe#/dl.7z"
+        "url": "http://mirrors.mit.edu/kde/stable/labplot/$version/labplot-$version-64bit-setup.exe"
     }
 }
