@@ -13,19 +13,15 @@
         }
     },
     "installer": {
-        "args": [
-            "/s",
-            "/v\"",
-            "/qn",
-            "EULAS_AGREED=1",
-            "DATACOLLECTION=0",
-            "DESKTOP_SHORTCUT=0",
-            "STARTMENU_SHORTCUT=0",
-            "AUTOSOFTWAREUPDATE=0",
-            "INSTALLDIR=\"\"$dir\"\"",
-            "\""
-        ],
-        "keep": true
+        "script": [
+            "Start-Process -Wait -WindowStyle Hidden cmd \"/c call `\"$dir\\labplot-2.7.0-64bit-setup.exe`\" --msiparams INSTALLDIR=`\"$dir`\" REBOOT=ReallySuppress --silent && icacls `\"$dir`\" /grant Everyone:F /T"
+        ]
+    },
+    "uninstaller": {
+        "script": [
+            "$id = wmic product where \"\"\"name like 'Oracle VM LabPlot%'\"\"\" get IdentifyingNumber | find /i \"\"\"-\"\"\"",
+            "Start-Process -Wait -WindowStyle Hidden cmd \"/c msiexec /x $id /qn && icacls `\"$dir`\" /grant Everyone:F /T\" -Verb RunAs"
+        ]
     },
     "checkver": {
         "url": "https://www.scilab.org/download",

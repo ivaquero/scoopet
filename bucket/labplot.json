@@ -17,6 +17,12 @@
             "Start-Process -Wait -WindowStyle Hidden cmd \"/c call `\"$dir\\labplot-2.7.0-64bit-setup.exe`\" --msiparams INSTALLDIR=`\"$dir`\" REBOOT=ReallySuppress --silent && icacls `\"$dir`\" /grant Everyone:F /T"
         ]
     },
+    "uninstaller": {
+        "script": [
+            "$id = wmic product where \"\"\"name like 'Oracle VM LabPlot%'\"\"\" get IdentifyingNumber | find /i \"\"\"-\"\"\"",
+            "Start-Process -Wait -WindowStyle Hidden cmd \"/c msiexec /x $id /qn && icacls `\"$dir`\" /grant Everyone:F /T\" -Verb RunAs"
+        ]
+    },
     "autoupdate": {
         "url": "http://mirrors.mit.edu/kde/stable/labplot/$version/labplot-$version-64bit-setup.exe"
     }
