@@ -13,19 +13,9 @@
         ]
     ],
     "installer": {
-        "args": [
-            "/s",
-            "/v\"",
-            "/qn",
-            "EULAS_AGREED=1",
-            "DATACOLLECTION=0",
-            "DESKTOP_SHORTCUT=0",
-            "STARTMENU_SHORTCUT=0",
-            "AUTOSOFTWAREUPDATE=0",
-            "INSTALLDIR=\"\"$dir\"\"",
-            "\""
-        ],
-        "keep": true
+        "script": [
+            "Start-Process -Wait -WindowStyle Hidden cmd \"/c call `\"$dir\\labplot-2.7.0-64bit-setup.exe`\" --msiparams INSTALLDIR=`\"$dir`\" REBOOT=ReallySuppress --silent && icacls `\"$dir`\" /grant Everyone:F /T"
+        ]
     },
     "autoupdate": {
         "url": "http://mirrors.mit.edu/kde/stable/labplot/$version/labplot-$version-64bit-setup.exe"
