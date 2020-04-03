@@ -19,7 +19,7 @@
     },
     "uninstaller": {
         "script": [
-            "$id = wmic product where \"\"\"name like 'Oracle VM LabPlot%'\"\"\" get IdentifyingNumber | find /i \"\"\"-\"\"\"",
+            "$id = wmic product where \"\"\"name like 'LabPlot%'\"\"\" get IdentifyingNumber | find /i \"\"\"-\"\"\"",
             "Start-Process -Wait -WindowStyle Hidden cmd \"/c msiexec /x $id /qn && icacls `\"$dir`\" /grant Everyone:F /T\" -Verb RunAs"
         ]
     },
