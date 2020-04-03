@@ -101,7 +101,7 @@ scoop help
 |             GeoGebra             |     6.0.573     | Portable zip | https://www.geogebra.org/               |
 |       Kite [Debugging...]        |      0.2.2      | Official exe | https://kite.com/                       |
 |             Lingoes              |      2.9.2      | Portable zip | http://www.lingoes.cn/                  |
-|             LabPlot              |      2.7.0      | Official exe | https://labplot.kde.org/                |
+|      LabPlot [Debugging...]      |      2.7.0      | Official exe | https://labplot.kde.org/                |
 |               LyX                |      2.3.4      | Official exe | https://www.lyx.org/                    |
 |      Mathpix Snipping Tool       |   02.01.0021    | Official exe | https://mathpix.com/                    |
 |         Mendeley Desktop         |     1.19.4      | Official exe | https://www.mendeley.com/               |

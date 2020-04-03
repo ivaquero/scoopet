@@ -20,15 +20,17 @@
         ]
     ],
     "installer": {
-        "script": [
-            "Start-Process -Wait -WindowStyle Hidden cmd \"/c call `\"$dir\\scilab-6.0.2.exe`\" --msiparams INSTALLDIR=`\"$dir`\" REBOOT=ReallySuppress --silent && icacls `\"$dir`\" /grant Everyone:F /T\" -Verb RunAs"
-        ]
-    },
-    "uninstaller": {
-        "script": [
-            "$id = wmic product where \"\"\"name like 'Scilab%'\"\"\" get IdentifyingNumber | find /i \"\"\"-\"\"\"",
-            "Start-Process -Wait -WindowStyle Hidden cmd \"/c msiexec /x $id /qn && icacls `\"$dir`\" /grant Everyone:F /T\" -Verb RunAs"
-        ]
+        "args": [
+            "/s",
+            "/v\"",
+            "/qn",
+            "DATACOLLECTION=0",
+            "DESKTOP_SHORTCUT=0",
+            "STARTMENU_SHORTCUT=0",
+            "INSTALLDIR=\"\"$dir\"\"",
+            "\""
+        ],
+        "keep": true
     },
     "checkver": {
         "url": "https://www.scilab.org/download",
