@@ -12,9 +12,16 @@
             "hash": "1ac5c2708c4fb43909f185a2bd07c3cde3967aa279299295640bedb47431e937"
         }
     },
+    "bin": "Scilab.exe",
+    "shortcuts": [
+        [
+            "Scilab.exe",
+            "Scilab"
+        ]
+    ],
     "installer": {
         "script": [
-            "Start-Process -Wait -WindowStyle Hidden cmd \"/c call `\"$dir\\labplot-2.7.0-64bit-setup.exe`\" --msiparams INSTALLDIR=`\"$dir`\" REBOOT=ReallySuppress --silent && icacls `\"$dir`\" /grant Everyone:F /T"
+            "Start-Process -Wait -WindowStyle Hidden cmd \"/c call `\"$dir\\scilab-6.0.2.exe`\" --msiparams INSTALLDIR=`\"$dir`\" REBOOT=ReallySuppress --silent && icacls `\"$dir`\" /grant Everyone:F /T"
         ]
     },
     "uninstaller": {
