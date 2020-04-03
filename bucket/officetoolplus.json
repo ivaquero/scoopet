@@ -13,7 +13,6 @@
         ]
     ],
     "persist": "Office",
-    "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/YerongAI/Office-Tool/releases/download/$version/Office.Tool.v$majorVersion.$minorVersion.zip"
     }

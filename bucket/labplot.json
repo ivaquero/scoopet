@@ -12,9 +12,12 @@
             "LabPlot"
         ]
     ],
-    "checkver": {
-        "url": "http://mirrors.mit.edu/kde/stable/labplot/",
-        "re": "([\\d.]+)/labplot-([\\d.]+)-64bit-setup.exe#/dl.7z"
+    "installer": {
+        "args": [
+            "--portable=\"$dir\"",
+            "--unattended",
+            "--private"
+        ]
     },
     "autoupdate": {
         "url": "http://mirrors.mit.edu/kde/stable/labplot/$version/labplot-$version-64bit-setup.exe#/dl.7z"
