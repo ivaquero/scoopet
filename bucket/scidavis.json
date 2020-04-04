@@ -1,0 +1,21 @@
+{
+    "homepage": "https://cyberduck.io/",
+    "description": "scidavis.sourceforge.net",
+    "license": "GPL-2.0-or-later",
+    "version": "1.26",
+    "url": "https://astuteinternet.dl.sourceforge.net/project/scidavis/SciDAVis/1.26/scidavis.1.26-win-dist.msi",
+    "hash": "da9f2638dd48de760b3fe5f8be29ea3b80e7c3f78a8a5cb8a3f987850d2f3cb0",
+    "shortcuts": [
+        [
+            "SciDAVis.exe",
+            "SciDAVis"
+        ]
+    ],
+    "checkver": {
+        "url": "https://astuteinternet.dl.sourceforge.net/project/scidavis/SciDAVis/",
+        "re": "([\\d.]+)/scidavis.([\\d.]+)-win-dist.msi"
+    },
+    "autoupdate": {
+        "url": "https://astuteinternet.dl.sourceforge.net/project/scidavis/SciDAVis/$version/scidavis.$version-win-dist.msi"
+    }
+}
