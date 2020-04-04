@@ -111,7 +111,8 @@ scoop help
 |    Office Tool Plus     |     7.5.0.3     | 官方 exe | https://github.com/YerongAI/Office-Tool |
 |        Picosmos         |     2.6.0.0     | 官方 exe | http://www.picosmos.net/                |
 |    QQ [构建中。。。]    |      9.2.3      | 官方 exe | https://im.qq.com/pcqq/                 |
-|  Scilab [无法静默。。。]  |      6.0.2      | 官方 exe | https://www.scilab.org/                 |
+|        SciDAVis         |      1.26       | 官方 msi | http://scidavis.sourceforge.net        |
+| SciLab [无法静默。。。] |      6.0.2      | 官方 exe | https://www.scilab.org/                 |
 |         uTools          |   0.8.9-beta    | 官方 exe | https://u.tools/                        |
 |  VirtualBox [含扩展包]  |      6.1.4      | 官方 exe | https://www.virtualbox.org/             |
 | VMware Workstation Pro  | 15.5.2-15785246 | 官方 exe | https://www.vmware.com/                 |
