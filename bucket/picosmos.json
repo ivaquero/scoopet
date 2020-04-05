@@ -12,7 +12,6 @@
             "Picosmos"
         ]
     ],
-    "checkver": "Ver:V([\\d+\\.]+)",
     "autoupdate": {
         "url": "http://download.pcfreetime.com/pure/PTSetupPure$version.exe#/dl.7z"
     }

@@ -13,14 +13,13 @@
         ]
     ],
     "installer": {
-        "script": [
-            "Start-Process -Wait -WindowStyle Hidden cmd \"/c call `\"$dir\\labplot-2.7.0-64bit-setup.exe`\" --msiparams INSTALLDIR=`\"$dir`\" REBOOT=ReallySuppress --silent && icacls `\"$dir`\" /grant Everyone:F /T && echo y \" -Verb RunAs"
-        ]
-    },
-    "uninstaller": {
-        "script": [
-            "$id = wmic product where \"\"\"name like 'LabPlot%'\"\"\" get IdentifyingNumber | find /i \"\"\"-\"\"\"",
-            "Start-Process -Wait -WindowStyle Hidden cmd \"/c msiexec /x $id /qn && icacls `\"$dir`\" /grant Everyone:F /T\" -Verb RunAs"
+        "args": [
+            "/S",
+            "/InstallationType=JustMe",
+            "/RegisterPython=0",
+            "/AddToPath=0",
+            "/NoRegistry=1",
+            "/D=$dir"
         ]
     },
     "autoupdate": {

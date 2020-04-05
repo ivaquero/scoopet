@@ -1,0 +1,17 @@
+{
+    "homepage": "https://www.i4.cn/",
+    "version": "7.98.12",
+    "license": "Freeware",
+    "url": "https://d-app6.i4.cn/i4tools/V7/v7.98/12c/i4Tools_v7.98.12_Setup.exe",
+    "hash": "0b6d0c2f219aac05de4faa5180269f89cb78b9bb07a5cde1ae26d6d53fcd9987",
+    "installer": {
+        "args": [
+            "/S",
+            "/InstallationType=JustMe",
+            "/RegisterPython=0",
+            "/AddToPath=0",
+            "/NoRegistry=1",
+            "/D=$dir"
+        ]
+    }
+}

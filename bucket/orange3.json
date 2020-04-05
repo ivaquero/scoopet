@@ -1,0 +1,21 @@
+{
+    "homepage": "https://orange.biolab.si/",
+    "description": "Open source machine learning and data visualization for novice and expert. Interactive data analysis workflows with a large toolbox.",
+    "license": "GPL-2.0-only",
+    "version": "3.24.1",
+    "url": "https://download.biolab.si/download/files/Orange3-3.24.1-Miniconda-x86_64.exe",
+    "hash": "c02b3b95c0006c02d4b6811f9c693376e99d054cd96fdd839de46d47cb4efe89",
+    "installer": {
+        "args": [
+            "/S",
+            "/InstallationType=JustMe",
+            "/RegisterPython=0",
+            "/AddToPath=0",
+            "/NoRegistry=1",
+            "/D=$dir"
+        ]
+    },
+    "autoupdate": {
+        "url": "https://download.biolab.si/download/files/Orange3-$version-Miniconda-x86_64.exe"
+    }
+}

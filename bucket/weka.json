@@ -1,0 +1,18 @@
+{
+    "homepage": "https://www.cs.waikato.ac.nz/ml/weka/",
+    "description": "The workbench for machine learning.",
+    "license": "Freeware",
+    "version": "3.8.4",
+    "url": "https://nchc.dl.sourceforge.net/project/weka/weka-3-8/3.8.4/weka-3-8-4-azul-zulu-windows.exe",
+    "hash": "99a82a43eb1f20cd5ac4e27fa6b29a716ff917c6732d8fdfc9394d9291524c02",
+    "installer": {
+        "args": [
+            "/S",
+            "/InstallationType=JustMe",
+            "/RegisterPython=0",
+            "/AddToPath=0",
+            "/NoRegistry=1",
+            "/D=$dir"
+        ]
+    }
+}

@@ -1,9 +1,9 @@
 {
     "homepage": "https://www.scilab.org/",
-    "version": "6.0.2",
+    "version": "6.1.0",
     "license": "GPL-2.0-only",
-    "url": "https://www.scilab.org/download/6.0.2/scilab-6.0.2_x64.exe",
-    "hash": "c57182929a5bd0d58fcd71ab935c211496a55425e1bb50e9516c7c81163b2a77",
+    "url": "https://www.scilab.org/download/6.1.0/scilab-6.1.0_x64.exe",
+    "hash": "c8a1c1db19aa832d2d7797bfd94f73f1e75aed5e07574555f815a552765cc279",
     "bin": "Scilab.exe",
     "shortcuts": [
         [
@@ -13,16 +13,13 @@
     ],
     "installer": {
         "args": [
-            "/s",
-            "/v\"",
-            "/qn",
-            "DATACOLLECTION=0",
-            "DESKTOP_SHORTCUT=0",
-            "STARTMENU_SHORTCUT=0",
-            "INSTALLDIR=\"\"$dir\"\"",
-            "\""
-        ],
-        "keep": true
+            "/S",
+            "/InstallationType=JustMe",
+            "/RegisterPython=0",
+            "/AddToPath=0",
+            "/NoRegistry=1",
+            "/D=$dir"
+        ]
     },
     "checkver": {
         "url": "https://www.scilab.org/download",

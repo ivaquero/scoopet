@@ -99,22 +99,25 @@ scoop help
 |          CopyTranslator          |      9.0.1      | Portable zip | https://copytranslator.github.io/       |
 |            Cyberduck             |   7.2.5.32097   | Official msi | https://cyberduck.io/                   |
 |             GeoGebra             |     6.0.573     | Portable zip | https://www.geogebra.org/               |
-|       Kite [Debugging...]        |      0.2.2      | Official exe | https://kite.com/                       |
+|               Kite               |  1.2020.327.0   | Official exe | https://kite.com/                       |
 |             Lingoes              |      2.9.2      | Portable zip | http://www.lingoes.cn/                  |
-|      LabPlot [Debugging...]      |      2.7.0      | Official exe | https://labplot.kde.org/                |
 |               LyX                |      2.3.4      | Official exe | https://www.lyx.org/                    |
 |      Mathpix Snipping Tool       |   02.01.0021    | Official exe | https://mathpix.com/                    |
 |         Mendeley Desktop         |     1.19.4      | Official exe | https://www.mendeley.com/               |
 |           NeteaseMusic           |  2.7.1.198242   | Official exe | https://music.163.com/                  |
 |             NetLogo              |      6.1.1      | Official msi | https://ccl.northwestern.edu/netlogo/   |
 |         Office Tool Plus         |     7.5.0.3     | Official exe | https://github.com/YerongAI/Office-Tool |
-|        QQ [Debugging...]         |      9.2.3      | Official exe | https://im.qq.com/pcqq/                 |
+|             Orange3              |     3.24.1      | Official exe | https://orange.biolab.si/               |
 |             SciDAVis             |      1.26       | Official msi | http://scidavis.sourceforge.net         |
-|     SciLab [Un-Silenced...]      |      6.0.2      | Official exe | https://www.scilab.org/                 |
 |              uTools              |   0.8.9-beta    | Official exe | https://u.tools/                        |
 | VirtualBox [with Extension Pack] |      6.1.4      | Official exe | https://www.virtualbox.org/             |
 |             Picosmos             |     2.6.0.0     | Official exe | http://www.picosmos.net/                |
 |      VMware Workstation Pro      | 15.5.2-15785246 | Official exe | https://www.vmware.com/                 |
 |              WeChat              |  2.7.1.85.beta  | Official exe | https://weixin.qq.com/                  |
+|               Weka               |      3.8.4      | Official exe | https://www.cs.waikato.ac.nz/ml/weka/   |
 |            WPSOffice             |   11.1.0.9564   | Official exe | https://pc.wps.cn/                      |
 |             You-Get              |    0.4.1403     | Official zip | https://github.com/soimort/you-get      |
+|     i4tools [Un-Silenced...]     |     7.98.12     | Official exe | https://www.i4.cn/                      |
+|     SciLab [Un-Silenced...]      |      6.0.2      | Official exe | https://www.scilab.org/                 |
+|      LabPlot [Debugging...]      |      2.7.0      | Official exe | https://labplot.kde.org/                |
+|        QQ [Debugging...]         |      9.2.3      | Official exe | https://im.qq.com/pcqq/                 |
