@@ -15,7 +15,11 @@
         "args": [
             "/S",
             "/InstallationType=JustMe",
-            "/RegisterPython=0",
+            "EULAS_AGREED=1",
+            "DATACOLLECTION=0",
+            "DESKTOP_SHORTCUT=0",
+            "STARTMENU_SHORTCUT=0",
+            "AUTOSOFTWAREUPDATE=0",
             "/AddToPath=0",
             "/NoRegistry=1",
             "/D=$dir"
