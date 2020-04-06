@@ -103,7 +103,6 @@ scoop help
 |            LyX            |      2.3.4      | 官方 exe | https://www.lyx.org/                           |
 |   Mathpix Snipping Tool   |   02.01.0021    | 官方 exe | https://mathpix.com/                           |
 |     Mendeley Desktop      |     1.19.4      | 官方 exe | https://www.mendeley.com/                      |
-|        网易云音乐         |  2.7.1.198242   | 官方 exe | https://music.163.com/                         |
 |          NetLogo          |      6.1.1      | 官方 msi | https://ccl.northwestern.edu/netlogo/          |
 |     Office Tool Plus      |     7.5.0.3     | 官方 exe | https://github.com/YerongAI/Office-Tool        |
 |          Orange3          |     3.24.1      | 官方 exe | https://orange.biolab.si/                      |
@@ -119,6 +118,7 @@ scoop help
 |          You-Get          |    0.4.1403     | 社区 zip | https://github.com/soimort/you-get             |
 |         百度网盘          |     6.8.9.1     | 社区 exe | https://pan.baidu.com/                         |
 |        灵格斯词霸         |      2.9.2      | 便携 zip | http://www.lingoes.cn/                         |
+|        网易云音乐         |  2.7.1.198242   | 官方 exe | https://music.163.com/                         |
 |           微信            |  2.7.1.85.beta  | 官方 exe | https://weixin.qq.com/                         |
 |  SciLab [无法静默。。。]  |      6.0.2      | 官方 exe | https://www.scilab.org/                        |
 | 爱思助手 [无法静默。。。] |     7.98.12     | 官方 exe | https://www.i4.cn/                             |

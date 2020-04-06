@@ -37,6 +37,10 @@
         "url": "https://www.scilab.org/download",
         "regex": "<h1>Scilab ([\\d.]+)</h1>"
     },
+    "uninstaller": {
+        "file": "Uninstall-Miniconda3.exe",
+        "args": "/S"
+    },
     "autoupdate": {
         "url": "https://www.scilab.org/download/$version/scilab-$version_x64.exe"
     }

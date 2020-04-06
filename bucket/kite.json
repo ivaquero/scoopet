@@ -14,6 +14,10 @@
             "/D=$dir"
         ]
     },
+    "uninstaller": {
+        "file": "Uninstall.exe",
+        "args": "/S"
+    },
     "autoupdate": {
         "url": "https://draqv87tt43s0.cloudfront.net/windows/$version/KiteSetup.exe"
     }

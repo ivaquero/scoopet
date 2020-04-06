@@ -26,6 +26,10 @@
             "/D=$dir"
         ]
     },
+    "uninstaller": {
+        "file": "Uninstall.exe",
+        "args": "/S"
+    },
     "autoupdate": {
         "url": "http://mirrors.mit.edu/kde/stable/labplot/$version/labplot-$version-64bit-setup.exe"
     }

@@ -5,6 +5,13 @@
     "url": "https://github.com/prezesp/scoop-viewer/releases/download/v0.8.1/scoop-viewer.zip",
     "hash": "2fbc575cd4f537d7cae88eb42d89fe12472876189ef2d5e870b45fd1e039ac8b",
     "bin": "scoop-viewer\\scoopviewer.exe",
+    "extract_dir": "scoop-viewer",
+    "shortcuts": [
+        [
+            "scoop-viewer\\scoopviewer.exe",
+            "scoop-viewer"
+        ]
+    ],
     "installer": {
         "script": [
             "# Add alias",

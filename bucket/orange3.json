@@ -15,6 +15,10 @@
             "/D=$dir"
         ]
     },
+    "uninstaller": {
+        "file": "Uninstall-Miniconda3.exe",
+        "args": "/S"
+    },
     "autoupdate": {
         "url": "https://download.biolab.si/download/files/Orange3-$version-Miniconda-x86_64.exe"
     }

@@ -17,5 +17,9 @@
             "/NoRegistry=1",
             "/D=$dir"
         ]
+    },
+    "uninstaller": {
+        "file": "Uninstall-Miniconda3.exe",
+        "args": "/S"
     }
 }

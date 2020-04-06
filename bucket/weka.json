@@ -13,5 +13,9 @@
             "/NoRegistry=1",
             "/D=$dir"
         ]
+    },
+    "uninstaller": {
+        "file": "Uninstall.exe",
+        "args": "/S"
     }
 }
