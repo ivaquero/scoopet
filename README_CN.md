@@ -47,6 +47,12 @@ Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://get.
 scoop install aria2
 ```
 
+如果使用VPN，需要通过如下命令关闭aria2：
+
+```powershell
+scoop config aria2-enabled false
+```
+
 ### 步骤 2: 安装 Git 来更新仓库 🎫
 
 ```powershell
