@@ -14,67 +14,67 @@
 
 ## 安装 Scoop 🚴
 
-在 PowerShell 中运行如下命令，打开远程权限:
+### 步骤 1：在 PowerShell 中打开远程权限 :computer:
 
 ```powershell
 Set-ExecutionPolicy RemoteSigned -scope CurrentUser
 ```
 
-自定义 Scoop 安装目录：
+### 步骤 2：自定义 Scoop 安装目录 :gear:
 
 ```powershell
-$env:SCOOP='C:\Scoop'
+$env:SCOOP='Your_Scoop_Path'
 [Environment]::SetEnvironmentVariable('SCOOP', $env:SCOOP, 'User')
 ```
 
-> 如果跳过该步骤， Scoop 将默认把所有用户安装的 App 和 Scoop 本身置于`C:\Users\<user>\`
+> 如果跳过该步骤， Scoop 将默认把所有用户安装的 App 和 Scoop 本身置于`C:\Users\user_name\scoop`
 
-下载并安装 Scoop ：
+### 步骤 3：下载并安装 Scoop :hammer:
 
 ```powershell
 Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://get.scoop.sh')
 ```
 
+### 步骤 4：通过`scoop help`查看快速上手方法 📖
+
 更多信息，请访问 Scoop 官网 👉 https://scoop.sh/ 👈
 
 ## 利用扩展库安装 App 🚗
 
-在 PowerShell 或 Cmd 中运行如下命令:
-
-### 步骤 1: 安装 Aria2 来加速下载 🚅
+### 步骤 1：安装 Aria2 来加速下载 🚅
 
 ```powershell
 scoop install aria2
 ```
 
-如果使用VPN，需要通过如下命令关闭aria2：
+如果使用VPN，需要通过如下命令关闭 aria2
 
 ```powershell
 scoop config aria2-enabled false
 ```
 
-### 步骤 2: 安装 Git 来更新仓库 🎫
+### 步骤 2：安装 Git 来添加新仓库 🎫
 
 ```powershell
 scoop install git
 ```
 
-### 步骤 3: 添加本仓库并更新，么么哒~ 💋 ✈️
+### 步骤 3：添加本仓库并更新，么么哒~ 💋 ✈️
 
 ```powershell
 scoop bucket add scoopet https://github.com/integzz/scoopet
 scoop update
 ```
 
-### 步骤 4: 安装 App 🚀
+### 步骤 4：安装 App 🚀
 
-- 使用 `scoop search` 命令搜索 App 的具体名称:
+- 使用 `scoop search` 命令搜索 App 的具体名称
 
 ```powershell
 scoop search <app_name>
 ```
 
-- 利用插件`scoop-completion`协助安装：
+- 利用插件`scoop-completion`协助安装
 
 ```powershell
 scoop install scoop-completion
@@ -83,17 +83,36 @@ scoop install <app_name>
 
 > 使用`scoop-completion`：键入 App 名称的前几个字母后敲击`tab`键进行补全
 
-#### 推荐: 同时添加仓库 Extra 💯
+### 步骤 5：查看官方推荐仓库 💯
 
 ```powershell
-scoop bucket add extra
-scoop update
+scoop bucket known
+
+main [默认]
+extras [墙裂推荐]
+versions
+nightlies
+nirsoft
+php
+nerd-fonts
+nonportable
+java
+games
+jetbrains
 ```
 
-#### 快速学习 Scoop 使用方法 📖
+## 其他 :m:
+
+### Aria2的参数自定义
 
 ```powershell
-scoop help
+# aria2 在 Scoop 中默认开启
+scoop config aria2-enabled true
+# 关于以下参数的作用，详见aria2的相关资料
+scoop config aria2-retry-wait 4
+scoop config aria2-split 16
+scoop config aria2-max-connection-per-server 16
+scoop config aria2-min-split-size 4M
 ```
 
 ## 总结 ⭐️
@@ -112,7 +131,6 @@ scoop help
 |          NetLogo          |      6.1.1      | 官方 msi | https://ccl.northwestern.edu/netlogo/          |
 |     Office Tool Plus      |     7.5.0.3     | 官方 exe | https://github.com/YerongAI/Office-Tool        |
 |          Orange3          |     3.24.1      | 官方 exe | https://orange.biolab.si/                      |
-|         Picosmos          |     2.6.0.0     | 官方 exe | http://www.picosmos.net/                       |
 |         SciDAVis          |      1.26       | 官方 msi | http://scidavis.sourceforge.net                |
 |          uTools           |   0.8.9-beta    | 官方 exe | https://u.tools/                               |
 |   VirtualBox [含扩展包]   |      6.1.4      | 官方 exe | https://www.virtualbox.org/                    |
@@ -126,6 +144,7 @@ scoop help
 |        灵格斯词霸         |      2.9.2      | 便携 zip | http://www.lingoes.cn/                         |
 |        网易云音乐         |  2.7.1.198242   | 官方 exe | https://music.163.com/                         |
 |           微信            |  2.7.1.85.beta  | 官方 exe | https://weixin.qq.com/                         |
+|         图片工厂          |     2.6.0.0     | 官方 exe | http://www.picosmos.net/                       |
 |  SciLab [无法静默。。。]  |      6.0.2      | 官方 exe | https://www.scilab.org/                        |
 | 爱思助手 [无法静默。。。] |     7.98.12     | 官方 exe | https://www.i4.cn/                             |
 |  LabPlot [构建中。。。]   |      2.7.0      | 官方 exe | https://labplot.kde.org/                       |

@@ -13,32 +13,32 @@
 
 ## Install Scoop 🚴
 
-Run the below commands in PowerShell:
+### Step 1: Enable remote policy in PowerShell :computer:
 
 ```powershell
 Set-ExecutionPolicy RemoteSigned -scope CurrentUser
 ```
 
-Customize your Scoop directory:
+### Step 2: Customize your Scoop directory :gear:
 
 ```powershell
-$env:SCOOP='C:\Scoop'
+$env:SCOOP='Your_Scoop_Path'
 [Environment]::SetEnvironmentVariable('SCOOP', $env:SCOOP, 'User')
 ```
 
-> If you skip this step, all user installed Apps and Scoop itself will live in `C:\Users\<user>\`.
+> If you skip this step, all user installed Apps and Scoop itself will live in `C:\Users\user_name\scoop`.
 
-Download and install Scoop:
+### Step 3: Download and install Scoop :hammer:
 
 ```powershell
 Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://get.scoop.sh')
 ```
 
+### Step 4: Glance at quick-start by `scoop help` :book:
+
 For more information, please visit Scoop official site at 👉 https://scoop.sh/ 👈
 
 ## Install Apps from this bucket 🚗
-
-Run the below commands in PowerShell or Cmd:
 
 ### Step 1: Install Aria2 to accelerate downloading 🚅
 
@@ -46,13 +46,13 @@ Run the below commands in PowerShell or Cmd:
 scoop install aria2
 ```
 
-### Step 2: Install Git for updating 🎫
+### Step 2: Install Git to add new repositories 🎫
 
 ```powershell
 scoop install git
 ```
 
-if you are using VPN, you need to turn off aria2 before installing Apps:
+if you are using VPN, you need to turn off aria2 before installing Apps
 
 ```powershell
 scoop config aria2-enabled false
@@ -67,13 +67,13 @@ scoop update
 
 ### Step 4: Install Apps 🚀
 
-- Check the exact name of App by `scoop search` command:
+- Check the exact name of App by `scoop search`
 
 ```powershell
 scoop search <app_name>
 ```
 
-- Install Apps with assistance of plugin `scoop-completion`:
+- Install Apps with assistance of plugin `scoop-completion`
 
 ```powershell
 scoop install scoop-completion
@@ -82,17 +82,34 @@ scoop install <app_name>
 
 > to use `scoop-completion`, just to hit `tab` after initial letters of App names
 
-#### Recommendation: Add the bucket Extra 💯
+### Step 5: List the official recommended buckets by `scoop bucket known` 💯
 
 ```powershell
-scoop bucket add extra
-scoop update
+scoop bucket known
+
+main [default]
+extras [strongly recommended]
+versions
+nightlies
+nirsoft
+php
+nerd-fonts
+nonportable
+java
+games
+jetbrains
 ```
 
-#### For quick-start usage of Scoop 📖
+## Trivial :m:
+
+### Tweak with Parameters in Aria2
 
 ```powershell
-scoop help
+scoop config aria2-enabled true
+scoop config aria2-retry-wait 4
+scoop config aria2-split 16
+scoop config aria2-max-connection-per-server 16
+scoop config aria2-min-split-size 4M
 ```
 
 ## Summary ⭐️
