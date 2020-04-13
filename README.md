@@ -136,7 +136,7 @@ scoop config aria2-min-split-size 4M
 |              uTools              |   0.8.9-beta    | Official exe | https://u.tools/                               |
 | VirtualBox [with Extension Pack] |      6.1.4      | Official exe | https://www.virtualbox.org/                    |
 |      VMware Workstation Pro      | 15.5.2-15785246 | Official exe | https://www.vmware.com/                        |
-|              WeChat              |  2.7.1.85.beta  | Official exe | https://weixin.qq.com/                         |
+|              WeChat              |       2.8       | Official exe | https://weixin.qq.com/                         |
 |               Weka               |      3.8.4      | Official exe | https://www.cs.waikato.ac.nz/ml/weka/          |
 |            WPSOffice             |   11.1.0.9564   | Official exe | https://pc.wps.cn/                             |
 |         scoop-completion         |      0.2.2      |   CND zip    | https://github.com/Moeologist/scoop-completion |

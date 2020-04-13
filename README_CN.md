@@ -143,7 +143,7 @@ scoop config aria2-min-split-size 4M
 |         百度网盘          |     6.8.9.1     | 社区 exe | https://pan.baidu.com/                         |
 |        灵格斯词霸         |      2.9.2      | 便携 zip | http://www.lingoes.cn/                         |
 |        网易云音乐         |  2.7.1.198242   | 官方 exe | https://music.163.com/                         |
-|           微信            |  2.7.1.85.beta  | 官方 exe | https://weixin.qq.com/                         |
+|           微信            |       2.8       | 官方 exe | https://weixin.qq.com/                         |
 |         图片工厂          |     2.6.0.0     | 官方 exe | http://www.picosmos.net/                       |
 |  SciLab [无法静默。。。]  |      6.0.2      | 官方 exe | https://www.scilab.org/                        |
 | 爱思助手 [无法静默。。。] |     7.98.12     | 官方 exe | https://www.i4.cn/                             |
