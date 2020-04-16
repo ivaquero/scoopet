@@ -19,20 +19,7 @@
             "Scilab"
         ]
     ],
-    "installer": {
-        "args": [
-            "/S",
-            "/InstallationType=JustMe",
-            "EULAS_AGREED=1",
-            "DATACOLLECTION=0",
-            "DESKTOP_SHORTCUT=0",
-            "STARTMENU_SHORTCUT=0",
-            "AUTOSOFTWAREUPDATE=0",
-            "/AddToPath=0",
-            "/NoRegistry=1",
-            "/D=$dir"
-        ]
-    },
+    "pre_install": "if (!(Test-Path \"$persist_dir\\Options.ini\")) { New-Item \"$dir\\Options.ini\" -ItemType File | Out-Null }",
     "checkver": {
         "url": "https://www.scilab.org/download",
         "regex": "<h1>Scilab ([\\d.]+)</h1>"

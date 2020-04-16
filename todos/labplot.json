@@ -6,6 +6,7 @@
     "url": "http://mirrors.mit.edu/kde/stable/labplot/2.7.0/labplot-2.7.0-64bit-setup.exe",
     "hash": "975ba3f5a617c907d4cd213647366691ce339869e50dd43fafe02b6a5abd0f59",
     "bin": "LabPlot.exe",
+    "innosetup": true,
     "shortcuts": [
         [
             "LabPlot.exe",
