@@ -4,7 +4,7 @@
     "description": "GNU Image Manipulation Program",
     "version": "2.10.18-2",
     "url": "https://download3.portableapps.com/portableapps/GIMPPortable/GIMPPortable_2.10.18-2.paf.exe#/dl.7z",
-    "hash": "3f4aa1445d13a4222e2a4f5343089e6e051c02d92db0c469d70228c64e059050",
+    "hash": "c7108103f917b1a0032d7ea12ff8fb45b2887dc9c51ea5b0c30a5a707d401595",
     "bin": [
         "App\\gimp\\bin\\gimp-console-2.10.exe",
         [

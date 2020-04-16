@@ -122,6 +122,7 @@ scoop config aria2-min-split-size 4M
 |          CopyTranslator          |      9.0.1      | Portable zip | https://copytranslator.github.io/              |
 |            Cyberduck             |   7.2.5.32097   | Official msi | https://cyberduck.io/                          |
 |             GeoGebra             |     6.0.573     | Portable zip | https://www.geogebra.org/                      |
+|               Gimp               |    2.10.18-2    | Portable exe | https://www.gimp.org/                          |
 |               Kite               |  1.2020.327.0   | Official exe | https://kite.com/                              |
 |             Lingoes              |      2.9.2      | Portable zip | http://www.lingoes.cn/                         |
 |               LyX                |      2.3.4      | Official exe | https://www.lyx.org/                           |

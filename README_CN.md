@@ -124,6 +124,7 @@ scoop config aria2-min-split-size 4M
 |      CopyTranslator       |      9.0.1      | 便携 zip | https://copytranslator.github.io/              |
 |         Cyberduck         |   7.2.5.32097   | 官方 msi | https://cyberduck.io/                          |
 |         GeoGebra          |     6.0.573     | 便携 zip | https://www.geogebra.org/                      |
+|           Gimp            |    2.10.18-2    | 便携 exe | https://www.gimp.org/                          |
 |           Kite            |  1.2020.327.0   | 官方 exe | https://kite.com/                              |
 |            LyX            |      2.3.4      | 官方 exe | https://www.lyx.org/                           |
 |   Mathpix Snipping Tool   |   02.01.0021    | 官方 exe | https://mathpix.com/                           |
