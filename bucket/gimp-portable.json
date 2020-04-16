@@ -34,9 +34,6 @@
         "replace": "${1}${2}"
     },
     "autoupdate": {
-        "url": "https://download3.portableapps.com/portableapps/GIMPPortable/GIMPPortable_$majorVersion-$miniorVersion.paf.exe#/dl.7z",
-        "hash": {
-            "url": "$baseurl/SHA256SUMS"
-        }
+        "url": "https://download3.portableapps.com/portableapps/GIMPPortable/GIMPPortable_$majorVersion-$miniorVersion.paf.exe#/dl.7z"
     }
 }
