@@ -117,12 +117,12 @@ scoop config aria2-min-split-size 4M
 |               App                |     Version     |  Installer   | Offical site                                   |
 | :------------------------------: | :-------------: | :----------: | ---------------------------------------------- |
 |          Activity Watch          |      0.9.2      | Official zip | https://activitywatch.net/                     |
-|     Adobe Acrobat Reader DC      |  19.021.20061   | Official exe | https://acrobat.adobe.com/                     |
+|         Adobe Acrobat DC         |  19.021.20061   | Official exe | https://acrobat.adobe.com/                     |
 |           BaiduNetdisk           |     6.8.9.1     | Nightly exe  | https://pan.baidu.com/                         |
 |          CopyTranslator          |      9.0.1      | Portable zip | https://copytranslator.github.io/              |
 |            Cyberduck             |   7.2.5.32097   | Official msi | https://cyberduck.io/                          |
 |             GeoGebra             |     6.0.573     | Portable zip | https://www.geogebra.org/                      |
-|               Gimp               |    2.10.18-2    | Portable exe | https://www.gimp.org/                          |
+|         GIMP (Portable)          |    2.10.18-2    | Portable exe | https://www.gimp.org/                          |
 |               Kite               |  1.2020.327.0   | Official exe | https://kite.com/                              |
 |             Lingoes              |      2.9.2      | Portable zip | http://www.lingoes.cn/                         |
 |               LyX                |      2.3.4      | Official exe | https://www.lyx.org/                           |
@@ -143,7 +143,5 @@ scoop config aria2-min-split-size 4M
 |         scoop-completion         |      0.2.2      |   CND zip    | https://github.com/Moeologist/scoop-completion |
 |           scoop-viewer           |      0.8.1      |   CND zip    | https://github.com/prezesp/scoop-viewer        |
 |             You-Get              |    0.4.1403     |   CND zip    | https://github.com/soimort/you-get             |
-|     i4tools [Un-Silenced...]     |     7.98.12     | Official exe | https://www.i4.cn/                             |
-|     SciLab [Un-Silenced...]      |      6.0.2      | Official exe | https://www.scilab.org/                        |
 |      LabPlot [Debugging...]      |      2.7.0      | Official exe | https://labplot.kde.org/                       |
 |        QQ [Debugging...]         |      9.2.3      | Official exe | https://im.qq.com/pcqq/                        |
