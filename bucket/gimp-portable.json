@@ -29,11 +29,11 @@
         "App\\gimp\\share\\gimp"
     ],
     "checkver": {
-        "url": "https://download3.portableapps.com/portableapps/GIMPPortable/",
-        "regex": "GIMPPortable_(?<version>[\\d.]+)-(?-\\d).paf.exe#/dl.7z",
+        "url": "https://portableapps.com/redirect/",
+        "regex": "?a=GIMPPortable&s=s&d=pa&f=GIMPPortable_(?<version>[\\d.]+)-(?-\\d).paf.exe#/dl.7z",
         "replace": "${1}${2}"
     },
     "autoupdate": {
-        "url": "https://download3.portableapps.com/portableapps/GIMPPortable/GIMPPortable_$majorVersion-$miniorVersion.paf.exe#/dl.7z"
+        "url": "https://portableapps.com/redirect/?a=GIMPPortable&s=s&d=pa&f=GIMPPortable_$majorVersion.$minorVersion.$patchVersion.paf.exe#/dl.7z"
     }
 }
