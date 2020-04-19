@@ -10,17 +10,17 @@
 </p>
 </div>
 
-# 开始 🏃
+# :running: 开始
 
-## 安装 Scoop 🚴
+## :bike: 安装 Scoop
 
-### 步骤 1：在 PowerShell 中打开远程权限 :computer:
+### :computer: 步骤 1：在 PowerShell 中打开远程权限
 
 ```powershell
 Set-ExecutionPolicy RemoteSigned -scope CurrentUser
 ```
 
-### 步骤 2：自定义 Scoop 安装目录 :gear:
+### :gear: 步骤 2：自定义 Scoop 安装目录
 
 ```powershell
 $env:SCOOP='Your_Scoop_Path'
@@ -29,19 +29,19 @@ $env:SCOOP='Your_Scoop_Path'
 
 > 如果跳过该步骤， Scoop 将默认把所有用户安装的 App 和 Scoop 本身置于`C:\Users\user_name\scoop`
 
-### 步骤 3：下载并安装 Scoop :hammer:
+### :hammer: 步骤 3：下载并安装 Scoop
 
 ```powershell
 Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://get.scoop.sh')
 ```
 
-### 步骤 4：通过`scoop help`查看快速上手方法 📖
+### :book: 步骤 4：通过`scoop help`查看快速上手方法
 
 更多信息，请访问 Scoop 官网 👉 https://scoop.sh/ 👈
 
-## 利用扩展库安装 App 🚗
+## :car: 利用扩展库安装 App
 
-### 步骤 1：安装 Aria2 来加速下载 🚅
+### :train: 步骤 1：安装 Aria2 来加速下载
 
 ```powershell
 scoop install aria2
@@ -53,20 +53,20 @@ scoop install aria2
 scoop config aria2-enabled false
 ```
 
-### 步骤 2：安装 Git 来添加新仓库 🎫
+### :ticket: 步骤 2：安装 Git 来添加新仓库
 
 ```powershell
 scoop install git
 ```
 
-### 步骤 3：添加本仓库并更新，么么哒~ 💋 ✈️
+### :airplane: 步骤 3：添加本仓库并更新，么么哒~ :kiss:
 
 ```powershell
 scoop bucket add scoopet https://github.com/integzz/scoopet
 scoop update
 ```
 
-### 步骤 4：安装 App 🚀
+### :rocket: 步骤 4：安装 App
 
 - 使用 `scoop search` 命令搜索 App 的具体名称
 
@@ -83,7 +83,7 @@ scoop install <app_name>
 
 > 使用`scoop-completion`：键入 App 名称的前几个字母后敲击`tab`键进行补全
 
-### 步骤 5：查看官方推荐仓库 💯
+### :100: 步骤 5：查看官方推荐仓库
 
 ```powershell
 scoop bucket known
@@ -101,7 +101,7 @@ games
 jetbrains
 ```
 
-## 其他 :m:
+## :m: 其他
 
 ### Aria2的参数自定义
 
@@ -115,7 +115,7 @@ scoop config aria2-max-connection-per-server 16
 scoop config aria2-min-split-size 4M
 ```
 
-## 总结 ⭐️
+## :star: 总结
 
 |          App           |      版本       | 安装文件 | 官网                                           |
 | :--------------------: | :-------------: | :------: | ---------------------------------------------- |

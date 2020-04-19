@@ -9,17 +9,17 @@
 </p>
 </div>
 
-# To Start 🏃
+# :running: To Start
 
-## Install Scoop 🚴
+## :bike: Install Scoop
 
-### Step 1: Enable remote policy in PowerShell :computer:
+### :computer: Step 1: Enable remote policy in PowerShell
 
 ```powershell
 Set-ExecutionPolicy RemoteSigned -scope CurrentUser
 ```
 
-### Step 2: Customize your Scoop directory :gear:
+### :gear: Step 2: Customize your Scoop directory
 
 ```powershell
 $env:SCOOP='Your_Scoop_Path'
@@ -28,25 +28,25 @@ $env:SCOOP='Your_Scoop_Path'
 
 > If you skip this step, all user installed Apps and Scoop itself will live in `C:\Users\user_name\scoop`.
 
-### Step 3: Download and install Scoop :hammer:
+### :hammer: Step 3: Download and install Scoop
 
 ```powershell
 Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://get.scoop.sh')
 ```
 
-### Step 4: Glance at quick-start by `scoop help` :book:
+### :book: Step 4: Glance at quick-start by `scoop help`
 
 For more information, please visit Scoop official site at 👉 https://scoop.sh/ 👈
 
-## Install Apps from this bucket 🚗
+## :car: Install Apps from this bucket
 
-### Step 1: Install Aria2 to accelerate downloading 🚅
+### :train: Step 1: Install Aria2 to accelerate downloading
 
 ```powershell
 scoop install aria2
 ```
 
-### Step 2: Install Git to add new repositories 🎫
+### :ticket: Step 2: Install Git to add new repositories
 
 ```powershell
 scoop install git
@@ -58,14 +58,14 @@ if you are using VPN, you need to turn off aria2 before installing Apps
 scoop config aria2-enabled false
 ```
 
-### Step 3: Add this wonderful bucket and update, mo-mo-da~ 💋 ✈️
+### :airplane: Step 3: Add this wonderful bucket and update, mo-mo-da~ :kiss:
 
 ```powershell
 scoop bucket add scoopet https://github.com/integzz/scoopet
 scoop update
 ```
 
-### Step 4: Install Apps 🚀
+### :rocket: Step 4: Install Apps
 
 - Check the exact name of App by `scoop search`
 
@@ -82,7 +82,7 @@ scoop install <app_name>
 
 > to use `scoop-completion`, just to hit `tab` after initial letters of App names
 
-### Step 5: List the official recommended buckets by `scoop bucket known` 💯
+### :100: Step 5: List the official recommended buckets by `scoop bucket known`
 
 ```powershell
 scoop bucket known
@@ -100,7 +100,7 @@ games
 jetbrains
 ```
 
-## Trivial :m:
+## :m: Trivial
 
 ### Tweak with Parameters in Aria2
 
@@ -112,7 +112,7 @@ scoop config aria2-max-connection-per-server 16
 scoop config aria2-min-split-size 4M
 ```
 
-## Summary ⭐️
+## :star: Summary
 
 |               App                |     Version     |  Installer   | Offical site                                   |
 | :------------------------------: | :-------------: | :----------: | ---------------------------------------------- |
