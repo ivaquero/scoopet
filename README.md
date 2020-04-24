@@ -143,5 +143,4 @@ scoop config aria2-min-split-size 4M
 |         scoop-completion         |      0.2.2      |   CND zip    | https://github.com/Moeologist/scoop-completion |
 |           scoop-viewer           |      0.8.1      |   CND zip    | https://github.com/prezesp/scoop-viewer        |
 |             You-Get              |    0.4.1403     |   CND zip    | https://github.com/soimort/you-get             |
-|      LabPlot [Debugging...]      |      2.7.0      | Official exe | https://labplot.kde.org/                       |
 |        QQ [Debugging...]         |      9.2.3      | Official exe | https://im.qq.com/pcqq/                        |

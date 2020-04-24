@@ -146,5 +146,4 @@ scoop config aria2-min-split-size 4M
 |       网易云音乐       |  2.7.1.198242   | 官方 exe | https://music.163.com/                         |
 |          微信          |       2.8       | 官方 exe | https://weixin.qq.com/                         |
 |        图片工厂        |     2.6.0.0     | 官方 exe | http://www.picosmos.net/                       |
-| LabPlot [构建中。。。] |      2.7.0      | 官方 exe | https://labplot.kde.org/                       |
 |   QQ [构建中。。。]    |      9.2.3      | 官方 exe | https://im.qq.com/pcqq/                        |
