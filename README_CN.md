@@ -122,7 +122,7 @@ scoop config aria2-min-split-size 4M
 |     Activity Watch     |      0.9.2      | 官方 zip | https://activitywatch.net/                     |
 |    Adobe Acrobat DC    |  19.021.20061   | 官方 exe | https://acrobat.adobe.com/                     |
 |     CopyTranslator     |      9.0.1      | 便携 zip | https://copytranslator.github.io/              |
-|       Cyberduck        |   7.2.5.32097   | 官方 msi | https://cyberduck.io/                          |
+|       Cyberduck        |   7.3.0.32621   | 官方 msi | https://cyberduck.io/                          |
 |        GeoGebra        |     6.0.573     | 便携 zip | https://www.geogebra.org/                      |
 |    GIMP (Portable)     |    2.10.18-2    | 便携 exe | https://www.gimp.org/                          |
 |          Kite          |  1.2020.327.0   | 官方 exe | https://kite.com/                              |
@@ -134,14 +134,14 @@ scoop config aria2-min-split-size 4M
 |        Orange3         |     3.24.1      | 官方 exe | https://orange.biolab.si/                      |
 |        SciDAVis        |      1.26       | 官方 msi | http://scidavis.sourceforge.net                |
 |         uTools         |   0.8.9-beta    | 官方 exe | https://u.tools/                               |
-| VirtualBox [含扩展包]  |      6.1.4      | 官方 exe | https://www.virtualbox.org/                    |
+| VirtualBox [含扩展包]  |      6.1.6      | 官方 exe | https://www.virtualbox.org/                    |
 | VMware Workstation Pro | 15.5.2-15785246 | 官方 exe | https://www.vmware.com/                        |
 |          Weka          |      3.8.4      | 官方 exe | https://www.cs.waikato.ac.nz/ml/weka/          |
-|       WPSOffice        |   11.1.0.9564   | 官方 exe | https://pc.wps.cn/                             |
+|       WPSOffice        |   11.1.0.9584   | 官方 exe | https://pc.wps.cn/                             |
 |    scoop-completion    |      0.2.2      | 社区 zip | https://github.com/Moeologist/scoop-completion |
 |      scoop-viewer      |      0.8.1      | 社区 zip | https://github.com/prezesp/scoop-viewer        |
 |        You-Get         |    0.4.1403     | 社区 zip | https://github.com/soimort/you-get             |
-|        百度网盘        |     6.8.9.1     | 社区 exe | https://pan.baidu.com/                         |
+|        百度网盘        |     6.9.5.1     | 官方 exe | https://pan.baidu.com/                         |
 |       灵格斯词霸       |      2.9.2      | 便携 zip | http://www.lingoes.cn/                         |
 |       网易云音乐       |  2.7.1.198242   | 官方 exe | https://music.163.com/                         |
 |          微信          |       2.8       | 官方 exe | https://weixin.qq.com/                         |

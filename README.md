@@ -118,9 +118,9 @@ scoop config aria2-min-split-size 4M
 | :------------------------------: | :-------------: | :----------: | ---------------------------------------------- |
 |          Activity Watch          |      0.9.2      | Official zip | https://activitywatch.net/                     |
 |         Adobe Acrobat DC         |  19.021.20061   | Official exe | https://acrobat.adobe.com/                     |
-|           BaiduNetdisk           |     6.8.9.1     | Nightly exe  | https://pan.baidu.com/                         |
+|           BaiduNetdisk           |     6.9.5.1     | Official exe  | https://pan.baidu.com/                         |
 |          CopyTranslator          |      9.0.1      | Portable zip | https://copytranslator.github.io/              |
-|            Cyberduck             |   7.2.5.32097   | Official msi | https://cyberduck.io/                          |
+|            Cyberduck             |   7.3.0.32621   | Official msi | https://cyberduck.io/                          |
 |             GeoGebra             |     6.0.573     | Portable zip | https://www.geogebra.org/                      |
 |         GIMP (Portable)          |    2.10.18-2    | Portable exe | https://www.gimp.org/                          |
 |               Kite               |  1.2020.327.0   | Official exe | https://kite.com/                              |
@@ -135,11 +135,11 @@ scoop config aria2-min-split-size 4M
 |             Picosmos             |     2.6.0.0     | Official exe | http://www.picosmos.net/                       |
 |             SciDAVis             |      1.26       | Official msi | http://scidavis.sourceforge.net                |
 |              uTools              |   0.8.9-beta    | Official exe | https://u.tools/                               |
-| VirtualBox [with Extension Pack] |      6.1.4      | Official exe | https://www.virtualbox.org/                    |
+| VirtualBox [with Extension Pack] |      6.1.6      | Official exe | https://www.virtualbox.org/                    |
 |      VMware Workstation Pro      | 15.5.2-15785246 | Official exe | https://www.vmware.com/                        |
 |              WeChat              |       2.8       | Official exe | https://weixin.qq.com/                         |
 |               Weka               |      3.8.4      | Official exe | https://www.cs.waikato.ac.nz/ml/weka/          |
-|            WPSOffice             |   11.1.0.9564   | Official exe | https://pc.wps.cn/                             |
+|            WPSOffice             |   11.1.0.9584   | Official exe | https://pc.wps.cn/                             |
 |         scoop-completion         |      0.2.2      |   CND zip    | https://github.com/Moeologist/scoop-completion |
 |           scoop-viewer           |      0.8.1      |   CND zip    | https://github.com/prezesp/scoop-viewer        |
 |             You-Get              |    0.4.1403     |   CND zip    | https://github.com/soimort/you-get             |

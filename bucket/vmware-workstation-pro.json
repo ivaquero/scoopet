@@ -12,7 +12,7 @@
     ],
     "version": "15.5.2-15785246",
     "description": "VMWare. Industry standard for running multiple operating systems as virtual machines (VMs) on a single PC.",
-    "homepage": "https://www.vmware.com/products/workstation-pro",
+    "homepage": "https://www.vmware.com/products/workstation-pro.html",
     "license": {
         "identifier": "Proprietary",
         "url": "https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/downloads/eula/universal_eula.pdf"
@@ -61,11 +61,6 @@
                 ]
             ]
         }
-    },
-    "checkver": {
-        "url": "https://en.wikipedia.org/wiki/VMware_Workstation",
-        "regex": ">([\\d.]+)\\s+Build\\s+(\\d+)<",
-        "replace": "$1-$2"
     },
     "autoupdate": {
         "architecture": {
