@@ -114,22 +114,21 @@ scoop config aria2-min-split-size 4M
 
 ## :star: Summary
 
-
 ### Research Tools
 
-|          App          |  Version   |  Installer   | Homepage                              |
-| :-------------------: | :--------: | :----------: | ------------------------------------- |
-|    CopyTranslator     |   9.0.1    | Portable zip | https://copytranslator.github.io/     |
-|       Cytoscape       |   3.8.0    | Official zip | https://cytoscape.org/                |
-|       GeoGebra        |  6.0.573   | Portable zip | https://www.geogebra.org/             |
-|         Gephi         |    0.92    | Official exe | https://gephi.org/                    |
-|    GIMP (Portable)    | 2.10.18-2  | Portable exe | https://www.gimp.org/                 |
-|          LyX          |   2.3.4    | Official exe | https://www.lyx.org/                  |
-| Mathpix Snipping Tool | 02.01.0021 | Official exe | https://mathpix.com/                  |
-|   Mendeley Desktop    |   1.19.4   | Official exe | https://www.mendeley.com/             |
-|        NetLogo        |   6.1.1    | Official msi | https://ccl.northwestern.edu/netlogo/ |
-|       SciDAVis        |    1.26    | Official msi | http://scidavis.sourceforge.net/      |
-|         Weka          |   3.8.4    | Official exe | https://www.cs.waikato.ac.nz/ml/weka/ |
+|           App            |  Version   |  Installer   | Homepage                              |
+| :----------------------: | :--------: | :----------: | ------------------------------------- |
+|      CopyTranslator      |   9.0.1    | Portable zip | https://copytranslator.github.io/     |
+|         GeoGebra         |  6.0.573   | Portable zip | https://www.geogebra.org/             |
+|          Gephi           |    0.92    | Official exe | https://gephi.org/                    |
+|     GIMP (Portable)      | 2.10.18-2  | Portable exe | https://www.gimp.org/                 |
+|           LyX            |   2.3.4    | Official exe | https://www.lyx.org/                  |
+|  Mathpix Snipping Tool   | 02.01.0021 | Official exe | https://mathpix.com/                  |
+|     Mendeley Desktop     |   1.19.4   | Official exe | https://www.mendeley.com/             |
+|         NetLogo          |   6.1.1    | Official msi | https://ccl.northwestern.edu/netlogo/ |
+|         SciDAVis         |    1.26    | Official msi | http://scidavis.sourceforge.net/      |
+|           Weka           |   3.8.4    | Official exe | https://www.cs.waikato.ac.nz/ml/weka/ |
+| Cytoscape [Debugging...] |   3.8.0    | Official zip | https://cytoscape.org/                |
 
 ### Development Auxillary
 
@@ -155,8 +154,6 @@ scoop config aria2-min-split-size 4M
 |     Lingoes      |    2.9.2     | Portable zip | http://www.lingoes.cn/                   |
 |     Picosmos     |   2.6.0.0    | Official exe | http://www.picosmos.net/                 |
 
-
-
 ### Social & Entertainment
 
 |        App        |   Version    |   Installer   | Homepage                            |
@@ -165,4 +162,3 @@ scoop config aria2-min-split-size 4M
 |      Wechat       |     2.8      | Official exe  | https://weixin.qq.com/              |
 |      You-Get      |   0.4.1403   | Community zip | https://github.com/soimort/you-get/ |
 | QQ [Debugging...] |    9.2.3     | Official exe  | https://im.qq.com/pcqq/             |
-|                   |

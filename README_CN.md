@@ -119,19 +119,19 @@ scoop config aria2-min-split-size 4M
 
 ### 科研工具
 
-|          App          |    版本    | 安装文件 | 官网                                  |
-| :-------------------: | :--------: | :------: | ------------------------------------- |
-|    CopyTranslator     |   9.0.1    | 便携 zip | https://copytranslator.github.io/     |
-|       Cytoscape       |   3.8.0    | 官方 zip | https://cytoscape.org/                |
-|       GeoGebra        |  6.0.573   | 便携 zip | https://www.geogebra.org/             |
-|         Gephi         |    0.92    | 官方 exe | https://gephi.org/                    |
-|    GIMP (Portable)    | 2.10.18-2  | 便携 exe | https://www.gimp.org/                 |
-|          LyX          |   2.3.4    | 官方 exe | https://www.lyx.org/                  |
-| Mathpix Snipping Tool | 02.01.0021 | 官方 exe | https://mathpix.com/                  |
-|   Mendeley Desktop    |   1.19.4   | 官方 exe | https://www.mendeley.com/             |
-|        NetLogo        |   6.1.1    | 官方 msi | https://ccl.northwestern.edu/netlogo/ |
-|       SciDAVis        |    1.26    | 官方 msi | http://scidavis.sourceforge.net/      |
-|         Weka          |   3.8.4    | 官方 exe | https://www.cs.waikato.ac.nz/ml/weka/ |
+|           App            |    版本    | 安装文件 | 官网                                  |
+| :----------------------: | :--------: | :------: | ------------------------------------- |
+|      CopyTranslator      |   9.0.1    | 便携 zip | https://copytranslator.github.io/     |
+|         GeoGebra         |  6.0.573   | 便携 zip | https://www.geogebra.org/             |
+|          Gephi           |    0.92    | 官方 exe | https://gephi.org/                    |
+|     GIMP (Portable)      | 2.10.18-2  | 便携 exe | https://www.gimp.org/                 |
+|           LyX            |   2.3.4    | 官方 exe | https://www.lyx.org/                  |
+|  Mathpix Snipping Tool   | 02.01.0021 | 官方 exe | https://mathpix.com/                  |
+|     Mendeley Desktop     |   1.19.4   | 官方 exe | https://www.mendeley.com/             |
+|         NetLogo          |   6.1.1    | 官方 msi | https://ccl.northwestern.edu/netlogo/ |
+|         SciDAVis         |    1.26    | 官方 msi | http://scidavis.sourceforge.net/      |
+|           Weka           |   3.8.4    | 官方 exe | https://www.cs.waikato.ac.nz/ml/weka/ |
+| Cytoscape [构建中。。。] |   3.8.0    | 官方 zip | https://cytoscape.org/                |
 
 ### 开发辅助
 
@@ -156,8 +156,6 @@ scoop config aria2-min-split-size 4M
 |     百度网盘     |   6.9.5.1    | 官方 exe | https://pan.baidu.com/                   |
 |    灵格斯词霸    |    2.9.2     | 便携 zip | http://www.lingoes.cn/                   |
 |     图片工厂     |   2.6.0.0    | 官方 exe | http://www.picosmos.net/                 |
-
-
 
 ### 社交休闲
 
