@@ -130,41 +130,40 @@ scoop config aria2-min-split-size 4M
 | Mathpix Snipping Tool | 02.01.0021 | 官方 exe | https://mathpix.com/                  |
 |   Mendeley Desktop    |   1.19.4   | 官方 exe | https://www.mendeley.com/             |
 |        NetLogo        |   6.1.1    | 官方 msi | https://ccl.northwestern.edu/netlogo/ |
-|        Orange3        |   3.24.1   | 官方 exe | https://orange.biolab.si/             |
-|       SciDAVis        |    1.26    | 官方 msi | http://scidavis.sourceforge.net       |
+|       SciDAVis        |    1.26    | 官方 msi | http://scidavis.sourceforge.net/      |
 |         Weka          |   3.8.4    | 官方 exe | https://www.cs.waikato.ac.nz/ml/weka/ |
 
 ### 开发辅助
 
-|          App           |      版本       | 安装文件 | 官网                                           |
-| :--------------------: | :-------------: | :------: | ---------------------------------------------- |
-|       Cyberduck        |   7.3.0.32621   | 官方 msi | https://cyberduck.io/                          |
-|          Kite          |  1.2020.327.0   | 官方 exe | https://kite.com/                              |
-| VirtualBox [含扩展包]  |      6.1.6      | 官方 exe | https://www.virtualbox.org/                    |
-| VMware Workstation Pro | 15.5.2-15785246 | 官方 exe | https://www.vmware.com/                        |
-|         uTools         |   0.8.9-beta    | 官方 exe | https://u.tools/                               |
-|    scoop-completion    |      0.2.2      | 社区 zip | https://github.com/Moeologist/scoop-completion |
-|      scoop-viewer      |      0.8.1      | 社区 zip | https://github.com/prezesp/scoop-viewer        |
+|          App           |      版本       | 安装文件 | 官网                                            |
+| :--------------------: | :-------------: | :------: | ----------------------------------------------- |
+|       Cyberduck        |   7.3.0.32621   | 官方 msi | https://cyberduck.io/                           |
+|          Kite          |  1.2020.327.0   | 官方 exe | https://kite.com/                               |
+| VirtualBox [含扩展包]  |      6.1.6      | 官方 exe | https://www.virtualbox.org/                     |
+| VMware Workstation Pro | 15.5.2-15785246 | 官方 exe | https://www.vmware.com/                         |
+|         uTools         |   0.8.9-beta    | 官方 exe | https://u.tools/                                |
+|    scoop-completion    |      0.2.2      | 社区 zip | https://github.com/Moeologist/scoop-completion/ |
+|      scoop-viewer      |      0.8.1      | 社区 zip | https://github.com/prezesp/scoop-viewer/        |
 
 ### 日常办公
 
-|       App        |     版本     | 安装文件 | 官网                                    |
-| :--------------: | :----------: | :------: | --------------------------------------- |
-|  Activity Watch  |    0.9.2     | 官方 zip | https://activitywatch.net/              |
-| Adobe Acrobat DC | 19.021.20061 | 官方 exe | https://acrobat.adobe.com/              |
-| Office Tool Plus |   7.5.0.3    | 官方 exe | https://github.com/YerongAI/Office-Tool |
-|       WPSOffice        |   11.1.0.9584   | 官方 exe | https://pc.wps.cn/                             |
-|        百度网盘        |     6.9.5.1     | 官方 exe | https://pan.baidu.com/                         |
-|       灵格斯词霸       |      2.9.2      | 便携 zip | http://www.lingoes.cn/                         |
-|        图片工厂        |     2.6.0.0     | 官方 exe | http://www.picosmos.net/                       |
+|       App        |     版本     | 安装文件 | 官网                                     |
+| :--------------: | :----------: | :------: | ---------------------------------------- |
+|  Activity Watch  |    0.9.2     | 官方 zip | https://activitywatch.net/               |
+| Adobe Acrobat DC | 19.021.20061 | 官方 exe | https://acrobat.adobe.com/               |
+| Office Tool Plus |   7.5.0.3    | 官方 exe | https://github.com/YerongAI/Office-Tool/ |
+|    WPSOffice     | 11.1.0.9584  | 官方 exe | https://pc.wps.cn/                       |
+|     百度网盘     |   6.9.5.1    | 官方 exe | https://pan.baidu.com/                   |
+|    灵格斯词霸    |    2.9.2     | 便携 zip | http://www.lingoes.cn/                   |
+|     图片工厂     |   2.6.0.0    | 官方 exe | http://www.picosmos.net/                 |
 
 
 
 ### 社交休闲
 
-|        App        |     版本     | 安装文件 | 官网                               |
-| :---------------: | :----------: | :------: | ---------------------------------- |
-|    网易云音乐     | 2.7.1.198242 | 官方 exe | https://music.163.com/             |
-|       微信        |     2.8      | 官方 exe | https://weixin.qq.com/             |
-|      You-Get      |   0.4.1403   | 社区 zip | https://github.com/soimort/you-get |
-| QQ [构建中。。。] |    9.2.3     | 官方 exe | https://im.qq.com/pcqq/            |
+|        App        |     版本     | 安装文件 | 官网                                |
+| :---------------: | :----------: | :------: | ----------------------------------- |
+|    网易云音乐     | 2.7.1.198242 | 官方 exe | https://music.163.com/              |
+|       微信        |     2.8      | 官方 exe | https://weixin.qq.com/              |
+|      You-Get      |   0.4.1403   | 社区 zip | https://github.com/soimort/you-get/ |
+| QQ [构建中。。。] |    9.2.3     | 官方 exe | https://im.qq.com/pcqq/             |

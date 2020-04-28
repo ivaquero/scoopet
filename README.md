@@ -128,42 +128,41 @@ scoop config aria2-min-split-size 4M
 | Mathpix Snipping Tool | 02.01.0021 | Official exe | https://mathpix.com/                  |
 |   Mendeley Desktop    |   1.19.4   | Official exe | https://www.mendeley.com/             |
 |        NetLogo        |   6.1.1    | Official msi | https://ccl.northwestern.edu/netlogo/ |
-|        Orange3        |   3.24.1   | Official exe | https://orange.biolab.si/             |
-|       SciDAVis        |    1.26    | Official msi | http://scidavis.sourceforge.net       |
+|       SciDAVis        |    1.26    | Official msi | http://scidavis.sourceforge.net/      |
 |         Weka          |   3.8.4    | Official exe | https://www.cs.waikato.ac.nz/ml/weka/ |
 
 ### Development Auxillary
 
-|               App                |     Version     |   Installer   | Homepage                                       |
-| :------------------------------: | :-------------: | :-----------: | ---------------------------------------------- |
-|            Cyberduck             |   7.3.0.32621   | Official msi  | https://cyberduck.io/                          |
-|               Kite               |  1.2020.327.0   | Official exe  | https://kite.com/                              |
-| VirtualBox [with Extension Pack] |      6.1.6      | Official exe  | https://www.virtualbox.org/                    |
-|      VMware Workstation Pro      | 15.5.2-15785246 | Official exe  | https://www.vmware.com/                        |
-|              uTools              |   0.8.9-beta    | Official exe  | https://u.tools/                               |
-|         scoop-completion         |      0.2.2      | Community zip | https://github.com/Moeologist/scoop-completion |
-|           scoop-viewer           |      0.8.1      | Community zip | https://github.com/prezesp/scoop-viewer        |
+|               App                |     Version     |   Installer   | Homepage                                        |
+| :------------------------------: | :-------------: | :-----------: | ----------------------------------------------- |
+|            Cyberduck             |   7.3.0.32621   | Official msi  | https://cyberduck.io/                           |
+|               Kite               |  1.2020.327.0   | Official exe  | https://kite.com/                               |
+| VirtualBox [with Extension Pack] |      6.1.6      | Official exe  | https://www.virtualbox.org/                     |
+|      VMware Workstation Pro      | 15.5.2-15785246 | Official exe  | https://www.vmware.com/                         |
+|              uTools              |   0.8.9-beta    | Official exe  | https://u.tools/                                |
+|         scoop-completion         |      0.2.2      | Community zip | https://github.com/Moeologist/scoop-completion/ |
+|           scoop-viewer           |      0.8.1      | Community zip | https://github.com/prezesp/scoop-viewer/        |
 
 ### Daily Work
 
-|       App        |   Version    |  Installer   | Homepage                                |
-| :--------------: | :----------: | :----------: | --------------------------------------- |
-|  Activity Watch  |    0.9.2     | Official zip | https://activitywatch.net/              |
-| Adobe Acrobat DC | 19.021.20061 | Official exe | https://acrobat.adobe.com/              |
-| Office Tool Plus |   7.5.0.3    | Official exe | https://github.com/YerongAI/Office-Tool |
-|    WPSOffice     | 11.1.0.9584  | Official exe | https://pc.wps.cn/                      |
-|   BaiduNetDisk   |   6.9.5.1    | Official exe | https://pan.baidu.com/                  |
-|     Lingoes      |    2.9.2     | Portable zip | http://www.lingoes.cn/                  |
-|     Picosmos     |   2.6.0.0    | Official exe | http://www.picosmos.net/                |
+|       App        |   Version    |  Installer   | Homepage                                 |
+| :--------------: | :----------: | :----------: | ---------------------------------------- |
+|  Activity Watch  |    0.9.2     | Official zip | https://activitywatch.net/               |
+| Adobe Acrobat DC | 19.021.20061 | Official exe | https://acrobat.adobe.com/               |
+| Office Tool Plus |   7.5.0.3    | Official exe | https://github.com/YerongAI/Office-Tool/ |
+|    WPSOffice     | 11.1.0.9584  | Official exe | https://pc.wps.cn/                       |
+|   BaiduNetDisk   |   6.9.5.1    | Official exe | https://pan.baidu.com/                   |
+|     Lingoes      |    2.9.2     | Portable zip | http://www.lingoes.cn/                   |
+|     Picosmos     |   2.6.0.0    | Official exe | http://www.picosmos.net/                 |
 
 
 
 ### Social & Entertainment
 
-|        App        |   Version    |   Installer   | Homepage                           |
-| :---------------: | :----------: | :-----------: | ---------------------------------- |
-|   Netease Music   | 2.7.1.198242 | Official exe  | https://music.163.com/             |
-|      Wechat       |     2.8      | Official exe  | https://weixin.qq.com/             |
-|      You-Get      |   0.4.1403   | Community zip | https://github.com/soimort/you-get |
-| QQ [Debugging...] |    9.2.3     | Official exe  | https://im.qq.com/pcqq/            |
+|        App        |   Version    |   Installer   | Homepage                            |
+| :---------------: | :----------: | :-----------: | ----------------------------------- |
+|   Netease Music   | 2.7.1.198242 | Official exe  | https://music.163.com/              |
+|      Wechat       |     2.8      | Official exe  | https://weixin.qq.com/              |
+|      You-Get      |   0.4.1403   | Community zip | https://github.com/soimort/you-get/ |
+| QQ [Debugging...] |    9.2.3     | Official exe  | https://im.qq.com/pcqq/             |
 |                   |
