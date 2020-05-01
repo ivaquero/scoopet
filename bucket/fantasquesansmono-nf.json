@@ -2,11 +2,12 @@
     "version": "2.1.0",
     "license": "MIT",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
-    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/CascadiaCode.zip",
-    "hash": "92b50960305c580fc90bb3bd5456e26edc9b321907dfa2578066a9b38e2a94e0",
+    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/FantasqueSansMono.zip",
+    "hash": "66bf67eb5031c1614e5f76b4e011860dd249a61350e5d921331c443b6609f090",
     "checkver": "github",
+    "depends": "sudo",
     "autoupdate": {
-        "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v$version/CascadiaCode.zip"
+        "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v$version/FantasqueSansMono.zip"
     },
     "installer": {
         "script": [
