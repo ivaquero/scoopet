@@ -159,6 +159,6 @@ scoop config aria2-min-split-size 4M
 |        App        |   Version    |   Installer   | Homepage                            |
 | :---------------: | :----------: | :-----------: | ----------------------------------- |
 |   Netease Music   | 2.7.1.198242 | Official exe  | https://music.163.com/              |
-|      Wechat       |     2.8      | Official exe  | https://weixin.qq.com/              |
+|      Wechat       |     2.9      | Official exe  | https://pc.weixin.qq.com/           |
 |      You-Get      |   0.4.1403   | Community zip | https://github.com/soimort/you-get/ |
 | QQ [Debugging...] |    9.2.3     | Official exe  | https://im.qq.com/pcqq/             |
