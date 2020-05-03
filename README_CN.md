@@ -137,11 +137,11 @@ scoop config aria2-min-split-size 4M
 
 |          App           |      版本       | 安装文件 | 官网                                            |
 | :--------------------: | :-------------: | :------: | ----------------------------------------------- |
-|       Cyberduck        |   7.3.0.32621   | 官方 msi | https://cyberduck.io/                           |
+|       Cyberduck        |   7.3.1.32784   | 官方 msi | https://cyberduck.io/                           |
 |          Kite          |  1.2020.327.0   | 官方 exe | https://kite.com/                               |
 | VirtualBox [含扩展包]  |      6.1.6      | 官方 exe | https://www.virtualbox.org/                     |
 | VMware Workstation Pro | 15.5.2-15785246 | 官方 exe | https://www.vmware.com/                         |
-|         uTools         |   0.8.9-beta    | 官方 exe | https://u.tools/                                |
+|         uTools         |   1.0.0-beta    | 官方 exe | https://u.tools/                                |
 |    scoop-completion    |      0.2.2      | 社区 zip | https://github.com/Moeologist/scoop-completion/ |
 |      scoop-viewer      |      0.8.1      | 社区 zip | https://github.com/prezesp/scoop-viewer/        |
 

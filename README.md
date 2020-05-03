@@ -134,11 +134,11 @@ scoop config aria2-min-split-size 4M
 
 |               App                |     Version     |   Installer   | Homepage                                        |
 | :------------------------------: | :-------------: | :-----------: | ----------------------------------------------- |
-|            Cyberduck             |   7.3.0.32621   | Official msi  | https://cyberduck.io/                           |
+|            Cyberduck             |   7.3.1.32784   | Official msi  | https://cyberduck.io/                           |
 |               Kite               |  1.2020.327.0   | Official exe  | https://kite.com/                               |
 | VirtualBox [with Extension Pack] |      6.1.6      | Official exe  | https://www.virtualbox.org/                     |
 |      VMware Workstation Pro      | 15.5.2-15785246 | Official exe  | https://www.vmware.com/                         |
-|              uTools              |   0.8.9-beta    | Official exe  | https://u.tools/                                |
+|              uTools              |   1.0.0-beta    | Official exe  | https://u.tools/                                |
 |         scoop-completion         |      0.2.2      | Community zip | https://github.com/Moeologist/scoop-completion/ |
 |           scoop-viewer           |      0.8.1      | Community zip | https://github.com/prezesp/scoop-viewer/        |
 
