@@ -3,8 +3,8 @@
     "description": "Free messaging and calling app.",
     "version": "2.8",
     "license": "Freeware",
-    "url": "https://dldir1.qq.com/weixin/Windows/WeChat_C1018.exe#/dl.7z",
-    "hash":"404370f1ab66abd3601fe19415b805effaa033d76f32e911743d2e12644b898b",
+    "url": "https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe#/dl.7z",
+    "hash":"4eb7fda85532da96b8cb9ddb27b1fcf5f1536b47b1d2ff762dd882fc4e597f06",
     "shortcuts": [
         [
             "wechat.exe",
@@ -16,5 +16,5 @@
         "Remove-Item \"$dir\\`$_15_\" -Force -Recurse",
         "Remove-Item \"$dir\\`$R5\" -Force -Recurse"
     ],
-    "autoupdate": "https://dldir1.qq.com/weixin/Windows/WeChat_C$version.exe#/dl.7z"
+    "autoupdate": "https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe#/dl.7z"
 }
