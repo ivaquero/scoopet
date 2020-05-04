@@ -118,6 +118,7 @@ scoop config aria2-min-split-size 4M
 
 |           App            |  Version   |  Installer   | Homepage                              |
 | :----------------------: | :--------: | :----------: | ------------------------------------- |
+|        Miniconda         |   4.8.2    | Official exe | https://conda.io/miniconda.html       |
 |      CopyTranslator      |   9.0.1    | Portable zip | https://copytranslator.github.io/     |
 |         GeoGebra         |  6.0.573   | Portable zip | https://www.geogebra.org/             |
 |          Gephi           |    0.92    | Official exe | https://gephi.org/                    |
