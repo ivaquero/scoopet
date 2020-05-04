@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://resource.u-tools.cn/currentversion/uTools-1.0.0-beta.exe#/dl.7z",
-            "hash": "sha512:31d5bed67ed6e3efa49c17be3b758d63d25f9c315a68f88b5d11194280ef62db2e6a4bded411544cca37fc83f95234e5c9e26f068a2935937786f704dd9c681b",
+            "hash": "eedea92032f9aca6f0d53131a31bd4fa1875ec8bfbbdd18db20fbc9a5918fda39fddb5fcc243b81271d733fdbc08fe5f3c2de70c662944c9ade6e2b1439bfd03",
             "installer": {
                 "script": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR/app-64.7z\" \"$dir\""
             }
