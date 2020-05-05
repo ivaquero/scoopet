@@ -61,7 +61,7 @@ wpsoffice-cn: update to version 11.1.0
 
 ### Social & Entertainment
 
-neteasemusic: update to version 2.7.1.198242
+neteasemusic: update to version 2.7.1
 
 wechat: update to version 2.9
 
