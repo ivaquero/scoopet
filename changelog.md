@@ -44,7 +44,7 @@ scoop-viewer: update to version 0.8.1
 
 activitywatch: update to version 0.9.2
 
-adobe-acrobat-dc: update to version 19.021.20061
+adobe-acrobat-dc: update to version 19.021
 
 file-converter: update to version 7.2.5.32097
 
