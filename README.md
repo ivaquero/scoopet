@@ -152,10 +152,11 @@ scoop config aria2-min-split-size 4M
 | Adobe Acrobat DC | 19.021.20061 | Official exe | https://acrobat.adobe.com/               |
 |   BaiduNetDisk   |   6.9.5.1    | Official exe | https://pan.baidu.com/                   |
 |  File Converter  | 7.2.5.32097  |   官方 msi   | https://file-converter.org/              |
+|     Lingoes      |    2.9.2     | Portable zip | http://www.lingoes.cn/                   |
 | Office Tool Plus |   7.5.0.3    | Official exe | https://github.com/YerongAI/Office-Tool/ |
 |    WPSOffice     | 11.1.0.9584  | Official exe | https://pc.wps.cn/                       |
 
-|     Lingoes      |    2.9.2     | Portable zip | http://www.lingoes.cn/                   |
+
 |     Picosmos     |   2.6.0.0    | Official exe | http://www.picosmos.net/                 |
 
 ### Social & Entertainment
