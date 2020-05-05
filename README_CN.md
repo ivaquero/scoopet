@@ -127,7 +127,7 @@ scoop config aria2-min-split-size 4M
 |     GIMP (Portable)      |  2.10.18-2   | 便携 exe | https://www.gimp.org/                 |
 |           LyX            |    2.3.4     | 官方 exe | https://www.lyx.org/                  |
 |  Mathpix Snipping Tool   |  02.01.0021  | 官方 exe | https://mathpix.com/                  |
-|     Mendeley Desktop     |    1.19.4    | 官方 exe | https://www.mendeley.com/             |
+|     Mendeley Desktop     |    1.19.6    | 官方 exe | https://www.mendeley.com/             |
 |        Miniconda         |    4.8.2     | 官方 exe | https://conda.io/miniconda.html       |
 |         NetLogo          |    6.1.1     | 官方 msi | https://ccl.northwestern.edu/netlogo/ |
 |           Kite           | 1.2020.327.0 | 官方 exe | https://kite.com/                     |
