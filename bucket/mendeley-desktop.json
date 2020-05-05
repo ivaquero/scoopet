@@ -1,9 +1,9 @@
 {
     "homepage": "http://www.mendeley.com/",
     "license": "freeware",
-    "version": "19.5",
-    "url": "https://desktop-download.mendeley.com/download/Mendeley-Desktop-1.19.5-win32.exe#/dl.7z",
-    "hash": "0d291c98f208854b1788410313d2be09c81278321c26acc8f6f0cee8c812f4cb",
+    "version": "19.6",
+    "url": "https://desktop-download.mendeley.com/download/Mendeley-Desktop-1.19.6-win32.exe#/dl.7z",
+    "hash": "cad45c309413213305a01976331114885206dc4d1e76f726a00afab0172bca17",
     "bin": "MendeleyDesktop.exe",
     "shortcuts": [
         [
