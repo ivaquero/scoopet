@@ -58,7 +58,6 @@ picosmos: update to version 2.6.0.0
 
 wpsoffice-cn: update to version 11.1.0
 
-
 ### Social & Entertainment
 
 neteasemusic: update to version 2.7.1
