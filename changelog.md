@@ -26,7 +26,7 @@ weka: update to version 3.8.4
 
 ### Development Auxillary
 
-adoptopenjdk-hotspot: update to version 14.0.1-7
+adoptopenjdk-hotspot: update to version 14.0.1
 
 cyberduck: update to version 7.3.1.32784
 
