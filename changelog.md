@@ -2,7 +2,7 @@
 
 copytranslator: update to version 9.0.1
 
-geogebra: update to version 6.0.573
+geogebra: update to version 6.0.578
 
 gephi: update to version 0.92
 
