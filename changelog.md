@@ -56,7 +56,7 @@ officetoolplus: update to version 7.5.0.3
 
 picosmos: update to version 2.6.0.0
 
-wpsoffice-cn: update to version 11.1.0.9584
+wpsoffice-cn: update to version 11.1.0
 
 
 ### Social & Entertainment
