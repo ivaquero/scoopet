@@ -34,7 +34,7 @@ utools: update to version 1.0.0-beta
 
 virtualbox-with-extension-pack: update to version 6.1.6
 
-vmware-workstation-pro: update to version 15.5.2-15785246
+vmware-workstation-pro: update to version 15.5.2
 
 scoop-completion: update to version 0.2.2
 
