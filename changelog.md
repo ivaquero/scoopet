@@ -6,7 +6,7 @@ geogebra: update to version 6.0.578
 
 gephi: update to version 0.92
 
-gimp-portable: update to version 2.10.18-2
+gimp-portable: update to version 2.10.18
 
 lyx: update to version 2.3.4
 
