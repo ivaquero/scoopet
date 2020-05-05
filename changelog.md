@@ -18,7 +18,7 @@ miniconda: update to version 4.8.2
 
 netlogo: update to version 6.1.1
 
-kite: update to version 1.2020.327.0
+kite: update to version 1.2020
 
 scidavis: update to version 1.26
 
