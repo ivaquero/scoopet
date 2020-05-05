@@ -10,7 +10,7 @@ gimp-portable: update to version 2.10.18
 
 lyx: update to version 2.3.4
 
-mathpix-snipping-tool: update to version 02.01.0021
+mathpix-snipping-tool: update to version 02.01
 
 mendeley-desktop: update to version 1.19.6
 
