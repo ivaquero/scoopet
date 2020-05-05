@@ -119,30 +119,31 @@ scoop config aria2-min-split-size 4M
 
 ### 科研工具
 
-|           App            |    版本    | 安装文件 | 官网                                  |
-| :----------------------: | :--------: | :------: | ------------------------------------- |
-|        Miniconda         |   4.8.2    | 官方 exe | https://conda.io/miniconda.html       |
-|      CopyTranslator      |   9.0.1    | 便携 zip | https://copytranslator.github.io/     |
-|         GeoGebra         |  6.0.573   | 便携 zip | https://www.geogebra.org/             |
-|          Gephi           |    0.92    | 官方 exe | https://gephi.org/                    |
-|     GIMP (Portable)      | 2.10.18-2  | 便携 exe | https://www.gimp.org/                 |
-|           LyX            |   2.3.4    | 官方 exe | https://www.lyx.org/                  |
-|  Mathpix Snipping Tool   | 02.01.0021 | 官方 exe | https://mathpix.com/                  |
-|     Mendeley Desktop     |   1.19.4   | 官方 exe | https://www.mendeley.com/             |
-|         NetLogo          |   6.1.1    | 官方 msi | https://ccl.northwestern.edu/netlogo/ |
-|         SciDAVis         |    1.26    | 官方 msi | http://scidavis.sourceforge.net/      |
-|           Weka           |   3.8.4    | 官方 exe | https://www.cs.waikato.ac.nz/ml/weka/ |
-| Cytoscape [构建中。。。] |   3.8.0    | 官方 zip | https://cytoscape.org/                |
+|           App            |     版本     | 安装文件 | 官网                                  |
+| :----------------------: | :----------: | :------: | ------------------------------------- |
+|      CopyTranslator      |    9.0.1     | 便携 zip | https://copytranslator.github.io/     |
+|         GeoGebra         |   6.0.573    | 便携 zip | https://www.geogebra.org/             |
+|          Gephi           |     0.92     | 官方 exe | https://gephi.org/                    |
+|     GIMP (Portable)      |  2.10.18-2   | 便携 exe | https://www.gimp.org/                 |
+|           LyX            |    2.3.4     | 官方 exe | https://www.lyx.org/                  |
+|  Mathpix Snipping Tool   |  02.01.0021  | 官方 exe | https://mathpix.com/                  |
+|     Mendeley Desktop     |    1.19.4    | 官方 exe | https://www.mendeley.com/             |
+|        Miniconda         |    4.8.2     | 官方 exe | https://conda.io/miniconda.html       |
+|         NetLogo          |    6.1.1     | 官方 msi | https://ccl.northwestern.edu/netlogo/ |
+|           Kite           | 1.2020.327.0 | 官方 exe | https://kite.com/                     |
+|         SciDAVis         |     1.26     | 官方 msi | http://scidavis.sourceforge.net/      |
+|           Weka           |    3.8.4     | 官方 exe | https://www.cs.waikato.ac.nz/ml/weka/ |
+| Cytoscape [构建中。。。] |    3.8.0     | 官方 zip | https://cytoscape.org/                |
 
 ### 开发辅助
 
 |          App           |      版本       | 安装文件 | 官网                                            |
 | :--------------------: | :-------------: | :------: | ----------------------------------------------- |
+|  Adoptopenjdk-Hotspot  |    14.0.1-7     | 官方 zip | https://adoptopenjdk.net                        |
 |       Cyberduck        |   7.3.1.32784   | 官方 msi | https://cyberduck.io/                           |
-|          Kite          |  1.2020.327.0   | 官方 exe | https://kite.com/                               |
+|         uTools         |   1.0.0-beta    | 官方 exe | https://u.tools/                                |
 | VirtualBox [含扩展包]  |      6.1.6      | 官方 exe | https://www.virtualbox.org/                     |
 | VMware Workstation Pro | 15.5.2-15785246 | 官方 exe | https://www.vmware.com/                         |
-|         uTools         |   1.0.0-beta    | 官方 exe | https://u.tools/                                |
 |    scoop-completion    |      0.2.2      | 社区 zip | https://github.com/Moeologist/scoop-completion/ |
 |      scoop-viewer      |      0.8.1      | 社区 zip | https://github.com/prezesp/scoop-viewer/        |
 
@@ -152,6 +153,7 @@ scoop config aria2-min-split-size 4M
 | :--------------: | :----------: | :------: | ---------------------------------------- |
 |  Activity Watch  |    0.9.2     | 官方 zip | https://activitywatch.net/               |
 | Adobe Acrobat DC | 19.021.20061 | 官方 exe | https://acrobat.adobe.com/               |
+|  File Converter  | 7.2.5.32097  | 官方 msi | https://file-converter.org/              |
 | Office Tool Plus |   7.5.0.3    | 官方 exe | https://github.com/YerongAI/Office-Tool/ |
 |    WPSOffice     | 11.1.0.9584  | 官方 exe | https://pc.wps.cn/                       |
 |     百度网盘     |   6.9.5.1    | 官方 exe | https://pan.baidu.com/                   |
