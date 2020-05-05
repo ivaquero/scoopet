@@ -12,7 +12,7 @@ lyx: update to version 2.3.4
 
 mathpix-snipping-tool: update to version 02.01.0021
 
-mendeley-desktop: update to version 1.19.4
+mendeley-desktop: update to version 1.19.6
 
 miniconda: update to version 4.8.2
 
