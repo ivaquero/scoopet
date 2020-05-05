@@ -46,9 +46,9 @@ activitywatch: update to version 0.9.2
 
 adobe-acrobat-dc: update to version 19.021
 
-file-converter: update to version 7.2.5
-
 baidunetdisk: update to version 6.9.5.1
+
+file-converter: update to version 7.2.5
 
 lingoes: update to version 2.9.2
 
