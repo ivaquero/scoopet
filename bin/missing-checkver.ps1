@@ -37,5 +37,3 @@ begin {
 }
 
 process { Invoke-Expression -Command "$env:SCOOP_HOME\bin\missing-checkver.ps1 -App ""$Manifest"" -Dir ""$Dir"" $Rest" }
-
-end { Write-Host 'DONE' -ForegroundColor Yellow }
