@@ -160,7 +160,6 @@ scoop config aria2-min-split-size 4M
 |     百度网盘     |   6.9.5.1    | 官方 exe | https://pan.baidu.com/                   |
 |    灵格斯词霸    |    2.9.2     | 便携 zip | http://www.lingoes.cn/                   |
 |     图片工厂     |   2.6.0.0    | 官方 exe | http://www.picosmos.net/                 |
-|   万彩办公大师   |    3.0.6     | 官方 zip | http://www.wofficebox.com/               |
 
 ### 社交休闲
 
