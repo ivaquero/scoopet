@@ -30,7 +30,7 @@ adoptopenjdk-hotspot: update to version 14.0.1
 
 cyberduck: update to version 7.3.1
 
-utools: update to version 1.0.0-beta
+utools: update to version 1.0.6-beta
 
 virtualbox-with-extension-pack: update to version 6.1.6
 
