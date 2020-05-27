@@ -141,7 +141,7 @@ scoop config aria2-min-split-size 4M
 |          App           |      版本       | 安装文件 | 官网                                            |
 | :--------------------: | :-------------: | :------: | ----------------------------------------------- |
 |  Adoptopenjdk-Hotspot  |    14.0.1-7     | 官方 zip | https://adoptopenjdk.net                        |
-|       Cyberduck        |   7.3.1.32784   | 官方 msi | https://cyberduck.io/                           |
+|       Cyberduck        |   7.4.0.32960   | 官方 msi | https://cyberduck.io/                           |
 |         uTools         |   1.0.6-beta    | 官方 exe | https://u.tools/                                |
 | VirtualBox [含扩展包]  |      6.1.6      | 官方 exe | https://www.virtualbox.org/                     |
 | VMware Workstation Pro | 15.5.2-15785246 | 官方 exe | https://www.vmware.com/                         |

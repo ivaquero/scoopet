@@ -30,7 +30,7 @@ weka: update to version 3.8.4
 
 adoptopenjdk-hotspot: update to version 14.0.1
 
-cyberduck: update to version 7.3.1
+cyberduck: update to version 7.4.0
 
 utools: update to version 1.0.6-beta
 
