@@ -1,5 +1,5 @@
 {
-    "version": "4.8.2",
+    "version": "latest",
     "homepage": "https://conda.io/miniconda.html",
     "description": "Miniconda is a free minimal installer for conda.",
     "license": "BSD-3-Clause",
