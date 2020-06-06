@@ -38,7 +38,7 @@ virtualbox-with-extension-pack: update to version 6.1.6
 
 vmware-workstation-pro: update to version 15.5.2
 
-scoop-completion: update to version 0.2.2
+scoop-completion: update to version 0.2.3
 
 scoop-viewer: update to version 0.8.1
 

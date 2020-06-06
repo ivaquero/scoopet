@@ -142,7 +142,7 @@ scoop config aria2-min-split-size 4M
 |              uTools              |   1.0.7-beta    | Official exe  | https://u.tools/                                |
 | VirtualBox [with Extension Pack] |      6.1.6      | Official exe  | https://www.virtualbox.org/                     |
 |      VMware Workstation Pro      | 15.5.2-15785246 | Official exe  | https://www.vmware.com/                         |
-|         scoop-completion         |      0.2.2      | Community zip | https://github.com/Moeologist/scoop-completion/ |
+|         scoop-completion         |      0.2.3      | Community zip | https://github.com/Moeologist/scoop-completion/ |
 |           scoop-viewer           |      0.8.1      | Community zip | https://github.com/prezesp/scoop-viewer/        |
 
 ### Daily Work

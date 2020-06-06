@@ -145,7 +145,7 @@ scoop config aria2-min-split-size 4M
 |         uTools         |   1.0.7-beta    | 官方 exe | https://u.tools/                                |
 | VirtualBox [含扩展包]  |      6.1.6      | 官方 exe | https://www.virtualbox.org/                     |
 | VMware Workstation Pro | 15.5.2-15785246 | 官方 exe | https://www.vmware.com/                         |
-|    scoop-completion    |      0.2.2      | 社区 zip | https://github.com/Moeologist/scoop-completion/ |
+|    scoop-completion    |      0.2.3      | 社区 zip | https://github.com/Moeologist/scoop-completion/ |
 |      scoop-viewer      |      0.8.1      | 社区 zip | https://github.com/prezesp/scoop-viewer/        |
 
 ### 日常办公
