@@ -54,7 +54,7 @@ file-converter: update to version 7.2.5
 
 lingoes: update to version 2.9.2
 
-officetoolplus: update to version 7.5.0.3
+officetoolplus: update to version 7.6.0.0
 
 picosmos: update to version 2.6.0.0
 
