@@ -123,6 +123,7 @@ scoop config aria2-min-split-size 4M
 |          Gephi           |     0.92     | Official exe | https://gephi.org/                       |
 |     GIMP (Portable)      |  2.10.18-2   | Portable exe | https://www.gimp.org/                    |
 |        Grammarly         |   1.5.65.0   | Official exe | https://www.grammarly.com/native/windows |
+|          Julia           |     1.5      |  Mirror exe  | https://julialang.org                    |
 |           LyX            |    2.3.4     | Official exe | https://www.lyx.org/                     |
 |  Mathpix Snipping Tool   |  02.01.0021  | Official exe | https://mathpix.com/                     |
 |     Mendeley Desktop     |    1.19.6    | Official exe | https://www.mendeley.com/                |

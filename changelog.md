@@ -10,6 +10,8 @@ gimp-portable: update to version 2.10.18
 
 grammarly: update to version 1.5.65
 
+julia-cn: update to version 1.5
+
 lyx: update to version 2.3.4
 
 mathpix-snipping-tool: update to version 02.01
