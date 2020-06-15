@@ -1,13 +1,19 @@
 <div align="left">
 <h1 align="left"> 🍨 Scoopet 🍨 </h1>
 
-<p> A Personal Bucket for the Best Windows Package Manager <a href="https://github.com/lukesampson/scoop">Scoop</a>.
+<p> A Personal Bucket for the Best Windows Package Manager <a href="https://github.com/lukesampson/scoop">Scoop: Commitment to facilitating research</a>.
 </p>
 
 <p align="left">
-        <a href="README.md">English</a>|<a href="README_CN.md">简体中文</a>
+        <a href="README.md">English</a> | <a href="README_CN.md">简体中文</a>
 </p>
 </div>
+
+For ones familiar with Scoop: 
+
+```
+scoop bucket add scoopet https://github.com/integzz/scoopet
+```
 
 # :running: To Start
 

@@ -2,13 +2,19 @@
 <h1 align="left"> 🍨 Scoopet 🍨 </h1>
 
 <p>
-一个用于 Windows 最佳命令行软件管理器<a href="https://github.com/lukesampson/scoop">Scoop</a>的脚本仓库
+一个用于 Windows 最佳命令行软件管理器<a href="https://github.com/lukesampson/scoop">Scoop</a>的脚本仓库：致力于便利科研
 </p>
 
 <p align="left">
-        <a href="README.md">English</a>|<a href="README_CN.md">简体中文</a>
+        <a href="README.md">English</a> | <a href="README_CN.md">简体中文</a>
 </p>
 </div>
+
+对于熟悉 Scoop 的用户：
+
+```
+scoop bucket add scoopet https://github.com/integzz/scoopet
+```
 
 # :running: 开始
 
