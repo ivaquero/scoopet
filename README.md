@@ -116,29 +116,29 @@ scoop config aria2-min-split-size 4M
 
 ### Research Tools
 
-|           App            |   Version    |  Installer   | Homepage                                 |
-| :----------------------: | :----------: | :----------: | ---------------------------------------- |
-|      CopyTranslator      |    9.0.1     | Portable zip | https://copytranslator.github.io/        |
-|         GeoGebra         |   6.0.580    | Portable zip | https://www.geogebra.org/                |
-|          Gephi           |     0.92     | Official exe | https://gephi.org/                       |
-|     GIMP (Portable)      |  2.10.18-2   | Portable exe | https://www.gimp.org/                    |
-|        Grammarly         |   1.5.65.0   | Official exe | https://www.grammarly.com/native/windows |
-|          Julia           |     1.5      |  Mirror exe  | https://julialang.org                    |
-|           LyX            |    2.3.4     | Official exe | https://www.lyx.org/                     |
-|  Mathpix Snipping Tool   |  02.01.0021  | Official exe | https://mathpix.com/                     |
-|     Mendeley Desktop     |    1.19.6    | Official exe | https://www.mendeley.com/                |
-|        Miniconda         |    4.8.2     | Official exe | https://conda.io/miniconda.html          |
-|         NetLogo          |    6.1.1     | Official msi | https://ccl.northwestern.edu/netlogo/    |
-|           Kite           | 1.2020.327.0 | Official exe | https://kite.com/                        |
-|         SciDAVis         |     1.26     | Official msi | http://scidavis.sourceforge.net/         |
-|           Weka           |    3.8.4     | Official exe | https://www.cs.waikato.ac.nz/ml/weka/    |
-| Cytoscape [Debugging...] |    3.8.0     | Official zip | https://cytoscape.org/                   |
+|           App            |   Version    |  Installer   | Homepage                                  |
+| :----------------------: | :----------: | :----------: | ----------------------------------------- |
+|      CopyTranslator      |    9.0.1     | Portable zip | https://copytranslator.github.io/         |
+|         GeoGebra         |   6.0.580    | Portable zip | https://www.geogebra.org/                 |
+|          Gephi           |     0.92     | Official exe | https://gephi.org/                        |
+|     GIMP (Portable)      |  2.10.18-2   | Portable exe | https://www.gimp.org/                     |
+|        Grammarly         |   1.5.65.0   | Official exe | https://www.grammarly.com/native/windows/ |
+|          Julia           |     1.5      |  Mirror exe  | https://julialang.org/                    |
+|           LyX            |    2.3.4     | Official exe | https://www.lyx.org/                      |
+|  Mathpix Snipping Tool   |  02.01.0021  | Official exe | https://mathpix.com/                      |
+|     Mendeley Desktop     |    1.19.6    | Official exe | https://www.mendeley.com/                 |
+|        Miniconda         |    4.8.2     | Official exe | https://conda.io/miniconda.html/          |
+|         NetLogo          |    6.1.1     | Official msi | https://ccl.northwestern.edu/netlogo/     |
+|           Kite           | 1.2020.327.0 | Official exe | https://kite.com/                         |
+|         SciDAVis         |     1.26     | Official msi | http://scidavis.sourceforge.net/          |
+|           Weka           |    3.8.4     | Official exe | https://www.cs.waikato.ac.nz/ml/weka/     |
+| Cytoscape [Debugging...] |    3.8.0     | Official zip | https://cytoscape.org/                    |
 
 ### Development Auxillary
 
 |               App                |     Version     |   Installer   | Homepage                                        |
 | :------------------------------: | :-------------: | :-----------: | ----------------------------------------------- |
-|       Adoptopenjdk-Hotspot       |    14.0.1-7     | Official zip  | https://adoptopenjdk.net                        |
+|       Adoptopenjdk-Hotspot       |    14.0.1-7     | Official zip  | https://adoptopenjdk.net/                       |
 |            Cyberduck             |   7.4.0.32960   | Official msi  | https://cyberduck.io/                           |
 |              uTools              |   1.0.7-beta    | Official exe  | https://u.tools/                                |
 | VirtualBox [with Extension Pack] |      6.1.6      | Official exe  | https://www.virtualbox.org/                     |
@@ -153,7 +153,7 @@ scoop config aria2-min-split-size 4M
 |  Activity Watch  |    0.9.2     | Official zip | https://activitywatch.net/               |
 | Adobe Acrobat DC | 19.021.20061 | Official exe | https://acrobat.adobe.com/               |
 |   BaiduNetDisk   |   6.9.5.1    | Official exe | https://pan.baidu.com/                   |
-|  File Converter  | 7.2.5.32097  |   官方 msi   | https://file-converter.org/              |
+|  File Converter  | 7.2.5.32097  | Official msi | https://file-converter.org/              |
 |     Lingoes      |    2.9.2     | Portable zip | http://www.lingoes.cn/                   |
 | Office Tool Plus |   7.6.0.0    | Official exe | https://github.com/YerongAI/Office-Tool/ |
 |     Picosmos     |   2.6.0.0    | Official exe | http://www.picosmos.net/                 |

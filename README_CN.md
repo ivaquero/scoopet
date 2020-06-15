@@ -119,29 +119,29 @@ scoop config aria2-min-split-size 4M
 
 ### 科研工具
 
-|           App            |     版本     | 安装文件 | 官网                                     |
-| :----------------------: | :----------: | :------: | ---------------------------------------- |
-|      CopyTranslator      |    9.0.1     | 便携 zip | https://copytranslator.github.io/        |
-|         GeoGebra         |   6.0.580    | 便携 zip | https://www.geogebra.org/                |
-|          Gephi           |     0.92     | 官方 exe | https://gephi.org/                       |
-|     GIMP (Portable)      |  2.10.18-2   | 便携 exe | https://www.gimp.org/                    |
-|        Grammarly         |   1.5.65.0   | 官方 exe | https://www.grammarly.com/native/windows |
-|          Julia           |     1.5      | 镜像 exe  | https://julialang.org                    |
-|           LyX            |    2.3.4     | 官方 exe | https://www.lyx.org/                     |
-|  Mathpix Snipping Tool   |  02.01.0021  | 官方 exe | https://mathpix.com/                     |
-|     Mendeley Desktop     |    1.19.6    | 官方 exe | https://www.mendeley.com/                |
-|        Miniconda         |    4.8.2     | 官方 exe | https://conda.io/miniconda.html          |
-|         NetLogo          |    6.1.1     | 官方 msi | https://ccl.northwestern.edu/netlogo/    |
-|           Kite           | 1.2020.327.0 | 官方 exe | https://kite.com/                        |
-|         SciDAVis         |     1.26     | 官方 msi | http://scidavis.sourceforge.net/         |
-|           Weka           |    3.8.4     | 官方 exe | https://www.cs.waikato.ac.nz/ml/weka/    |
-| Cytoscape [构建中。。。] |    3.8.0     | 官方 zip | https://cytoscape.org/                   |
+|           App            |     版本     | 安装文件 | 官网                                      |
+| :----------------------: | :----------: | :------: | ----------------------------------------- |
+|      CopyTranslator      |    9.0.1     | 便携 zip | https://copytranslator.github.io/         |
+|         GeoGebra         |   6.0.580    | 便携 zip | https://www.geogebra.org/                 |
+|          Gephi           |     0.92     | 官方 exe | https://gephi.org/                        |
+|     GIMP (Portable)      |  2.10.18-2   | 便携 exe | https://www.gimp.org/                     |
+|        Grammarly         |   1.5.65.0   | 官方 exe | https://www.grammarly.com/native/windows/ |
+|          Julia           |     1.5      | 镜像 exe | https://julialang.org/                    |
+|           LyX            |    2.3.4     | 官方 exe | https://www.lyx.org/                      |
+|  Mathpix Snipping Tool   |  02.01.0021  | 官方 exe | https://mathpix.com/                      |
+|     Mendeley Desktop     |    1.19.6    | 官方 exe | https://www.mendeley.com/                 |
+|        Miniconda         |    4.8.2     | 官方 exe | https://conda.io/miniconda.html/          |
+|         NetLogo          |    6.1.1     | 官方 msi | https://ccl.northwestern.edu/netlogo/     |
+|           Kite           | 1.2020.327.0 | 官方 exe | https://kite.com/                         |
+|         SciDAVis         |     1.26     | 官方 msi | http://scidavis.sourceforge.net/          |
+|           Weka           |    3.8.4     | 官方 exe | https://www.cs.waikato.ac.nz/ml/weka/     |
+| Cytoscape [构建中。。。] |    3.8.0     | 官方 zip | https://cytoscape.org/                    |
 
 ### 开发辅助
 
 |          App           |      版本       | 安装文件 | 官网                                            |
 | :--------------------: | :-------------: | :------: | ----------------------------------------------- |
-|  Adoptopenjdk-Hotspot  |    14.0.1-7     | 官方 zip | https://adoptopenjdk.net                        |
+|  Adoptopenjdk-Hotspot  |    14.0.1-7     | 官方 zip | https://adoptopenjdk.net/                       |
 |       Cyberduck        |   7.4.0.32960   | 官方 msi | https://cyberduck.io/                           |
 |         uTools         |   1.0.7-beta    | 官方 exe | https://u.tools/                                |
 | VirtualBox [含扩展包]  |      6.1.6      | 官方 exe | https://www.virtualbox.org/                     |
