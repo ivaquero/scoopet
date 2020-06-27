@@ -3,7 +3,7 @@
     "version": "02.01.0021",
     "license": "freeware",
     "url": "https://mathpix.com/win_app/mathpix_snipping_tool_setup.exe",
-    "hash": "613769739372b96e8424c3bf7c3ced5ff4b393c0dfc8136b5438da83aad50a54",
+    "hash": "1FAC169554856169FC6635DDE20B2BE8AE6A34979F3FD63D62D3B9BA8B9A272A",
     "innosetup": true,
     "bin": "mathpix-snipping-tool.exe",
     "shortcuts": [
