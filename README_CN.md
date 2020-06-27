@@ -164,7 +164,7 @@ scoop config aria2-min-split-size 4M
 |  File Converter  | 7.2.5.32097  | 官方 msi | https://file-converter.org/              |
 | Office Tool Plus |   7.6.0.0    | 官方 exe | https://github.com/YerongAI/Office-Tool/ |
 |    WPSOffice     | 11.1.0.9740  | 官方 exe | https://pc.wps.cn/                       |
-|     百度网盘     |   6.9.10.1    | 官方 exe | https://pan.baidu.com/                   |
+|     百度网盘     |   6.9.10.1   | 官方 exe | https://pan.baidu.com/                   |
 |    灵格斯词霸    |    2.9.2     | 便携 zip | http://www.lingoes.cn/                   |
 |     图片工厂     |   2.6.0.0    | 官方 exe | http://www.picosmos.net/                 |
 
@@ -173,6 +173,6 @@ scoop config aria2-min-split-size 4M
 |        App        |     版本     | 安装文件 | 官网                                |
 | :---------------: | :----------: | :------: | ----------------------------------- |
 |    网易云音乐     | 2.7.1.198242 | 官方 exe | https://music.163.com/              |
-|       微信        |     2.9      | 官方 exe | https://pc.weixin.qq.com/           |
+|       微信        |  2.9.0.144   | 官方 exe | https://pc.weixin.qq.com/           |
 |      You-Get      |   0.4.1403   | 社区 zip | https://github.com/soimort/you-get/ |
 | QQ [构建中。。。] |    9.2.3     | 官方 exe | https://im.qq.com/pcqq/             |
