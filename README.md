@@ -158,7 +158,7 @@ scoop config aria2-min-split-size 4M
 | :--------------: | :----------: | :----------: | ---------------------------------------- |
 |  Activity Watch  |    0.9.2     | Official zip | https://activitywatch.net/               |
 | Adobe Acrobat DC | 19.021.20061 | Official exe | https://acrobat.adobe.com/               |
-|   BaiduNetDisk   |   6.9.5.1    | Official exe | https://pan.baidu.com/                   |
+|   BaiduNetDisk   |   6.9.10.1    | Official exe | https://pan.baidu.com/                   |
 |  File Converter  | 7.2.5.32097  | Official msi | https://file-converter.org/              |
 |     Lingoes      |    2.9.2     | Portable zip | http://www.lingoes.cn/                   |
 | Office Tool Plus |   7.6.0.0    | Official exe | https://github.com/YerongAI/Office-Tool/ |

@@ -7,7 +7,7 @@
     "description": "A dynamic mathematics software for education that brings together geometry, algebra, spreadsheets, graphing, statistics and calculus.",
     "version": "6.0.591",
     "url": "https://download.geogebra.org/installers/6.0/GeoGebra-Windows-Portable-6-0-591-0.zip",
-    "hash": "3717a7841b743b5026930084feb8d6aa869aa33ac48df5cd0d2e666ab2baf4f7",
+    "hash": "0C18CC0B7B29D80A9C1B4E9F78E8561ADE818A480BABC4E1EAA31ACD46FFE22A",
     "bin": [
     	"GeoGebra.exe",
     	"GeoGebraGraphing.exe",
