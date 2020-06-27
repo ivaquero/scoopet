@@ -14,7 +14,7 @@ julia-cn: update to version 1.5
 
 lyx: update to version 2.3.4
 
-mathpix-snipping-tool: update to version 02.01
+mathpix-snipping-tool: update to version 02.05.0009
 
 mendeley-desktop: update to version 1.19.6
 

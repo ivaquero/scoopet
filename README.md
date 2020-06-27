@@ -131,7 +131,7 @@ scoop config aria2-min-split-size 4M
 |        Grammarly         |   1.5.65.0   | Official exe | https://www.grammarly.com/native/windows/ |
 |          Julia           |     1.5      |  Mirror exe  | https://julialang.org/                    |
 |           LyX            |    2.3.4     | Official exe | https://www.lyx.org/                      |
-|  Mathpix Snipping Tool   |  02.01.0021  | Official exe | https://mathpix.com/                      |
+|  Mathpix Snipping Tool   |  02.05.0009  | Official exe | https://mathpix.com/                      |
 |     Mendeley Desktop     |    1.19.6    | Official exe | https://www.mendeley.com/                 |
 |        Miniconda         |    4.8.2     | Official exe | https://conda.io/miniconda.html/          |
 |         NetLogo          |    6.1.1     | Official msi | https://ccl.northwestern.edu/netlogo/     |

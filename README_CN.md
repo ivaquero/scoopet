@@ -134,7 +134,7 @@ scoop config aria2-min-split-size 4M
 |        Grammarly         |   1.5.65.0   | 官方 exe | https://www.grammarly.com/native/windows/ |
 |          Julia           |     1.5      | 镜像 exe | https://julialang.org/                    |
 |           LyX            |    2.3.4     | 官方 exe | https://www.lyx.org/                      |
-|  Mathpix Snipping Tool   |  02.01.0021  | 官方 exe | https://mathpix.com/                      |
+|  Mathpix Snipping Tool   |  02.05.0009  | 官方 exe | https://mathpix.com/                      |
 |     Mendeley Desktop     |    1.19.6    | 官方 exe | https://www.mendeley.com/                 |
 |        Miniconda         |    4.8.2     | 官方 exe | https://conda.io/miniconda.html/          |
 |         NetLogo          |    6.1.1     | 官方 msi | https://ccl.northwestern.edu/netlogo/     |
