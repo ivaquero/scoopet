@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe",
-            "hash": "md5:20d6bd9b3bd62f1fd874315b6b38c159"
+            "hash": "6003DBD4D1A9F0C9E64943468D00CF9F6DD2D34CFA0D00C58FE9D175D64C056C"
         },
         "32bit": {
             "url": "https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86.exe",
