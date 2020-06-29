@@ -18,7 +18,7 @@ mathpix-snipping-tool: update to version 02.05.0009
 
 mendeley-desktop: update to version 1.19.6
 
-miniconda: update to version 4.8.2
+miniconda3-cn: update to version 4.8.3
 
 netlogo: update to version 6.1.1
 
