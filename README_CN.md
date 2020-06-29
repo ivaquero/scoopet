@@ -133,13 +133,11 @@ scoop config aria2-min-split-size 4M
 |     GIMP (Portable)      |  2.10.18-2   | 便携 exe | https://www.gimp.org/                     |
 |        Grammarly         |   1.5.65.0   | 官方 exe | https://www.grammarly.com/native/windows/ |
 |          Julia           |     1.5      | 镜像 exe | https://julialang.org/                    |
-|           LyX            |    2.3.4     | 官方 exe | https://www.lyx.org/                      |
 |  Mathpix Snipping Tool   |  02.05.0009  | 官方 exe | https://mathpix.com/                      |
 |     Mendeley Desktop     |    1.19.6    | 官方 exe | https://www.mendeley.com/                 |
 |        Miniconda         |    4.8.2     | 官方 exe | https://conda.io/miniconda.html/          |
 |         NetLogo          |    6.1.1     | 官方 msi | https://ccl.northwestern.edu/netlogo/     |
 |           Kite           | 1.2020.327.0 | 官方 exe | https://kite.com/                         |
-|         SciDAVis         |     1.26     | 官方 msi | http://scidavis.sourceforge.net/          |
 |           Weka           |    3.8.4     | 官方 exe | https://www.cs.waikato.ac.nz/ml/weka/     |
 | Cytoscape [构建中。。。] |    3.8.0     | 官方 zip | https://cytoscape.org/                    |
 
@@ -153,7 +151,6 @@ scoop config aria2-min-split-size 4M
 | VirtualBox [含扩展包]  |      6.1.6      | 官方 exe | https://www.virtualbox.org/                     |
 | VMware Workstation Pro | 15.5.2-15785246 | 官方 exe | https://www.vmware.com/                         |
 |    scoop-completion    |      0.2.3      | 社区 zip | https://github.com/Moeologist/scoop-completion/ |
-|      scoop-viewer      |      0.8.1      | 社区 zip | https://github.com/prezesp/scoop-viewer/        |
 
 ### 日常办公
 

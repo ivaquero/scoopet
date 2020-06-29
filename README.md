@@ -130,13 +130,11 @@ scoop config aria2-min-split-size 4M
 |     GIMP (Portable)      |  2.10.18-2   | Portable exe | https://www.gimp.org/                     |
 |        Grammarly         |   1.5.65.0   | Official exe | https://www.grammarly.com/native/windows/ |
 |          Julia           |     1.5      |  Mirror exe  | https://julialang.org/                    |
-|           LyX            |    2.3.4     | Official exe | https://www.lyx.org/                      |
 |  Mathpix Snipping Tool   |  02.05.0009  | Official exe | https://mathpix.com/                      |
 |     Mendeley Desktop     |    1.19.6    | Official exe | https://www.mendeley.com/                 |
 |        Miniconda         |    4.8.2     | Official exe | https://conda.io/miniconda.html/          |
 |         NetLogo          |    6.1.1     | Official msi | https://ccl.northwestern.edu/netlogo/     |
 |           Kite           | 1.2020.327.0 | Official exe | https://kite.com/                         |
-|         SciDAVis         |     1.26     | Official msi | http://scidavis.sourceforge.net/          |
 |           Weka           |    3.8.4     | Official exe | https://www.cs.waikato.ac.nz/ml/weka/     |
 | Cytoscape [Debugging...] |    3.8.0     | Official zip | https://cytoscape.org/                    |
 
@@ -150,7 +148,6 @@ scoop config aria2-min-split-size 4M
 | VirtualBox [with Extension Pack] |      6.1.6      | Official exe  | https://www.virtualbox.org/                     |
 |      VMware Workstation Pro      | 15.5.2-15785246 | Official exe  | https://www.vmware.com/                         |
 |         scoop-completion         |      0.2.3      | Community zip | https://github.com/Moeologist/scoop-completion/ |
-|           scoop-viewer           |      0.8.1      | Community zip | https://github.com/prezesp/scoop-viewer/        |
 
 ### Daily Work
 
