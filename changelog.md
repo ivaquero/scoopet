@@ -58,6 +58,6 @@ wpsoffice-cn: update to version 11.1.0.9828
 
 neteasemusic: update to version 2.7.1
 
-wechat: update to version 2.9.0.144
+wechat: update to version 2.9.5
 
 you-get: update to version 0.4.1403
