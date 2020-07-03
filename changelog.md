@@ -32,7 +32,7 @@ cyberduck: update to version 7.4.0
 
 utools: update to version 1.1.3
 
-virtualbox-with-extension-pack: update to version 6.1.6
+virtualbox-with-extension-pack: update to version 6.1.10
 
 vmware-workstation-pro: update to version 15.5.2
 
