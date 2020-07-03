@@ -144,7 +144,7 @@ scoop config aria2-min-split-size 4M
 | :------------------------------: | :-------------: | :-----------: | ----------------------------------------------- |
 |       Adoptopenjdk-Hotspot       |    14.0.1-7     | Official zip  | https://adoptopenjdk.net/                       |
 |            Cyberduck             |   7.4.0.32960   | Official msi  | https://cyberduck.io/                           |
-|              uTools              |   1.0.7-beta    | Official exe  | https://u.tools/                                |
+|              uTools              |      1.1.3      | Official exe  | https://u.tools/                                |
 | VirtualBox [with Extension Pack] |      6.1.6      | Official exe  | https://www.virtualbox.org/                     |
 |      VMware Workstation Pro      | 15.5.2-15785246 | Official exe  | https://www.vmware.com/                         |
 |         scoop-completion         |      0.2.3      | Community zip | https://github.com/Moeologist/scoop-completion/ |
