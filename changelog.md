@@ -1,6 +1,6 @@
 ### Research Tools
 
-copytranslator: update to version 9.0.1
+copytranslator: update to version 9.1.0
 
 geogebra: update to version 6.0.591
 

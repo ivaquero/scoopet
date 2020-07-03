@@ -124,7 +124,7 @@ scoop config aria2-min-split-size 4M
 
 |           App            |   Version    |  Installer   | Homepage                                  |
 | :----------------------: | :----------: | :----------: | ----------------------------------------- |
-|      CopyTranslator      |    9.0.1     | Portable zip | https://copytranslator.github.io/         |
+|      CopyTranslator      |    9.1.0     | Portable zip | https://copytranslator.github.io/         |
 |         GeoGebra         |   6.0.591    | Portable zip | https://www.geogebra.org/                 |
 |          Gephi           |     0.92     | Official exe | https://gephi.org/                        |
 |     GIMP (Portable)      |  2.10.18-2   | Portable exe | https://www.gimp.org/                     |
