@@ -160,7 +160,7 @@ scoop config aria2-min-split-size 4M
 |     Lingoes      |    2.9.2     | Portable zip | http://www.lingoes.cn/                   |
 | Office Tool Plus |   7.6.0.0    | Official exe | https://github.com/YerongAI/Office-Tool/ |
 |     Picosmos     |   2.6.0.0    | Official exe | http://www.picosmos.net/                 |
-|    WPSOffice     | 11.1.0.9740  | Official exe | https://pc.wps.cn/                       |
+|    WPSOffice     | 11.1.0.9828  | Official exe | https://pc.wps.cn/                       |
 
 
 ### Social & Entertainment
