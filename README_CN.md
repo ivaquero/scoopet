@@ -156,7 +156,6 @@ scoop config aria2-min-split-size 4M
 
 |       App        |     版本     | 安装文件 | 官网                                     |
 | :--------------: | :----------: | :------: | ---------------------------------------- |
-|  Activity Watch  |    0.9.2     | 官方 zip | https://activitywatch.net/               |
 | Adobe Acrobat DC | 19.021.20061 | 官方 exe | https://acrobat.adobe.com/               |
 |  File Converter  | 7.2.5.32097  | 官方 msi | https://file-converter.org/              |
 | Office Tool Plus |   7.6.0.0    | 官方 exe | https://github.com/YerongAI/Office-Tool/ |

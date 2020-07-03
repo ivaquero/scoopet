@@ -153,7 +153,6 @@ scoop config aria2-min-split-size 4M
 
 |       App        |   Version    |  Installer   | Homepage                                 |
 | :--------------: | :----------: | :----------: | ---------------------------------------- |
-|  Activity Watch  |    0.9.2     | Official zip | https://activitywatch.net/               |
 | Adobe Acrobat DC | 19.021.20061 | Official exe | https://acrobat.adobe.com/               |
 |   BaiduNetDisk   |   6.9.10.1   | Official exe | https://pan.baidu.com/                   |
 |  File Converter  | 7.2.5.32097  | Official msi | https://file-converter.org/              |
