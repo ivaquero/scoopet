@@ -159,6 +159,7 @@ scoop config aria2-min-split-size 4M
 | Adobe Acrobat DC | 19.021.20061 | 官方 exe | https://acrobat.adobe.com/               |
 |  File Converter  | 7.2.5.32097  | 官方 msi | https://file-converter.org/              |
 | Office Tool Plus |   7.6.0.0    | 官方 exe | https://github.com/YerongAI/Office-Tool/ |
+|    VeraCrypt     |    1.246     | 便携 exe | https://www.veracrypt.fr/                |
 |    WPSOffice     | 11.1.0.9828  | 官方 exe | https://pc.wps.cn/                       |
 |     百度网盘     |   6.9.10.1   | 官方 exe | https://pan.baidu.com/                   |
 |    灵格斯词霸    |    2.9.2     | 便携 zip | http://www.lingoes.cn/                   |
