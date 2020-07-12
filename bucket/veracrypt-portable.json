@@ -1,0 +1,10 @@
+{
+    "homepage": "https://www.veracrypt.fr/",
+    "description": "VeraCrypt is a free open source disk encryption software for Windows, Mac OSX and Linux.",
+    "license": "GPL-2.0-or-later",
+    "version": "1.246",
+    "url": "https://portableapps.com/redirect/?a=VeraCryptPortable&s=s&d=pa&f=VeraCryptPortable_1.24_Update_6.paf.exe#/dl.7z",
+    "hash": "9b6a0b6839f5486f986d91d4ad130e965fcb6fd8a9c82ba365fc628226bfb567",
+    "bin": "VeraCrypt.exe",
+    "shortcuts": [["VeraCrypt.exe", "VeraCrypt"]]
+}

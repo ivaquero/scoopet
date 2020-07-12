@@ -52,7 +52,7 @@ officetoolplus: update to version 7.6.0.0
 
 picosmos: update to version 2.6.0.0
 
-veracrypt: update to version 1.246
+veracrypt-portable: update to version 1.246
 
 wpsoffice-cn: update to version 11.1.0.9828
 
