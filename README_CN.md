@@ -147,6 +147,7 @@ scoop config aria2-min-split-size 4M
 | :--------------------: | :-------------: | :------: | ----------------------------------------------- |
 |  Adoptopenjdk-Hotspot  |    14.0.1-7     | 官方 zip | https://adoptopenjdk.net/                       |
 |       Cyberduck        |   7.4.1.33065   | 官方 msi | https://cyberduck.io/                           |
+|       Powertoys        |     0.19.2      | 社区 msi | https://github.com/microsoft/PowerToys          |
 |         uTools         |      1.1.3      | 官方 exe | https://u.tools/                                |
 | VirtualBox [含扩展包]  |     6.1.10      | 官方 exe | https://www.virtualbox.org/                     |
 | VMware Workstation Pro | 15.5.2-15785246 | 官方 exe | https://www.vmware.com/                         |

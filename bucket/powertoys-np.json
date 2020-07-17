@@ -1,0 +1,31 @@
+{
+    "version": "0.19.2",
+    "description": "System utilities to maximize productivity.",
+    "homepage": "https://github.com/microsoft/PowerToys",
+    "license": "MIT",
+    "depends": "dotnet-sdk",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/microsoft/PowerToys/releases/download/v0.19.2/PowerToysSetup-0.19.2-x64.msi#/setup.msi_",
+            "hash": "eae7c5374be2a354bf0ce2345043f9170c6cd6a9f67900ad147fd33f107528b8"
+        }
+    },
+    "installer": {
+        "script": [
+            "Invoke-ExternalCommand msiexec -ArgumentList @('/i', \"$dir\\setup.msi_\", '/qn', \"INSTALLFOLDER=`\"$dir`\"\") -RunAs | Out-Null",
+            "Remove-Item \"$([Environment]::GetFolderPath('commonstartmenu'))\\Programs\\PowerToys*.lnk\""
+        ]
+    },
+    "uninstaller": {
+        "script": "Invoke-ExternalCommand msiexec -ArgumentList @('/x', \"$dir\\setup.msi_\", '/qn') -RunAs | Out-Null"
+    },
+    "shortcuts": [["PowerToys.exe", "PowerToys"]],
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/microsoft/PowerToys/releases/download/v$version/PowerToysSetup-$version-x64.msi#/setup.msi_"
+            }
+        }
+    }
+}

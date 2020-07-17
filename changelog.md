@@ -30,6 +30,8 @@ adoptopenjdk-hotspot: update to version 14.0.1
 
 cyberduck: update to version 7.4.1.33065
 
+powertoys-np: update to version 0.19.2
+
 utools: update to version 1.1.3
 
 virtualbox: update to version 6.1.10
