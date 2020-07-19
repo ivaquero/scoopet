@@ -32,7 +32,7 @@ $env:SCOOP='Your_Scoop_Path'
 [Environment]::SetEnvironmentVariable('SCOOP', $env:SCOOP, 'User')
 ```
 
-> If you skip this step, all user installed Apps and Scoop itself will live in `C:\Users\user_name\scoop`.
+> If you skip this step, all user installed Apps and Scoop itself will live in `c:/users/user_name/scoop`.
 
 ### :hammer: Step 3: Download and install Scoop
 

@@ -33,7 +33,7 @@ $env:SCOOP='Your_Scoop_Path'
 [Environment]::SetEnvironmentVariable('SCOOP', $env:SCOOP, 'User')
 ```
 
-> 如果跳过该步骤， Scoop 将默认把所有用户安装的 App 和 Scoop 本身置于`C:\Users\user_name\scoop`
+> 如果跳过该步骤， Scoop 将默认把所有用户安装的 App 和 Scoop 本身置于`c:/users/user_name/scoop`
 
 ### :hammer: 步骤 3：下载并安装 Scoop
 
