@@ -1,13 +1,12 @@
 {
     "homepage": "https://www.disktool.cn/",
-    "description": "分区助手是一款免费、专业级的无损分区工具，提供简单、易用的磁盘分区管理操作。",
+    "description": "Partition Assistant is a free, professional, non-destructive partitioning tool that provides simple, easy-to-use disk partition management operations.",
     "version": "8.3",
     "license": "Freeware",
     "url": "https://www2.aomeisoftware.com/download/pacn/PAGreen.zip",
     "hash": "46605C46318162D22295E24A04526C32585C7E23860C6B3F7CD7A9A7D6B7B151",
     "extract_dir": "PA_Green",
     "shortcuts": [["PartAssist.exe", "PA_Green"]],
-    "checkver": "github",
     "autoupdate": {
         "url": "https://www2.aomeisoftware.com/download/pacn/PAGreen.zip"
     }
