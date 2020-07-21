@@ -127,8 +127,8 @@ scoop config aria2-min-split-size 4M
 
 |           App            |     版本     | 安装文件 | 官网                                      |
 | :----------------------: | :----------: | :------: | ----------------------------------------- |
-|      CopyTranslator      |    9.1.0     | 便携 zip | https://copytranslator.github.io/         |
-|         GeoGebra         |   6.0.591    | 便携 zip | https://www.geogebra.org/                 |
+|      CopyTranslator      |    9.1.0     | 社区 zip | https://copytranslator.github.io/         |
+|    GeoGebra-Portable     |   6.0.591    | 官方 zip | https://www.geogebra.org/                 |
 |          Gephi           |     0.92     | 官方 exe | https://gephi.org/                        |
 |      GIMP-Portable       |  2.10.18-2   | 社区 exe | https://www.gimp.org/                     |
 |        Grammarly         |   1.5.65.0   | 官方 exe | https://www.grammarly.com/native/windows/ |
@@ -150,7 +150,8 @@ scoop config aria2-min-split-size 4M
 |         uTools         |      1.1.3      | 官方 exe | https://u.tools/                                |
 | VirtualBox [含扩展包]  |     6.1.10      | 官方 exe | https://www.virtualbox.org/                     |
 | VMware Workstation Pro | 15.5.2-15785246 | 官方 exe | https://www.vmware.com/                         |
-|    scoop-completion    |      0.2.3      | 官方 zip | https://github.com/Moeologist/scoop-completion/ |
+|    scoop-completion    |      0.2.3      | 社区 zip | https://github.com/Moeologist/scoop-completion/ |
+|        分区助手        |       8.3       | 官方 zip | https://www.disktool.cn/                        |
 
 ### 日常办公
 
@@ -158,11 +159,11 @@ scoop config aria2-min-split-size 4M
 | :----------------: | :----------: | :------: | ---------------------------------------- |
 |  Adobe Acrobat DC  | 19.021.20061 | 官方 exe | https://acrobat.adobe.com/               |
 |   File Converter   | 7.2.5.32097  | 官方 msi | https://file-converter.org/              |
-|  Office Tool Plus  |   7.6.0.0    | 官方 exe | https://github.com/YerongAI/Office-Tool/ |
+|  Office Tool Plus  |   7.6.0.0    | 社区 exe | https://github.com/YerongAI/Office-Tool/ |
 | VeraCrypt-Portable |    1.246     | 社区 exe | https://www.veracrypt.fr/                |
 |     WPSOffice      | 11.1.0.9828  | 官方 exe | https://pc.wps.cn/                       |
 |      百度网盘      |   6.9.10.1   | 官方 exe | https://pan.baidu.com/                   |
-|     灵格斯词霸     |    2.9.2     | 便携 zip | http://www.lingoes.cn/                   |
+|     灵格斯词霸     |    2.9.2     | 社区 zip | http://www.lingoes.cn/                   |
 |      图片工厂      |   2.6.0.0    | 官方 exe | http://www.picosmos.net/                 |
 
 ### 社交休闲

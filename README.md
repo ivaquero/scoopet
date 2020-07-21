@@ -1,7 +1,7 @@
 <div align="left">
 <h1 align="left"> 🍨 Scoopet 🍨 </h1>
 
-<p> A Personal Bucket for the Best Windows Package Manager <a href="https://github.com/lukesampson/scoop">Scoop: Commitment to facilitating research</a>.
+<p> A Community Bucket for the Best Windows Package Manager <a href="https://github.com/lukesampson/scoop">Scoop: Commitment to facilitating research</a>.
 </p>
 
 <p align="left">
@@ -124,8 +124,8 @@ scoop config aria2-min-split-size 4M
 
 |           App            |   Version    |   Installer   | Homepage                                  |
 | :----------------------: | :----------: | :-----------: | ----------------------------------------- |
-|      CopyTranslator      |    9.1.0     | Portable zip  | https://copytranslator.github.io/         |
-|         GeoGebra         |   6.0.591    | Portable zip  | https://www.geogebra.org/                 |
+|      CopyTranslator      |    9.1.0     | Community zip | https://copytranslator.github.io/         |
+|    GeoGebra-Portable     |   6.0.591    | Official zip  | https://www.geogebra.org/                 |
 |          Gephi           |     0.92     | Official exe  | https://gephi.org/                        |
 |      GIMP-Portable       |  2.10.18-2   | Community exe | https://www.gimp.org/                     |
 |        Grammarly         |   1.5.65.0   | Official exe  | https://www.grammarly.com/native/windows/ |
@@ -140,14 +140,15 @@ scoop config aria2-min-split-size 4M
 
 ### Development Auxillary
 
-|               App                |     Version     |  Installer   | Homepage                                        |
-| :------------------------------: | :-------------: | :----------: | ----------------------------------------------- |
-|       Adoptopenjdk-Hotspot       |    14.0.1-7     | Official zip | https://adoptopenjdk.net/                       |
-|            Cyberduck             |   7.4.1.33065   | Official msi | https://cyberduck.io/                           |
-|              uTools              |      1.1.3      | Official exe | https://u.tools/                                |
-| VirtualBox [with Extension Pack] |     6.1.10      | Official exe | https://www.virtualbox.org/                     |
-|      VMware Workstation Pro      | 15.5.2-15785246 | Official exe | https://www.vmware.com/                         |
-|         scoop-completion         |      0.2.3      | Official zip | https://github.com/Moeologist/scoop-completion/ |
+|               App                |     Version     |   Installer   | Homepage                                        |
+| :------------------------------: | :-------------: | :-----------: | ----------------------------------------------- |
+|       Adoptopenjdk-Hotspot       |    14.0.1-7     | Official zip  | https://adoptopenjdk.net/                       |
+|            Cyberduck             |   7.4.1.33065   | Official msi  | https://cyberduck.io/                           |
+|       Partition Assistant        |       8.3       | Official zip  | https://www.disktool.cn/                        |
+|              uTools              |      1.1.3      | Official exe  | https://u.tools/                                |
+| VirtualBox [with Extension Pack] |     6.1.10      | Official exe  | https://www.virtualbox.org/                     |
+|      VMware Workstation Pro      | 15.5.2-15785246 | Official exe  | https://www.vmware.com/                         |
+|         scoop-completion         |      0.2.3      | Community zip | https://github.com/Moeologist/scoop-completion/ |
 
 ### Daily Work
 
@@ -156,8 +157,8 @@ scoop config aria2-min-split-size 4M
 |  Adobe Acrobat DC  | 19.021.20061 | Official exe  | https://acrobat.adobe.com/               |
 |    BaiduNetDisk    |   6.9.10.1   | Official exe  | https://pan.baidu.com/                   |
 |   File Converter   | 7.2.5.32097  | Official msi  | https://file-converter.org/              |
-|      Lingoes       |    2.9.2     | Portable zip  | http://www.lingoes.cn/                   |
-|  Office Tool Plus  |   7.6.0.0    | Official exe  | https://github.com/YerongAI/Office-Tool/ |
+|      Lingoes       |    2.9.2     | Community zip | http://www.lingoes.cn/                   |
+|  Office Tool Plus  |   7.6.0.0    | Community exe | https://github.com/YerongAI/Office-Tool/ |
 |      Picosmos      |   2.6.0.0    | Official exe  | http://www.picosmos.net/                 |
 | VeraCrypt-Portable |    1.246     | Community exe | https://www.veracrypt.fr/                |
 |     WPSOffice      | 11.1.0.9828  | Official exe  | https://pc.wps.cn/                       |

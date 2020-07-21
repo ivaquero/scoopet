@@ -30,7 +30,7 @@ adoptopenjdk-hotspot: update to version 14.0.1
 
 cyberduck: update to version 7.4.1.33065
 
-powertoys-np: update to version 0.19.2
+partition-assistant: update to version 8.3
 
 utools: update to version 1.1.3
 
