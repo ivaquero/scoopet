@@ -122,45 +122,45 @@ scoop config aria2-min-split-size 4M
 
 ### Research Tools
 
-|           App            |   Version    |  Installer   | Homepage                                  |
-| :----------------------: | :----------: | :----------: | ----------------------------------------- |
-|      CopyTranslator      |    9.1.0     | Portable zip | https://copytranslator.github.io/         |
-|         GeoGebra         |   6.0.591    | Portable zip | https://www.geogebra.org/                 |
-|          Gephi           |     0.92     | Official exe | https://gephi.org/                        |
-|     GIMP (Portable)      |  2.10.18-2   | Portable exe | https://www.gimp.org/                     |
-|        Grammarly         |   1.5.65.0   | Official exe | https://www.grammarly.com/native/windows/ |
-|         Julia-cn         |     1.5      |  Mirror exe  | https://julialang.org/                    |
-|  Mathpix Snipping Tool   |  02.05.0009  | Official exe | https://mathpix.com/                      |
-|     Mendeley Desktop     |    1.19.6    | Official exe | https://www.mendeley.com/                 |
-|       Miniconda-cn       |    4.8.3     |  Mirror exe  | https://conda.io/miniconda.html/          |
-|         NetLogo          |    6.1.1     | Official msi | https://ccl.northwestern.edu/netlogo/     |
-|           Kite           | 1.2020.327.0 | Official exe | https://kite.com/                         |
-|           Weka           |    3.8.4     | Official exe | https://www.cs.waikato.ac.nz/ml/weka/     |
-| Cytoscape [Debugging...] |    3.8.0     | Official zip | https://cytoscape.org/                    |
+|           App            |   Version    |   Installer   | Homepage                                  |
+| :----------------------: | :----------: | :-----------: | ----------------------------------------- |
+|      CopyTranslator      |    9.1.0     | Portable zip  | https://copytranslator.github.io/         |
+|         GeoGebra         |   6.0.591    | Portable zip  | https://www.geogebra.org/                 |
+|          Gephi           |     0.92     | Official exe  | https://gephi.org/                        |
+|      GIMP-Portable       |  2.10.18-2   | Community exe | https://www.gimp.org/                     |
+|        Grammarly         |   1.5.65.0   | Official exe  | https://www.grammarly.com/native/windows/ |
+|         Julia-cn         |     1.5      |  Mirror exe   | https://julialang.org/                    |
+|  Mathpix Snipping Tool   |  02.05.0009  | Official exe  | https://mathpix.com/                      |
+|     Mendeley Desktop     |    1.19.6    | Official exe  | https://www.mendeley.com/                 |
+|       Miniconda-cn       |    4.8.3     |  Mirror exe   | https://conda.io/miniconda.html/          |
+|         NetLogo          |    6.1.1     | Official msi  | https://ccl.northwestern.edu/netlogo/     |
+|           Kite           | 1.2020.327.0 | Official exe  | https://kite.com/                         |
+|           Weka           |    3.8.4     | Official exe  | https://www.cs.waikato.ac.nz/ml/weka/     |
+| Cytoscape [Debugging...] |    3.8.0     | Official zip  | https://cytoscape.org/                    |
 
 ### Development Auxillary
 
-|               App                |     Version     |   Installer   | Homepage                                        |
-| :------------------------------: | :-------------: | :-----------: | ----------------------------------------------- |
-|       Adoptopenjdk-Hotspot       |    14.0.1-7     | Official zip  | https://adoptopenjdk.net/                       |
-|            Cyberduck             |   7.4.1.33065   | Official msi  | https://cyberduck.io/                           |
-|              uTools              |      1.1.3      | Official exe  | https://u.tools/                                |
-| VirtualBox [with Extension Pack] |     6.1.10      | Official exe  | https://www.virtualbox.org/                     |
-|      VMware Workstation Pro      | 15.5.2-15785246 | Official exe  | https://www.vmware.com/                         |
-|         scoop-completion         |      0.2.3      | Community zip | https://github.com/Moeologist/scoop-completion/ |
+|               App                |     Version     |  Installer   | Homepage                                        |
+| :------------------------------: | :-------------: | :----------: | ----------------------------------------------- |
+|       Adoptopenjdk-Hotspot       |    14.0.1-7     | Official zip | https://adoptopenjdk.net/                       |
+|            Cyberduck             |   7.4.1.33065   | Official msi | https://cyberduck.io/                           |
+|              uTools              |      1.1.3      | Official exe | https://u.tools/                                |
+| VirtualBox [with Extension Pack] |     6.1.10      | Official exe | https://www.virtualbox.org/                     |
+|      VMware Workstation Pro      | 15.5.2-15785246 | Official exe | https://www.vmware.com/                         |
+|         scoop-completion         |      0.2.3      | Official zip | https://github.com/Moeologist/scoop-completion/ |
 
 ### Daily Work
 
-|        App         |   Version    |  Installer   | Homepage                                 |
-| :----------------: | :----------: | :----------: | ---------------------------------------- |
-|  Adobe Acrobat DC  | 19.021.20061 | Official exe | https://acrobat.adobe.com/               |
-|    BaiduNetDisk    |   6.9.10.1   | Official exe | https://pan.baidu.com/                   |
-|   File Converter   | 7.2.5.32097  | Official msi | https://file-converter.org/              |
-|      Lingoes       |    2.9.2     | Portable zip | http://www.lingoes.cn/                   |
-|  Office Tool Plus  |   7.6.0.0    | Official exe | https://github.com/YerongAI/Office-Tool/ |
-|      Picosmos      |   2.6.0.0    | Official exe | http://www.picosmos.net/                 |
-| VeraCrypt-Portable |    1.246     | Portable exe | https://www.veracrypt.fr/                |
-|     WPSOffice      | 11.1.0.9828  | Official exe | https://pc.wps.cn/                       |
+|        App         |   Version    |   Installer   | Homepage                                 |
+| :----------------: | :----------: | :-----------: | ---------------------------------------- |
+|  Adobe Acrobat DC  | 19.021.20061 | Official exe  | https://acrobat.adobe.com/               |
+|    BaiduNetDisk    |   6.9.10.1   | Official exe  | https://pan.baidu.com/                   |
+|   File Converter   | 7.2.5.32097  | Official msi  | https://file-converter.org/              |
+|      Lingoes       |    2.9.2     | Portable zip  | http://www.lingoes.cn/                   |
+|  Office Tool Plus  |   7.6.0.0    | Official exe  | https://github.com/YerongAI/Office-Tool/ |
+|      Picosmos      |   2.6.0.0    | Official exe  | http://www.picosmos.net/                 |
+| VeraCrypt-Portable |    1.246     | Community exe | https://www.veracrypt.fr/                |
+|     WPSOffice      | 11.1.0.9828  | Official exe  | https://pc.wps.cn/                       |
 
 
 ### Social & Entertainment
