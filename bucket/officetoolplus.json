@@ -8,6 +8,7 @@
     "extract_dir": "Office Tool",
     "shortcuts": [["Office Tool Plus.exe", "Office Tool Plus"]],
     "persist": "Office",
+    "checkver": "https://github.com/YerongAI/Office-Tool",
     "autoupdate": {
         "url": "https://github.com/YerongAI/Office-Tool/releases/download/$version/Office-Tool-v$majorVersion.$minorVersion.zip"
     }
