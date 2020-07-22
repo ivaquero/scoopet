@@ -8,30 +8,17 @@
     "version": "6.0.591",
     "url": "https://download.geogebra.org/installers/6.0/GeoGebra-Windows-Portable-6-0-591-0.zip",
     "hash": "0C18CC0B7B29D80A9C1B4E9F78E8561ADE818A480BABC4E1EAA31ACD46FFE22A",
-    "bin": [
-    	"GeoGebra.exe",
-    	"GeoGebraGraphing.exe",
-    	"GeoGebraGeometry.exe"
-    ],
+    "bin": ["GeoGebra.exe", "GeoGebraGraphing.exe", "GeoGebraGeometry.exe"],
     "shortcuts": [
-    	[
-    		"GeoGebra.exe",
-    		"GeoGebra"
-    	],
-    	[
-    		"GeoGebraGraphing.exe",
-    		"GeoGebra Graphing"
-    	],
-    	[
-    		"GeoGebraGeometry.exe",
-    		"GeoGebra Geometry"
-    	]
-	],
-	"checkver": {
+        ["GeoGebra.exe", "GeoGebra"],
+        ["GeoGebraGraphing.exe", "GeoGebra Graphing"],
+        ["GeoGebraGeometry.exe", "GeoGebra Geometry"]
+    ],
+    "checkver": {
         "url": "https://download.geogebra.org/installers/6.0/",
         "re": "GeoGebra-Windows-Portable-6-0-([\\d.]+)-0.zip"
-	},
-	"autoupdate": {
+    },
+    "autoupdate": {
         "url": "https://download.geogebra.org/installers/6.0/GeoGebra-Windows-Portable-$version.zip"
     }
 }

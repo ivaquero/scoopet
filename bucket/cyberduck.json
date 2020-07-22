@@ -6,12 +6,7 @@
     "url": "https://update.cyberduck.io/windows/Cyberduck-Installer-7.4.1.33065.msi",
     "hash": "316ea55361a89b7a2ea67a9f609b6a6f882b2afd9dc10558791daad3895070c5",
     "extract_dir": "Cyberduck",
-    "shortcuts": [
-        [
-            "Cyberduck.exe",
-            "Cyberduck"
-        ]
-    ],
+    "shortcuts": [["Cyberduck.exe", "Cyberduck"]],
     "checkver": {
         "url": "https://cyberduck.io/changelog/",
         "re": "Cyberduck-Installer-([\\d.]+).msi"

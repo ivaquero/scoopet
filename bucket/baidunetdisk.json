@@ -17,10 +17,5 @@
     "autoupdate": {
         "url": "http://wppkg.baidupcs.com/issue/netdisk/yunguanjia/BaiduNetdisk_$version.exe#/dl.7z"
     },
-    "shortcuts": [
-        [
-            "BaiduNetdisk.exe",
-            "百度网盘"
-        ]
-    ]
+    "shortcuts": [["BaiduNetdisk.exe", "百度网盘"]]
 }
