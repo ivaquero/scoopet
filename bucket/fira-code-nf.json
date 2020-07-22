@@ -4,7 +4,9 @@
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
     "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/FiraCode.zip",
     "hash": "21de9aa0edaa3fd2dc1d87fb9ecec0b67c9b3b18bd1998a19904158067fea7e7",
-    "checkver": "github",
+    "checkver": {
+        "github": "https://github.com/ryanoasis/nerd-fonts"
+    },
     "depends": "sudo",
     "autoupdate": {
         "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v$version/FiraCode.zip"
