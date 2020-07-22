@@ -7,8 +7,16 @@
     "hash": "cc8dbf806baa157fd34876c940bead660c30d160d391c0189826b5fe270678fb",
     "innosetup": true,
     "bin": "bin/Gephi.exe",
-    "shortcuts": [["bin/Gephi.exe", "Gephi"]],
+    "shortcuts": [
+        [
+            "bin/Gephi.exe",
+            "Gephi"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/gephi/gephi"
+    },
     "autoupdate": {
-        "url": "https://github.com/gephi/gephi/releases/download/$version/gephi-$majorVersion.$minorVersion-windows.exe"
+        "url": "https://github.com/gephi/gephi/releases/download/$version/gephi-$version-windows.exe"
     }
 }

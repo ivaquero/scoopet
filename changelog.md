@@ -46,7 +46,7 @@ adobe-acrobat-dc: update to version 19.021
 
 baidunetdisk: update to version 6.9.10.1
 
-file-converter: update to version 7.2.5
+file-converter: update to version 1.2.3
 
 lingoes: update to version 2.9.2
 
