@@ -53,10 +53,6 @@
             "}"
         ]
     },
-    "checkver": {
-        "url": "https://en.wikipedia.org/wiki/Adobe_Acrobat",
-        "re": "Windows, continuous track</th><td>([\\d.]+)"
-    },
     "autoupdate": {
         "url": "http://ardownload.adobe.com/pub/adobe/reader/win/AcrobatDC/$dirtyVersion/AcroRdrDCUpd$dirtyVersion.msp#/setup.msp_"
     }
