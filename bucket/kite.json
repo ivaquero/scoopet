@@ -2,8 +2,8 @@
     "homepage": "https://kite.com/",
     "description": "AI Autocomplete and Docs for Python",
     "license": "Freeware",
-    "version": "1.2020.327.0",
-    "url": "https://draqv87tt43s0.cloudfront.net/windows/1.2020.327.0/KiteSetup.exe",
+    "version": "1.2020.720.0",
+    "url": "https://kitedownloadss.b-cdn.net/windows/1.2020.720.0/KiteSetup.exe",
     "hash": "51ea4d057b289b149698758f10d7990aab49c38a2deb7b088ea593bc27feeca3",
     "installer": {
         "args": [
@@ -19,6 +19,6 @@
         "args": "/S"
     },
     "autoupdate": {
-        "url": "https://draqv87tt43s0.cloudfront.net/windows/$version/KiteSetup.exe"
+        "url": "https://kitedownloadss.b-cdn.net/windows/$version/KiteSetup.exe"
     }
 }
