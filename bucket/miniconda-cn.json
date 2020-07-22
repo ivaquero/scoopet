@@ -14,16 +14,8 @@
         }
     },
     "checkver": {
-        "architecture": {
-            "64bit": {
-                "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/",
-                "regex": "Miniconda3-([\\d.]+)-Windows"
-            },
-            "32bit": {
-                "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/",
-                "regex": "Miniconda3-([\\d.]+)-Windows"
-            }
-        }
+        "url": "https://repo.continuum.io/miniconda",
+        "re": "Miniconda3-([\\d.]+)-Windows"
     },
     "autoupdate": {
         "architecture": {

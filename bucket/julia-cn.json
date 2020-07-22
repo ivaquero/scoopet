@@ -9,23 +9,15 @@
             "hash": "dcc36de24e93f65648c62180cb00e04b5f46b169e7cb77535f0324e4ce0dcb61"
         },
         "32bit": {
-            "url": "https://mirrors.bfsu.edu.cn/julia-releases/bin/winnt/x32/1.5/julia-1.5-latest-win32.exe",
+            "url": "https://mirrors.bfsu.edu.cn/julia-releases/bin/winnt/x86/1.5/julia-1.5-latest-win32.exe",
             "hash": "b9727a85a87531604c11e6574e55992858cb6a342cd5e0661bc31ea1e7bdd267"
         }
     },
     "innosetup": true,
     "bin": "bin\\julia.exe",
     "checkver": {
-        "architecture": {
-            "64bit": {
-                "url": "https://mirrors.bfsu.edu.cn/julia-releases/bin/winnt/x64/",
-                "regex": "([\\d.]+)/julia-([\\d.]+)-latest-win64.exe"
-            },
-            "32bit": {
-                "url": "https://mirrors.bfsu.edu.cn/julia-releases/bin/winnt/x64/",
-                "regex": "([\\d.]+)/julia-([\\d.]+)-latest-win32.exe"
-            }
-        }
+        "url": "https://julialang.org/downloads/",
+        "re": "Current stable release: v([\\d.]+)"
     },
     "autoupdate": {
         "architecture": {
@@ -33,7 +25,7 @@
                 "url": "https://mirrors.bfsu.edu.cn/julia-releases/bin/winnt/x64/$majorVersion.$minorVersion/julia-$version-latest-win64.exe"
             },
             "32bit": {
-                "url": "https://mirrors.bfsu.edu.cn/julia-releases/bin/winnt/x64/$majorVersion.$minorVersion/julia-$version-latest-win32.exe"
+                "url": "https://mirrors.bfsu.edu.cn/julia-releases/bin/winnt/x86/$majorVersion.$minorVersion/julia-$version-latest-win32.exe"
             }
         }
     }
