@@ -1,13 +1,13 @@
 {
     "homepage": "https://you-get.org/",
     "license": "MIT",
-    "version": "0.4.1403",
+    "version": "0.4.1456",
     "url": [
-        "https://github.com/soimort/you-get/releases/download/v0.4.1403/you_get-0.4.1403-py3-none-any.whl#/dl.7z",
+        "https://github.com/soimort/you-get/releases/download/v0.4.1456/you_get-0.4.1456-py3-none-any.whl#/dl.7z",
         "https://github.com/soimort/you-get/raw/develop/you-get"
     ],
     "hash": [
-        "619c5d7e432edac72e87c9fbc7d20ceb5d4bfaa84a9c2cc4598e2eac1904ad07",
+        "dd8c94843d276826ecaeb6b36fee1cfcd7ebd764329d85fde0158e0990584e2c",
         "a8fc206e327ad94a3db7a6462404ed91b2afbe8056b44a32ce7ca48c649995fe"
     ],
     "pre_install": "Set-Content \"$dir\\you-get.bat\" '@python.exe \"%~dp0\\you-get\" %*' -Encoding ASCII",
