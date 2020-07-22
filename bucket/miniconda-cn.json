@@ -1,12 +1,8 @@
 {
     "version": "4.8.3",
     "description": "A cross-platform, Python-agnostic binary package manager.",
-    "homepage": "https://conda.io/miniconda.html",
+    "homepage": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/",
     "license": "BSD-3-Clause",
-    "checkver": {
-        "url": "https://repo.continuum.io/miniconda",
-        "re": "Miniconda3-([\\d.]+)-Windows"
-    },
     "architecture": {
         "64bit": {
             "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/Miniconda3-latest-Windows-x86_64.exe",
@@ -15,6 +11,18 @@
         "32bit": {
             "url": "https://repo.continuum.io/miniconda/Miniconda3-latest-Windows-x86.exe",
             "hash": "md5:77d39801e97498ef05231d95ab77dedb"
+        }
+    },
+    "checkver": {
+        "architecture": {
+            "64bit": {
+                "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/",
+                "regex": "Miniconda3-([\\d.]+)-Windows"
+            },
+            "32bit": {
+                "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/",
+                "regex": "Miniconda3-([\\d.]+)-Windows"
+            }
         }
     },
     "autoupdate": {
