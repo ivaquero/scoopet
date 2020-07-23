@@ -16,8 +16,8 @@
     "innosetup": true,
     "bin": "bin\\julia.exe",
     "checkver": {
-        "url": "https://julialang.org/downloads/",
-        "re": "Current stable release: v([\\d.]+)"
+        "url": "https://mirrors.bfsu.edu.cn/julia-releases/bin/winnt/x64/",
+        "re": "([\\d.]+)"
     },
     "autoupdate": {
         "architecture": {

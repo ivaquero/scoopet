@@ -25,5 +25,15 @@
             "uTools.exe",
             "uTools"
         ]
-    ]
+    ],
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://resource.u-tools.cn/currentversion/uTools-$version.exe#/dl.7z"
+            },
+            "32bit": {
+                "url": "https://resource.u-tools.cn/currentversion/uTools-$version-ia32.exe#/dl.7z"
+            }
+        }
+    }
 }
