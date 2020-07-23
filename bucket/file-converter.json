@@ -1,5 +1,5 @@
 {
-    "homepage": "https://github.com/Tichau/FileConverter",
+    "homepage": "https://file-converter.org/",
     "version": "1.2.3",
     "description": "Various file converter and compressor",
     "license": "GPL-3.0-only",
@@ -13,6 +13,7 @@
             "hash": "00bc76929bc173491f2107b97836c7cb18e0bd52917442cdc743a9c4fd00bf3f"
         },
         "extract_dir": "File Converter",
+        "bin": "FileConverter.exe",
         "shortcuts": [
             [
                 "FileConverter.exe",
