@@ -1,0 +1,24 @@
+{
+    "homepage": "https://tablacus.github.io/explorer_en.html/",
+    "description": "Tablacus Explorer Review: File Manager with Support for Multiple Tabs",
+    "version": "20.7.24",
+    "license": "MIT",
+    "url": "https://github.com/tablacus/TablacusExplorer/releases/download/20.7.24/te200724.zip",
+    "hash": "4EE8E08E0E460C621AB71512229AA4498AD5F16DB932E732C4C6EA3BDCDF8CB2",
+    "shortcuts": [
+        [
+            "TE64.exe",
+            "te200724"
+        ],
+        [
+            "TE32.exe",
+            "te200724"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/tablacus/TablacusExplorer/"
+    },
+    "autoupdate": {
+        "url": "https://github.com/tablacus/TablacusExplorer/releases/download/$version/te$majorVersion$minorVersion.zip"
+    }
+}

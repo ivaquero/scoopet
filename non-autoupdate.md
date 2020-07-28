@@ -40,6 +40,8 @@ lingoes: update to version 2.9.2
 
 picosmos: update to version 2.6.0.0
 
+tablacus: update to version 20.7.24
+
 veracrypt-portable: update to version 1.246
 
 ### Social & Entertainment
