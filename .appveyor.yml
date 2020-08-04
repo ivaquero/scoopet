@@ -12,11 +12,11 @@ environment:
   SCOOP: C:\Scoop
   SCOOP_HOME: C:\Scoop\apps\scoop\current
   matrix:
-    - PowerShell: "5"
-    - PowerShell: "6"
+    - PowerShell: 6
+    - PowerShell: 7
 init:
   - ps: |
-      (Get-PSProvider 'FileSystem').Home = 'D:\my_projects\scoopet'
+      (Get-PSProvider 'FileSystem').Home = 'C:\'
       if(!(Test-Path "$env:SCOOP_HOME")) { git clone -q --depth=1 "https://github.com/integzz/scoopet" "$env:SCOOP_HOME" }
 for:
   - matrix:
@@ -28,7 +28,7 @@ for:
       - ps: . "$env:SCOOP_HOME\test\bin\test.ps1" -TestPath "$env:APPVEYOR_BUILD_FOLDER"
   - matrix:
       only:
-        - PowerShell: 6
+        - PowerShell: 7
     install:
       - pwsh: . "$env:SCOOP_HOME\test\bin\init.ps1"
     test_script:

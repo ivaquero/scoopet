@@ -23,6 +23,7 @@
         "!scss",
         "!typescript",
         "!typescriptreact",
+        "!yaml",
         "juliamarkdown",
         "lrc",
         "md",

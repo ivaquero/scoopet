@@ -1,4 +1,3 @@
-#Requires -Version 5
 <#
 .SYNOPSIS
     Sync repository to mirror git server.
