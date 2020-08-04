@@ -1,15 +1,15 @@
 {
     "homepage": "https://mirrors.bfsu.edu.cn/julia-releases/",
     "description": "A programming language that is a fresh approach to technical computing.",
-    "version": "1.5",
+    "version": "1.5.0",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://mirrors.bfsu.edu.cn/julia-releases/bin/winnt/x64/1.5/julia-1.5-latest-win64.exe",
-            "hash": "dcc36de24e93f65648c62180cb00e04b5f46b169e7cb77535f0324e4ce0dcb61"
+            "url": "https://mirrors.bfsu.edu.cn/julia-releases/bin/winnt/x64/1.5/julia-1.5.0-win64.exe",
+            "hash": "4e7a488f81bec527d333f8f212ede0888297efa4c3596230d967b083a9c776be"
         },
         "32bit": {
-            "url": "https://mirrors.bfsu.edu.cn/julia-releases/bin/winnt/x86/1.5/julia-1.5-latest-win32.exe",
+            "url": "https://mirrors.bfsu.edu.cn/julia-releases/bin/winnt/x86/1.5/julia-1.5.0-win32.exe",
             "hash": "b9727a85a87531604c11e6574e55992858cb6a342cd5e0661bc31ea1e7bdd267"
         }
     },
@@ -22,10 +22,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://mirrors.bfsu.edu.cn/julia-releases/bin/winnt/x64/$majorVersion.$minorVersion/julia-$version-latest-win64.exe"
+                "url": "https://mirrors.bfsu.edu.cn/julia-releases/bin/winnt/x64/$majorVersion.$minorVersion/julia-$version-win64.exe"
             },
             "32bit": {
-                "url": "https://mirrors.bfsu.edu.cn/julia-releases/bin/winnt/x86/$majorVersion.$minorVersion/julia-$version-latest-win32.exe"
+                "url": "https://mirrors.bfsu.edu.cn/julia-releases/bin/winnt/x86/$majorVersion.$minorVersion/julia-$version-win32.exe"
             }
         }
     }

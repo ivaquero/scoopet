@@ -1,10 +1,8 @@
 ### Research Tools
 
-geogebra: update to version 6.0.593
+geogebra: update to version 6.0.596
 
 gimp-portable: update to version 2.10.18
-
-julia-cn: update to version 1.5
 
 mathpix-snipping-tool: update to version 02.05.0009
 
@@ -39,8 +37,6 @@ file-converter: update to version 1.2.3
 lingoes: update to version 2.9.2
 
 picosmos: update to version 2.6.0.0
-
-tablacus: update to version 20.7.24
 
 veracrypt-portable: update to version 1.246
 
