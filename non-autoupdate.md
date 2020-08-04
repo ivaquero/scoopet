@@ -10,8 +10,6 @@ mendeley-desktop: update to version 1.19.6
 
 miniconda-cn: update to version 4.8.3
 
-netlogo: update to version 6.1.1
-
 kite: update to version 1.2020
 
 weka: update to version 3.8.4
@@ -27,8 +25,6 @@ utools: update to version 1.1.3
 vmware-workstation-pro: update to version 15.5.2
 
 ### Daily Work
-
-adobe-acrobat-dc: update to version 19.021
 
 baidunetdisk: update to version 6.9.10.1
 
