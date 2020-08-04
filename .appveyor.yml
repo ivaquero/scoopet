@@ -1,7 +1,7 @@
 skip_commits:
   files:
-    - '**/*.md'
-    - '.vscode/**/*'
+    - "**/*.md"
+    - ".vscode/**/*"
 cache:
   - '%USERPROFILE%\Documents\WindowsPowerShell\Modules -> .appveyor.yml'
 matrix:
@@ -16,8 +16,8 @@ environment:
     - PowerShell: "6"
 init:
   - ps: |
-      (Get-PSProvider 'FileSystem').Home = 'C:\projects\'
-      if(!(Test-Path "$env:SCOOP_HOME")) { git clone -q --depth=1 "https://github.com/lukesampson/scoop" "$env:SCOOP_HOME" }
+      (Get-PSProvider 'FileSystem').Home = 'D:\my_projects\scoopet'
+      if(!(Test-Path "$env:SCOOP_HOME")) { git clone -q --depth=1 "https://github.com/integzz/scoopet" "$env:SCOOP_HOME" }
 for:
   - matrix:
       only:
