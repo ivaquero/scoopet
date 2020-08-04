@@ -16,5 +16,9 @@
         "Remove-Item \"$dir\\`$_15_\" -Force -Recurse",
         "Remove-Item \"$dir\\`$R5\" -Force -Recurse"
     ],
+    "checkver": {
+        "url": "https://chocolatey.org/packages/wechat",
+        "regex": "Downloads of v\\s+([\\d.]+)"
+    },
     "autoupdate": "https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe#/dl.7z"
 }

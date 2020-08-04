@@ -12,6 +12,10 @@
             "VeraCrypt"
         ]
     ],
+    "checkver": {
+        "url": "https://chocolatey.org/packages/veracrypt",
+        "regex": "Downloads of v\\s+([\\d.]+)"
+    },
     "autoupdate": {
         "url": "https://portableapps.com/redirect/?a=VeraCryptPortable&s=s&d=pa&f=VeraCryptPortable_$majorVersion_Update_$minorVersion.paf.exe#/dl.7z"
     }

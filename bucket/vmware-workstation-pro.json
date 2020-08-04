@@ -17,6 +17,10 @@
         "identifier": "Proprietary",
         "url": "https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/downloads/eula/universal_eula.pdf"
     },
+    "checkver": {
+        "url": "https://chocolatey.org/packages/vmwareworkstation",
+        "regex": "Downloads of v\\s+([\\d.]+)"
+    },
     "architecture": {
         "64bit": {
             "url": "http://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.2-15785246.exe#/cosi.exe",

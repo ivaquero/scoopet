@@ -53,6 +53,10 @@
             "}"
         ]
     },
+    "checkver": {
+        "url": "https://chocolatey.org/packages/adobereader",
+        "regex": "Downloads of v\\s+([\\d.]+)"
+    },
     "autoupdate": {
         "url": "http://ardownload.adobe.com/pub/adobe/reader/win/AcrobatDC/$dirtyVersion/AcroRdrDCUpd$dirtyVersion.msp#/setup.msp_"
     }
