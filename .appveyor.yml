@@ -6,7 +6,7 @@ cache:
   - '%USERPROFILE%\Documents\WindowsPowerShell\Modules -> .appveyor.yml'
 matrix:
   fast_finish: true
-build: "off"
+build: off
 image: Visual Studio 2019
 environment:
   SCOOP: C:\projects\scoop
