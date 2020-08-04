@@ -2,7 +2,7 @@
   "name": "scoopet",
   "version": "0.1.0",
   "homepage": "https://github.com/integzz/scoopet",
-  "description": "A Personal Scoop-Apps Collection: Facilitate Academic Research. ",
+  "description": "A Personal Scoop Bucket for Facilitating Academic Research.",
   "private": true,
   "repository": {
     "url": "git+https://github.com/integzz/scoopet.git",
