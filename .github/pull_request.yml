@@ -1,0 +1,15 @@
+on:
+  pull_request:
+    types: [opened]
+name: Pull Requests
+jobs:
+  pullRequestHandler:
+    name: Pull Request Validator
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@main
+      - name: Pull Request Validation
+        uses: Ash258/Scoop-GithubActions@stable
+        env:
+          GITH_EMAIL: youremail@email.com
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

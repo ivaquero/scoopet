@@ -1,0 +1,16 @@
+on:
+  issues:
+    types: [opened, labeled]
+name: Issues
+jobs:
+  issueHandler:
+    runs-on: ubuntu-latest
+    name: Issue Verification
+    steps:
+      - uses: actions/checkout@main
+      - name: Verify Issue
+        uses: Ash258/Scoop-GithubActions@stable
+        if: github.event.action == 'opened' || (github.event.action == 'labeled' && contains(github.event.issue.labels.*.name, 'verify'))
+        env:
+          GITH_EMAIL: youremail@email.com
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
