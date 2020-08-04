@@ -14,7 +14,7 @@
         }
     },
     "checkver": {
-        "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/",
+        "url": "https://repo.continuum.io/miniconda",
         "re": "Miniconda3-([\\d.]+)-Windows"
     },
     "autoupdate": {

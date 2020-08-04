@@ -30,8 +30,5 @@
     "checkver": {
         "url": "https://download.geogebra.org/installers/6.0/",
         "re": "GeoGebra-Windows-Portable-[\\d]-[\\d]-([\\d.]+)-0.zip"
-    },
-    "autoupdate": {
-        "url": "https://download.geogebra.org/installers/6.0/GeoGebra-Windows-Portable-$version-0.zip"
     }
 }

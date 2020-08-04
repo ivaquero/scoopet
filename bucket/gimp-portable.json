@@ -29,10 +29,8 @@
         "App\\gimp\\share\\gimp"
     ],
     "checkver": {
-        "url": "https://portableapps.com/de/apps/graphics_pictures/gimp_portable",
-        "regex": "Download (\\d.+)-(\\d+)"
-    },
-    "autoupdate": {
-        "url": "https://portableapps.com/redirect/?a=GIMPPortable&s=s&d=pa&f=GIMPPortable_$version.paf.exe#/dl.7z"
+        "url": "https://www.gimp.org/downloads/",
+        "regex": "gimp-([\\d.]+)-setup(-\\d)?\\.exe",
+        "replace": "${1}${2}"
     }
 }
