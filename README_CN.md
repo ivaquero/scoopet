@@ -132,7 +132,7 @@ scoop config aria2-min-split-size 4M
 |          Gephi           |     0.92     | 官方 exe | https://gephi.org/                        |
 |      GIMP-Portable       |  2.10.18-2   | 社区 exe | https://www.gimp.org/                     |
 |        Grammarly         |   1.5.66.0   | 官方 exe | https://www.grammarly.com/native/windows/ |
-|         Julia-cn         |     1.5      | 镜像 exe | https://julialang.org/                    |
+|         Julia-cn         |    1.5.0     | 镜像 exe | https://julialang.org/                    |
 |  Mathpix Snipping Tool   |  02.05.0009  | 官方 exe | https://mathpix.com/                      |
 |     Mendeley Desktop     |    1.19.6    | 官方 exe | https://www.mendeley.com/                 |
 |       Miniconda-cn       |    4.8.3     | 镜像 exe | https://conda.io/miniconda.html/          |
@@ -159,7 +159,7 @@ scoop config aria2-min-split-size 4M
 | :----------------: | :----------: | :------: | -------------------------------------------- |
 |  Adobe Acrobat DC  | 19.021.20061 | 官方 exe | https://acrobat.adobe.com/                   |
 |   File Converter   | 7.2.5.32097  | 官方 msi | https://file-converter.org/                  |
-|  Office Tool Plus  |   7.6.0.0    | 社区 exe | https://github.com/YerongAI/Office-Tool/     |
+|  Office Tool Plus  |   7.6.0.1    | 社区 exe | https://github.com/YerongAI/Office-Tool/     |
 |      Tablacus      |   20.7.24    | 社区 zip | https://tablacus.github.io/explorer_en.html/ |
 | VeraCrypt-Portable |    1.246     | 社区 exe | https://www.veracrypt.fr/                    |
 |     WPSOffice      | 11.1.0.9828  | 官方 exe | https://pc.wps.cn/                           |
