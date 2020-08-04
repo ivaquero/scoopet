@@ -152,17 +152,16 @@ scoop config aria2-min-split-size 4M
 
 ### Daily Work
 
-|        App         |   Version    |   Installer   | Homepage                                     |
-| :----------------: | :----------: | :-----------: | -------------------------------------------- |
-|  Adobe Acrobat DC  | 19.021.20061 | Official exe  | https://acrobat.adobe.com/                   |
-|    BaiduNetDisk    |   6.9.10.1   | Official exe  | https://pan.baidu.com/                       |
-|   File Converter   | 7.2.5.32097  | Official msi  | https://file-converter.org/                  |
-|      Lingoes       |    2.9.2     | Community zip | http://www.lingoes.cn/                       |
-|  Office Tool Plus  |   7.6.0.1    | Community exe | https://github.com/YerongAI/Office-Tool/     |
-|      Picosmos      |   2.6.0.0    | Official exe  | http://www.picosmos.net/                     |
-|      Tablacus      |   20.7.24    | Community zip | https://tablacus.github.io/explorer_en.html/ |
-| VeraCrypt-Portable |    1.246     | Community exe | https://www.veracrypt.fr/                    |
-|     WPSOffice      | 11.1.0.9828  | Official exe  | https://pc.wps.cn/                           |
+|        App         |   Version   |   Installer   | Homepage                                     |
+| :----------------: | :---------: | :-----------: | -------------------------------------------- |
+|    BaiduNetDisk    |  6.9.10.1   | Official exe  | https://pan.baidu.com/                       |
+|   File Converter   | 7.2.5.32097 | Official msi  | https://file-converter.org/                  |
+|      Lingoes       |    2.9.2    | Community zip | http://www.lingoes.cn/                       |
+|  Office Tool Plus  |   7.6.0.1   | Community exe | https://github.com/YerongAI/Office-Tool/     |
+|      Picosmos      |   2.6.0.0   | Official exe  | http://www.picosmos.net/                     |
+|      Tablacus      |   20.7.24   | Community zip | https://tablacus.github.io/explorer_en.html/ |
+| VeraCrypt-Portable |    1.246    | Community exe | https://www.veracrypt.fr/                    |
+|     WPSOffice      | 11.1.0.9828 | Official exe  | https://pc.wps.cn/                           |
 
 
 ### Social & Entertainment

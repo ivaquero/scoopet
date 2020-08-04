@@ -1,5 +1,5 @@
 {
-    "version": "4.7.12.1",
+    "version": "4.8.3",
     "description": "A cross-platform, Python-agnostic binary package manager.",
     "homepage": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/",
     "license": "BSD-3-Clause",
