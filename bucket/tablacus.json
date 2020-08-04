@@ -8,11 +8,11 @@
     "shortcuts": [
         [
             "TE64.exe",
-            "te200724"
+            "te$majorVersion$minorVersion"
         ],
         [
             "TE32.exe",
-            "te200724"
+            "te$majorVersion$minorVersion"
         ]
     ],
     "checkver": {
