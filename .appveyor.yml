@@ -12,7 +12,7 @@ environment:
   SCOOP: C:\Scoop
   SCOOP_HOME: C:\Scoop\apps\scoop\current
   matrix:
-    - PowerShell: 6
+    - PowerShell: 5
     - PowerShell: 7
 init:
   - ps: |
