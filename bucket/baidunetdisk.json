@@ -5,12 +5,7 @@
     "url": "https://wppkg.baidupcs.com/issue/netdisk/yunguanjia/BaiduNetdisk_6.9.10.1.exe#/dl.7z",
     "hash": "6958928D570C95BBAFFCBBC38FA398E56CB3542CF88F6D9968DCB930DBA95227",
     "bin": "BaiduNetdisk.exe",
-    "shortcuts": [
-        [
-            "BaiduNetdisk.exe",
-            "百度网盘"
-        ]
-    ],
+    "shortcuts": [["BaiduNetdisk.exe", "百度网盘"]],
     "persist": "users",
     "post_install": [
         "Remove-Item \"$dir\\`$PLUGINSDIR\" -Recurse",

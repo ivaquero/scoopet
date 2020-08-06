@@ -9,7 +9,7 @@
 </p>
 </div>
 
-For ones familiar with Scoop: 
+For ones familiar with Scoop:
 
 ```
 scoop bucket add scoopet https://github.com/integzz/scoopet

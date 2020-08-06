@@ -7,14 +7,8 @@
     "hash": "4EE8E08E0E460C621AB71512229AA4498AD5F16DB932E732C4C6EA3BDCDF8CB2",
     "bin": "te200724",
     "shortcuts": [
-        [
-            "TE64.exe",
-            "te200724"
-        ],
-        [
-            "TE32.exe",
-            "te200724"
-        ]
+        ["TE64.exe", "te200724"],
+        ["TE32.exe", "te200724"]
     ],
     "checkver": {
         "github": "https://github.com/tablacus/TablacusExplorer/"
@@ -23,14 +17,8 @@
         "url": "https://github.com/tablacus/TablacusExplorer/releases/download/$version/te$majorVersion$minorVersion.zip",
         "bin": "te$majorVersion$minorVersion",
         "shortcuts": [
-            [
-                "TE64.exe",
-                "te$majorVersion$minorVersio"
-            ],
-            [
-                "TE32.exe",
-                "te$majorVersion$minorVersio"
-            ]
+            ["TE64.exe", "te$majorVersion$minorVersio"],
+            ["TE32.exe", "te$majorVersion$minorVersio"]
         ]
     }
 }

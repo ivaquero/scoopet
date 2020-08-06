@@ -20,12 +20,7 @@
         }
     },
     "post_install": "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\Uninstall uTools.exe\" -Force -Recurse",
-    "shortcuts": [
-        [
-            "uTools.exe",
-            "uTools"
-        ]
-    ],
+    "shortcuts": [["uTools.exe", "uTools"]],
     "autoupdate": {
         "architecture": {
             "64bit": {

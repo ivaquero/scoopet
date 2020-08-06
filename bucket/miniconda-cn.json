@@ -45,19 +45,9 @@
         "file": "Uninstall-Miniconda3.exe",
         "args": "/S"
     },
-    "bin": [
-        "python.exe",
-        "pythonw.exe",
-        [
-            "python.exe",
-            "python3"
-        ]
-    ],
+    "bin": ["python.exe", "pythonw.exe", ["python.exe", "python3"]],
     "persist": "envs",
-    "env_add_path": [
-        "scripts",
-        "Library/bin"
-    ],
+    "env_add_path": ["scripts", "Library/bin"],
     "notes": [
         "Currently conda envs activate and deactivate doesn't work on PowerShell,",
         "for more information, see: https://github.com/conda/conda/issues/626,",

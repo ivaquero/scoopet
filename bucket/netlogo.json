@@ -21,26 +21,11 @@
         "PFiles\\NetLogo 6.1.1\\NetLogo Logging.exe"
     ],
     "shortcuts": [
-        [
-            "PFiles\\NetLogo 6.1.1\\NetLogo.exe",
-            "NetLogo"
-        ],
-        [
-            "PFiles\\NetLogo 6.1.1\\NetLogo 3D.exe",
-            "NetLogo 3D"
-        ],
-        [
-            "PFiles\\NetLogo 6.1.1\\HubNet Client.exe",
-            "HubNet Client"
-        ],
-        [
-            "PFiles\\NetLogo 6.1.1\\Behaviorsearch.exe",
-            "Behaviorsearch"
-        ],
-        [
-            "PFiles\\NetLogo 6.1.1\\NetLogo Logging.exe",
-            "NetLogo Logging"
-        ]
+        ["PFiles\\NetLogo 6.1.1\\NetLogo.exe", "NetLogo"],
+        ["PFiles\\NetLogo 6.1.1\\NetLogo 3D.exe", "NetLogo 3D"],
+        ["PFiles\\NetLogo 6.1.1\\HubNet Client.exe", "HubNet Client"],
+        ["PFiles\\NetLogo 6.1.1\\Behaviorsearch.exe", "Behaviorsearch"],
+        ["PFiles\\NetLogo 6.1.1\\NetLogo Logging.exe", "NetLogo Logging"]
     ],
     "checkver": {
         "url": "https://ccl.northwestern.edu/netlogo/oldversions.shtml",

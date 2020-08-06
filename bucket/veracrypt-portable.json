@@ -6,12 +6,7 @@
     "url": "https://portableapps.com/redirect/?a=VeraCryptPortable&s=s&d=pa&f=VeraCryptPortable_1.24_Update_6.paf.exe#/dl.7z",
     "hash": "9b6a0b6839f5486f986d91d4ad130e965fcb6fd8a9c82ba365fc628226bfb567",
     "bin": "VeraCryptPortable.exe",
-    "shortcuts": [
-        [
-            "VeraCryptPortable.exe",
-            "VeraCrypt"
-        ]
-    ],
+    "shortcuts": [["VeraCryptPortable.exe", "VeraCrypt"]],
     "checkver": {
         "url": "https://chocolatey.org/packages/veracrypt",
         "regex": "Downloads of v\\s+([\\d.]+)"
