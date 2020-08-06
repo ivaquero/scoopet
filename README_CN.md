@@ -1,6 +1,10 @@
 <div align="left">
 <h1 align="left"> 🍨 Scoopet 🍨 </h1>
+</div>
 
+[![Build status](https://ci.appveyor.com/api/projects/status/kbd3a9mibncbx8ds?svg=true)](https://ci.appveyor.com/project/integzz/scoopet)
+
+<div>
 <p>
 一个用于 Windows 最佳命令行软件管理器<a href="https://github.com/lukesampson/scoop">Scoop</a>的脚本仓库：致力于便利科研
 </p>
