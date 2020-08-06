@@ -5,7 +5,7 @@
     "license": "MIT",
     "url": "https://github.com/tablacus/TablacusExplorer/releases/download/20.7.24/te200724.zip",
     "hash": "4EE8E08E0E460C621AB71512229AA4498AD5F16DB932E732C4C6EA3BDCDF8CB2",
-    "bin": "te200724",
+    "bin": ["TE64.exe", "TE32.exe"],
     "shortcuts": [
         ["TE64.exe", "te200724"],
         ["TE32.exe", "te200724"]

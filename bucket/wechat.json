@@ -5,6 +5,7 @@
     "license": "Freeware",
     "url": "https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe#/dl.7z",
     "hash": "df512197a1d0e471a1d64d692ec0c0d101a84f02d1c6382d70677653a135a77b",
+    "bin": "wechat.exe",
     "shortcuts": [["wechat.exe", "WeChat"]],
     "post_install": [
         "Remove-Item \"$dir\\`$PLUGINSDIR\" -Force -Recurse",
