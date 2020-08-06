@@ -16,8 +16,6 @@ weka: update to version 3.8.4
 
 ### Development Auxillary
 
-adoptopenjdk-hotspot: update to version 14.0.1
-
 partition-assistant: update to version 8.3
 
 utools: update to version 1.1.3
@@ -28,14 +26,8 @@ vmware-workstation-pro: update to version 15.5.2
 
 baidunetdisk: update to version 6.9.10.1
 
-file-converter: update to version 1.2.3
-
 lingoes: update to version 2.9.2
 
 picosmos: update to version 2.6.0.0
 
 veracrypt-portable: update to version 1.246
-
-### Social & Entertainment
-
-wechat: update to version 2.9.5
