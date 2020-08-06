@@ -12,12 +12,5 @@
     ],
     "checkver": {
         "github": "https://github.com/tablacus/TablacusExplorer/"
-    },
-    "autoupdate": {
-        "url": "https://github.com/tablacus/TablacusExplorer/releases/download/$version/te$majorVersion$minorVersion.zip",
-        "shortcuts": [
-            ["TE64.exe", "te$majorVersion$minorVersio"],
-            ["TE32.exe", "te$majorVersion$minorVersio"]
-        ]
     }
 }
