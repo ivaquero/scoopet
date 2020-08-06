@@ -5,7 +5,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/kbd3a9mibncbx8ds?svg=true)](https://ci.appveyor.com/project/integzz/scoopet)
 
 <div>
-<p> A Bucket for the Best Windows Package Manager <a href="https://github.com/lukesampson/scoop"> Scoop </a>: Continuously Contributing to research.
+<p> A Bucket for the Best Windows Package Manager <a href="https://github.com/lukesampson/scoop"> Scoop </a>: Continuously Assisting in Academic Research.
 </p>
 
 <p align="left">
