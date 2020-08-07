@@ -1,8 +1,21 @@
 <div align="left">
 <h1 align="left"> 🍨 Scoopet 🍨 </h1>
 </div>
+<a>
+<img src="https://ci.appveyor.com/api/projects/status/kbd3a9mibncbx8ds?svg=true"/>
+</a>
+<a>
+<img src="https://img.shields.io/github/languages/code-size/integzz/scoopet.svg">
+</a>
+<a>
+<img src="https://img.shields.io/github/repo-size/integzz/scoopet.svg">
+</a>
 
-[![Build status](https://ci.appveyor.com/api/projects/status/kbd3a9mibncbx8ds?svg=true)](https://ci.appveyor.com/project/integzz/scoopet)
+<a>
+<img src="https://img.shields.io/github/license/integzz/scoopet">
+</a>
+
+<p></p>
 
 <div>
 <p> A Bucket for the Best Windows Package Manager <a href="https://github.com/lukesampson/scoop"> Scoop </a>: Continuously Assisting in Academic Research.
