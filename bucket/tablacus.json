@@ -13,5 +13,7 @@
     "checkver": {
         "github": "https://github.com/tablacus/TablacusExplorer/"
     },
-    "autoupdate": "https://tablacus.github.io/TablacusExplorerAddons/te/te.zip"
+    "autoupdate": {
+        "url": "https://tablacus.github.io/TablacusExplorerAddons/te/te.zip"
+    }
 }
