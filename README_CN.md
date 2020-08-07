@@ -181,7 +181,6 @@ scoop config aria2-min-split-size 4M
 |     WPSOffice      | 11.1.0.9912 | 官方 exe | https://pc.wps.cn/                           |
 |      百度网盘      |  6.9.10.1   | 官方 exe | https://pan.baidu.com/                       |
 |     灵格斯词霸     |    2.9.2    | 社区 zip | http://www.lingoes.cn/                       |
-|      图片工厂      |   2.6.0.0   | 官方 exe | http://www.picosmos.net/                     |
 
 ### 社交休闲
 

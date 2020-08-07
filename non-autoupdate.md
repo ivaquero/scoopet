@@ -28,6 +28,4 @@ baidunetdisk: update to version 6.9.10.1
 
 lingoes: update to version 2.9.2
 
-picosmos: update to version 2.6.0.0
-
 veracrypt-portable: update to version 1.246

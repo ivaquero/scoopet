@@ -174,7 +174,6 @@ scoop config aria2-min-split-size 4M
 |   File Converter   | 7.2.5.32097 | Official msi  | https://file-converter.org/                  |
 |      Lingoes       |    2.9.2    | Community zip | http://www.lingoes.cn/                       |
 |  Office Tool Plus  |   7.6.0.1   | Community exe | https://github.com/YerongAI/Office-Tool/     |
-|      Picosmos      |   2.6.0.0   | Official exe  | http://www.picosmos.net/                     |
 |      Tablacus      |   20.8.6    | Community zip | https://tablacus.github.io/explorer_en.html/ |
 | VeraCrypt-Portable |    1.246    | Community exe | https://www.veracrypt.fr/                    |
 |     WPSOffice      | 11.1.0.9912 | Official exe  | https://pc.wps.cn/                           |
