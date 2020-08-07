@@ -1,6 +1,6 @@
 <div align="left">
 <h1 align="left"> 🍨 Scoopet 🍨 </h1>
-</div>
+<p>
 <a>
 <img src="https://ci.appveyor.com/api/projects/status/kbd3a9mibncbx8ds?svg=true"/>
 </a>
@@ -10,10 +10,11 @@
 <a>
 <img src="https://img.shields.io/github/repo-size/integzz/scoopet.svg">
 </a>
-
 <a>
 <img src="https://img.shields.io/github/license/integzz/scoopet">
 </a>
+</p>
+</div>
 
 <p></p>
 
@@ -158,7 +159,6 @@ scoop config aria2-min-split-size 4M
 
 |               App                |     Version     |   Installer   | Homepage                                        |
 | :------------------------------: | :-------------: | :-----------: | ----------------------------------------------- |
-|       Adoptopenjdk-Hotspot       |    14.0.1-7     | Official zip  | https://adoptopenjdk.net/                       |
 |            Cyberduck             |   7.4.1.33065   | Official msi  | https://cyberduck.io/                           |
 |       Partition Assistant        |       8.3       | Official zip  | https://www.disktool.cn/                        |
 |              uTools              |      1.1.3      | Official exe  | https://u.tools/                                |

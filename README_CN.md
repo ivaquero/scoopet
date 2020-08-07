@@ -1,7 +1,6 @@
 <div align="left">
 <h1 align="left"> 🍨 Scoopet 🍨 </h1>
-</div>
-
+<p>
 <a>
 <img src="https://ci.appveyor.com/api/projects/status/kbd3a9mibncbx8ds?svg=true"/>
 </a>
@@ -11,10 +10,11 @@
 <a>
 <img src="https://img.shields.io/github/repo-size/integzz/scoopet.svg">
 </a>
-
 <a>
 <img src="https://img.shields.io/github/license/integzz/scoopet">
 </a>
+</p>
+</div>
 
 <p></p>
 
@@ -162,7 +162,6 @@ scoop config aria2-min-split-size 4M
 
 |          App           |      版本       | 安装文件 | 官网                                            |
 | :--------------------: | :-------------: | :------: | ----------------------------------------------- |
-|  Adoptopenjdk-Hotspot  |    14.0.1-7     | 官方 zip | https://adoptopenjdk.net/                       |
 |       Cyberduck        |   7.4.1.33065   | 官方 msi | https://cyberduck.io/                           |
 |         uTools         |      1.1.3      | 官方 exe | https://u.tools/                                |
 | VirtualBox [含扩展包]  |     6.1.10      | 官方 exe | https://www.virtualbox.org/                     |
