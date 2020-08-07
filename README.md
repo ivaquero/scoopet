@@ -131,7 +131,6 @@ scoop config aria2-min-split-size 4M
 |      CopyTranslator      |    9.1.0     | Community zip | https://copytranslator.github.io/         |
 |    GeoGebra-Portable     |   6.0.596    | Official zip  | https://www.geogebra.org/                 |
 |          Gephi           |     0.92     | Official exe  | https://gephi.org/                        |
-|      GIMP-Portable       |  2.10.18-2   | Community exe | https://www.gimp.org/                     |
 |        Grammarly         |   1.5.66.0   | Official exe  | https://www.grammarly.com/native/windows/ |
 |         Julia-cn         |    1.5.0     |  Mirror exe   | https://julialang.org/                    |
 |  Mathpix Snipping Tool   |  02.05.0009  | Official exe  | https://mathpix.com/                      |
