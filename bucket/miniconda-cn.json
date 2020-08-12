@@ -13,10 +13,6 @@
             "hash": "ca74cb6eb0731db2b972c0fb512e29661a84c3f01ac6133121b4372eb1c41f46"
         }
     },
-    "checkver": {
-        "url": "https://repo.continuum.io/miniconda",
-        "re": "Miniconda3-([\\d.]+)-Windows"
-    },
     "autoupdate": {
         "architecture": {
             "64bit": {
