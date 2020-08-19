@@ -146,7 +146,7 @@ scoop config aria2-min-split-size 4M
 |           App            |     版本     | 安装文件 | 官网                                      |
 | :----------------------: | :----------: | :------: | ----------------------------------------- |
 |      CopyTranslator      |    9.1.0     | 社区 zip | https://copytranslator.github.io/         |
-|    GeoGebra-Portable     |   6.0.596    | 官方 zip | https://www.geogebra.org/                 |
+|    GeoGebra-Portable     |   6.0.599    | 官方 zip | https://www.geogebra.org/                 |
 |          Gephi           |     0.92     | 官方 exe | https://gephi.org/                        |
 |        Grammarly         |   1.5.66.0   | 官方 exe | https://www.grammarly.com/native/windows/ |
 |         Julia-cn         |    1.5.0     | 镜像 exe | https://julialang.org/                    |
@@ -162,7 +162,7 @@ scoop config aria2-min-split-size 4M
 
 |          App           |      版本       | 安装文件 | 官网                                            |
 | :--------------------: | :-------------: | :------: | ----------------------------------------------- |
-|       Cyberduck        |   7.4.1.33065   | 官方 msi | https://cyberduck.io/                           |
+|       Cyberduck        |   7.5.1.33324   | 官方 msi | https://cyberduck.io/                           |
 |         uTools         |      1.1.3      | 官方 exe | https://u.tools/                                |
 | VirtualBox [含扩展包]  |     6.1.10      | 官方 exe | https://www.virtualbox.org/                     |
 | VMware Workstation Pro | 15.5.2-15785246 | 官方 exe | https://www.vmware.com/                         |
@@ -175,7 +175,7 @@ scoop config aria2-min-split-size 4M
 | :----------------: | :---------: | :------: | -------------------------------------------- |
 |   File Converter   | 7.2.5.32097 | 官方 msi | https://file-converter.org/                  |
 |  Office Tool Plus  |   7.6.0.1   | 社区 exe | https://github.com/YerongAI/Office-Tool/     |
-|      Tablacus      |   20.8.6    | 社区 zip | https://tablacus.github.io/explorer_en.html/ |
+|      Tablacus      |   20.8.18   | 社区 zip | https://tablacus.github.io/explorer_en.html/ |
 | VeraCrypt-Portable |    1.246    | 社区 exe | https://www.veracrypt.fr/                    |
 |     WPSOffice      | 11.1.0.9912 | 官方 exe | https://pc.wps.cn/                           |
 |      百度网盘      |  6.9.10.1   | 官方 exe | https://pan.baidu.com/                       |

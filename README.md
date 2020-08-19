@@ -143,7 +143,7 @@ scoop config aria2-min-split-size 4M
 |           App            |   Version    |   Installer   | Homepage                                  |
 | :----------------------: | :----------: | :-----------: | ----------------------------------------- |
 |      CopyTranslator      |    9.1.0     | Community zip | https://copytranslator.github.io/         |
-|    GeoGebra-Portable     |   6.0.596    | Official zip  | https://www.geogebra.org/                 |
+|    GeoGebra-Portable     |   6.0.599    | Official zip  | https://www.geogebra.org/                 |
 |          Gephi           |     0.92     | Official exe  | https://gephi.org/                        |
 |        Grammarly         |   1.5.66.0   | Official exe  | https://www.grammarly.com/native/windows/ |
 |         Julia-cn         |    1.5.0     |  Mirror exe   | https://julialang.org/                    |
@@ -159,7 +159,7 @@ scoop config aria2-min-split-size 4M
 
 |               App                |     Version     |   Installer   | Homepage                                        |
 | :------------------------------: | :-------------: | :-----------: | ----------------------------------------------- |
-|            Cyberduck             |   7.4.1.33065   | Official msi  | https://cyberduck.io/                           |
+|            Cyberduck             |   7.5.1.33324   | Official msi  | https://cyberduck.io/                           |
 |       Partition Assistant        |       8.3       | Official zip  | https://www.disktool.cn/                        |
 |              uTools              |      1.1.3      | Official exe  | https://u.tools/                                |
 | VirtualBox [with Extension Pack] |     6.1.10      | Official exe  | https://www.virtualbox.org/                     |
@@ -174,7 +174,7 @@ scoop config aria2-min-split-size 4M
 |   File Converter   | 7.2.5.32097 | Official msi  | https://file-converter.org/                  |
 |      Lingoes       |    2.9.2    | Community zip | http://www.lingoes.cn/                       |
 |  Office Tool Plus  |   7.6.0.1   | Community exe | https://github.com/YerongAI/Office-Tool/     |
-|      Tablacus      |   20.8.6    | Community zip | https://tablacus.github.io/explorer_en.html/ |
+|      Tablacus      |   20.8.18   | Community zip | https://tablacus.github.io/explorer_en.html/ |
 | VeraCrypt-Portable |    1.246    | Community exe | https://www.veracrypt.fr/                    |
 |     WPSOffice      | 11.1.0.9912 | Official exe  | https://pc.wps.cn/                           |
 

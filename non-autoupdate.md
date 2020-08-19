@@ -1,6 +1,6 @@
 ### Research Tools
 
-geogebra: update to version 6.0.596
+geogebra: update to version 6.0.599
 
 gimp-portable: update to version 2.10.18
 
