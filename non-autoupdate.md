@@ -1,6 +1,6 @@
 ### Research Tools
 
-geogebra: update to version 6.0.599
+geogebra: update to version 6.0.600
 
 mathpix-snipping-tool: update to version 02.05.0009
 

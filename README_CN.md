@@ -146,7 +146,7 @@ scoop config aria2-min-split-size 4M
 |           App            |    版本    | 安装文件 | 官网                                      |
 | :----------------------: | :--------: | :------: | ----------------------------------------- |
 |      CopyTranslator      |   9.1.0    | 社区 zip | https://copytranslator.github.io/         |
-|    GeoGebra-Portable     |  6.0.599   | 官方 zip | https://www.geogebra.org/                 |
+|    GeoGebra-Portable     |  6.0.600   | 官方 zip | https://www.geogebra.org/                 |
 |          Gephi           |    0.92    | 官方 exe | https://gephi.org/                        |
 |        Grammarly         |  1.5.66.0  | 官方 exe | https://www.grammarly.com/native/windows/ |
 |         Julia-cn         |   1.5.0    | 镜像 exe | https://julialang.org/                    |
