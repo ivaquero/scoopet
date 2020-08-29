@@ -143,20 +143,18 @@ scoop config aria2-min-split-size 4M
 
 ### 科研工具
 
-|           App            |     版本     | 安装文件 | 官网                                      |
-| :----------------------: | :----------: | :------: | ----------------------------------------- |
-|      CopyTranslator      |    9.1.0     | 社区 zip | https://copytranslator.github.io/         |
-|    GeoGebra-Portable     |   6.0.599    | 官方 zip | https://www.geogebra.org/                 |
-|          Gephi           |     0.92     | 官方 exe | https://gephi.org/                        |
-|        Grammarly         |   1.5.66.0   | 官方 exe | https://www.grammarly.com/native/windows/ |
-|         Julia-cn         |    1.5.0     | 镜像 exe | https://julialang.org/                    |
-|  Mathpix Snipping Tool   |  02.05.0009  | 官方 exe | https://mathpix.com/                      |
-|     Mendeley Desktop     |    1.19.6    | 官方 exe | https://www.mendeley.com/                 |
-|       Miniconda-cn       |    4.8.3     | 镜像 exe | https://conda.io/miniconda.html/          |
-|         NetLogo          |    6.1.1     | 官方 msi | https://ccl.northwestern.edu/netlogo/     |
-|           Kite           | 1.2020.327.0 | 官方 exe | https://kite.com/                         |
-|           Weka           |    3.8.4     | 官方 exe | https://www.cs.waikato.ac.nz/ml/weka/     |
-| Cytoscape [构建中。。。] |    3.8.0     | 官方 zip | https://cytoscape.org/                    |
+|           App            |    版本    | 安装文件 | 官网                                      |
+| :----------------------: | :--------: | :------: | ----------------------------------------- |
+|      CopyTranslator      |   9.1.0    | 社区 zip | https://copytranslator.github.io/         |
+|    GeoGebra-Portable     |  6.0.599   | 官方 zip | https://www.geogebra.org/                 |
+|          Gephi           |    0.92    | 官方 exe | https://gephi.org/                        |
+|        Grammarly         |  1.5.66.0  | 官方 exe | https://www.grammarly.com/native/windows/ |
+|         Julia-cn         |   1.5.0    | 镜像 exe | https://julialang.org/                    |
+|  Mathpix Snipping Tool   | 02.05.0009 | 官方 exe | https://mathpix.com/                      |
+|     Mendeley Desktop     |   1.19.6   | 官方 exe | https://www.mendeley.com/                 |
+|       Miniconda-cn       |   4.8.3    | 镜像 exe | https://conda.io/miniconda.html/          |
+|         NetLogo          |   6.1.1    | 官方 msi | https://ccl.northwestern.edu/netlogo/     |
+| Cytoscape [构建中。。。] |   3.8.0    | 官方 zip | https://cytoscape.org/                    |
 
 ### 开发辅助
 
