@@ -2,7 +2,7 @@
 
 geogebra: update to version 6.0.600
 
-mathpix-snipping-tool: update to version 02.05.0009
+mathpix-snipping-tool: update to version 02.05.0017
 
 miniconda-cn: update to version 4.8.3
 

@@ -147,7 +147,7 @@ scoop config aria2-min-split-size 4M
 |          Gephi           |    0.92    | Official exe  | https://gephi.org/                        |
 |        Grammarly         |  1.5.66.0  | Official exe  | https://www.grammarly.com/native/windows/ |
 |         Julia-cn         |   1.5.0    |  Mirror exe   | https://julialang.org/                    |
-|  Mathpix Snipping Tool   | 02.05.0009 | Official exe  | https://mathpix.com/                      |
+|  Mathpix Snipping Tool   | 02.05.0017 | Official exe  | https://mathpix.com/                      |
 |     Mendeley Desktop     |   1.19.6   | Official exe  | https://www.mendeley.com/                 |
 |       Miniconda-cn       |   4.8.3    |  Mirror exe   | https://conda.io/miniconda.html/          |
 |         NetLogo          |   6.1.1    | Official msi  | https://ccl.northwestern.edu/netlogo/     |
@@ -155,14 +155,15 @@ scoop config aria2-min-split-size 4M
 
 ### Development Auxillary
 
-|               App                |     Version     |   Installer   | Homepage                                        |
-| :------------------------------: | :-------------: | :-----------: | ----------------------------------------------- |
-|            Cyberduck             |   7.5.1.33324   | Official msi  | https://cyberduck.io/                           |
-|       Partition Assistant        |       8.3       | Official zip  | https://www.disktool.cn/                        |
-|              uTools              |       1.2       | Official exe  | https://u.tools/                                |
-| VirtualBox [with Extension Pack] |     6.1.10      | Official exe  | https://www.virtualbox.org/                     |
-|      VMware Workstation Pro      | 15.5.2-15785246 | Official exe  | https://www.vmware.com/                         |
-|         scoop-completion         |      0.2.3      | Community zip | https://github.com/Moeologist/scoop-completion/ |
+|               App                |     Version     |   Installer    | Homepage                                        |
+| :------------------------------: | :-------------: | :------------: | ----------------------------------------------- |
+|            Chocolatey            |     0.10.15     | Community ps1  | https://chocolatey.org/                         |
+|            Cyberduck             |   7.5.1.33324   |  Official msi  | https://cyberduck.io/                           |
+|       Partition Assistant        |       8.3       |  Official zip  | https://www.disktool.cn/                        |
+|              uTools              |       1.2       |  Official exe  | https://u.tools/                                |
+| VirtualBox [with Extension Pack] |     6.1.10      |  Official exe  | https://www.virtualbox.org/                     |
+|      VMware Workstation Pro      | 15.5.2-15785246 |  Official exe  | https://www.vmware.com/                         |
+|         scoop-completion         |      0.2.3      | Community psm1 | https://github.com/Moeologist/scoop-completion/ |
 
 ### Daily Work
 
@@ -182,5 +183,5 @@ scoop config aria2-min-split-size 4M
 |   Netease Music   | 2.7.1.198242 | Official exe  | https://music.163.com/              |
 |      Wechat       |    2.9.5     | Official exe  | https://pc.weixin.qq.com/           |
 |      WeMeet       |  1.9.0.448   | Official exe  | https://meeting.tencent.com/        |
-|      You-Get      |   0.4.1403   | Community zip | https://github.com/soimort/you-get/ |
+|      You-Get      |   0.4.1403   | Community whl | https://github.com/soimort/you-get/ |
 | QQ [Debugging...] |    9.2.3     | Official exe  | https://im.qq.com/pcqq/             |

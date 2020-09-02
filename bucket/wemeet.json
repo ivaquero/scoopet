@@ -6,7 +6,6 @@
         "identifier": "EULA",
         "url": "https://meeting.tencent.com/declare.html"
     },
-    "notes": "Your data is stored in $env:appdata\\Tencent\\WeMeet.",
     "url": "https://updatecdn.meeting.qq.com/a6719ed4bfe172b80e4af07698e3a0a1/TencentMeeting_0300000000_1.9.0.448.publish.exe#/dl.7z",
     "hash": "md5:a6719ed4bfe172b80e4af07698e3a0a1",
     "installer": {
@@ -24,9 +23,7 @@
     },
     "shortcuts": [["wemeetapp.exe", "腾讯会议"]],
     "autoupdate": {
-        "url": "$matchUrl",
-        "hash": {
-            "url": "https://scoop-sushi.vercel.app/api/tencent-meeting?hash=1"
-        }
-    }
+        "url": "https://meeting.tencent.com/download-win.html?from=1002&fromSource=1"
+    },
+    "notes": "Your data is stored in $env:appdata\\Tencent\\WeMeet."
 }
