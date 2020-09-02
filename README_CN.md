@@ -184,5 +184,6 @@ scoop config aria2-min-split-size 4M
 | :---------------: | :----------: | :------: | ----------------------------------- |
 |    网易云音乐     | 2.7.1.198242 | 官方 exe | https://music.163.com/              |
 |       微信        |    2.9.5     | 官方 exe | https://pc.weixin.qq.com/           |
+|     腾讯会议      |  1.9.0.448   | 官方 exe | https://meeting.tencent.com/        |
 |      You-Get      |   0.4.1403   | 社区 zip | https://github.com/soimort/you-get/ |
 | QQ [构建中。。。] |    9.2.3     | 官方 exe | https://im.qq.com/pcqq/             |

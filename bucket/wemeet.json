@@ -1,0 +1,36 @@
+{
+    "version": "1.9.0.448",
+    "description": "Video conferencing app by Tencent",
+    "homepage": "https://meeting.tencent.com/",
+    "license": {
+        "identifier": "EULA",
+        "url": "https://meeting.tencent.com/declare.html"
+    },
+    "notes": "Your data is stored in $env:appdata\\Tencent\\WeMeet.",
+    "url": "https://updatecdn.meeting.qq.com/a6719ed4bfe172b80e4af07698e3a0a1/TencentMeeting_0300000000_1.9.0.448.publish.exe#/dl.7z",
+    "hash": "md5:a6719ed4bfe172b80e4af07698e3a0a1",
+    "installer": {
+        "script": [
+            "Expand-7zipArchive (Join-Path $dir '$_4_\\weMeet.*.zip') -DestinationPath $dir",
+            "New-Item HKCU:\\SOFTWARE\\Tencent\\WeMeet | Out-Null",
+            "New-ItemProperty HKCU:\\SOFTWARE\\Tencent\\WeMeet -Name 'Dependence' -Value $dir | Out-Null",
+            "Remove-Item (Join-Path $dir '$PLUGINSDIR') -Recurse",
+            "Remove-Item (Join-Path $dir '$TEMP') -Recurse",
+            "Remove-Item (Join-Path $dir '$_4_') -Recurse"
+        ]
+    },
+    "uninstaller": {
+        "script": "Remove-Item HKCU:\\SOFTWARE\\Tencent\\WeMeet | Out-Null"
+    },
+    "shortcuts": [["wemeetapp.exe", "腾讯会议"]],
+    "checkver": {
+        "url": "https://scoop-sushi.vercel.app/api/tencent-meeting",
+        "regex": "(?<version>[\\d.]+) (?<url>.+)"
+    },
+    "autoupdate": {
+        "url": "$matchUrl",
+        "hash": {
+            "url": "https://scoop-sushi.vercel.app/api/tencent-meeting?hash=1"
+        }
+    }
+}

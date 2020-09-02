@@ -11,6 +11,10 @@
         "Remove-Item \"$dir\\`$PLUGINSDIR\" -Recurse",
         "Remove-Item \"$dir\\`$TEMP\" -Recurse"
     ],
+    "checkver": {
+        "url": "https://pan.baidu.com/disk/version",
+        "re": "百度网盘PC版V([\\d.]+)"
+    },
     "autoupdate": {
         "url": "http://wppkg.baidupcs.com/issue/netdisk/yunguanjia/BaiduNetdisk_$version.exe#/dl.7z"
     }
