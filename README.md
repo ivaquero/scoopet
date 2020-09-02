@@ -159,23 +159,21 @@ scoop config aria2-min-split-size 4M
 | :------------------------------: | :-------------: | :-----------: | ----------------------------------------------- |
 |            Cyberduck             |   7.5.1.33324   | Official msi  | https://cyberduck.io/                           |
 |       Partition Assistant        |       8.3       | Official zip  | https://www.disktool.cn/                        |
-|              uTools              |      1.1.3      | Official exe  | https://u.tools/                                |
+|              uTools              |       1.2       | Official exe  | https://u.tools/                                |
 | VirtualBox [with Extension Pack] |     6.1.10      | Official exe  | https://www.virtualbox.org/                     |
 |      VMware Workstation Pro      | 15.5.2-15785246 | Official exe  | https://www.vmware.com/                         |
 |         scoop-completion         |      0.2.3      | Community zip | https://github.com/Moeologist/scoop-completion/ |
 
 ### Daily Work
 
-|        App         |   Version   |   Installer   | Homepage                                     |
-| :----------------: | :---------: | :-----------: | -------------------------------------------- |
-|    BaiduNetDisk    |  6.9.10.1   | Official exe  | https://pan.baidu.com/                       |
-|   File Converter   | 7.2.5.32097 | Official msi  | https://file-converter.org/                  |
-|      Lingoes       |    2.9.2    | Community zip | http://www.lingoes.cn/                       |
-|  Office Tool Plus  |   7.6.0.1   | Community exe | https://github.com/YerongAI/Office-Tool/     |
-|      Tablacus      |   20.8.18   | Community zip | https://tablacus.github.io/explorer_en.html/ |
-| VeraCrypt-Portable |    1.246    | Community exe | https://www.veracrypt.fr/                    |
-|     WPSOffice      | 11.1.0.9912 | Official exe  | https://pc.wps.cn/                           |
-
+|        App         |   Version   |   Installer   | Homepage                                 |
+| :----------------: | :---------: | :-----------: | ---------------------------------------- |
+|    BaiduNetDisk    |  7.0.4.11   | Official exe  | https://pan.baidu.com/                   |
+|   File Converter   | 7.2.5.32097 | Official msi  | https://file-converter.org/              |
+|      Lingoes       |    2.9.2    | Community zip | http://www.lingoes.cn/                   |
+|  Office Tool Plus  |   7.6.0.1   | Community exe | https://github.com/YerongAI/Office-Tool/ |
+| VeraCrypt-Portable |    1.246    | Community exe | https://www.veracrypt.fr/                |
+|     WPSOffice      | 11.1.0.9912 | Official exe  | https://pc.wps.cn/                       |
 
 ### Social & Entertainment
 

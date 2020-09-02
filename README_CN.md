@@ -161,7 +161,7 @@ scoop config aria2-min-split-size 4M
 |          App           |      版本       | 安装文件 | 官网                                            |
 | :--------------------: | :-------------: | :------: | ----------------------------------------------- |
 |       Cyberduck        |   7.5.1.33324   | 官方 msi | https://cyberduck.io/                           |
-|         uTools         |      1.1.3      | 官方 exe | https://u.tools/                                |
+|         uTools         |       1.2       | 官方 exe | https://u.tools/                                |
 | VirtualBox [含扩展包]  |     6.1.10      | 官方 exe | https://www.virtualbox.org/                     |
 | VMware Workstation Pro | 15.5.2-15785246 | 官方 exe | https://www.vmware.com/                         |
 |    scoop-completion    |      0.2.3      | 社区 zip | https://github.com/Moeologist/scoop-completion/ |
@@ -169,15 +169,14 @@ scoop config aria2-min-split-size 4M
 
 ### 日常办公
 
-|        App         |    版本     | 安装文件 | 官网                                         |
-| :----------------: | :---------: | :------: | -------------------------------------------- |
-|   File Converter   | 7.2.5.32097 | 官方 msi | https://file-converter.org/                  |
-|  Office Tool Plus  |   7.6.0.1   | 社区 exe | https://github.com/YerongAI/Office-Tool/     |
-|      Tablacus      |   20.8.18   | 社区 zip | https://tablacus.github.io/explorer_en.html/ |
-| VeraCrypt-Portable |    1.246    | 社区 exe | https://www.veracrypt.fr/                    |
-|     WPSOffice      | 11.1.0.9912 | 官方 exe | https://pc.wps.cn/                           |
-|      百度网盘      |  6.9.10.1   | 官方 exe | https://pan.baidu.com/                       |
-|     灵格斯词霸     |    2.9.2    | 社区 zip | http://www.lingoes.cn/                       |
+|        App         |    版本     | 安装文件 | 官网                                     |
+| :----------------: | :---------: | :------: | ---------------------------------------- |
+|   File Converter   | 7.2.5.32097 | 官方 msi | https://file-converter.org/              |
+|  Office Tool Plus  |   7.6.0.1   | 社区 exe | https://github.com/YerongAI/Office-Tool/ |
+| VeraCrypt-Portable |    1.246    | 社区 exe | https://www.veracrypt.fr/                |
+|     WPSOffice      | 11.1.0.9912 | 官方 exe | https://pc.wps.cn/                       |
+|      百度网盘      |  7.0.4.11   | 官方 exe | https://pan.baidu.com/                   |
+|     灵格斯词霸     |    2.9.2    | 社区 zip | http://www.lingoes.cn/                   |
 
 ### 社交休闲
 
