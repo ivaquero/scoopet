@@ -14,8 +14,6 @@ vmware-workstation-pro: update to version 15.5.2
 
 ### Daily Work
 
-baidunetdisk: update to version 7.0.4.11
-
 lingoes: update to version 2.9.2
 
 veracrypt-portable: update to version 1.246
