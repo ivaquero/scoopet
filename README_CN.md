@@ -150,6 +150,8 @@ scoop config aria2-min-split-size 4M
 |          Gephi           |    0.92    | 官方 exe | https://gephi.org/                        |
 |        Grammarly         |  1.5.66.0  | 官方 exe | https://www.grammarly.com/native/windows/ |
 |         Julia-cn         |   1.5.0    | 镜像 exe | https://julialang.org/                    |
+|         KingDraw         |  1.1.2.0   | 官方 exe | http://kingdraw.cn/                       |
+|          LyX-cn          |   2.3.5    | 镜像 exe | https://www.lyx.org/                      |
 |  Mathpix Snipping Tool   | 02.05.0017 | 官方 exe | https://mathpix.com/                      |
 |     Mendeley Desktop     |   1.19.6   | 官方 exe | https://www.mendeley.com/                 |
 |       Miniconda-cn       |   4.8.3    | 镜像 exe | https://conda.io/miniconda.html/          |
@@ -158,14 +160,15 @@ scoop config aria2-min-split-size 4M
 
 ### 开发辅助
 
-|          App           |      版本       | 安装文件  | 官网                                            |
-| :--------------------: | :-------------: | :-------: | ----------------------------------------------- |
-|       Cyberduck        |   7.5.1.33324   | 官方 msi  | https://cyberduck.io/                           |
-|         uTools         |       1.2       | 官方 exe  | https://u.tools/                                |
-| VirtualBox [含扩展包]  |     6.1.10      | 官方 exe  | https://www.virtualbox.org/                     |
-| VMware Workstation Pro | 15.5.2-15785246 | 官方 exe  | https://www.vmware.com/                         |
-|    scoop-completion    |      0.2.3      | 社区 zip  | https://github.com/Moeologist/scoop-completion/ |
-|        分区助手        |       8.3       | 官方 psm1 | https://www.disktool.cn/                        |
+|          App           |      版本       |    安装文件     | 官网                                            |
+| :--------------------: | :-------------: | :-------------: | ----------------------------------------------- |
+|       Cyberduck        |   7.5.1.33324   |    官方 msi     | https://cyberduck.io/                           |
+|    scoop-completion    |      0.2.3      |    社区 psm1    | https://github.com/Moeologist/scoop-completion/ |
+|         uTools         |       1.2       |    官方 exe     | https://u.tools/                                |
+| VirtualBox [含扩展包]  |     6.1.10      |    官方 exe     | https://www.virtualbox.org/                     |
+| VMware Workstation Pro | 15.5.2-15785246 |    官方 exe     | https://www.vmware.com/                         |
+|         WinGet         |    0.1.42241    | 社区 appxbundle | https://github.com/microsoft/winget-cli         |
+|        分区助手        |       8.3       |    官方 zip     | https://www.disktool.cn/                        |
 
 ### 日常办公
 
@@ -182,10 +185,11 @@ scoop config aria2-min-split-size 4M
 
 ### 社交休闲
 
-|        App        |     版本     | 安装文件 | 官网                                |
-| :---------------: | :----------: | :------: | ----------------------------------- |
-|    网易云音乐     | 2.7.1.198242 | 官方 exe | https://music.163.com/              |
-|       微信        |    2.9.5     | 官方 exe | https://pc.weixin.qq.com/           |
-|     腾讯会议      |  1.9.0.448   | 官方 exe | https://meeting.tencent.com/        |
-|      You-Get      |   0.4.1403   | 社区 whl | https://github.com/soimort/you-get/ |
-| QQ [构建中。。。] |    9.2.3     | 官方 exe | https://im.qq.com/pcqq/             |
+|        App        |     版本     | 安装文件 | 官网                                        |
+| :---------------: | :----------: | :------: | ------------------------------------------- |
+|   洛雪音乐助手    |    1.0.1     | 官方 7z  | https://github.com/lyswhut/lx-music-desktop |
+|    网易云音乐     | 2.7.1.198242 | 官方 exe | https://music.163.com/                      |
+|       微信        |    2.9.5     | 官方 exe | https://pc.weixin.qq.com/                   |
+|     腾讯会议      |  1.9.0.448   | 官方 exe | https://meeting.tencent.com/                |
+|      You-Get      |   0.4.1403   | 社区 whl | https://github.com/soimort/you-get/         |
+| QQ [构建中。。。] |    9.2.3     | 官方 exe | https://im.qq.com/pcqq/                     |
