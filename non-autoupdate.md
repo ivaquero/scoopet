@@ -8,8 +8,6 @@ miniconda-cn: update to version 4.8.3
 
 ### Development Auxillary
 
-qttabbar: update to version 1040
-
 partition-assistant: update to version 8.3
 
 vmware-workstation-pro: update to version 15.5.2
