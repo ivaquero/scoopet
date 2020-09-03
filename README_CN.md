@@ -169,14 +169,16 @@ scoop config aria2-min-split-size 4M
 
 ### 日常办公
 
-|        App         |    版本     | 安装文件 | 官网                                     |
-| :----------------: | :---------: | :------: | ---------------------------------------- |
-|   File Converter   | 7.2.5.32097 | 官方 msi | https://file-converter.org/              |
-|  Office Tool Plus  |   7.6.0.1   | 社区 exe | https://github.com/YerongAI/Office-Tool/ |
-| VeraCrypt-Portable |    1.246    | 社区 exe | https://www.veracrypt.fr/                |
-|     WPSOffice      | 11.1.0.9912 | 官方 exe | https://pc.wps.cn/                       |
-|      百度网盘      |  7.0.4.11   | 官方 exe | https://pan.baidu.com/                   |
-|     灵格斯词霸     |    2.9.2    | 社区 zip | http://www.lingoes.cn/                   |
+|        App         |    版本     | 安装文件 | 官网                                               |
+| :----------------: | :---------: | :------: | -------------------------------------------------- |
+|   File Converter   | 7.2.5.32097 | 官方 msi | https://file-converter.org/                        |
+|  Office Tool Plus  |   7.6.0.1   | 社区 exe | https://github.com/YerongAI/Office-Tool/           |
+| VeraCrypt-Portable |    1.246    | 社区 exe | https://www.veracrypt.fr/                          |
+|   Wise Care 365    |  5.5.7.552  | 官方 exe | https://www.wisecleaner.com/wise-care-365.html     |
+| Wise Disk Cleaner  | 10.3.1.783  | 官方 exe | https://www.wisecleaner.com/wise-disk-cleaner.html |
+|     WPSOffice      | 11.1.0.9912 | 官方 exe | https://pc.wps.cn/                                 |
+|      百度网盘      |  7.0.4.11   | 官方 exe | https://pan.baidu.com/                             |
+|     灵格斯词霸     |    2.9.2    | 社区 zip | http://www.lingoes.cn/                             |
 
 ### 社交休闲
 

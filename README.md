@@ -167,14 +167,16 @@ scoop config aria2-min-split-size 4M
 
 ### Daily Work
 
-|        App         |   Version   |   Installer   | Homepage                                 |
-| :----------------: | :---------: | :-----------: | ---------------------------------------- |
-|    BaiduNetDisk    |  7.0.4.11   | Official exe  | https://pan.baidu.com/                   |
-|   File Converter   | 7.2.5.32097 | Official msi  | https://file-converter.org/              |
-|      Lingoes       |    2.9.2    | Community zip | http://www.lingoes.cn/                   |
-|  Office Tool Plus  |   7.6.0.1   | Community exe | https://github.com/YerongAI/Office-Tool/ |
-| VeraCrypt-Portable |    1.246    | Community exe | https://www.veracrypt.fr/                |
-|     WPSOffice      | 11.1.0.9912 | Official exe  | https://pc.wps.cn/                       |
+|        App         |   Version   |   Installer   | Homepage                                           |
+| :----------------: | :---------: | :-----------: | -------------------------------------------------- |
+|    BaiduNetDisk    |  7.0.4.11   | Official exe  | https://pan.baidu.com/                             |
+|   File Converter   | 7.2.5.32097 | Official msi  | https://file-converter.org/                        |
+|      Lingoes       |    2.9.2    | Community zip | http://www.lingoes.cn/                             |
+|  Office Tool Plus  |   7.6.0.1   | Community exe | https://github.com/YerongAI/Office-Tool/           |
+| VeraCrypt-Portable |    1.246    | Community exe | https://www.veracrypt.fr/                          |
+|   Wise Care 365    |  5.5.7.552  | Community exe | https://www.wisecleaner.com/wise-care-365.html     |
+| Wise Disk Cleaner  | 10.3.1.783  | Official exe  | https://www.wisecleaner.com/wise-disk-cleaner.html |
+|     WPSOffice      | 11.1.0.9912 | Official exe  | https://pc.wps.cn/                                 |
 
 ### Social & Entertainment
 
