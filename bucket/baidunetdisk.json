@@ -5,6 +5,7 @@
     "url": "http://issuecdn.baidupcs.com/issue/netdisk/yunguanjia/BaiduNetdisk_7.0.4.11.exe#dl.7z",
     "hash": "6f3d1ab73b8fa4d9d72b431b60cd0cdd74a0309185a5efc2db0a86f6427bcec4",
     "bin": "BaiduNetdisk.exe",
+    "shortcuts": [["BaiduNetdisk.exe", "百度网盘"]],
     "persist": "users",
     "post_install": [
         "Remove-Item \"$dir\\`$PLUGINSDIR\" -Recurse",
@@ -16,6 +17,5 @@
     },
     "autoupdate": {
         "url": "http://issuecdn.baidupcs.com/issue/netdisk/yunguanjia/BaiduNetdisk_$version.exe#dl.7z"
-    },
-    "shortcuts": [["BaiduNetdisk.exe", "百度网盘"]]
+    }
 }

@@ -17,5 +17,8 @@
     "checkver": {
         "url": "https://chocolatey.org/packages/geogebra-classic.install",
         "regex": "Downloads of v\\s+([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://download.geogebra.org/installers/$majorVersion.$minorVersion/GeoGebra-Windows-Portable-$majorVersion-$minorVersion-$patchVersion-$buildVersion.zip"
     }
 }
