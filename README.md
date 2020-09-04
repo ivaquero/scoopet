@@ -185,6 +185,7 @@ scoop config aria2-min-split-size 4M
 
 |        App        |   Version    |   Installer   | Homepage                                    |
 | :---------------: | :----------: | :-----------: | ------------------------------------------- |
+|     Ding Talk     |  5.1.21.19   | Official exe  | https://www.dingtalk.com/                   |
 |     LX Music      |    1.0.1     |  Official 7z  | https://github.com/lyswhut/lx-music-desktop |
 |   Netease Music   | 2.7.1.198242 | Official exe  | https://music.163.com/                      |
 |      Wechat       |    2.9.5     | Official exe  | https://pc.weixin.qq.com/                   |

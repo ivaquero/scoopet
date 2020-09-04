@@ -187,6 +187,7 @@ scoop config aria2-min-split-size 4M
 
 |        App        |     版本     | 安装文件 | 官网                                        |
 | :---------------: | :----------: | :------: | ------------------------------------------- |
+|       钉钉        |  5.1.21.19   | 官方 exe | https://www.dingtalk.com/                   |
 |   洛雪音乐助手    |    1.0.1     | 官方 7z  | https://github.com/lyswhut/lx-music-desktop |
 |    网易云音乐     | 2.7.1.198242 | 官方 exe | https://music.163.com/                      |
 |       微信        |    2.9.5     | 官方 exe | https://pc.weixin.qq.com/                   |
