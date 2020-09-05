@@ -153,6 +153,7 @@ scoop config aria2-min-split-size 4M
 |     Mendeley Desktop     |   1.19.6   | Official exe  | https://www.mendeley.com/                 |
 |       Miniconda-cn       |   4.8.3    |  Mirror exe   | https://conda.io/miniconda.html/          |
 |         NetLogo          |   6.1.1    | Official msi  | https://ccl.northwestern.edu/netlogo/     |
+|         Obsidian         |   0.8.9    | Community exe | https://obsidian.md/                      |
 | Cytoscape [Debugging...] |   3.8.0    | Official zip  | https://cytoscape.org/                    |
 
 ### Development Auxillary
@@ -175,6 +176,7 @@ scoop config aria2-min-split-size 4M
 |    BaiduNetDisk    |  7.0.4.11   | Official exe  | https://pan.baidu.com/                             |
 |   File Converter   | 7.2.5.32097 | Official msi  | https://file-converter.org/                        |
 |      Lingoes       |    2.9.2    | Community zip | http://www.lingoes.cn/                             |
+|   Microsoft Edge   | 85.0.564.44 |  Official 7z  | https://www.microsoft.com/edge                     |
 |  Office Tool Plus  |   7.6.0.1   | Community exe | https://github.com/YerongAI/Office-Tool/           |
 | VeraCrypt-Portable |    1.246    | Community exe | https://www.veracrypt.fr/                          |
 |   Wise Care 365    |  5.5.7.552  | Community exe | https://www.wisecleaner.com/wise-care-365.html     |

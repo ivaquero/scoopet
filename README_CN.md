@@ -156,6 +156,7 @@ scoop config aria2-min-split-size 4M
 |     Mendeley Desktop     |   1.19.6   | 官方 exe | https://www.mendeley.com/                 |
 |       Miniconda-cn       |   4.8.3    | 镜像 exe | https://conda.io/miniconda.html/          |
 |         NetLogo          |   6.1.1    | 官方 msi | https://ccl.northwestern.edu/netlogo/     |
+|         Obsidian         |   0.8.9    | 社区 exe | https://obsidian.md/                      |
 | Cytoscape [构建中。。。] |   3.8.0    | 官方 zip | https://cytoscape.org/                    |
 
 ### 开发辅助
@@ -175,6 +176,7 @@ scoop config aria2-min-split-size 4M
 |        App         |    版本     | 安装文件 | 官网                                               |
 | :----------------: | :---------: | :------: | -------------------------------------------------- |
 |   File Converter   | 7.2.5.32097 | 官方 msi | https://file-converter.org/                        |
+|   Microsoft Edge   | 85.0.564.44 | 官方 7z  | https://www.microsoft.com/edge                     |
 |  Office Tool Plus  |   7.6.0.1   | 社区 exe | https://github.com/YerongAI/Office-Tool/           |
 | VeraCrypt-Portable |    1.246    | 社区 exe | https://www.veracrypt.fr/                          |
 |   Wise Care 365    |  5.5.7.552  | 官方 exe | https://www.wisecleaner.com/wise-care-365.html     |
