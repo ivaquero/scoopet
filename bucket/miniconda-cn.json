@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/Miniconda3-latest-Windows-x86_64.exe",
-            "hash": "1701955cd637d1dad5a84958fd470649b79de973d1570541eb52857664b5056c"
+            "hash": "1f4ff67f051c815b6008f144fdc4c3092af2805301d248b56281c36c1f4333e5"
         },
         "32bit": {
             "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/Miniconda3-latest-Windows-x86.exe",
