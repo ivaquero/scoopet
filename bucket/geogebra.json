@@ -8,11 +8,24 @@
     "version": "6.0.600.0",
     "url": "https://download.geogebra.org/installers/6.0/GeoGebra-Windows-Portable-6-0-600-0.zip",
     "hash": "4ff211c65f6cc8735d945a1b2cfdd26a8ffeba713ee06602747f292855c57e25",
-    "bin": ["GeoGebra.exe", "GeoGebraGraphing.exe", "GeoGebraGeometry.exe"],
+    "bin": [
+        "GeoGebra.exe",
+        "GeoGebraGraphing.exe",
+        "GeoGebraGeometry.exe"
+    ],
     "shortcuts": [
-        ["GeoGebra.exe", "GeoGebra"],
-        ["GeoGebraGraphing.exe", "GeoGebra Graphing"],
-        ["GeoGebraGeometry.exe", "GeoGebra Geometry"]
+        [
+            "GeoGebra.exe",
+            "GeoGebra"
+        ],
+        [
+            "GeoGebraGraphing.exe",
+            "GeoGebra Graphing"
+        ],
+        [
+            "GeoGebraGeometry.exe",
+            "GeoGebra Geometry"
+        ]
     ],
     "checkver": {
         "url": "https://chocolatey.org/packages/geogebra-classic.install",

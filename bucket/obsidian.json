@@ -20,7 +20,12 @@
             "Remove-Item \"$dir\\Uninstall Obsidian.exe\""
         ]
     },
-    "shortcuts": [["Obsidian.exe", "Obsidian"]],
+    "shortcuts": [
+        [
+            "Obsidian.exe",
+            "Obsidian"
+        ]
+    ],
     "checkver": {
         "github": "https://github.com/obsidianmd/obsidian-releases"
     },

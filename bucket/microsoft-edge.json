@@ -23,7 +23,12 @@
             "Move-Item \"$((Get-ChildItem -Directory $dir).FullName)/*\" -Destination $dir"
         ]
     },
-    "shortcuts": [["msedge.exe", "Microsoft Edge"]],
+    "shortcuts": [
+        [
+            "msedge.exe",
+            "Microsoft Edge"
+        ]
+    ],
     "checkver": {
         "url": "https://scoop-sushi.vercel.app/api/microsoft-edge",
         "jsonpath": "$.stable.x64.version"

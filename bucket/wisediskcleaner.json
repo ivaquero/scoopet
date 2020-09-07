@@ -12,8 +12,16 @@
             "if (-not (Test-Path \"$persist_dir\\$file\")) { Set-Content \"$dir\\$file\" '[General]', 'checkNewVer=3' -Encoding Ascii }"
         ]
     },
-    "shortcuts": [["WiseDiskCleaner.exe", "Wise Disk Cleaner"]],
-    "persist": ["config.ini", "DefragOptions.ini"],
+    "shortcuts": [
+        [
+            "WiseDiskCleaner.exe",
+            "Wise Disk Cleaner"
+        ]
+    ],
+    "persist": [
+        "config.ini",
+        "DefragOptions.ini"
+    ],
     "checkver": {
         "url": "https://www.wisecleaner.com/software_update/getinfo.php?p_id=4",
         "jsonpath": "$.download_exe",

@@ -4,8 +4,18 @@
     "license": "Apache-2.0",
     "url": "https://sourceforge.net/projects/portableapps/files/VeraCrypt%20Portable/VeraCryptPortable_1.22.paf.exe#/dl.7z",
     "hash": "md5:2c82688277d87ff61b50e87bfacca73a",
-    "bin": [["VeraCryptPortable.exe", "veracrypt"]],
-    "shortcuts": [["VeraCryptPortable.exe", "VeraCrypt"]],
+    "bin": [
+        [
+            "VeraCryptPortable.exe",
+            "veracrypt"
+        ]
+    ],
+    "shortcuts": [
+        [
+            "VeraCryptPortable.exe",
+            "VeraCrypt"
+        ]
+    ],
     "persist": "Data",
     "post_install": [
         "Remove-Item -LiteralPath \"$dir\\`$PLUGINSDIR\" -Force -Recurse",

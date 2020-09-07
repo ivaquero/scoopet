@@ -6,7 +6,12 @@
     "hash": "3a923e63e22da02f597aa440656c4c345f7654a86f25dbd0b8363f3a46af5bf8",
     "innosetup": true,
     "bin": "mathpix-snipping-tool.exe",
-    "shortcuts": [["mathpix-snipping-tool.exe", "Mathpix Snipping Tool"]],
+    "shortcuts": [
+        [
+            "mathpix-snipping-tool.exe",
+            "Mathpix Snipping Tool"
+        ]
+    ],
     "autoupdate": {
         "url": "https://mathpix.com/win_app/mathpix_snipping_tool_setup.exe"
     }
