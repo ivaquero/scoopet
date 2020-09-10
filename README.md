@@ -142,10 +142,10 @@ scoop config aria2-min-split-size 4M
 
 |           App            |  Version   |   Installer   | Homepage                                  |
 | :----------------------: | :--------: | :-----------: | ----------------------------------------- |
-|      CopyTranslator      |   9.1.0    | Community zip | https://copytranslator.github.io/         |
-|    GeoGebra-Portable     |  6.0.600   | Official zip  | https://www.geogebra.org/                 |
+|      CopyTranslator      |   9.2.0    | Community zip | https://copytranslator.github.io/         |
+|    GeoGebra-Portable     |  6.0.603   | Official zip  | https://www.geogebra.org/                 |
 |          Gephi           |    0.92    | Official exe  | https://gephi.org/                        |
-|        Grammarly         |  1.5.66.0  | Official exe  | https://www.grammarly.com/native/windows/ |
+|        Grammarly         |  1.5.68.0  | Official exe  | https://www.grammarly.com/native/windows/ |
 |         Julia-cn         |   1.5.0    |  Mirror exe   | https://julialang.org/                    |
 |         KingDraw         |  1.1.2.0   | Official exe  | http://kingdraw.cn/                       |
 |          LyX-cn          |   2.3.5    |  Mirror exe   | https://www.lyx.org/                      |
@@ -153,7 +153,7 @@ scoop config aria2-min-split-size 4M
 |     Mendeley Desktop     |   1.19.6   | Official exe  | https://www.mendeley.com/                 |
 |       Miniconda-cn       |   4.8.3    |  Mirror exe   | https://conda.io/miniconda.html/          |
 |         NetLogo          |   6.1.1    | Official msi  | https://ccl.northwestern.edu/netlogo/     |
-|         Obsidian         |   0.8.9    | Community exe | https://obsidian.md/                      |
+|         Obsidian         |   0.8.12   | Community exe | https://obsidian.md/                      |
 | Cytoscape [Debugging...] |   3.8.0    | Official zip  | https://cytoscape.org/                    |
 
 ### Development Auxillary
@@ -164,7 +164,7 @@ scoop config aria2-min-split-size 4M
 |            Cyberduck             |   7.5.1.33324   |     Official msi     | https://cyberduck.io/                           |
 |       Partition Assistant        |       8.3       |     Official zip     | https://www.disktool.cn/                        |
 |         scoop-completion         |      0.2.3      |    Community psm1    | https://github.com/Moeologist/scoop-completion/ |
-|              uTools              |       1.2       |     Official exe     | https://u.tools/                                |
+|              uTools              |       1.3       |     Official exe     | https://u.tools/                                |
 | VirtualBox [with Extension Pack] |     6.1.10      |     Official exe     | https://www.virtualbox.org/                     |
 |      VMware Workstation Pro      | 15.5.2-15785246 |     Official exe     | https://www.vmware.com/                         |
 |              WinGet              |    0.1.42241    | Community appxbundle | https://github.com/microsoft/winget-cli         |
@@ -176,7 +176,7 @@ scoop config aria2-min-split-size 4M
 |    BaiduNetDisk    |  7.0.4.11   | Official exe  | https://pan.baidu.com/                             |
 |   File Converter   | 7.2.5.32097 | Official msi  | https://file-converter.org/                        |
 |      Lingoes       |    2.9.2    | Community zip | http://www.lingoes.cn/                             |
-|   Microsoft Edge   | 85.0.564.44 |  Official 7z  | https://www.microsoft.com/edge                     |
+|   Microsoft Edge   | 85.0.564.51 |  Official 7z  | https://www.microsoft.com/edge                     |
 |  Office Tool Plus  |   7.6.0.1   | Community exe | https://github.com/YerongAI/Office-Tool/           |
 | VeraCrypt-Portable |    1.246    | Community exe | https://www.veracrypt.fr/                          |
 |   Wise Care 365    |  5.5.7.552  | Community exe | https://www.wisecleaner.com/wise-care-365.html     |
