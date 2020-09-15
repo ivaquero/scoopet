@@ -146,7 +146,7 @@ scoop config aria2-min-split-size 4M
 |           App            |    版本    | 安装文件 | 官网                                      |
 | :----------------------: | :--------: | :------: | ----------------------------------------- |
 |      CopyTranslator      |   9.2.0    | 社区 zip | https://copytranslator.github.io/         |
-|    GeoGebra-Portable     |  6.0.603   | 官方 zip | https://www.geogebra.org/                 |
+|    GeoGebra-Portable     |  6.0.604   | 官方 zip | https://www.geogebra.org/                 |
 |          Gephi           |    0.92    | 官方 exe | https://gephi.org/                        |
 |        Grammarly         |  1.5.68.0  | 官方 exe | https://www.grammarly.com/native/windows/ |
 |         Julia-cn         |   1.5.0    | 镜像 exe | https://julialang.org/                    |
@@ -168,7 +168,7 @@ scoop config aria2-min-split-size 4M
 |         uTools         |       1.3       |    官方 exe     | https://u.tools/                                |
 | VirtualBox [含扩展包]  |     6.1.10      |    官方 exe     | https://www.virtualbox.org/                     |
 | VMware Workstation Pro | 15.5.2-15785246 |    官方 exe     | https://www.vmware.com/                         |
-|         WinGet         |    0.1.42241    | 社区 appxbundle | https://github.com/microsoft/winget-cli         |
+|         WinGet         |    0.2.2521     | 社区 appxbundle | https://github.com/microsoft/winget-cli         |
 |        分区助手        |       8.3       |    官方 zip     | https://www.disktool.cn/                        |
 
 ### 日常办公

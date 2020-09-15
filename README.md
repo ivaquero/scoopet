@@ -143,7 +143,7 @@ scoop config aria2-min-split-size 4M
 |           App            |  Version   |   Installer   | Homepage                                  |
 | :----------------------: | :--------: | :-----------: | ----------------------------------------- |
 |      CopyTranslator      |   9.2.0    | Community zip | https://copytranslator.github.io/         |
-|    GeoGebra-Portable     |  6.0.603   | Official zip  | https://www.geogebra.org/                 |
+|    GeoGebra-Portable     |  6.0.604   | Official zip  | https://www.geogebra.org/                 |
 |          Gephi           |    0.92    | Official exe  | https://gephi.org/                        |
 |        Grammarly         |  1.5.68.0  | Official exe  | https://www.grammarly.com/native/windows/ |
 |         Julia-cn         |   1.5.0    |  Mirror exe   | https://julialang.org/                    |
@@ -167,7 +167,7 @@ scoop config aria2-min-split-size 4M
 |              uTools              |       1.3       |     Official exe     | https://u.tools/                                |
 | VirtualBox [with Extension Pack] |     6.1.10      |     Official exe     | https://www.virtualbox.org/                     |
 |      VMware Workstation Pro      | 15.5.2-15785246 |     Official exe     | https://www.vmware.com/                         |
-|              WinGet              |    0.1.42241    | Community appxbundle | https://github.com/microsoft/winget-cli         |
+|              WinGet              |    0.2.2521     | Community appxbundle | https://github.com/microsoft/winget-cli         |
 
 ### Daily Work
 
