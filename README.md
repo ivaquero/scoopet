@@ -140,57 +140,57 @@ scoop config aria2-min-split-size 4M
 
 ### Research Tools
 
-|           App            |  Version   |   Installer   | Homepage                                  |
-| :----------------------: | :--------: | :-----------: | ----------------------------------------- |
-|      CopyTranslator      |   9.2.0    | Community zip | https://copytranslator.github.io/         |
-|    GeoGebra-Portable     |  6.0.604   | Official zip  | https://www.geogebra.org/                 |
-|          Gephi           |    0.92    | Official exe  | https://gephi.org/                        |
-|        Grammarly         |  1.5.68.0  | Official exe  | https://www.grammarly.com/native/windows/ |
-|         Julia-cn         |   1.5.0    |  Mirror exe   | https://julialang.org/                    |
-|         KingDraw         |  1.1.2.0   | Official exe  | http://kingdraw.cn/                       |
-|          LyX-cn          |   2.3.5    |  Mirror exe   | https://www.lyx.org/                      |
-|  Mathpix Snipping Tool   | 02.05.0017 | Official exe  | https://mathpix.com/                      |
-|     Mendeley Desktop     |   1.19.6   | Official exe  | https://www.mendeley.com/                 |
-|       Miniconda-cn       |   4.8.3    |  Mirror exe   | https://conda.io/miniconda.html/          |
-|         NetLogo          |   6.1.1    | Official msi  | https://ccl.northwestern.edu/netlogo/     |
-|         Obsidian         |   0.8.12   | Community exe | https://obsidian.md/                      |
-| Cytoscape [Debugging...] |   3.8.0    | Official zip  | https://cytoscape.org/                    |
+|           App            |  Version   |   Installer    | Origenal ?                                                            |
+| :----------------------: | :--------: | :------------: | --------------------------------------------------------------------- |
+|      CopyTranslator      |   9.2.0    | Community zip  | Yes                                                                   |
+|    GeoGebra-Portable     |  6.0.604   |  Official zip  | Yes                                                                   |
+|          Gephi           |    0.92    |  Official exe  | Yes                                                                   |
+|        Grammarly         |  1.5.68.0  |  Official exe  | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed             |
+|         Julia-cn         |   1.5.0    |   Mirror exe   | Yes                                                                   |
+|         KingDraw         |  1.1.2.0   |  Official exe  | Yes                                                                   |
+|          LyX-cn          |   2.3.5    |   Mirror exe   | Yes                                                                   |
+|  Mathpix Snipping Tool   | 02.05.0017 |  Official exe  | Yes                                                                   |
+|     Mendeley Desktop     |   1.19.6   |  Official exe  | Yes                                                                   |
+|       Miniconda-cn       |   4.8.3    |   Mirror exe   | [Extras](https://github.com/lukesampson/scoop-extras)-modified        |
+|         NetLogo          |   6.1.1    |  Official msi  | Yes                                                                   |
+|  Obsidian [incomplete]   |   0.8.12   | [Community exe | [Sushi](https://github.com/kidonng/sushi/tree/master/bucket)-borrowed |
+| Cytoscape [Debugging...] |   3.8.0    |  Official zip  | Yes                                                                   |
 
 ### Development Auxillary
 
-|               App                |     Version     |      Installer       | Homepage                                        |
-| :------------------------------: | :-------------: | :------------------: | ----------------------------------------------- |
-|            Chocolatey            |     0.10.15     |    Community ps1     | https://chocolatey.org/                         |
-|            Cyberduck             |   7.5.1.33324   |     Official msi     | https://cyberduck.io/                           |
-|       Partition Assistant        |       8.3       |     Official zip     | https://www.disktool.cn/                        |
-|         scoop-completion         |      0.2.3      |    Community psm1    | https://github.com/Moeologist/scoop-completion/ |
-|              uTools              |       1.3       |     Official exe     | https://u.tools/                                |
-| VirtualBox [with Extension Pack] |     6.1.10      |     Official exe     | https://www.virtualbox.org/                     |
-|      VMware Workstation Pro      | 15.5.2-15785246 |     Official exe     | https://www.vmware.com/                         |
-|              WinGet              |    0.2.2521     | Community appxbundle | https://github.com/microsoft/winget-cli         |
+|               App                |     Version     |      Installer       | Origenal ?                                                |
+| :------------------------------: | :-------------: | :------------------: | --------------------------------------------------------- |
+|            Chocolatey            |     0.10.15     |    Community ps1     | [dorado](https://github.com/chawyehsu/dorado)-borrowed    |
+|            Cyberduck             |   7.5.1.33324   |     Official msi     | Yes                                                       |
+|       Partition Assistant        |       8.3       |     Official zip     | Yes                                                       |
+|         scoop-completion         |      0.2.3      |    Community psm1    | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed |
+|              uTools              |       1.3       |     Official exe     | [dorado](https://github.com/chawyehsu/dorado)-borrowed    |
+| VirtualBox [with Extension Pack] |     6.1.10      |     Official exe     | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed |
+|      VMware Workstation Pro      | 15.5.2-15785246 |     Official exe     | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed |
+|              WinGet              |    0.2.2521     | Community appxbundle | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed |
 
 ### Daily Work
 
-|        App         |   Version   |   Installer   | Homepage                                           |
-| :----------------: | :---------: | :-----------: | -------------------------------------------------- |
-|    BaiduNetDisk    |  7.0.4.11   | Official exe  | https://pan.baidu.com/                             |
-|   File Converter   | 7.2.5.32097 | Official msi  | https://file-converter.org/                        |
-|      Lingoes       |    2.9.2    | Community zip | http://www.lingoes.cn/                             |
-|   Microsoft Edge   | 85.0.564.51 |  Official 7z  | https://www.microsoft.com/edge                     |
-|  Office Tool Plus  |   7.6.0.1   | Community exe | https://github.com/YerongAI/Office-Tool/           |
-| VeraCrypt-Portable |    1.246    | Community exe | https://www.veracrypt.fr/                          |
-|   Wise Care 365    |  5.5.7.552  | Community exe | https://www.wisecleaner.com/wise-care-365.html     |
-| Wise Disk Cleaner  | 10.3.1.783  | Official exe  | https://www.wisecleaner.com/wise-disk-cleaner.html |
-|     WPSOffice      | 11.1.0.9912 | Official exe  | https://pc.wps.cn/                                 |
+|        App         |   Version   |   Installer   | Origenal ?                                                            |
+| :----------------: | :---------: | :-----------: | --------------------------------------------------------------------- |
+|    BaiduNetDisk    |  7.0.4.11   | Official exe  | Yes                                                                   |
+|   File Converter   | 7.2.5.32097 | Official msi  | Yes                                                                   |
+|      Lingoes       |    2.9.2    | Community zip | Yes                                                                   |
+|   Microsoft Edge   | 85.0.564.51 |  Official 7z  | [Sushi](https://github.com/kidonng/sushi/tree/master/bucket)-borrowed |
+|  Office Tool Plus  |   7.6.0.1   | Community exe | Yes                                                                   |
+| VeraCrypt-Portable |    1.246    | Community exe | Yes                                                                   |
+|   Wise Care 365    |  5.5.7.552  | Community exe | Yes                                                                   |
+| Wise Disk Cleaner  | 10.3.1.783  | Official exe  | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed             |
+|     WPSOffice      | 11.1.0.9912 | Official exe  | [dorado](https://github.com/chawyehsu/dorado)-borrowed                |
 
 ### Social & Entertainment
 
-|        App        |   Version    |   Installer   | Homepage                                    |
-| :---------------: | :----------: | :-----------: | ------------------------------------------- |
-|     Ding Talk     |  5.1.21.19   | Official exe  | https://www.dingtalk.com/                   |
-|     LX Music      |    1.0.1     |  Official 7z  | https://github.com/lyswhut/lx-music-desktop |
-|   Netease Music   | 2.7.1.198242 | Official exe  | https://music.163.com/                      |
-|      Wechat       |    2.9.5     | Official exe  | https://pc.weixin.qq.com/                   |
-|      WeMeet       |  1.9.0.448   | Official exe  | https://meeting.tencent.com/                |
-|      You-Get      |   0.4.1403   | Community whl | https://github.com/soimort/you-get/         |
-| QQ [Debugging...] |    9.2.3     | Official exe  | https://im.qq.com/pcqq/                     |
+|        App        |   Version    |   Installer   | Origenal ?                                                            |
+| :---------------: | :----------: | :-----------: | --------------------------------------------------------------------- |
+|     Ding Talk     |  5.1.21.19   | Official exe  | Yes                                                                   |
+|     LX Music      |    1.0.1     |  Official 7z  | Yes                                                                   |
+|   Netease Music   | 2.7.1.198242 | Official exe  | 借用自[Sushi](https://github.com/kidonng/sushi/tree/master/bucket)    |
+|      Wechat       |    2.9.5     | Official exe  | [dorado](https://github.com/chawyehsu/dorado)-borrowed                |
+|      WeMeet       |  1.9.0.448   | Official exe  | [Sushi](https://github.com/kidonng/sushi/tree/master/bucket)-borrowed |
+|      You-Get      |   0.4.1403   | Community whl | Yes                                                                   |
+| QQ [Debugging...] |    9.2.3     | Official exe  | [dorado](https://github.com/chawyehsu/dorado)-borrowed                |
