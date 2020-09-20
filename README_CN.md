@@ -191,8 +191,8 @@ scoop config aria2-min-split-size 4M
 | :---------------: | :----------: | :------: | ------------------------------------------------------------------ |
 |       钉钉        |  5.1.21.19   | 官方 exe | 是                                                                 |
 |   洛雪音乐助手    |    1.0.1     | 官方 7z  | 是                                                                 |
-|    网易云音乐     | 2.7.1.198242 | 官方 exe | 借用自[Sushi](https://github.com/kidonng/sushi/tree/master/bucket) |
+|    网易云音乐     | 2.7.1.198242 | 官方 exe | 借用自[dorado](https://github.com/chawyehsu/dorado)                |
 |       微信        |    2.9.5     | 官方 exe | 借用自[dorado](https://github.com/chawyehsu/dorado)                |
 |     腾讯会议      |  1.9.0.448   | 官方 exe | 借用自[Sushi](https://github.com/kidonng/sushi/tree/master/bucket) |
 |      You-Get      |   0.4.1403   | 社区 whl | 是                                                                 |
-| QQ [构建中。。。] |    9.2.3     | 官方 exe | 借用自[Sushi](https://github.com/kidonng/sushi/tree/master/bucket) |
+| QQ [构建中。。。] |    9.2.3     | 官方 exe | 借用自[dorado](https://github.com/chawyehsu/dorado)                |

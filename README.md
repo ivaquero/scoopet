@@ -189,7 +189,7 @@ scoop config aria2-min-split-size 4M
 | :---------------: | :----------: | :-----------: | --------------------------------------------------------------------- |
 |     Ding Talk     |  5.1.21.19   | Official exe  | Yes                                                                   |
 |     LX Music      |    1.0.1     |  Official 7z  | Yes                                                                   |
-|   Netease Music   | 2.7.1.198242 | Official exe  | 借用自[Sushi](https://github.com/kidonng/sushi/tree/master/bucket)    |
+|   Netease Music   | 2.7.1.198242 | Official exe  | [dorado](https://github.com/chawyehsu/dorado)-borrowed                |
 |      Wechat       |    2.9.5     | Official exe  | [dorado](https://github.com/chawyehsu/dorado)-borrowed                |
 |      WeMeet       |  1.9.0.448   | Official exe  | [Sushi](https://github.com/kidonng/sushi/tree/master/bucket)-borrowed |
 |      You-Get      |   0.4.1403   | Community whl | Yes                                                                   |
