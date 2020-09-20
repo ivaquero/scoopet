@@ -153,14 +153,13 @@ scoop config aria2-min-split-size 4M
 |     Mendeley Desktop     |   1.19.6   |  Official exe  | Yes                                                                   |
 |       Miniconda-cn       |   4.8.3    |   Mirror exe   | [Extras](https://github.com/lukesampson/scoop-extras)-modified        |
 |         NetLogo          |   6.1.1    |  Official msi  | Yes                                                                   |
-|  Obsidian [incomplete]   |   0.8.12   | [Community exe | [Sushi](https://github.com/kidonng/sushi/tree/master/bucket)-borrowed |
+|         Obsidian         |   0.8.12   | [Community exe | [Sushi](https://github.com/kidonng/sushi/tree/master/bucket)-borrowed |
 | Cytoscape [Debugging...] |   3.8.0    |  Official zip  | Yes                                                                   |
 
 ### Development Auxillary
 
 |               App                |     Version     |      Installer       | Origenal ?                                                |
 | :------------------------------: | :-------------: | :------------------: | --------------------------------------------------------- |
-|            Chocolatey            |     0.10.15     |    Community ps1     | [dorado](https://github.com/chawyehsu/dorado)-borrowed    |
 |            Cyberduck             |   7.5.1.33324   |     Official msi     | Yes                                                       |
 |       Partition Assistant        |       8.3       |     Official zip     | Yes                                                       |
 |         scoop-completion         |      0.2.3      |    Community psm1    | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed |

@@ -156,7 +156,7 @@ scoop config aria2-min-split-size 4M
 |     Mendeley Desktop     |   1.19.6   | 官方 exe | 是                                                                 |
 |       Miniconda-cn       |   4.8.3    | 镜像 exe | 修改自[Extras](https://github.com/lukesampson/scoop-extras)        |
 |         NetLogo          |   6.1.1    | 官方 msi | 是                                                                 |
-|    Obsidian [不完善]     |   0.8.12   | 社区 exe | 借用自[Sushi](https://github.com/kidonng/sushi/tree/master/bucket) |
+|         Obsidian         |   0.8.12   | 社区 exe | 借用自[Sushi](https://github.com/kidonng/sushi/tree/master/bucket) |
 | Cytoscape [构建中。。。] |   3.8.0    | 官方 zip | 是                                                                 |
 
 ### 开发辅助
