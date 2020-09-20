@@ -178,7 +178,7 @@ scoop config aria2-min-split-size 4M
 |   File Converter   | 7.2.5.32097 | 官方 msi | 是                                                                 |
 |   Microsoft Edge   | 85.0.564.51 | 官方 7z  | 借用自[Sushi](https://github.com/kidonng/sushi/tree/master/bucket) |
 |  Office Tool Plus  |   7.6.0.1   | 社区 exe | 是                                                                 |
-| VeraCrypt-Portable |    1.246    | 社区 exe | 是                                                                 |
+| VeraCrypt-Portable |    1.246    | 社区 exe | 借用自[nickbudi](https://github.com/nickbudi/scoop-bucket)         |
 |   Wise Care 365    |  5.5.7.552  | 官方 exe | 是                                                                 |
 | Wise Disk Cleaner  | 10.3.1.783  | 官方 exe | 借用自[Ash258](https://github.com/Ash258/Scoop-Ash258)             |
 |     WPSOffice      | 11.1.0.9912 | 官方 exe | 借用自[dorado](https://github.com/chawyehsu/dorado)                |

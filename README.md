@@ -177,7 +177,7 @@ scoop config aria2-min-split-size 4M
 |      Lingoes       |    2.9.2    | Community zip | Yes                                                                   |
 |   Microsoft Edge   | 85.0.564.51 |  Official 7z  | [Sushi](https://github.com/kidonng/sushi/tree/master/bucket)-borrowed |
 |  Office Tool Plus  |   7.6.0.1   | Community exe | Yes                                                                   |
-| VeraCrypt-Portable |    1.246    | Community exe | Yes                                                                   |
+| VeraCrypt-Portable |    1.246    | Community exe | [nickbudi](https://github.com/nickbudi/scoop-bucket)-borrowed         |
 |   Wise Care 365    |  5.5.7.552  | Community exe | Yes                                                                   |
 | Wise Disk Cleaner  | 10.3.1.783  | Official exe  | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed             |
 |     WPSOffice      | 11.1.0.9912 | Official exe  | [dorado](https://github.com/chawyehsu/dorado)-borrowed                |
