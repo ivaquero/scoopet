@@ -5,26 +5,26 @@
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/Miniconda3-latest-Windows-x86_64.exe",
-            "hash": "1f4ff67f051c815b6008f144fdc4c3092af2805301d248b56281c36c1f4333e5"
+            "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/Miniconda3-py38_4.8.3-Windows-x86_64.exe",
+            "hash": "md5:b646dafdea2816cc3526f20a4410c824"
         },
         "32bit": {
-            "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/Miniconda3-latest-Windows-x86.exe",
-            "hash": "ca74cb6eb0731db2b972c0fb512e29661a84c3f01ac6133121b4372eb1c41f46"
+            "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/Miniconda3-py38_4.8.3-Windows-x86.exe",
+            "hash": "md5:99e867dc54d5b3234ab37f29b6344311"
         }
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/Miniconda3-latest-Windows-x86_64.exe"
+                "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/Miniconda3_$version-Windows-x86_64.exe"
             },
             "32bit": {
-                "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/Miniconda3-latest-Windows-x86.exe"
+                "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/Miniconda3_$version-Windows-x86.exe"
             }
         },
         "hash": {
             "url": "$baseurl",
-            "find": "$basename<.*\\s+<.*\\s+<.*\\s+<td>([a-fA-F0-9]{32})</td>"
+            "regex": "(?sm)$basename<.*?<td>$md5</td>"
         }
     },
     "installer": {
@@ -52,8 +52,12 @@
     "persist": "envs",
     "env_add_path": [
         "scripts",
-        "Library/bin"
+        "Library\\bin"
     ],
+    "checkver": {
+        "url": "https://repo.continuum.io/miniconda",
+        "regex": "Miniconda3-py38_([\\d.]+)-Windows"
+    },
     "notes": [
         "Currently conda envs activate and deactivate doesn't work on PowerShell,",
         "for more information, see: https://github.com/conda/conda/issues/626,",
