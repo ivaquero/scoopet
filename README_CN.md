@@ -145,54 +145,54 @@ scoop config aria2-min-split-size 4M
 
 |           App            |    版本    | 安装文件 | 是否原创                                                           |
 | :----------------------: | :--------: | :------: | ------------------------------------------------------------------ |
-|      CopyTranslator      |   9.2.0    | 社区 zip | 是                                                                 |
-|    GeoGebra-Portable     |  6.0.604   | 官方 zip | 是                                                                 |
-|          Gephi           |    0.92    | 官方 exe | 是                                                                 |
+|      CopyTranslator      |   9.2.0    | 社区 zip | √                                                                  |
+|    GeoGebra-Portable     |  6.0.604   | 官方 zip | √                                                                  |
+|          Gephi           |    0.92    | 官方 exe | √                                                                  |
 |        Grammarly         |  1.5.68.0  | 官方 exe | 借用自[Ash258](https://github.com/Ash258/Scoop-Ash258)             |
-|         Julia-cn         |   1.5.0    | 镜像 exe | 是                                                                 |
-|         KingDraw         |  1.1.2.0   | 官方 exe | 是                                                                 |
-|          LyX-cn          |   2.3.5    | 镜像 exe | 是                                                                 |
-|  Mathpix Snipping Tool   | 02.05.0017 | 官方 exe | 是                                                                 |
-|     Mendeley Desktop     |   1.19.6   | 官方 exe | 是                                                                 |
+|         Julia-cn         |   1.5.0    | 镜像 exe | √                                                                  |
+|         KingDraw         |  1.1.2.0   | 官方 exe | √                                                                  |
+|          LyX-cn          |   2.3.5    | 镜像 exe | √                                                                  |
+|  Mathpix Snipping Tool   | 02.05.0017 | 官方 exe | √                                                                  |
+|     Mendeley Desktop     |   1.19.6   | 官方 exe | √                                                                  |
 |       Miniconda-cn       |   4.8.3    | 镜像 exe | 修改自[Extras](https://github.com/lukesampson/scoop-extras)        |
-|         NetLogo          |   6.1.1    | 官方 msi | 是                                                                 |
+|         NetLogo          |   6.1.1    | 官方 msi | √                                                                  |
 |         Obsidian         |   0.8.12   | 社区 exe | 借用自[Sushi](https://github.com/kidonng/sushi/tree/master/bucket) |
-| Cytoscape [构建中。。。] |   3.8.0    | 官方 zip | 是                                                                 |
+| Cytoscape [构建中。。。] |   3.8.0    | 官方 zip | √                                                                  |
 
 ### 开发辅助
 
-|          App           |      版本       |    安装文件     | 是否原创                                               |
-| :--------------------: | :-------------: | :-------------: | ------------------------------------------------------ |
-|       Cyberduck        |   7.5.1.33324   |    官方 msi     | 是                                                     |
-|    scoop-completion    |      0.2.3      |    社区 psm1    | 借用自[Ash258](https://github.com/Ash258/Scoop-Ash258) |
-|         uTools         |       1.3       |    官方 exe     | 借用自[dorado](https://github.com/chawyehsu/dorado)    |
-| VirtualBox [含扩展包]  |     6.1.10      |    官方 exe     | 借用自[Ash258](https://github.com/Ash258/Scoop-Ash258) |
-| VMware Workstation Pro | 15.5.2-15785246 |    官方 exe     | 借用自[Ash258](https://github.com/Ash258/Scoop-Ash258) |
-|         WinGet         |    0.2.2521     | 社区 appxbundle | 借用自[Ash258](https://github.com/Ash258/Scoop-Ash258) |
-|      傲梅分区助手      |       8.3       |    官方 zip     | 是                                                     |
+|          App           |      版本       |    安装文件     | 是否原创                                                         |
+| :--------------------: | :-------------: | :-------------: | ---------------------------------------------------------------- |
+|       Cyberduck        |   7.5.1.33324   |    官方 msi     | √ 已迁移至 [Extras](https://github.com/lukesampson/scoop-extras) |
+|    scoop-completion    |      0.2.3      |    社区 psm1    | 借用自[Ash258](https://github.com/Ash258/Scoop-Ash258)           |
+|         uTools         |       1.3       |    官方 exe     | 借用自[dorado](https://github.com/chawyehsu/dorado)              |
+| VirtualBox [含扩展包]  |     6.1.10      |    官方 exe     | 借用自[Ash258](https://github.com/Ash258/Scoop-Ash258)           |
+| VMware Workstation Pro | 15.5.2-15785246 |    官方 exe     | 借用自[Ash258](https://github.com/Ash258/Scoop-Ash258)           |
+|         WinGet         |    0.2.2521     | 社区 appxbundle | 借用自[Ash258](https://github.com/Ash258/Scoop-Ash258)           |
+|      傲梅分区助手      |       8.3       |    官方 zip     | √                                                                |
 
 ### 日常办公
 
 |        App         |    版本     | 安装文件 | 是否原创                                                           |
 | :----------------: | :---------: | :------: | ------------------------------------------------------------------ |
-|   File Converter   | 7.2.5.32097 | 官方 msi | 是                                                                 |
+|   File Converter   | 7.2.5.32097 | 官方 msi | √                                                                  |
 |   Microsoft Edge   | 85.0.564.51 | 官方 7z  | 借用自[Sushi](https://github.com/kidonng/sushi/tree/master/bucket) |
-|  Office Tool Plus  |   7.6.0.1   | 社区 exe | 是                                                                 |
+|  Office Tool Plus  |   7.6.0.1   | 社区 exe | √                                                                  |
 | VeraCrypt-Portable |    1.246    | 社区 exe | 借用自[nickbudi](https://github.com/nickbudi/scoop-bucket)         |
-|   Wise Care 365    |  5.5.7.552  | 官方 exe | 是                                                                 |
+|   Wise Care 365    |  5.5.7.552  | 官方 exe | √                                                                  |
 | Wise Disk Cleaner  | 10.3.1.783  | 官方 exe | 借用自[Ash258](https://github.com/Ash258/Scoop-Ash258)             |
 |     WPSOffice      | 11.1.0.9912 | 官方 exe | 借用自[dorado](https://github.com/chawyehsu/dorado)                |
-|      百度网盘      |  7.0.4.11   | 官方 exe | 是                                                                 |
-|     灵格斯词霸     |    2.9.2    | 社区 zip | 是                                                                 |
+|      百度网盘      |  7.0.4.11   | 官方 exe | √                                                                  |
+|     灵格斯词霸     |    2.9.2    | 社区 zip | √                                                                  |
 
 ### 社交休闲
 
 |        App        |     版本     | 安装文件 | 是否原创                                                           |
 | :---------------: | :----------: | :------: | ------------------------------------------------------------------ |
-|       钉钉        |  5.1.21.19   | 官方 exe | 是                                                                 |
-|   洛雪音乐助手    |    1.0.1     | 官方 7z  | 是                                                                 |
+|       钉钉        |  5.1.21.19   | 官方 exe | √                                                                  |
+|   洛雪音乐助手    |    1.0.1     | 官方 7z  | √                                                                  |
 |    网易云音乐     | 2.7.1.198242 | 官方 exe | 借用自[dorado](https://github.com/chawyehsu/dorado)                |
 |       微信        |    2.9.5     | 官方 exe | 借用自[dorado](https://github.com/chawyehsu/dorado)                |
 |     腾讯会议      |  1.9.0.448   | 官方 exe | 借用自[Sushi](https://github.com/kidonng/sushi/tree/master/bucket) |
-|      You-Get      |   0.4.1403   | 社区 whl | 是                                                                 |
+|      You-Get      |   0.4.1403   | 社区 whl | √                                                                  |
 | QQ [构建中。。。] |    9.2.3     | 官方 exe | 借用自[dorado](https://github.com/chawyehsu/dorado)                |

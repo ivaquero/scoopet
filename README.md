@@ -142,43 +142,43 @@ scoop config aria2-min-split-size 4M
 
 |           App            |  Version   |   Installer    | Origenal ?                                                            |
 | :----------------------: | :--------: | :------------: | --------------------------------------------------------------------- |
-|      CopyTranslator      |   9.2.0    | Community zip  | Yes                                                                   |
-|    GeoGebra-Portable     |  6.0.604   |  Official zip  | Yes                                                                   |
-|          Gephi           |    0.92    |  Official exe  | Yes                                                                   |
+|      CopyTranslator      |   9.2.0    | Community zip  | √                                                                     |
+|    GeoGebra-Portable     |  6.0.604   |  Official zip  | √                                                                     |
+|          Gephi           |    0.92    |  Official exe  | √                                                                     |
 |        Grammarly         |  1.5.68.0  |  Official exe  | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed             |
-|         Julia-cn         |   1.5.0    |   Mirror exe   | Yes                                                                   |
-|         KingDraw         |  1.1.2.0   |  Official exe  | Yes                                                                   |
-|          LyX-cn          |   2.3.5    |   Mirror exe   | Yes                                                                   |
-|  Mathpix Snipping Tool   | 02.05.0017 |  Official exe  | Yes                                                                   |
-|     Mendeley Desktop     |   1.19.6   |  Official exe  | Yes                                                                   |
+|         Julia-cn         |   1.5.0    |   Mirror exe   | √                                                                     |
+|         KingDraw         |  1.1.2.0   |  Official exe  | √                                                                     |
+|          LyX-cn          |   2.3.5    |   Mirror exe   | √                                                                     |
+|  Mathpix Snipping Tool   | 02.05.0017 |  Official exe  | √                                                                     |
+|     Mendeley Desktop     |   1.19.6   |  Official exe  | √                                                                     |
 |       Miniconda-cn       |   4.8.3    |   Mirror exe   | [Extras](https://github.com/lukesampson/scoop-extras)-modified        |
-|         NetLogo          |   6.1.1    |  Official msi  | Yes                                                                   |
+|         NetLogo          |   6.1.1    |  Official msi  | √                                                                     |
 |         Obsidian         |   0.8.12   | [Community exe | [Sushi](https://github.com/kidonng/sushi/tree/master/bucket)-borrowed |
-| Cytoscape [Debugging...] |   3.8.0    |  Official zip  | Yes                                                                   |
+| Cytoscape [Debugging...] |   3.8.0    |  Official zip  | √                                                                     |
 
 ### Development Auxillary
 
-|               App                |     Version     |      Installer       | Origenal ?                                                |
-| :------------------------------: | :-------------: | :------------------: | --------------------------------------------------------- |
-|            Cyberduck             |   7.5.1.33324   |     Official msi     | Yes                                                       |
-|       Partition Assistant        |       8.3       |     Official zip     | Yes                                                       |
-|         scoop-completion         |      0.2.3      |    Community psm1    | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed |
-|              uTools              |       1.3       |     Official exe     | [dorado](https://github.com/chawyehsu/dorado)-borrowed    |
-| VirtualBox [with Extension Pack] |     6.1.10      |     Official exe     | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed |
-|      VMware Workstation Pro      | 15.5.2-15785246 |     Official exe     | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed |
-|              WinGet              |    0.2.2521     | Community appxbundle | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed |
+|               App                |     Version     |      Installer       | Origenal ?                                                          |
+| :------------------------------: | :-------------: | :------------------: | ------------------------------------------------------------------- |
+|            Cyberduck             |   7.5.1.33324   |     Official msi     | √ migrated to [Extras](https://github.com/lukesampson/scoop-extras) |
+|       Partition Assistant        |       8.3       |     Official zip     | √                                                                   |
+|         scoop-completion         |      0.2.3      |    Community psm1    | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed           |
+|              uTools              |       1.3       |     Official exe     | [dorado](https://github.com/chawyehsu/dorado)-borrowed              |
+| VirtualBox [with Extension Pack] |     6.1.10      |     Official exe     | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed           |
+|      VMware Workstation Pro      | 15.5.2-15785246 |     Official exe     | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed           |
+|              WinGet              |    0.2.2521     | Community appxbundle | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed           |
 
 ### Daily Work
 
 |        App         |   Version   |   Installer   | Origenal ?                                                            |
 | :----------------: | :---------: | :-----------: | --------------------------------------------------------------------- |
-|    BaiduNetDisk    |  7.0.4.11   | Official exe  | Yes                                                                   |
-|   File Converter   | 7.2.5.32097 | Official msi  | Yes                                                                   |
-|      Lingoes       |    2.9.2    | Community zip | Yes                                                                   |
+|    BaiduNetDisk    |  7.0.4.11   | Official exe  | √                                                                     |
+|   File Converter   | 7.2.5.32097 | Official msi  | √                                                                     |
+|      Lingoes       |    2.9.2    | Community zip | √                                                                     |
 |   Microsoft Edge   | 85.0.564.51 |  Official 7z  | [Sushi](https://github.com/kidonng/sushi/tree/master/bucket)-borrowed |
-|  Office Tool Plus  |   7.6.0.1   | Community exe | Yes                                                                   |
+|  Office Tool Plus  |   7.6.0.1   | Community exe | √                                                                     |
 | VeraCrypt-Portable |    1.246    | Community exe | [nickbudi](https://github.com/nickbudi/scoop-bucket)-borrowed         |
-|   Wise Care 365    |  5.5.7.552  | Community exe | Yes                                                                   |
+|   Wise Care 365    |  5.5.7.552  | Community exe | √                                                                     |
 | Wise Disk Cleaner  | 10.3.1.783  | Official exe  | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed             |
 |     WPSOffice      | 11.1.0.9912 | Official exe  | [dorado](https://github.com/chawyehsu/dorado)-borrowed                |
 
@@ -186,10 +186,10 @@ scoop config aria2-min-split-size 4M
 
 |        App        |   Version    |   Installer   | Origenal ?                                                            |
 | :---------------: | :----------: | :-----------: | --------------------------------------------------------------------- |
-|     Ding Talk     |  5.1.21.19   | Official exe  | Yes                                                                   |
-|     LX Music      |    1.0.1     |  Official 7z  | Yes                                                                   |
+|     Ding Talk     |  5.1.21.19   | Official exe  | √                                                                     |
+|     LX Music      |    1.0.1     |  Official 7z  | √                                                                     |
 |   Netease Music   | 2.7.1.198242 | Official exe  | [dorado](https://github.com/chawyehsu/dorado)-borrowed                |
 |      Wechat       |    2.9.5     | Official exe  | [dorado](https://github.com/chawyehsu/dorado)-borrowed                |
 |      WeMeet       |  1.9.0.448   | Official exe  | [Sushi](https://github.com/kidonng/sushi/tree/master/bucket)-borrowed |
-|      You-Get      |   0.4.1403   | Community whl | Yes                                                                   |
+|      You-Get      |   0.4.1403   | Community whl | √                                                                     |
 | QQ [Debugging...] |    9.2.3     | Official exe  | [dorado](https://github.com/chawyehsu/dorado)-borrowed                |
