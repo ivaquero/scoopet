@@ -149,7 +149,7 @@ scoop config aria2-min-split-size 4M
 |         Julia-cn         |   1.5.0    |     √      | √                                                                     |
 |         KingDraw         |  1.1.2.0   |     √      | √                                                                     |
 |          LyX-cn          |   2.3.5    |     √      | √                                                                     |
-|  Mathpix Snipping Tool   | 02.05.0017 |     √      | √                                                                     |
+|  Mathpix Snipping Tool   | 02.05.0017 |     ×      | √                                                                     |
 |     Mendeley Desktop     |   1.19.6   |     √      | √                                                                     |
 |       Miniconda-cn       |   4.8.3    |     √      | [Extras](https://github.com/lukesampson/scoop-extras)-modified        |
 |         NetLogo          |   6.1.1    |     √      | √                                                                     |
