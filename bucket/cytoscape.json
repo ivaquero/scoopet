@@ -1,0 +1,49 @@
+{
+    "homepage": "https://cytoscape.org/",
+    "description": "Cytoscape is an open source software platform for visualizing complex networks and integrating these with any type of attribute data.",
+    "license": "MIT",
+    "version": "3.8.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/cytoscape/cytoscape/releases/download/3.8.1/Cytoscape_3_8_1_windows_64bit.exe",
+            "hash": "524abc820d2732dc3a63c1facbaa34d214e8aa59ada6e8b1c826f50bbd946546"
+        },
+        "32bit": {
+            "url": "https://github.com/cytoscape/cytoscape/releases/download/3.8.1/Cytoscape_3_8_1_windows_32bit.exe",
+            "hash": "fa2a3283410a78553f7ed55f5fa6082fa2a77c9563b00998f41426611fc32866"
+        }
+    },
+    "installer": {
+        "args": [
+            "/VERYSILENT",
+            "/DIR=\"$dir\"",
+            "/NORESTART"
+        ]
+    },
+    "post_install": "Remove-Item -Recurse \"$([Environment]::GetFolderPath('commonstartmenu'))\\Programs\\Cytoscape\"",
+    "uninstaller": {
+        "file": "unins000.exe",
+        "args": [
+            "/VERYSILENT",
+            "/NORESTART"
+        ]
+    },
+    "bin": "Cytoscape.exe",
+    "shortcuts": [
+        [
+            "Cytoscape.exe",
+            "Cytoscape"
+        ]
+    ],
+    "checkver": "https://github.com/cytoscape/cytoscape/",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/cytoscape/cytoscape/releases/download/$version/Cytoscape_$majorVersion_$minorVersion_$patchVersion_windows_64bit.exe"
+            },
+            "32bit": {
+                "url": "https://github.com/cytoscape/cytoscape/releases/download/$version/Cytoscape_$majorVersion_$minorVersion_$patchVersion_windows_32bit.exe"
+            }
+        }
+    }
+}
