@@ -8,6 +8,7 @@
     "extractdir": "cytoscape-windows-3.8.0",
     "bin": "Cytoscape.bat",
     "shortcuts": [["Cytoscape.bat", "Cytoscape"]],
+    "checkver": "https://github.com/cytoscape/cytoscape/",
     "autoupdate": {
         "url": "https://github.com/cytoscape/cytoscape/releases/download/$version/cytoscape-windows-$version.zip"
     }

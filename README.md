@@ -154,7 +154,7 @@ scoop config aria2-min-split-size 4M
 |       Miniconda-cn       |   4.8.3    |     √      | [Extras](https://github.com/lukesampson/scoop-extras)-modified        |
 |         NetLogo          |   6.1.1    |     √      | √                                                                     |
 |         Obsidian         |   0.8.12   |     √      | [Sushi](https://github.com/kidonng/sushi/tree/master/bucket)-borrowed |
-| Cytoscape [Debugging...] |   3.8.0    |     ×      | √                                                                     |
+| Cytoscape [Debugging...] |   3.8.0    |     √      | √                                                                     |
 
 ### Development Auxillary
 
