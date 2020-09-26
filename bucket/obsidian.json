@@ -1,5 +1,5 @@
 {
-    "version": "0.8.14",
+    "version": "0.8.15",
     "description": "A second brain, for you, forever.",
     "homepage": "https://obsidian.md/",
     "license": {
@@ -9,8 +9,8 @@
     "notes": "Obsidian data is placed at \"$env:appdata\\obsidian\".",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v0.8.14/Obsidian.0.8.14.exe#/dl.7z",
-            "hash": "02cfdaabedf63dd94f03c285ec4a9806ab09718bcea1682a0aaace0c783eb35b"
+            "url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v0.8.15/Obsidian.0.8.15.exe#/dl.7z",
+            "hash": "0238646ef4f29aeb28d46628e1d27ebcec86929a8765db5a5a195aeb04c7e4dd"
         }
     },
     "installer": {
