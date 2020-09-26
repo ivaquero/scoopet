@@ -37,7 +37,12 @@
         ]
     },
     "bin": "Cytoscape.exe",
-    "shortcuts": [["Cytoscape.exe", "Cytoscape"]],
+    "shortcuts": [
+        [
+            "Cytoscape.exe",
+            "Cytoscape"
+        ]
+    ],
     "checkver": {
         "github": "https://github.com/cytoscape/cytoscape/"
     },

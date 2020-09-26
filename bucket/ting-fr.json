@@ -1,0 +1,41 @@
+{
+    "version": "9.0.7",
+    "description": "Learn French better by listening and reading carefully",
+    "homepage": "https://www.eudic.net/v4/fr/app/ting/",
+    "license": "Freeware",
+    "architecture": {
+        "64bit": {
+            "url": "https://static.frdic.com/pkg/ting_fr_setup.zip?ver=9.0.7",
+            "hash": "b1e6914715f53fbab8789ffaf9bd304741248eb9405b82722f5ffe800177c7c0"
+        }
+    },
+    "pre_install": {
+        "script": "Expand-7zipArchive \"$dir\\ting_fr*.exe\" \"$dir\""
+    },
+    "installer": {
+        "args": [
+            "/s",
+            "/v\"",
+            "/qn",
+            "EULAS_AGREED=1",
+            "DATACOLLECTION=0",
+            "DESKTOP_SHORTCUT=0",
+            "STARTMENU_SHORTCUT=0",
+            "AUTOSOFTWAREUPDATE=0",
+            "INSTALLDIR=\"\"$dir\"\""
+        ]
+    },
+    "shortcuts": [
+        [
+            "ting_fr.exe",
+            "ting_fr"
+        ]
+    ],
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://static.frdic.com/pkg/ting_fr_setup.zip?ver=$version"
+            }
+        }
+    }
+}

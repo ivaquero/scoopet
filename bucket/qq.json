@@ -27,10 +27,12 @@
     "uninstaller": {
         "script": "Remove-Item \"$env:APPDATA\\Tencent\\QQ\" -Recurse -Force"
     },
-    "shortcuts": [["Bin\\QQScLauncher.exe", "QQ"]],
-    "checkver": {
-        "regex": "https://dldir1.qq.com/qqfile/qq/PCQQ(?:[\\d.]+)/(?:[\\d]+)/QQ(?<version>[\\d.]+).exe"
-    },
+    "shortcuts": [
+        [
+            "Bin\\QQScLauncher.exe",
+            "QQ"
+        ]
+    ],
     "autoupdate": {
         "url": "https://dldir1.qq.com/qqfile/qq/PCQQ$majorVersion.$minorVersion.$patchVersion/$buildVersion/QQ$majorVersion.$minorVersion.$patchVersion.$buildVersion.exe#/dl.7z"
     }
