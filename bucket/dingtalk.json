@@ -20,11 +20,7 @@
         "regex": "DingTalk_v([\\d.]+).exe"
     },
     "autoupdate": {
-        "url": "https://dtapp-pub.dingtalk.com/dingtalk-desktop/win_installer/Release/DingTalk_v$version.exe#/dl.7z",
-        "hash": {
-            "url": "https://im.dingtalk.com/manifest/release_nativeui_windows_manual_check.json",
-            "jsonpath": "$win.install.md5"
-        }
+        "url": "https://dtapp-pub.dingtalk.com/dingtalk-desktop/win_installer/Release/DingTalk_v$version.exe#/dl.7z"
     },
     "notes": "We don't persist your DingTalk data, they are still storaged in '%APPDATA%\\DingTalk'."
 }
