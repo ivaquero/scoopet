@@ -32,7 +32,10 @@
         "regex": "(?<version>[\\d.]+) (?<url>.+)"
     },
     "autoupdate": {
-        "url": "https://meeting.tencent.com/download-win.html?from=1002&fromSource=1"
+        "url": "$matchUrl",
+        "hash": {
+            "url": "https://scoop-sushi.vercel.app/api/tencent-meeting?hash=1"
+        }
     },
     "notes": "Your data is stored in $env:appdata\\Tencent\\WeMeet."
 }
