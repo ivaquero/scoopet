@@ -140,21 +140,20 @@ scoop config aria2-min-split-size 4M
 
 ### Research Tools
 
-|           App            |  Version   | Autoupdate | Origenal ?                                                            |
-| :----------------------: | :--------: | :--------: | --------------------------------------------------------------------- |
-|      CopyTranslator      |   9.2.0    |     √      | √                                                                     |
-|    GeoGebra-Portable     |  6.0.604   |     √      | √                                                                     |
-|          Gephi           |    0.92    |     √      | √                                                                     |
-|        Grammarly         |  1.5.68.0  |     √      | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed             |
-|         Julia-cn         |   1.5.0    |     √      | √                                                                     |
-|         KingDraw         |  1.1.2.0   |     √      | √                                                                     |
-|          LyX-cn          |   2.3.5    |     √      | √                                                                     |
-|  Mathpix Snipping Tool   | 02.05.0017 |     ×      | √                                                                     |
-|     Mendeley Desktop     |   1.19.6   |     √      | √                                                                     |
-|       Miniconda-cn       |   4.8.3    |     √      | [Extras](https://github.com/lukesampson/scoop-extras)-modified        |
-|         NetLogo          |   6.1.1    |     √      | √                                                                     |
-|         Obsidian         |   0.8.12   |     √      | [Sushi](https://github.com/kidonng/sushi/tree/master/bucket)-borrowed |
-| Cytoscape [Debugging...] |   3.8.0    |     √      | √                                                                     |
+|           App            |  Version   | Autoupdate | Origenal ?                                                     |
+| :----------------------: | :--------: | :--------: | -------------------------------------------------------------- |
+|      CopyTranslator      |   9.2.0    |     √      | √                                                              |
+|    GeoGebra-Portable     |  6.0.604   |     √      | √                                                              |
+|          Gephi           |    0.92    |     √      | √                                                              |
+|        Grammarly         |  1.5.68.0  |     √      | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed      |
+|         Julia-cn         |   1.5.0    |     √      | √                                                              |
+|         KingDraw         |  1.1.2.0   |     √      | √                                                              |
+|          LyX-cn          |   2.3.5    |     √      | √                                                              |
+|  Mathpix Snipping Tool   | 02.05.0017 |     ×      | √                                                              |
+|     Mendeley Desktop     |   1.19.6   |     √      | √                                                              |
+|       Miniconda-cn       |   4.8.3    |     √      | [Extras](https://github.com/lukesampson/scoop-extras)-modified |
+|         NetLogo          |   6.1.1    |     √      | √                                                              |
+| Cytoscape [Debugging...] |   3.8.0    |     √      | √                                                              |
 
 ### Development Auxillary
 
@@ -174,7 +173,6 @@ scoop config aria2-min-split-size 4M
 | :----------------: | :---------: | :--------: | --------------------------------------------------------------------- |
 |    BaiduNetDisk    |  7.0.4.11   |     √      | √                                                                     |
 |   File Converter   | 7.2.5.32097 |     √      | √                                                                     |
-|      Lingoes       |    2.9.2    |     ×      | √                                                                     |
 |   Microsoft Edge   | 85.0.564.51 |     √      | [Sushi](https://github.com/kidonng/sushi/tree/master/bucket)-borrowed |
 |  Office Tool Plus  |   7.6.0.1   |     √      | √                                                                     |
 | VeraCrypt-Portable |    1.246    |     √      | [nickbudi](https://github.com/nickbudi/scoop-bucket)-borrowed         |

@@ -143,21 +143,20 @@ scoop config aria2-min-split-size 4M
 
 ### 科研工具
 
-|           App            |    版本    | 自动更新 | 是否原创                                                           |
-| :----------------------: | :--------: | :------: | ------------------------------------------------------------------ |
-|      CopyTranslator      |   9.2.0    |    √     | √                                                                  |
-|    GeoGebra-Portable     |  6.0.604   |    √     | √                                                                  |
-|          Gephi           |    0.92    |    √     | √                                                                  |
-|        Grammarly         |  1.5.68.0  |    √     | 借用自[Ash258](https://github.com/Ash258/Scoop-Ash258)             |
-|         Julia-cn         |   1.5.0    |    √     | √                                                                  |
-|         KingDraw         |  1.1.2.0   |    √     | √                                                                  |
-|          LyX-cn          |   2.3.5    |    √     | √                                                                  |
-|  Mathpix Snipping Tool   | 02.05.0017 |    ×     | √                                                                  |
-|     Mendeley Desktop     |   1.19.6   |    √     | √                                                                  |
-|       Miniconda-cn       |   4.8.3    |    √     | 修改自[Extras](https://github.com/lukesampson/scoop-extras)        |
-|         NetLogo          |   6.1.1    |    √     | √                                                                  |
-|         Obsidian         |   0.8.12   |    √     | 借用自[Sushi](https://github.com/kidonng/sushi/tree/master/bucket) |
-| Cytoscape [构建中。。。] |   3.8.0    |    √     | √                                                                  |
+|           App            |    版本    | 自动更新 | 是否原创                                                    |
+| :----------------------: | :--------: | :------: | ----------------------------------------------------------- |
+|      CopyTranslator      |   9.2.0    |    √     | √                                                           |
+|    GeoGebra-Portable     |  6.0.604   |    √     | √                                                           |
+|          Gephi           |    0.92    |    √     | √                                                           |
+|        Grammarly         |  1.5.68.0  |    √     | 借用自[Ash258](https://github.com/Ash258/Scoop-Ash258)      |
+|         Julia-cn         |   1.5.0    |    √     | √                                                           |
+|         KingDraw         |  1.1.2.0   |    √     | √                                                           |
+|          LyX-cn          |   2.3.5    |    √     | √                                                           |
+|  Mathpix Snipping Tool   | 02.05.0017 |    ×     | √                                                           |
+|     Mendeley Desktop     |   1.19.6   |    √     | √                                                           |
+|       Miniconda-cn       |   4.8.3    |    √     | 修改自[Extras](https://github.com/lukesampson/scoop-extras) |
+|         NetLogo          |   6.1.1    |    √     | √                                                           |
+| Cytoscape [构建中。。。] |   3.8.0    |    √     | √                                                           |
 
 ### 开发辅助
 
@@ -183,7 +182,6 @@ scoop config aria2-min-split-size 4M
 | Wise Disk Cleaner  | 10.3.1.783  |    √     | 借用自[Ash258](https://github.com/Ash258/Scoop-Ash258)             |
 |     WPSOffice      | 11.1.0.9912 |    √     | 借用自[dorado](https://github.com/chawyehsu/dorado)                |
 |      百度网盘      |  7.0.4.11   |    √     | √                                                                  |
-|     灵格斯词霸     |    2.9.2    |    ×     | √                                                                  |
 
 ### 社交休闲
 
