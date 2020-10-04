@@ -169,16 +169,15 @@ scoop config aria2-min-split-size 4M
 
 ### Daily Work
 
-|        App         |   Version   | Autoupdate | Origenal ?                                                            |
-| :----------------: | :---------: | :--------: | --------------------------------------------------------------------- |
-|    BaiduNetDisk    |  7.0.4.11   |     √      | √                                                                     |
-|   File Converter   | 7.2.5.32097 |     √      | √                                                                     |
-|   Microsoft Edge   | 85.0.564.51 |     √      | [Sushi](https://github.com/kidonng/sushi/tree/master/bucket)-borrowed |
-|  Office Tool Plus  |   7.6.0.1   |     √      | √                                                                     |
-| VeraCrypt-Portable |    1.246    |     √      | [nickbudi](https://github.com/nickbudi/scoop-bucket)-borrowed         |
-|   Wise Care 365    |  5.5.7.552  |     √      | √                                                                     |
-| Wise Disk Cleaner  | 10.3.1.783  |     √      | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed             |
-|     WPSOffice      | 11.1.0.9912 |     √      | [dorado](https://github.com/chawyehsu/dorado)-borrowed                |
+|        App         |   Version   | Autoupdate | Origenal ?                                                    |
+| :----------------: | :---------: | :--------: | ------------------------------------------------------------- |
+|    BaiduNetDisk    |  7.0.4.11   |     √      | √                                                             |
+|   File Converter   | 7.2.5.32097 |     √      | √                                                             |
+|  Office Tool Plus  |   7.6.0.1   |     √      | √                                                             |
+| VeraCrypt-Portable |    1.246    |     √      | [nickbudi](https://github.com/nickbudi/scoop-bucket)-borrowed |
+|   Wise Care 365    |  5.5.7.552  |     √      | √                                                             |
+| Wise Disk Cleaner  | 10.3.1.783  |     √      | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed     |
+|     WPSOffice      | 11.1.0.9912 |     √      | [dorado](https://github.com/chawyehsu/dorado)-borrowed        |
 
 ### Social & Entertainment
 
