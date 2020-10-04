@@ -140,53 +140,53 @@ scoop config aria2-min-split-size 4M
 
 ### Research Tools
 
-|           App            |  Version   | Autoupdate | Origenal ?                                                     |
-| :----------------------: | :--------: | :--------: | -------------------------------------------------------------- |
-|      CopyTranslator      |   9.2.0    |     √      | √                                                              |
-|    GeoGebra-Portable     |  6.0.604   |     √      | √                                                              |
-|          Gephi           |    0.92    |     √      | √                                                              |
-|        Grammarly         |  1.5.68.0  |     √      | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed      |
-|         Julia-cn         |   1.5.0    |     √      | √                                                              |
-|         KingDraw         |  1.1.2.0   |     √      | √                                                              |
-|          LyX-cn          |   2.3.5    |     √      | √                                                              |
-|  Mathpix Snipping Tool   | 02.05.0017 |     ×      | √                                                              |
-|     Mendeley Desktop     |   1.19.6   |     √      | √                                                              |
-|       Miniconda-cn       |   4.8.3    |     √      | [Extras](https://github.com/lukesampson/scoop-extras)-modified |
-|         NetLogo          |   6.1.1    |     √      | √                                                              |
-| Cytoscape [Debugging...] |   3.8.0    |     √      | √                                                              |
+|           App            | Auto-Update ? | Origenal ?                                                   |
+| :----------------------: | :-----------: | ------------------------------------------------------------ |
+|      CopyTranslator      |       √       | √                                                            |
+|    GeoGebra-Portable     |       √       | √                                                            |
+|          Gephi           |       √       | √                                                            |
+|        Grammarly         |       √       | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed    |
+|         Julia-cn         |       √       | √                                                            |
+|         KingDraw         |       √       | √                                                            |
+|          LyX-cn          |       √       | √                                                            |
+|  Mathpix Snipping Tool   |       ×       | √                                                            |
+|     Mendeley Desktop     |       √       | √                                                            |
+|       Miniconda-cn       |       √       | [Extras](https://github.com/lukesampson/scoop-extras)-modified |
+|         NetLogo          |       √       | √                                                            |
+| Cytoscape [Debugging...] |       √       | √                                                            |
 
 ### Development Auxillary
 
-|               App                |     Version     | Autoupdate | Origenal ?                                                          |
-| :------------------------------: | :-------------: | :--------: | ------------------------------------------------------------------- |
-|            Cyberduck             |   7.5.1.33324   |     √      | √ migrated to [Extras](https://github.com/lukesampson/scoop-extras) |
-|       Partition Assistant        |       8.3       |     ×      | √                                                                   |
-|         scoop-completion         |      0.2.3      |     √      | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed           |
-|              uTools              |       1.3       |     √      | [dorado](https://github.com/chawyehsu/dorado)-borrowed              |
-| VirtualBox [with Extension Pack] |     6.1.10      |     √      | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed           |
-|      VMware Workstation Pro      | 15.5.2-15785246 |     ×      | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed           |
-|              WinGet              |    0.2.2521     |     √      | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed           |
+|               App                | Auto-Update ? | Origenal ?                                                   |
+| :------------------------------: | :-----------: | ------------------------------------------------------------ |
+|            Cyberduck             |       √       | √ migrated to [Extras](https://github.com/lukesampson/scoop-extras) |
+|       Partition Assistant        |       ×       | √                                                            |
+|         scoop-completion         |       √       | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed    |
+|              uTools              |       √       | [dorado](https://github.com/chawyehsu/dorado)-borrowed       |
+| VirtualBox [with Extension Pack] |       √       | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed    |
+|      VMware Workstation Pro      |       ×       | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed    |
+|              WinGet              |       √       | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed    |
 
 ### Daily Work
 
-|        App         |   Version   | Autoupdate | Origenal ?                                                    |
-| :----------------: | :---------: | :--------: | ------------------------------------------------------------- |
-|    BaiduNetDisk    |  7.0.4.11   |     √      | √                                                             |
-|   File Converter   | 7.2.5.32097 |     √      | √                                                             |
-|  Office Tool Plus  |   7.6.0.1   |     √      | √                                                             |
-| VeraCrypt-Portable |    1.246    |     √      | [nickbudi](https://github.com/nickbudi/scoop-bucket)-borrowed |
-|   Wise Care 365    |  5.5.7.552  |     √      | √                                                             |
-| Wise Disk Cleaner  | 10.3.1.783  |     √      | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed     |
-|     WPSOffice      | 11.1.0.9912 |     √      | [dorado](https://github.com/chawyehsu/dorado)-borrowed        |
+|        App         | Auto-Update ? | Origenal ?                                                   |
+| :----------------: | :-----------: | ------------------------------------------------------------ |
+|    BaiduNetDisk    |       √       | √                                                            |
+|   File Converter   |       √       | √                                                            |
+|  Office Tool Plus  |       √       | √                                                            |
+| VeraCrypt-Portable |       √       | [nickbudi](https://github.com/nickbudi/scoop-bucket)-borrowed |
+|   Wise Care 365    |       √       | √                                                            |
+| Wise Disk Cleaner  |       √       | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed    |
+|     WPSOffice      |       √       | [dorado](https://github.com/chawyehsu/dorado)-borrowed       |
 
 ### Social & Entertainment
 
-|        App        |   Version    | Autoupdate | Origenal ?                                                            |
-| :---------------: | :----------: | :--------: | --------------------------------------------------------------------- |
-|     Ding Talk     |  5.1.21.19   |     √      | √                                                                     |
-|     LX Music      |    1.0.1     |     √      | √                                                                     |
-|   Netease Music   | 2.7.1.198242 |     √      | [dorado](https://github.com/chawyehsu/dorado)-borrowed                |
-|      Wechat       |    2.9.5     |     √      | [dorado](https://github.com/chawyehsu/dorado)-borrowed                |
-|      WeMeet       |  1.9.0.448   |     ×      | [Sushi](https://github.com/kidonng/sushi/tree/master/bucket)-borrowed |
-|      You-Get      |   0.4.1403   |     √      | √                                                                     |
-| QQ [Debugging...] |    9.2.3     |     √      | [dorado](https://github.com/chawyehsu/dorado)-borrowed                |
+|        App        | Auto-Update ? | Origenal ?                                                   |
+| :---------------: | :-----------: | ------------------------------------------------------------ |
+|     Ding Talk     |       √       | √                                                            |
+|     LX Music      |       √       | √                                                            |
+|   Netease Music   |       √       | [dorado](https://github.com/chawyehsu/dorado)-borrowed       |
+|      Wechat       |       √       | [dorado](https://github.com/chawyehsu/dorado)-borrowed       |
+|      WeMeet       |       √       | [Sushi](https://github.com/kidonng/sushi/tree/master/bucket)-borrowed |
+|      You-Get      |       √       | √                                                            |
+| QQ [Debugging...] |       √       | [dorado](https://github.com/chawyehsu/dorado)-borrowed       |
