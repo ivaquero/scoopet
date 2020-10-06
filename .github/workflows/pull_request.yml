@@ -6,11 +6,11 @@ on:
 
 jobs:
   pullRequestHandler:
-    name: Pull Request Validator
+    name: Pull Request Handler
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@main
-      - name: Pull Request Validation
+      - name: Pull Request Handler
         uses: integzz/Scoop-GithubActions@stable
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
