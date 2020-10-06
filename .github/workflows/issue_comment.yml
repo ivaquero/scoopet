@@ -1,7 +1,9 @@
+name: Commented Pull Request
+
 on:
-  pull_request:
-    types: [opened]
-name: Pull Requests
+  issue_comment:
+    types: [created]
+
 jobs:
   pullRequestHandler:
     name: Pull Request Validator
@@ -9,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@main
       - name: Pull Request Validation
-        uses: Ash258/Scoop-GithubActions@stable
+        uses: integzz/Scoop-GithubActions@stable
+        if: startsWith(github.event.comment.body, '/verify')
         env:
-          GITH_EMAIL: youremail@email.com
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
