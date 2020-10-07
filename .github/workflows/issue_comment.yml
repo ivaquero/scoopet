@@ -7,11 +7,11 @@ on:
 jobs:
   pullRequestHandler:
     name: Pull Request Validator
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     steps:
       - uses: actions/checkout@main
       - name: Pull Request Validation
-        uses: Ash258/Scoop-GithubActions@stable
+        uses: Ash258/Scoop-GithubActions@stable-win
         if: startsWith(github.event.comment.body, '/verify')
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
