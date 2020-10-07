@@ -11,6 +11,6 @@ jobs:
     steps:
       - uses: actions/checkout@main
       - name: Pull Request Handler
-        uses: integzz/Scoop-GithubActions@stable
+        uses: Ash258/Scoop-GithubActions@stable
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
