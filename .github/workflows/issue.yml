@@ -6,12 +6,12 @@ on:
 
 jobs:
   issueHandler:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     name: Issue Handler
     steps:
       - uses: actions/checkout@main
       - name: Issue Handler
-        uses: Ash258/Scoop-GithubActions@stable
+        uses: Ash258/Scoop-GithubActions@stable-win
         if: github.event.action == 'opened' || (github.event.action == 'labeled' && contains(github.event.issue.labels.*.name, 'verify'))
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
