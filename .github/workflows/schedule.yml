@@ -14,4 +14,7 @@ jobs:
       env:
         SHOVEL: '1'
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        SKIP_UPDATED: '1
+        SKIP_UPDATED: '1'
+    - name: npm run update
+      run: |
+        npm run update
