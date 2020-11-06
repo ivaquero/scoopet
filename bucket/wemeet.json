@@ -11,7 +11,7 @@
     "hash": "md5:a60ab516fb808b2ce87d199462445ffd",
     "installer": {
         "script": [
-            "Expand-7zipArchive (Join-Path $dir '$_5_\\weMeet.*.zip') -DestinationPath $dir",
+            "Expand-7zipArchive (Join-Path $dir '$_6_\\weMeet.*.zip') -DestinationPath $dir",
             "New-Item HKCU:\\SOFTWARE\\Tencent\\WeMeet | Out-Null",
             "New-ItemProperty HKCU:\\SOFTWARE\\Tencent\\WeMeet -Name 'Dependence' -Value $dir | Out-Null",
             "Remove-Item (Join-Path $dir '$PLUGINSDIR') -Recurse",
@@ -22,12 +22,7 @@
     "uninstaller": {
         "script": "Remove-Item HKCU:\\SOFTWARE\\Tencent\\WeMeet | Out-Null"
     },
-    "shortcuts": [
-        [
-            "wemeetapp.exe",
-            "腾讯会议"
-        ]
-    ],
+    "shortcuts": [["wemeetapp.exe", "腾讯会议"]],
     "checkver": {
         "url": "https://scoop-sushi.vercel.app/api/tencent-meeting",
         "regex": "(?<version>[\\d.]+) (?<url>.+)"
