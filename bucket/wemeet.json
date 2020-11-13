@@ -13,8 +13,7 @@
         "script": [
             "New-Item HKCU:\\SOFTWARE\\Tencent\\WeMeet | Out-Null",
             "New-ItemProperty HKCU:\\SOFTWARE\\Tencent\\WeMeet -Name 'Dependence' -Value $dir | Out-Null",
-            "Remove-Item (Join-Path $dir '$PLUGINSDIR') -Recurse",
-            "Remove-Item (Join-Path $dir '$TEMP') -Recurse"
+            "Remove-Item (Join-Path $dir '$PLUGINSDIR') -Recurse"
         ]
     },
     "uninstaller": {
