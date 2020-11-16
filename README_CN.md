@@ -160,15 +160,15 @@ scoop config aria2-min-split-size 4M
 
 ### 开发辅助
 
-|          App           | 自动更新 | 原创                                                         |
-| :--------------------: | :------: | ------------------------------------------------------------ |
+|          App           | 自动更新 | 原创                                                             |
+| :--------------------: | :------: | ---------------------------------------------------------------- |
 |       Cyberduck        |    √     | √ 已迁移至 [Extras](https://github.com/lukesampson/scoop-extras) |
-|    scoop-completion    |    √     | 借用自[Ash258](https://github.com/Ash258/Scoop-Ash258)       |
-|         uTools         |    √     | 借用自[dorado](https://github.com/chawyehsu/dorado)          |
-| VirtualBox [含扩展包]  |    √     | 借用自[Ash258](https://github.com/Ash258/Scoop-Ash258)       |
-| VMware Workstation Pro |    ×     | 借用自[Ash258](https://github.com/Ash258/Scoop-Ash258)       |
-|         WinGet         |    √     | 借用自[Ash258](https://github.com/Ash258/Scoop-Ash258)       |
-|      傲梅分区助手      |    √     | √                                                            |
+|    scoop-completion    |    √     | 借用自[Ash258](https://github.com/Ash258/Scoop-Ash258)           |
+|         uTools         |    √     | 借用自[dorado](https://github.com/chawyehsu/dorado)              |
+| VirtualBox [含扩展包]  |    √     | 借用自[Ash258](https://github.com/Ash258/Scoop-Ash258)           |
+| VMware Workstation Pro |    ×     | 借用自[Ash258](https://github.com/Ash258/Scoop-Ash258)           |
+|         WinGet         |    √     | 借用自[Ash258](https://github.com/Ash258/Scoop-Ash258)           |
+|      傲梅分区助手      |    √     | √                                                                |
 
 ### 日常办公
 
@@ -184,12 +184,13 @@ scoop config aria2-min-split-size 4M
 
 ### 社交休闲
 
-|        App        | 自动更新 | 原创                                                         |
-| :---------------: | :------: | ------------------------------------------------------------ |
-|       钉钉        |    √     | √                                                            |
-|   洛雪音乐助手    |    √     | √                                                            |
-|    网易云音乐     |    √     | 借用自[dorado](https://github.com/chawyehsu/dorado)          |
-|       微信        |    √     | 借用自[dorado](https://github.com/chawyehsu/dorado)          |
+|        App        | 自动更新 | 原创                                                               |
+| :---------------: | :------: | ------------------------------------------------------------------ |
+|       钉钉        |    √     | √                                                                  |
+|   洛雪音乐助手    |    √     | √                                                                  |
+|    网易云音乐     |    √     | 借用自[dorado](https://github.com/chawyehsu/dorado)                |
+|       微信        |    √     | 借用自[dorado](https://github.com/chawyehsu/dorado)                |
 |     腾讯会议      |    √     | 借用自[Sushi](https://github.com/kidonng/sushi/tree/master/bucket) |
-|      You-Get      |    √     | √                                                            |
-| QQ [构建中。。。] |    √     | 借用自[dorado](https://github.com/chawyehsu/dorado)          |
+|      magnetW      |    √     | √                                                                  |
+|      You-Get      |    √     | √                                                                  |
+| QQ [构建中。。。] |    √     | 借用自[dorado](https://github.com/chawyehsu/dorado)                |
