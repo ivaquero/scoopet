@@ -11,7 +11,7 @@
     "hash": "md5:6f87d0eec80866eabf0683a90e1c9b38",
     "installer": {
         "script": [
-            "Expand-7zipArchive (Join-Path $dir '$_6_\\weMeet.*.zip') -DestinationPath $dir",
+            "Expand-7zipArchive (Join-Path $dir '$_6_\\WeMeet.*.zip') -DestinationPath $dir",
             "New-Item HKCU:\\SOFTWARE\\Tencent\\WeMeet | Out-Null",
             "New-ItemProperty HKCU:\\SOFTWARE\\Tencent\\WeMeet -Name 'Dependence' -Value $dir | Out-Null",
             "Remove-Item (Join-Path $dir '$PLUGINSDIR') -Recurse",
