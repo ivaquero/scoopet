@@ -1,12 +1,12 @@
 {
-    "version": "4.9.2",
+    "version": "4.8.2",
     "description": "A cross-platform, Python-agnostic binary package manager.",
     "homepage": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/",
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
             "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/Miniconda3-py38_4.8.2-Windows-x86_64.exe",
-            "hash": "md5:b646dafdea2816cc3526f20a4410c824"
+            "hash": "md5:da6a97905f458b0fd6ddf3224e6aa60c"
         },
         "32bit": {
             "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/Miniconda3-py38_4.8.2-Windows-x86.exe",
