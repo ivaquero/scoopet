@@ -14,17 +14,8 @@
         "Expand-7zipArchive \"$dir\\AppInstaller_x$a.appx\"",
         "Remove-Item \"$dir\\AppInstaller_x*.appx\" -Force"
     ],
-    "bin": [
-        "AppInstallerCLI.exe",
-        [
-            "AppInstallerCLI.exe",
-            "winget"
-        ]
-    ],
-    "checkver": {
-        "url": "https://github.com/microsoft/winget-cli/releases",
-        "regex": "/v([\\d.]+?)-preview/Microsoft"
-    },
+    "bin": ["AppInstallerCLI.exe", ["AppInstallerCLI.exe", "winget"]],
+    "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/microsoft/winget-cli/releases/download/v$version-preview/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.appxbundle#/cosi.7z"
     }

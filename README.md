@@ -153,6 +153,8 @@ scoop config aria2-min-split-size 4M
 |     Mendeley Desktop     |       √       | √                                                            |
 |       Miniconda-cn       |       √       | √                                                            |
 |         NetLogo          |       √       | √                                                            |
+|       Siyuan Note        |       √       | copied from [dorado](https://github.com/chawyehsu/dorado)    |
+|      Yuque Desktop       |       √       | copied from [dorado](https://github.com/chawyehsu/dorado)    |
 | Cytoscape [Debugging...] |       √       | √                                                            |
 
 ### Development Auxillary
