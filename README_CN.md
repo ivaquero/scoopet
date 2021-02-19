@@ -156,6 +156,7 @@ scoop config aria2-min-split-size 4M
 |     Mendeley Desktop     |    √     | √                                                       |
 |       Miniconda-cn       |    √     | √                                                       |
 |         NetLogo          |    √     | √                                                       |
+|       Sagemath-cn        |    √     | √                                                       |
 |         思源笔记         |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
 |           语雀           |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
 | Cytoscape [构建中。。。] |    √     | √                                                       |
