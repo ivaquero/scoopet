@@ -184,12 +184,11 @@ scoop config aria2-min-split-size 4M
 
 ### 社交休闲
 
-|        App        | 自动更新 | 原创                                                |
-| :---------------: | :------: | --------------------------------------------------- |
-|       钉钉        |    √     | √                                                   |
-|   洛雪音乐助手    |    √     | √                                                   |
-|    网易云音乐     |    √     | 借用自[dorado](https://github.com/chawyehsu/dorado) |
-|       微信        |    √     | 借用自[dorado](https://github.com/chawyehsu/dorado) |
-|      magnetW      |    √     | √                                                   |
-|      You-Get      |    √     | √                                                   |
-| QQ [构建中。。。] |    √     | 借用自[dorado](https://github.com/chawyehsu/dorado) |
+|     App      | 自动更新 | 原创                                                |
+| :----------: | :------: | --------------------------------------------------- |
+|     钉钉     |    √     | √                                                   |
+| 洛雪音乐助手 |    √     | √                                                   |
+|  网易云音乐  |    √     | 借用自[dorado](https://github.com/chawyehsu/dorado) |
+|     微信     |    √     | 借用自[dorado](https://github.com/chawyehsu/dorado) |
+|   magnetW    |    √     | √                                                   |
+|   You-Get    |    √     | √                                                   |

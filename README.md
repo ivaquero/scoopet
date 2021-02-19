@@ -181,12 +181,11 @@ scoop config aria2-min-split-size 4M
 
 ### Social & Entertainment
 
-|        App        | Auto-Update ? | Origenal ?                                             |
-| :---------------: | :-----------: | ------------------------------------------------------ |
-|     DingTalk      |       √       | √                                                      |
-|     LX Music      |       √       | √                                                      |
-|      magnetW      |       √       | √                                                      |
-|   NetEase Music   |       √       | [dorado](https://github.com/chawyehsu/dorado)-borrowed |
-|      WeChat       |       √       | [dorado](https://github.com/chawyehsu/dorado)-borrowed |
-|      You-Get      |       √       | √                                                      |
-| QQ [Debugging...] |       √       | [dorado](https://github.com/chawyehsu/dorado)-borrowed |
+|      App      | Auto-Update ? | Origenal ?                                             |
+| :-----------: | :-----------: | ------------------------------------------------------ |
+|   DingTalk    |       √       | √                                                      |
+|   LX Music    |       √       | √                                                      |
+|    magnetW    |       √       | √                                                      |
+| NetEase Music |       √       | [dorado](https://github.com/chawyehsu/dorado)-borrowed |
+|    WeChat     |       √       | [dorado](https://github.com/chawyehsu/dorado)-borrowed |
+|    You-Get    |       √       | √                                                      |
