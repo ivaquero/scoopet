@@ -159,15 +159,15 @@ scoop config aria2-min-split-size 4M
 
 ### Development Auxillary
 
-|               App                | Auto-Update ? | Origenal ?                                                          |
-| :------------------------------: | :-----------: | ------------------------------------------------------------------- |
-|            Cyberduck             |       √       | √ migrated to [Extras](https://github.com/lukesampson/scoop-extras) |
-|       Partition Assistant        |       ×       | √                                                                   |
-|         scoop-completion         |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258)        |
-|              uTools              |       √       | copied from [dorado](https://github.com/chawyehsu/dorado)           |
-| VirtualBox [with Extension Pack] |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258)        |
-|      VMware Workstation Pro      |       ×       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258)        |
-|              WinGet              |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258)        |
+|                  App                  | Auto-Update ? | Origenal ?                                                          |
+| :-----------------------------------: | :-----------: | ------------------------------------------------------------------- |
+|               Cyberduck               |       √       | √ migrated to [Extras](https://github.com/lukesampson/scoop-extras) |
+|          Partition Assistant          |       ×       | √                                                                   |
+|           scoop-completion            |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258)        |
+|                uTools                 |       √       | copied from [dorado](https://github.com/chawyehsu/dorado)           |
+| VirtualBox <br> [with Extension Pack] |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258)        |
+|        VMware Workstation Pro         |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258)        |
+|                WinGet                 |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258)        |
 
 ### Daily Work
 
