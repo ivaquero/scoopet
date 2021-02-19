@@ -140,20 +140,20 @@ scoop config aria2-min-split-size 4M
 
 ### Research Tools
 
-|           App            | Auto-Update ? | Origenal ?                                                     |
-| :----------------------: | :-----------: | -------------------------------------------------------------- |
-|      CopyTranslator      |       √       | √                                                              |
-|    GeoGebra-Portable     |       √       | √                                                              |
-|          Gephi           |       √       | √                                                              |
-|        Grammarly         |       √       | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed      |
-|         Julia-cn         |       √       | √                                                              |
-|         KingDraw         |       √       | √                                                              |
-|          LyX-cn          |       √       | √                                                              |
-|  Mathpix Snipping Tool   |       ×       | √                                                              |
-|     Mendeley Desktop     |       √       | √                                                              |
-|       Miniconda-cn       |       √       | [Extras](https://github.com/lukesampson/scoop-extras)-modified |
-|         NetLogo          |       √       | √                                                              |
-| Cytoscape [Debugging...] |       √       | √                                                              |
+|           App            | Auto-Update ? | Origenal ?                                                   |
+| :----------------------: | :-----------: | ------------------------------------------------------------ |
+|      CopyTranslator      |       √       | √                                                            |
+|    GeoGebra-Portable     |       √       | √                                                            |
+|          Gephi           |       √       | √                                                            |
+|        Grammarly         |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258) |
+|         Julia-cn         |       √       | √                                                            |
+|         KingDraw         |       √       | √                                                            |
+|          LyX-cn          |       √       | √                                                            |
+|  Mathpix Snipping Tool   |       ×       | √                                                            |
+|     Mendeley Desktop     |       √       | √                                                            |
+|       Miniconda-cn       |       √       | √                                                            |
+|         NetLogo          |       √       | √                                                            |
+| Cytoscape [Debugging...] |       √       | √                                                            |
 
 ### Development Auxillary
 
@@ -161,31 +161,30 @@ scoop config aria2-min-split-size 4M
 | :------------------------------: | :-----------: | ------------------------------------------------------------------- |
 |            Cyberduck             |       √       | √ migrated to [Extras](https://github.com/lukesampson/scoop-extras) |
 |       Partition Assistant        |       ×       | √                                                                   |
-|         scoop-completion         |       √       | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed           |
-|              uTools              |       √       | [dorado](https://github.com/chawyehsu/dorado)-borrowed              |
-| VirtualBox [with Extension Pack] |       √       | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed           |
-|      VMware Workstation Pro      |       ×       | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed           |
-|              WinGet              |       √       | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed           |
+|         scoop-completion         |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258)        |
+|              uTools              |       √       | copied from [dorado](https://github.com/chawyehsu/dorado)           |
+| VirtualBox [with Extension Pack] |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258)        |
+|      VMware Workstation Pro      |       ×       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258)        |
+|              WinGet              |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258)        |
 
 ### Daily Work
 
-|        App         | Auto-Update ? | Origenal ?                                                    |
-| :----------------: | :-----------: | ------------------------------------------------------------- |
-|    BaiduNetDisk    |       √       | √                                                             |
-|   File Converter   |       √       | √                                                             |
-|  Office Tool Plus  |       √       | √                                                             |
-| VeraCrypt-Portable |       √       | [nickbudi](https://github.com/nickbudi/scoop-bucket)-borrowed |
-|   Wise Care 365    |       √       | √                                                             |
-| Wise Disk Cleaner  |       √       | [Ash258](https://github.com/Ash258/Scoop-Ash258)-borrowed     |
-|     WPSOffice      |       √       | [dorado](https://github.com/chawyehsu/dorado)-borrowed        |
+|        App        | Auto-Update ? | Origenal ?                                                   |
+| :---------------: | :-----------: | ------------------------------------------------------------ |
+|   BaiduNetDisk    |       √       | √                                                            |
+|  File Converter   |       √       | √                                                            |
+| Office Tool Plus  |       √       | √                                                            |
+|   Wise Care 365   |       √       | √                                                            |
+| Wise Disk Cleaner |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258) |
+|     WPSOffice     |       √       | copied from [dorado](https://github.com/chawyehsu/dorado)    |
 
 ### Social & Entertainment
 
-|      App      | Auto-Update ? | Origenal ?                                             |
-| :-----------: | :-----------: | ------------------------------------------------------ |
-|   DingTalk    |       √       | √                                                      |
-|   LX Music    |       √       | √                                                      |
-|    magnetW    |       √       | √                                                      |
-| NetEase Music |       √       | [dorado](https://github.com/chawyehsu/dorado)-borrowed |
-|    WeChat     |       √       | [dorado](https://github.com/chawyehsu/dorado)-borrowed |
-|    You-Get    |       √       | √                                                      |
+|      App      | Auto-Update ? | Origenal ?                                                |
+| :-----------: | :-----------: | --------------------------------------------------------- |
+|   DingTalk    |       √       | √                                                         |
+|   LX Music    |       √       | √                                                         |
+|    magnetW    |       √       | √                                                         |
+| NetEase Music |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
+|    WeChat     |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
+|    You-Get    |       √       | √                                                         |
