@@ -181,7 +181,7 @@ scoop config aria2-min-split-size 4M
 | Office Tool Plus  |    √     | √                                                       |
 |   Wise Care 365   |    √     | √                                                       |
 | Wise Disk Cleaner |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
-|     WPSOffice     |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
+|     WPSOffice     |    ×     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
 |     百度网盘      |    √     | √                                                       |
 
 ### 社交休闲

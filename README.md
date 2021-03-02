@@ -179,7 +179,7 @@ scoop config aria2-min-split-size 4M
 | Office Tool Plus  |       √       | √                                                            |
 |   Wise Care 365   |       √       | √                                                            |
 | Wise Disk Cleaner |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258) |
-|     WPSOffice     |       √       | copied from [dorado](https://github.com/chawyehsu/dorado)    |
+|     WPSOffice     |       ×       | copied from [dorado](https://github.com/chawyehsu/dorado)    |
 
 ### Social & Entertainment
 
