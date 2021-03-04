@@ -157,6 +157,7 @@ scoop config aria2-min-split-size 4M
 |       Miniconda-cn       |    √     | √                                                       |
 |         NetLogo          |    √     | √                                                       |
 |       SageMath-cn        |    √     | √                                                       |
+|         TinyTeX          |    √     | 拷贝自 [r-bucket](https://github.com/cderv/r-bucket)    |
 |         思源笔记         |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
 |           语雀           |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
 | Cytoscape [构建中。。。] |    √     | √                                                       |
