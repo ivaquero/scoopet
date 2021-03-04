@@ -140,24 +140,23 @@ scoop config aria2-min-split-size 4M
 
 ### Research Tools
 
-|           App            | Auto-Update ? | Origenal ?                                                   |
-| :----------------------: | :-----------: | ------------------------------------------------------------ |
-|      CopyTranslator      |       √       | √                                                            |
-|    GeoGebra-Portable     |       √       | √                                                            |
-|          Gephi           |       √       | √                                                            |
-|        Grammarly         |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258) |
-|         Julia-cn         |       √       | √                                                            |
-|         KingDraw         |       √       | √                                                            |
-|          LyX-cn          |       √       | √                                                            |
-|  Mathpix Snipping Tool   |       ×       | √                                                            |
-|     Mendeley Desktop     |       √       | √                                                            |
-|       Miniconda-cn       |       √       | √                                                            |
-|         NetLogo          |       √       | √                                                            |
-|       SageMath-cn        |       √       | √                                                            |
-|         TinyTeX          |       √       | copied from [r-bucket](https://github.com/cderv/r-bucket)    |
-|       Siyuan Note        |       √       | copied from [dorado](https://github.com/chawyehsu/dorado)    |
-|      Yuque Desktop       |       √       | copied from [dorado](https://github.com/chawyehsu/dorado)    |
-| Cytoscape [Debugging...] |       √       | √                                                            |
+|          App          | Auto-Update ? | Origenal ?                                                   |
+| :-------------------: | :-----------: | ------------------------------------------------------------ |
+|    CopyTranslator     |       √       | √                                                            |
+|   GeoGebra-Portable   |       √       | √                                                            |
+|         Gephi         |       √       | √                                                            |
+|       Grammarly       |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258) |
+|       Julia-cn        |       √       | √                                                            |
+|       KingDraw        |       √       | √                                                            |
+|        LyX-cn         |       √       | √                                                            |
+| Mathpix Snipping Tool |       ×       | √                                                            |
+|   Mendeley Desktop    |       √       | √                                                            |
+|     Miniconda-cn      |       √       | √                                                            |
+|        NetLogo        |       √       | √                                                            |
+|      SageMath-cn      |       √       | √                                                            |
+|        TinyTeX        |       √       | copied from [r-bucket](https://github.com/cderv/r-bucket)    |
+|      Siyuan Note      |       √       | copied from [dorado](https://github.com/chawyehsu/dorado)    |
+|     Yuque Desktop     |       √       | copied from [dorado](https://github.com/chawyehsu/dorado)    |
 
 ### Development Auxillary
 
@@ -178,6 +177,7 @@ scoop config aria2-min-split-size 4M
 |   BaiduNetDisk    |       √       | √                                                            |
 |  File Converter   |       √       | √                                                            |
 | Office Tool Plus  |       √       | √                                                            |
+|  Tencent Meeting  |       ×       | copied from [sushi](https://github.com/kidonng/sushi/)       |
 |   Wise Care 365   |       √       | √                                                            |
 | Wise Disk Cleaner |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258) |
 |     WPSOffice     |       ×       | copied from [dorado](https://github.com/chawyehsu/dorado)    |

@@ -143,24 +143,23 @@ scoop config aria2-min-split-size 4M
 
 ### 科研工具
 
-|           App            | 自动更新 | 原创                                                    |
-| :----------------------: | :------: | ------------------------------------------------------- |
-|      CopyTranslator      |    √     | √                                                       |
-|    GeoGebra-Portable     |    √     | √                                                       |
-|          Gephi           |    √     | √                                                       |
-|        Grammarly         |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
-|         Julia-cn         |    √     | √                                                       |
-|         KingDraw         |    √     | √                                                       |
-|          LyX-cn          |    √     | √                                                       |
-|  Mathpix Snipping Tool   |    ×     | √                                                       |
-|     Mendeley Desktop     |    √     | √                                                       |
-|       Miniconda-cn       |    √     | √                                                       |
-|         NetLogo          |    √     | √                                                       |
-|       SageMath-cn        |    √     | √                                                       |
-|         TinyTeX          |    √     | 拷贝自 [r-bucket](https://github.com/cderv/r-bucket)    |
-|         思源笔记         |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
-|           语雀           |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
-| Cytoscape [构建中。。。] |    √     | √                                                       |
+|          App          | 自动更新 | 原创                                                    |
+| :-------------------: | :------: | ------------------------------------------------------- |
+|    CopyTranslator     |    √     | √                                                       |
+|   GeoGebra-Portable   |    √     | √                                                       |
+|         Gephi         |    √     | √                                                       |
+|       Grammarly       |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
+|       Julia-cn        |    √     | √                                                       |
+|       KingDraw        |    √     | √                                                       |
+|        LyX-cn         |    √     | √                                                       |
+| Mathpix Snipping Tool |    ×     | √                                                       |
+|   Mendeley Desktop    |    √     | √                                                       |
+|     Miniconda-cn      |    √     | √                                                       |
+|        NetLogo        |    √     | √                                                       |
+|      SageMath-cn      |    √     | √                                                       |
+|        TinyTeX        |    √     | 拷贝自 [r-bucket](https://github.com/cderv/r-bucket)    |
+|       思源笔记        |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
+|         语雀          |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
 
 ### 开发辅助
 
@@ -184,6 +183,7 @@ scoop config aria2-min-split-size 4M
 | Wise Disk Cleaner |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
 |     WPSOffice     |    ×     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
 |     百度网盘      |    √     | √                                                       |
+|     腾讯会议      |    ×     | 拷贝自 [sushi](https://github.com/kidonng/sushi/)       |
 
 ### 社交休闲
 
