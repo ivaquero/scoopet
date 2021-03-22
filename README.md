@@ -149,7 +149,7 @@ scoop config aria2-min-split-size 4M
 |       Julia-cn        |       √       | √                                                            |
 |       KingDraw        |       √       | √                                                            |
 |        LyX-cn         |       √       | √                                                            |
-| Mathpix Snipping Tool |       ×       | √                                                            |
+| Mathpix Snipping Tool |       √       | √                                                            |
 |   Mendeley Desktop    |       √       | √                                                            |
 |     Miniconda-cn      |       √       | √                                                            |
 |        NetLogo        |       √       | √                                                            |
@@ -163,7 +163,7 @@ scoop config aria2-min-split-size 4M
 |                  App                  | Auto-Update ? | Origenal ?                                                          |
 | :-----------------------------------: | :-----------: | ------------------------------------------------------------------- |
 |               Cyberduck               |       √       | √ migrated to [Extras](https://github.com/lukesampson/scoop-extras) |
-|          Partition Assistant          |       ×       | √                                                                   |
+|          Partition Assistant          |       √       | √                                                                   |
 |           scoop-completion            |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258)        |
 |                uTools                 |       √       | copied from [dorado](https://github.com/chawyehsu/dorado)           |
 | VirtualBox <br> [with Extension Pack] |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258)        |
@@ -190,5 +190,5 @@ scoop config aria2-min-split-size 4M
 |   LX Music    |       √       | √                                                         |
 |    magnetW    |       √       | √                                                         |
 | NetEase Music |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
-|    WeChat     |       ×       | copied from [dorado](https://github.com/chawyehsu/dorado) |
+|    WeChat     |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
 |    You-Get    |       √       | √                                                         |

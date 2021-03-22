@@ -152,7 +152,7 @@ scoop config aria2-min-split-size 4M
 |       Julia-cn        |    √     | √                                                       |
 |       KingDraw        |    √     | √                                                       |
 |        LyX-cn         |    √     | √                                                       |
-| Mathpix Snipping Tool |    ×     | √                                                       |
+| Mathpix Snipping Tool |    √     | √                                                       |
 |   Mendeley Desktop    |    √     | √                                                       |
 |     Miniconda-cn      |    √     | √                                                       |
 |        NetLogo        |    √     | √                                                       |
@@ -192,6 +192,6 @@ scoop config aria2-min-split-size 4M
 |     钉钉     |    √     | √                                                    |
 | 洛雪音乐助手 |    √     | √                                                    |
 |  网易云音乐  |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
-|     微信     |    ×     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
+|     微信     |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
 |   magnetW    |    √     | √                                                    |
 |   You-Get    |    √     | √                                                    |
