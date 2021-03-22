@@ -190,5 +190,5 @@ scoop config aria2-min-split-size 4M
 |   LX Music    |       √       | √                                                         |
 |    magnetW    |       √       | √                                                         |
 | NetEase Music |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
-|    WeChat     |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
+|    WeChat     |       ×       | copied from [dorado](https://github.com/chawyehsu/dorado) |
 |    You-Get    |       √       | √                                                         |
