@@ -1,7 +1,7 @@
 {
     "homepage": "https://mathpix.com/",
     "description": "Extract LaTeX from PDFs or handwritten notes in seconds just by taking a screenshot",
-    "version": "03.00.0006",
+    "version": "03.00.0009",
     "license": "Freeware",
     "url": "https://mathpix.com/win_app/mathpix_snipping_tool_setup.exe",
     "innosetup": true,
