@@ -176,6 +176,7 @@ scoop config aria2-min-split-size 4M
 | :---------------: | :-----------: | ------------------------------------------------------------ |
 |   BaiduNetDisk    |       √       | √                                                            |
 |  File Converter   |       √       | √                                                            |
+|      Multrin      |       √       | √                                                            |
 | Office Tool Plus  |       √       | √                                                            |
 |  Tencent Meeting  |       ×       | copied from [sushi](https://github.com/kidonng/sushi/)       |
 |   Wise Care 365   |       √       | √                                                            |

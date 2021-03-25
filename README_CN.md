@@ -178,6 +178,7 @@ scoop config aria2-min-split-size 4M
 |        App        | 自动更新 | 原创                                                    |
 | :---------------: | :------: | ------------------------------------------------------- |
 |  File Converter   |    √     | √                                                       |
+|      Multrin      |    √     | √                                                       |
 | Office Tool Plus  |    √     | √                                                       |
 |   Wise Care 365   |    √     | √                                                       |
 | Wise Disk Cleaner |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
