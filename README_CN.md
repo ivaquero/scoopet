@@ -151,6 +151,7 @@ scoop config aria2-min-split-size 4M
 |       Grammarly       |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
 |       Julia-cn        |    √     | √                                                       |
 |       KingDraw        |    √     | √                                                       |
+|        LogSeq         |    √     | √                                                       |
 |        LyX-cn         |    √     | √                                                       |
 | Mathpix Snipping Tool |    √     | √                                                       |
 |   Mendeley Desktop    |    √     | √                                                       |
