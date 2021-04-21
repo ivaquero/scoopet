@@ -140,7 +140,7 @@ scoop config aria2-min-split-size 4M
 
 ### Research Tools
 
-|          App          | Auto-Update ? | Origenal ?                                                          |
+|          App          | Auto-Update ? | Original ?                                                          |
 | :-------------------: | :-----------: | ------------------------------------------------------------------- |
 |    CopyTranslator     |       √       | √                                                                   |
 |   GeoGebra-Portable   |       √       | √                                                                   |
@@ -161,7 +161,7 @@ scoop config aria2-min-split-size 4M
 
 ### Development Auxillary
 
-|                  App                  | Auto-Update ? | Origenal ?                                                          |
+|                  App                  | Auto-Update ? | Original ?                                                          |
 | :-----------------------------------: | :-----------: | ------------------------------------------------------------------- |
 |               Cyberduck               |       √       | √ migrated to [Extras](https://github.com/lukesampson/scoop-extras) |
 |          Partition Assistant          |       √       | √                                                                   |
@@ -173,7 +173,7 @@ scoop config aria2-min-split-size 4M
 
 ### Daily Work
 
-|        App        | Auto-Update ? | Origenal ?                                                   |
+|        App        | Auto-Update ? | Original ?                                                   |
 | :---------------: | :-----------: | ------------------------------------------------------------ |
 |   BaiduNetDisk    |       √       | √                                                            |
 |  File Converter   |       √       | √                                                            |
@@ -186,7 +186,7 @@ scoop config aria2-min-split-size 4M
 
 ### Social & Entertainment
 
-|      App      | Auto-Update ? | Origenal ?                                                |
+|      App      | Auto-Update ? | Original ?                                                |
 | :-----------: | :-----------: | --------------------------------------------------------- |
 |   DingTalk    |       √       | √                                                         |
 |   LX Music    |       √       | √                                                         |
