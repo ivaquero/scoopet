@@ -181,6 +181,7 @@ scoop config aria2-min-split-size 4M
 |  File Converter   |    √     | √                                                       |
 |      Multrin      |    √     | √                                                       |
 | Office Tool Plus  |    √     | √                                                       |
+|     RustDesk      |    √     | √                                                       |
 |   Wise Care 365   |    √     | √                                                       |
 | Wise Disk Cleaner |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
 |     WPSOffice     |    ×     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
