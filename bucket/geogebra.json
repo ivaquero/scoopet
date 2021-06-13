@@ -5,9 +5,9 @@
         "url": "https://www.geogebra.org/license"
     },
     "description": "A dynamic mathematics software for education that brings together geometry, algebra, spreadsheets, graphing, statistics and calculus.",
-    "version": "6.0.639.0",
-    "url": "https://download.geogebra.org/installers/6.0/GeoGebra-Windows-Portable-6-0-639-0.zip",
-    "hash": "527d7f903eb570ac25938095a361df2ecd5019d2adfe4ff549167f7708ec2d9f",
+    "version": "6.0.646.0",
+    "url": "https://download.geogebra.org/installers/6.0/GeoGebra-Windows-Portable-6-0-646-0.zip",
+    "hash": "84efbe59eca101da6e27e716d8aa85497401cbacceeae6521818908b63746628",
     "bin": [
         "GeoGebra.exe",
         "GeoGebraGraphing.exe",

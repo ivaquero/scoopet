@@ -1,7 +1,7 @@
 {
     "homepage": "https://github.com/lyswhut/lx-music-desktop",
     "description": "An electron-based music player",
-    "version": "1.10.0",
+    "version": "1.10.2",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
