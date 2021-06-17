@@ -1,36 +1,47 @@
-<div align="left">
-<h1 align="left"> 🍨 Scoopet 🍨 </h1>
-<p>
-<a>
-<img src="https://ci.appveyor.com/api/projects/status/kbd3a9mibncbx8ds?svg=true"/>
-</a>
-<a>
-<img src="https://img.shields.io/github/languages/code-size/integzz/scoopet.svg">
-</a>
-<a>
-<img src="https://img.shields.io/github/repo-size/integzz/scoopet.svg">
-</a>
-<a>
-<img src="https://img.shields.io/github/license/integzz/scoopet">
-</a>
-</p>
-</div>
-
-<p></p>
-
-<div>
-<p>
-一个用于 Windows 最佳命令行软件管理器<a href="https://github.com/lukesampson/scoop">Scoop</a>的脚本仓库：持续助力科研
-</p>
-
-<p align="left">
-        <a href="README.md">English</a> | <a href="README_CN.md">简体中文</a>
-</p>
-</div>
+<body>
+    <div align="left">
+        <h1 align="left">🍨 Scoopet 🍨</h1>
+        <p>
+            <a>
+                <img
+                    src="https://ci.appveyor.com/api/projects/status/kbd3a9mibncbx8ds?svg=true"
+                />
+            </a>
+            <a>
+                <img
+                    src="https://img.shields.io/github/languages/code-size/integzz/scoopet.svg"
+                />
+            </a>
+            <a>
+                <img
+                    src="https://img.shields.io/github/repo-size/integzz/scoopet.svg"
+                />
+            </a>
+            <a>
+                <img
+                    src="https://img.shields.io/github/license/integzz/scoopet"
+                />
+            </a>
+        </p>
+    </div>
+    <p></p>
+    <div>
+        <p>
+            一个用于 Windows 最佳命令行软件管理器<a
+                href="https://github.com/lukesampson/scoop"
+                >Scoop</a
+            >的脚本仓库：持续助力科研
+        </p>
+        <p align="left">
+            <a href="README.md">English</a> |
+            <a href="README_CN.md">简体中文</a>
+        </p>
+    </div>
+</body>
 
 对于熟悉 Scoop 的用户：
 
-```
+```powershell
 scoop bucket add scoopet https://github.com/integzz/scoopet
 ```
 
