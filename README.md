@@ -188,6 +188,7 @@ scoop config aria2-min-split-size 4M
 | :---------------: | :-----------: | ------------------------------------------------------------ |
 |   BaiduNetDisk    |       √       | √                                                            |
 |  File Converter   |       √       | √                                                            |
+| OBS Studio                   |√|√|
 | Office Tool Plus  |       √       | √                                                            |
 |     RustDesk      |       √       | √                                                            |
 |  Tencent Meeting  |       ×       | copied from [sushi](https://github.com/kidonng/sushi/)       |

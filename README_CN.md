@@ -190,7 +190,7 @@ scoop config aria2-min-split-size 4M
 |        App        | 自动更新 | 原创                                                    |
 | :---------------: | :------: | ------------------------------------------------------- |
 |  File Converter   |    √     | √                                                       |
-|      Multrin      |    √     | √                                                       |
+| OBS Studio                   |√|√|
 | Office Tool Plus  |    √     | √                                                       |
 |     RustDesk      |    √     | √                                                       |
 |   Wise Care 365   |    √     | √                                                       |
