@@ -82,7 +82,7 @@ Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://get.
 scoop install aria2
 ```
 
-如果使用VPN，需要通过如下命令关闭 aria2
+如果使用 VPN，需要通过如下命令关闭 aria2
 
 ```powershell
 scoop config aria2-enabled false
@@ -138,7 +138,7 @@ jetbrains
 
 ## :m: 其他
 
-### Aria2的参数自定义
+### Aria2 的参数自定义
 
 ```powershell
 # aria2 在 Scoop 中默认开启
@@ -190,7 +190,7 @@ scoop config aria2-min-split-size 4M
 |        App        | 自动更新 | 原创                                                    |
 | :---------------: | :------: | ------------------------------------------------------- |
 |  File Converter   |    √     | √                                                       |
-| OBS Studio                   |√|√|
+|   OBS Studio-cn   |    √     | √                                                       |
 | Office Tool Plus  |    √     | √                                                       |
 |     RustDesk      |    √     | √                                                       |
 |   Wise Care 365   |    √     | √                                                       |
