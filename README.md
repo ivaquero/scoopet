@@ -4,7 +4,7 @@
         <p>
             <a>
                 <img
-                    src="https://ci.appveyor.com/api/projects/status/kbd3a9mibncbx8ds?svg=true"
+                    src="https://img.shields.io/github/workflow/status/ivaquero/scoopet/Excavator"
                 />
             </a>
             <a>
