@@ -9,17 +9,17 @@
             </a>
             <a>
                 <img
-                    src="https://img.shields.io/github/languages/code-size/integzz/scoopet.svg"
+                    src="https://img.shields.io/github/languages/code-size/ivaquero/scoopet.svg"
                 />
             </a>
             <a>
                 <img
-                    src="https://img.shields.io/github/repo-size/integzz/scoopet.svg"
+                    src="https://img.shields.io/github/repo-size/ivaquero/scoopet.svg"
                 />
             </a>
             <a>
                 <img
-                    src="https://img.shields.io/github/license/integzz/scoopet"
+                    src="https://img.shields.io/github/license/ivaquero/scoopet"
                 />
             </a>
         </p>
