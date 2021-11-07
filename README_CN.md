@@ -159,7 +159,6 @@ scoop config aria2-min-split-size 4M
 |    CopyTranslator     |    √     | √                                                                |
 |   GeoGebra-Portable   |    √     | √                                                                |
 |         Gephi         |    √     | √                                                                |
-|       Grammarly       |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258)          |
 |       Julia-cn        |    √     | √                                                                |
 |       KingDraw        |    √     | √                                                                |
 |        LogSeq         |    √     | √ 已迁移至 [Extras](https://github.com/lukesampson/scoop-extras) |
@@ -169,7 +168,6 @@ scoop config aria2-min-split-size 4M
 |     Miniconda-cn      |    √     | √                                                                |
 |        NetLogo        |    √     | √                                                                |
 |      SageMath-cn      |    √     | √                                                                |
-|        TinyTeX        |    √     | 拷贝自 [r-bucket](https://github.com/cderv/r-bucket)             |
 |       思源笔记        |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)             |
 |         语雀          |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)             |
 

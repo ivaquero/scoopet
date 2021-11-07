@@ -156,7 +156,6 @@ scoop config aria2-min-split-size 4M
 |    CopyTranslator     |       √       | √                                                                   |
 |   GeoGebra-Portable   |       √       | √                                                                   |
 |         Gephi         |       √       | √                                                                   |
-|       Grammarly       |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258)        |
 |       Julia-cn        |       √       | √                                                                   |
 |       KingDraw        |       √       | √                                                                   |
 |        LogSeq         |       √       | √ migrated to [Extras](https://github.com/lukesampson/scoop-extras) |
@@ -166,7 +165,6 @@ scoop config aria2-min-split-size 4M
 |     Miniconda-cn      |       √       | √                                                                   |
 |        NetLogo        |       √       | √                                                                   |
 |      SageMath-cn      |       √       | √                                                                   |
-|        TinyTeX        |       √       | copied from [r-bucket](https://github.com/cderv/r-bucket)           |
 |      Siyuan Note      |       √       | copied from [dorado](https://github.com/chawyehsu/dorado)           |
 |     Yuque Desktop     |       √       | copied from [dorado](https://github.com/chawyehsu/dorado)           |
 
