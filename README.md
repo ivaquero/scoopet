@@ -174,7 +174,7 @@ scoop config aria2-min-split-size 4M
 | :-----------------------------------: | :-----------: | ------------------------------------------------------------------- |
 |               Cyberduck               |       √       | √ migrated to [Extras](https://github.com/lukesampson/scoop-extras) |
 |          Partition Assistant          |       √       | √                                                                   |
-|           scoop-completion            |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258)        |
+|           scoop-completion            |       √       | copied from [Moeologist](https://github.com/Moeologist/scoop-completion)        |
 |                uTools                 |       √       | copied from [dorado](https://github.com/chawyehsu/dorado)           |
 | VirtualBox <br> [with Extension Pack] |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258)        |
 |        VMware Workstation Pro         |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258)        |
@@ -191,7 +191,6 @@ scoop config aria2-min-split-size 4M
 |     RustDesk      |       √       | √                                                            |
 |  Tencent Meeting  |       ×       | copied from [sushi](https://github.com/kidonng/sushi/)       |
 |   Wise Care 365   |       √       | √                                                            |
-| Wise Disk Cleaner |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258) |
 |     WPSOffice     |       ×       | copied from [dorado](https://github.com/chawyehsu/dorado)    |
 
 ### Social & Entertainment

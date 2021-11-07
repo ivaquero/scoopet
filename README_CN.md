@@ -176,7 +176,7 @@ scoop config aria2-min-split-size 4M
 |          App           | 自动更新 | 原创                                                             |
 | :--------------------: | :------: | ---------------------------------------------------------------- |
 |       Cyberduck        |    √     | √ 已迁移至 [Extras](https://github.com/lukesampson/scoop-extras) |
-|    scoop-completion    |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258)          |
+|    scoop-completion    |    √     | 拷贝自 [Moeologist](https://github.com/Moeologist/scoop-completion)          |
 |         uTools         |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)             |
 | VirtualBox [含扩展包]  |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258)          |
 | VMware Workstation Pro |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258)          |
@@ -192,7 +192,6 @@ scoop config aria2-min-split-size 4M
 | Office Tool Plus  |    √     | √                                                       |
 |     RustDesk      |    √     | √                                                       |
 |   Wise Care 365   |    √     | √                                                       |
-| Wise Disk Cleaner |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
 |     WPSOffice     |    ×     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
 |     百度网盘      |    √     | √                                                       |
 |     腾讯会议      |    ×     | 拷贝自 [sushi](https://github.com/kidonng/sushi/)       |
