@@ -42,7 +42,7 @@
 对于熟悉 Scoop 的用户：
 
 ```powershell
-scoop bucket add scoopet https://github.com/integzz/scoopet
+scoop bucket add scoopet https://github.com/ivaquero/scoopet
 ```
 
 # :running: 开始
