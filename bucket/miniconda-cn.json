@@ -6,11 +6,11 @@
     "architecture": {
         "64bit": {
             "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/Miniconda3-py39_4.10.3-Windows-x86_64.exe",
-            "hash": "8940cdd621557bc55743d6bb4518c6d343a4587127e76de808fb07e51df03fea"
+            "hash": "b33797064593ab2229a0135dc69001bea05cb56a20c2f243b1231213642e260a"
         },
         "32bit": {
             "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/Miniconda3-py39_4.10.3-Windows-x86.exe",
-            "hash": "f81c165384c18d1986e2ba2f86cef384bc62266c46b34cd3d274e751ff5d91ed"
+            "hash": "24f438e57ff2ef1ce1e93050d4e9d13f5050955f759f448d84a4018d3cd12d6b"
         }
     },
     "autoupdate": {
