@@ -96,7 +96,7 @@ scoop config aria2-enabled false
 ### :airplane: Step 3: Add this wonderful bucket and update, mo-mo-da~ :kiss:
 
 ```powershell
-scoop bucket add scoopet https://github.com/integzz/scoopet
+scoop bucket add scoopet https://github.com/ivaquero/scoopet
 scoop update
 ```
 
