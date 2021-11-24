@@ -97,7 +97,7 @@ scoop install git
 ### :airplane: 步骤 3：添加本仓库并更新，么么哒~ :kiss:
 
 ```powershell
-scoop bucket add scoopet https://github.com/integzz/scoopet
+scoop bucket add scoopet https://github.com/ivaquero/scoopet
 scoop update
 ```
 
