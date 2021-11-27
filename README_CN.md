@@ -173,28 +173,29 @@ scoop config aria2-min-split-size 4M
 
 ### 开发辅助
 
-|          App           | 自动更新 | 原创                                                             |
-| :--------------------: | :------: | ---------------------------------------------------------------- |
-|       Cyberduck        |    √     | √ 已迁移至 [Extras](https://github.com/lukesampson/scoop-extras) |
-|    scoop-completion    |    √     | 拷贝自 [Moeologist](https://github.com/Moeologist/scoop-completion)          |
-|         uTools         |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)             |
-| VirtualBox [含扩展包]  |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258)          |
-| VMware Workstation Pro |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258)          |
-|         WinGet         |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258)          |
-|      傲梅分区助手      |    √     | √                                                                |
+|          App           | 自动更新 | 原创                                                                |
+| :--------------------: | :------: | ------------------------------------------------------------------- |
+|       Cyberduck        |    √     | √ 已迁移至 [Extras](https://github.com/lukesampson/scoop-extras)    |
+|    scoop-completion    |    √     | 拷贝自 [Moeologist](https://github.com/Moeologist/scoop-completion) |
+|         uTools         |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)                |
+| VirtualBox [含扩展包]  |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258)             |
+| VMware Workstation Pro |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258)             |
+|         WinGet         |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258)             |
+|      傲梅分区助手      |    √     | √                                                                   |
 
 ### 日常办公
 
-|        App        | 自动更新 | 原创                                                    |
-| :---------------: | :------: | ------------------------------------------------------- |
-|  File Converter   |    √     | √                                                       |
-|   OBS Studio-cn   |    √     | √                                                       |
-| Office Tool Plus  |    √     | √                                                       |
-|     RustDesk      |    √     | √                                                       |
-|   Wise Care 365   |    √     | √                                                       |
-|     WPSOffice     |    ×     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
-|     百度网盘      |    √     | √                                                       |
-|     腾讯会议      |    ×     | 拷贝自 [sushi](https://github.com/kidonng/sushi/)       |
+|       App        | 自动更新 | 原创                                                 |
+| :--------------: | :------: | ---------------------------------------------------- |
+|  File Converter  |    √     | √                                                    |
+|  OBS Studio-cn   |    √     | √                                                    |
+| Office Tool Plus |    √     | √                                                    |
+|     RustDesk     |    √     | √                                                    |
+|   小狼毫输入法   |    √     | √                                                    |
+|  Wise Care 365   |    √     | √                                                    |
+|    WPSOffice     |    ×     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
+|     百度网盘     |    √     | √                                                    |
+|     腾讯会议     |    ×     | 拷贝自 [sushi](https://github.com/kidonng/sushi/)    |
 
 ### 社交休闲
 
