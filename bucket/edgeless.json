@@ -7,7 +7,7 @@
     "bin": "Edgeless Hub/edgeless-hub.exe",
     "shortcuts": [
         [
-            "edgeless-hub.exe",
+            "Edgeless Hub/edgeless-hub.exe",
             "Edgeless Hub"
         ]
     ],
