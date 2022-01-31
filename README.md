@@ -172,6 +172,7 @@ scoop config aria2-min-split-size 4M
 
 |                  App                  | Auto-Update ? | Original ?                                                               |
 | :-----------------------------------: | :-----------: | ------------------------------------------------------------------------ |
+|                 Conan                 |       √       | √                                                                        |
 |               Cyberduck               |       √       | √ migrated to [Extras](https://github.com/lukesampson/scoop-extras)      |
 |          Partition Assistant          |       √       | √                                                                        |
 |           scoop-completion            |       √       | copied from [Moeologist](https://github.com/Moeologist/scoop-completion) |
