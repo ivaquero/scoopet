@@ -175,7 +175,6 @@ scoop config aria2-min-split-size 4M
 
 |          App           | 自动更新 | 原创                                                                |
 | :--------------------: | :------: | ------------------------------------------------------------------- |
-|         Conan          |    √     | √                                                                   |
 |       Cyberduck        |    √     | √ 已迁移至 [Extras](https://github.com/lukesampson/scoop-extras)    |
 |    scoop-completion    |    √     | 拷贝自 [Moeologist](https://github.com/Moeologist/scoop-completion) |
 |         uTools         |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)                |
