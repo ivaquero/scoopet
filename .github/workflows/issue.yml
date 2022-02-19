@@ -9,7 +9,7 @@ jobs:
     runs-on: windows-latest
     name: Issue Handler
     steps:
-      - uses: actions/checkout@main
+      - uses: actions/checkout@v2
       - name: Issue Handler
         uses: Ash258/Scoop-GithubActions@stable-win
         if: github.event.action == 'opened' || (github.event.action == 'labeled' && contains(github.event.issue.labels.*.name, 'verify'))
