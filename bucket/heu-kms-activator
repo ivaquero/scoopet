@@ -1,0 +1,20 @@
+{
+    "version": "24.6.1",
+    "description": "HEU KMS Activator，简洁高效的KMS/OEM智能激活工具，适用所有Windows, Office版本，无需联网即可一键激活，支持UEFI的KMS激活工具。",
+    "homepage": "https://github.com/zbezj/HEU_KMS_Activator",
+    "license": "Freeware",
+    "url": "https://github.com/zbezj/HEU_KMS_Activator/releases/download/24.6.1/HEU_KMS_Activator_v24.6.1.HEU168.zip",
+    "bin": "HEU_KMS_Activator.exe",
+    "shortcuts": [
+        [
+            "HEU_KMS_Activator.exe",
+            "HEU KMS Activator"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/zbezj/HEU_KMS_Activator"
+    },
+    "autoupdate": {
+        "url": "https://github.com/zbezj/HEU_KMS_Activator/releases/download/$version/HEU_KMS_Activator_v$version.HEU168.zip"
+    }
+}
