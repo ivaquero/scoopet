@@ -22,11 +22,6 @@
         "config.ini",
         "DefragOptions.ini"
     ],
-    "checkver": {
-        "url": "https://www.wisecleaner.com/software_update/getinfo.php?p_id=23",
-        "jsonpath": "$.download_exe",
-        "regex": "_([\\d.]+)\\.exe"
-    },
     "autoupdate": {
         "url": "https://downloads.wisecleaner.com/soft/WiseCare365_$version.exe"
     }
