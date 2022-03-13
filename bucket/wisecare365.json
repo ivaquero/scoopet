@@ -4,6 +4,7 @@
     "homepage": "https://www.wisecleaner.com/wise-care-365.html",
     "license": "Freeware",
     "url": "https://downloads.wisecleaner.com/soft/WiseCare365_6.1.9.606.exe",
+    "hash": "7d07a2b061d7ee4bae7ec9c9bafb9ff3a09108493a78c4c081c41bd85554cc60",
     "innosetup": true,
     "installer": {
         "script": [
