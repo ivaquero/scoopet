@@ -11,8 +11,9 @@
     "hash": "dacd74f99d97c1776b28a971b63818c0afe51146824c242bb826987526222d4e",
     "installer": {
         "script": [
-            "Remove-Item \"$dir\\$*\" -Recurse -Force -ErrorAction SilentlyContinue",
-            "Remove-Item \"$dir\\wemeetapp_new.exe\" -Force -ErrorAction SilentlyContinue"
+            "Remove-Item "$dir\wemeetapp_new.exe" -Force",
+            "Rename-Item "$dir\$_9_\" \"$dir\\$version\"",
+            "Remove-Item \"$dir\\$TEMP","$dir\$WINDIR\",\"$dir\\$PLUGINSDIR" -Force -Recurse"
         ]
     },
     "uninstaller": {
