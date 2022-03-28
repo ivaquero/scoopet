@@ -19,5 +19,15 @@
     "uninstaller": {
         "script": "Remove-Item HKCU:\\SOFTWARE\\Tencent\\WeMeet | Out-Null"
     },
-    "shortcuts": [["wemeetapp.exe", "腾讯会议"]]
+    "shortcuts": [
+        ["wemeetapp.exe", "腾讯会议"]
+    ],
+    "checkver": {
+        "url": "https://meeting.tencent.com/wemeet-webapi/v2/config/query-download-info",
+        "script": "(Invoke-WebRequest -Body '[{\"instance\":\"windows\",\"type\":\"0300000000\"}]' -Method 'POST' -Uri $url).Content",
+        "regex": "https://(?<url>.*?\\.exe).*?version\".*?\"([\\d.]+)\""
+    },
+    "autoupdate": {
+        "url": "https://$matchUrl#/dl.7z"
+    }
 }
