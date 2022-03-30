@@ -208,3 +208,12 @@ scoop config aria2-min-split-size 4M
 |     微信     |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
 |   magnetW    |    √     | √                                                    |
 |   You-Get    |    √     | √                                                    |
+
+## 备注
+
+由于 Win 到权限管理复杂，对于一些常见的不提供 portable 安装包，且需要管理员应用的权限，建议使用 WinGet 进行安装
+
+```powerhsell
+scoop install winget
+winget install Tencent.QQ Tencent.TencentMeeting
+```
