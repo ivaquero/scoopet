@@ -9,7 +9,7 @@ jobs:
     name: Pull Request Handler
     runs-on: windows-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Pull Request Handler
         uses: Ash258/Scoop-GithubActions@stable-win
         env:
