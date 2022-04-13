@@ -1,42 +1,16 @@
-<body>
-    <div align="left">
-        <h1 align="left">🍨 Scoopet 🍨</h1>
-        <p>
-            <a>
-                <img
-                    src="https://img.shields.io/github/workflow/status/ivaquero/scoopet/Excavator.svg"
-                />
-            </a>
-            <a>
-                <img
-                    src="https://img.shields.io/github/languages/code-size/ivaquero/scoopet.svg"
-                />
-            </a>
-            <a>
-                <img
-                    src="https://img.shields.io/github/repo-size/ivaquero/scoopet.svg"
-                />
-            </a>
-            <a>
-                <img
-                    src="https://img.shields.io/github/license/ivaquero/scoopet"
-                />
-            </a>
-        </p>
-    </div>
-    <p></p>
-    <div>
-        <p>
-            A Bucket for the Best Windows Package Manager
-            <a href="https://github.com/lukesampson/scoop"> Scoop </a>:
-            Continuously Assisting in Academic Research.
-        </p>
-        <p align="left">
-            <a href="README.md">English</a> |
-            <a href="README_CN.md">简体中文</a>
-        </p>
-    </div>
-</body>
+# 🍨 Scoopet 🍨
+
+[![build](https://img.shields.io/github/workflow/status/ivaquero/scoopet/Excavator.svg)](https://img.shields.io/github/workflow/status/ivaquero/scoopet/Excavator.svg)
+[![code size](https://img.shields.io/github/languages/code-size/ivaquero/scoopet.svg)](https://img.shields.io/github/languages/code-size/ivaquero/scoopet.svg)
+[![repo size](https://img.shields.io/github/repo-size/ivaquero/scoopet.svg)](https://img.shields.io/github/repo-size/ivaquero/scoopet.svg)
+[![license](https://img.shields.io/github/license/ivaquero/scoopet)](https://img.shields.io/github/license/ivaquero/scoopet)
+
+A Bucket for the Best Windows Package Manager [Scoop](https://github.com/lukesampson/scoop): Continuously Assisting in Academic Research.
+
+<p align="left">
+<a href="README.md">English</a> |
+<a href="README-CN.md">简体中文</a>
+</p>
 
 For ones familiar with Scoop:
 
