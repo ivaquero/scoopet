@@ -175,7 +175,7 @@ scoop config aria2-min-split-size 4M
 |     App      | Auto-Update ? | Original ?                                                |
 | :----------: | :-----------: | --------------------------------------------------------- |
 |   DingTalk   |       √       | √                                                         |
-|   LXMusic    |       √       | √                                                         |
+|   LX-Music    |       √       | √                                                         |
 |   magnetW    |       √       | √                                                         |
 | NetEaseMusic |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
 |    WeChat    |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
