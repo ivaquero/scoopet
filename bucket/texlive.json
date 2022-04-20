@@ -3,7 +3,7 @@
     "description": "TeX Live is a cross-platform, free software distribution for the TeX typesetting system",
     "license": "LPPL,GPL2",
     "version": "2022",
-    "url": "https://ctan.math.illinois.edu/systems/texlive/tlnet//install-tl.zip",
+    "url": "https://mirrors4.tuna.tsinghua.edu.cn/ctan/systems/texlive/tlnet/install-tl.zip",
     "hash": "sha512:14548e43924db6616945cee45e56da29ad53e25201a456713f61b9ba1ddde955227befcd83f06edfc1a7ba9662109471f7013a6f80a12f85a1a49f2ac5799e8a",
     "installer": {
         "script": [
