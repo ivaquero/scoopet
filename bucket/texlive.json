@@ -4,7 +4,7 @@
     "license": "LPPL,GPL2",
     "version": "2022",
     "url": "https://ctan.math.illinois.edu/systems/texlive/tlnet//install-tl.zip",
-    "hash": "sha512:6bfdcd4e81c09743595eb7b211ae7cf3cb97f0318abae1c2c538be86af7eee8f8e5b8e492d9cb831fc4bccf793d0ba492400c01a79ae02d9d0011cf3d0e0f517",
+    "hash": "sha512:14548e43924db6616945cee45e56da29ad53e25201a456713f61b9ba1ddde955227befcd83f06edfc1a7ba9662109471f7013a6f80a12f85a1a49f2ac5799e8a",
     "installer": {
         "script": [
             "Write-Host 'Invoking TeX Live installer...' -ForegroundColor DarkCyan",
