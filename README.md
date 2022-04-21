@@ -125,23 +125,23 @@ scoop config aria2-min-split-size 4M
 
 ### Research Tools
 
-|          App          | Auto-Update ? | Original ?                                                |
-| :-------------------: | :-----------: | --------------------------------------------------------- |
-|    CopyTranslator     |       √       | √                                                         |
-|   GeoGebra-Portable   |       √       | √                                                         |
-|         Gephi         |       √       | √                                                         |
-|       Julia-cn        |       √       | √                                                         |
-|       KingDraw        |       √       | √                                                         |
-|        LyX-cn         |       √       | √                                                         |
-| Mathpix-Snipping-Tool |       √       | √                                                         |
-|   Mendeley-Desktop    |       √       | √                                                         |
-|     Mambaforge-cn     |       √       | √                                                         |
-|     Miniconda-cn      |       √       | √                                                         |
-|        NetLogo        |       √       | √                                                         |
-|      SageMath-cn      |       √       | √                                                         |
-|        TeXLive        |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
-|      Siyuan Note      |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
-|     Yuque Desktop     |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
+|          App          | Auto-Update ? | Original ?                                                  |
+| :-------------------: | :-----------: | ----------------------------------------------------------- |
+|    CopyTranslator     |       √       | √                                                           |
+|   GeoGebra-Portable   |       √       | √                                                           |
+|         Gephi         |       √       | √                                                           |
+|       Julia-cn        |       √       | √                                                           |
+|       KingDraw        |       √       | √                                                           |
+|        LyX-cn         |       √       | √                                                           |
+| Mathpix-Snipping-Tool |       √       | √                                                           |
+|   Mendeley-Desktop    |       √       | √                                                           |
+|     Mambaforge-cn     |       √       | √                                                           |
+|     Miniconda-cn      |       √       | √                                                           |
+|        NetLogo        |       √       | √                                                           |
+|      SageMath-cn      |       √       | √                                                           |
+|        TeXLive        |       √       | modified from [dorado](https://github.com/chawyehsu/dorado) |
+|      Siyuan Note      |       √       | copied from [dorado](https://github.com/chawyehsu/dorado)   |
+|     Yuque Desktop     |       √       | copied from [dorado](https://github.com/chawyehsu/dorado)   |
 
 ### Development Auxillary
 
@@ -157,18 +157,18 @@ scoop config aria2-min-split-size 4M
 
 ### Daily Work
 
-|       App       | Auto-Update ? | Original ?                                                |
-| :-------------: | :-----------: | --------------------------------------------------------- |
-|  BaiduNetDisk   |       √       | √                                                         |
-| File-Converter  |       √       | √                                                         |
-| M3u8-Downloader |       √       | √                                                         |
-|  OBS-Studio-cn  |       √       | √                                                         |
-| OfficeToolPlus  |       √       | √                                                         |
-|    RustDesk     |       √       | √                                                         |
-| Tencent-Meeting |       √       | √ (added by @Ryanjiena)                                   |
-|     Weasel      |       √       | √                                                         |
-|   WiseCare365   |       √       | √                                                         |
-|    WPSOffice    |       ×       | copied from [dorado](https://github.com/chawyehsu/dorado) |
+|       App       | Auto-Update ? | Original ?                                             |
+| :-------------: | :-----------: | ------------------------------------------------------ |
+|  BaiduNetDisk   |       √       | √                                                      |
+| File-Converter  |       √       | √                                                      |
+| M3u8-Downloader |       √       | √                                                      |
+|  OBS-Studio-cn  |       √       | √                                                      |
+| OfficeToolPlus  |       √       | √                                                      |
+|    RustDesk     |       √       | √                                                      |
+| Tencent-Meeting |       √       | √ (added by @Ryanjiena)                                |
+|     Weasel      |       √       | √                                                      |
+|   WiseCare365   |       √       | √                                                      |
+|    WPSOffice    |       ×       | modified [dorado](https://github.com/chawyehsu/dorado) |
 
 ### Social & Entertainment
 
@@ -179,4 +179,5 @@ scoop config aria2-min-split-size 4M
 |   magnetW    |       √       | √                                                         |
 | NetEaseMusic |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
 |    WeChat    |       √       | √                                                         |
+|  WeChatWork  |       ×       | copied from [dorado](https://github.com/chawyehsu/dorado) |
 |   You-Get    |       √       | √                                                         |

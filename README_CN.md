@@ -141,7 +141,7 @@ scoop config aria2-min-split-size 4M
 |     Miniconda-cn      |    √     | √                                                    |
 |        NetLogo        |    √     | √                                                    |
 |      SageMath-cn      |    √     | √                                                    |
-|        TeXLive        |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
+|        TeXLive        |    √     | 修改自 [dorado](https://github.com/chawyehsu/dorado) |
 |       思源笔记        |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
 |         语雀          |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
 
@@ -168,7 +168,7 @@ scoop config aria2-min-split-size 4M
 |     腾讯会议     |    √     | √ （由@Ryanjiena 贡献）                              |
 |   小狼毫输入法   |    √     | √                                                    |
 |  Wise Care 365   |    √     | √                                                    |
-|    WPSOffice     |    ×     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
+|    WPSOffice     |    ×     | 修改自 [dorado](https://github.com/chawyehsu/dorado) |
 |     百度网盘     |    √     | √                                                    |
 | M3u8-Downloader  |    √     | √                                                    |
 
@@ -180,6 +180,7 @@ scoop config aria2-min-split-size 4M
 | 洛雪音乐助手 |    √     | √                                                    |
 |  网易云音乐  |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
 |     微信     |    √     | √                                                    |
+|   企业微信   |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
 |   magnetW    |    √     | √                                                    |
 |   You-Get    |    √     | √                                                    |
 
