@@ -127,35 +127,35 @@ scoop config aria2-min-split-size 4M
 
 ### 科研工具
 
-|          App          | 自动更新 | 原创                                                             |
-| :-------------------: | :------: | ---------------------------------------------------------------- |
-|    CopyTranslator     |    √     | √                                                                |
-|   GeoGebra-Portable   |    √     | √                                                                |
-|         Gephi         |    √     | √                                                                |
-|       Julia-cn        |    √     | √                                                                |
-|       KingDraw        |    √     | √                                                                |
-|        LyX-cn         |    √     | √                                                                |
-| Mathpix Snipping Tool |    √     | √                                                                |
-|   Mendeley Desktop    |    √     | √                                                                |
-|      Mambaforge-cn      |       √       | √                                                                   |
-|     Miniconda-cn      |    √     | √                                                                |
-|        NetLogo        |    √     | √                                                                |
-|      SageMath-cn      |    √     | √                                                                |
-|        TeXLive        |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)             |
-|       思源笔记        |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)             |
-|         语雀          |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)             |
+|          App          | 自动更新 | 原创                                                 |
+| :-------------------: | :------: | ---------------------------------------------------- |
+|    CopyTranslator     |    √     | √                                                    |
+|   GeoGebra-Portable   |    √     | √                                                    |
+|         Gephi         |    √     | √                                                    |
+|       Julia-cn        |    √     | √                                                    |
+|       KingDraw        |    √     | √                                                    |
+|        LyX-cn         |    √     | √                                                    |
+| Mathpix Snipping Tool |    √     | √                                                    |
+|   Mendeley Desktop    |    √     | √                                                    |
+|     Mambaforge-cn     |    √     | √                                                    |
+|     Miniconda-cn      |    √     | √                                                    |
+|        NetLogo        |    √     | √                                                    |
+|      SageMath-cn      |    √     | √                                                    |
+|        TeXLive        |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
+|       思源笔记        |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
+|         语雀          |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
 
 ### 开发辅助
 
-|          App           | 自动更新 | 原创                                                             |
-| :--------------------: | :------: | ---------------------------------------------------------------- |
-|   Clash-for-Windows    |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)             |
-|      RectangleWin      |    √     | √                                                                |
-|         uTools         |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)             |
-| VirtualBox [含扩展包]  |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258)          |
-| VMware Workstation Pro |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258)          |
-|         WinGet         |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258)          |
-|      傲梅分区助手      |    √     | √                                                                |
+|          App           | 自动更新 | 原创                                                    |
+| :--------------------: | :------: | ------------------------------------------------------- |
+|   Clash-for-Windows    |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
+|      RectangleWin      |    √     | √                                                       |
+|         uTools         |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
+| VirtualBox [含扩展包]  |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
+| VMware Workstation Pro |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
+|         WinGet         |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
+|      傲梅分区助手      |    √     | √                                                       |
 
 ### 日常办公
 
@@ -170,7 +170,7 @@ scoop config aria2-min-split-size 4M
 |  Wise Care 365   |    √     | √                                                    |
 |    WPSOffice     |    ×     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
 |     百度网盘     |    √     | √                                                    |
-| M3u8-Downloader  |       √       | √                                                         |
+| M3u8-Downloader  |    √     | √                                                    |
 
 ### 社交休闲
 
@@ -179,7 +179,7 @@ scoop config aria2-min-split-size 4M
 |     钉钉     |    √     | √                                                    |
 | 洛雪音乐助手 |    √     | √                                                    |
 |  网易云音乐  |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
-|     微信     |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
+|     微信     |    √     | √                                                    |
 |   magnetW    |    √     | √                                                    |
 |   You-Get    |    √     | √                                                    |
 
