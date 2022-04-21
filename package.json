@@ -5,7 +5,7 @@
     "description": "A Personal Scoop Bucket for Facilitating Academic Research.",
     "private": true,
     "repository": {
-        "url": "git+https://github.com/integzz/scoopet.git",
+        "url": "git+https://github.com/ivaquero/scoopet.git",
         "type": "git"
     },
     "scripts": {
@@ -18,7 +18,7 @@
         "test": "powershell -noprofile ./bin/test.ps1"
     },
     "bugs": {
-        "url": "https://github.com/integzz/scoopet/issues"
+        "url": "https://github.com/ivaquero/scoopet/issues"
     },
     "main": "index.js",
     "author": "ivaquero",
