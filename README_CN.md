@@ -142,7 +142,6 @@ scoop config aria2-min-split-size 4M
 |        NetLogo        |    √     | √                                                    |
 |      SageMath-cn      |    √     | √                                                    |
 |        TeXLive        |    √     | 修改自 [dorado](https://github.com/chawyehsu/dorado) |
-|       思源笔记        |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
 |         语雀          |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
 
 ### 开发辅助
