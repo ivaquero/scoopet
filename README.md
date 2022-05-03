@@ -137,7 +137,7 @@ scoop config aria2-min-split-size 4M
 |     Miniconda-cn      |       √       | √                                                           |
 |        NetLogo        |       √       | √                                                           |
 |      SageMath-cn      |       √       | √                                                           |
-|        TeXLive        |       √       | modified from [dorado](https://github.com/chawyehsu/dorado) |
+|        TeXLive        |       √       | modified [dorado](https://github.com/chawyehsu/dorado) |
 |     Yuque Desktop     |       √       | copied from [dorado](https://github.com/chawyehsu/dorado)   |
 
 ### Development Auxillary
