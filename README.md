@@ -128,8 +128,6 @@ scoop config aria2-min-split-size 4M
 |          App          | Auto-Update ? | Original ?                                                  |
 | :-------------------: | :-----------: | ----------------------------------------------------------- |
 |    CopyTranslator     |       √       | √                                                           |
-|   GeoGebra-Portable   |       √       | √                                                           |
-|         Gephi         |       √       | √                                                           |
 |       Julia-cn        |       √       | √                                                           |
 |       KingDraw        |       √       | √                                                           |
 |        LyX-cn         |       √       | √                                                           |
