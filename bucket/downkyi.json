@@ -10,7 +10,7 @@
         }
     },
 	"notes": "This package need .NET Framework 4.7.2",
-    "bin": "DownKyiexe",
+    "bin": "DownKyi.exe",
     "shortcuts": [
         [
             "DownKyi.exe",
