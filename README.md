@@ -9,7 +9,7 @@ A Bucket for the Best Windows Package Manager [Scoop](https://github.com/lukesam
 
 <p align="left">
 <a href="README.md">English</a> |
-<a href="README-CN.md">简体中文</a>
+<a href="README_CN.md">简体中文</a>
 </p>
 
 For ones familiar with Scoop:
