@@ -11,7 +11,8 @@
         "64bit": {
             "url": "https://github.com/leiurayer/downkyi/releases/download/v1.5.0/DownKyi-1.5.0.zip",
             "hash": "4fc6a36d0432e0d2e2ee930cbd995b5b905b44af6db6b2c9b416cba521d8f9fc",
-            "extract_dir": "DownKyi-1.5.0"
+            "extract_dir": "DownKyi-1.5.0",
+			"bin": "DownKyi.exe"
         }
     },	
 	"notes": "This package need .NET Framework 4.7.2",
@@ -28,7 +29,6 @@
         "Logs",
 		"Storage"
     ],
-	"bin": "DownKyi.exe",
     "checkver": {
         "github": "https://github.com/leiurayer/downkyi"
     },
