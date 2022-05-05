@@ -1,5 +1,5 @@
 {
-    "version": "1.83",
+    "version": "1.5.0",
     "description": "DownKyi is a bilibili video download tool.",
     "homepage": "https://github.com/leiurayer/downkyi/blob/main/README.md",
     "license": "GPL",
@@ -10,9 +10,7 @@
         }
     },
 	"notes": "This package need .NET Framework 4.7.2",
-    "extract_dir": "DownKyi",
-    "pre_install": ["Set-Content \"$dir\\telegram.cmd\" '@start \"Telegram\" /D \"%~dp0\" \"%~dp0Telegram.exe\" %*' -Encoding Ascii"
-	],
+    "bin": "DownKyiexe",
     "shortcuts": [
         [
             "DownKyi.exe",
