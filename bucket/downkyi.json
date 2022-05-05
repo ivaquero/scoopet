@@ -11,8 +11,8 @@
     },
 	"notes": "This package need .NET Framework 4.7.2",
     "extract_dir": "DownKyi",
-    "pre_install": [
-    ],
+    "pre_install": ["Set-Content \"$dir\\telegram.cmd\" '@start \"Telegram\" /D \"%~dp0\" \"%~dp0Telegram.exe\" %*' -Encoding Ascii"
+	],
     "shortcuts": [
         [
             "DownKyi.exe",
