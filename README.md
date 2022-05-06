@@ -1,6 +1,6 @@
 # 🍨 Scoopet 🍨
 
-[![build](https://img.shields.io/github/workflow/status/ivaquero/scoopet/Excavator.svg)](https://img.shields.io/github/workflow/status/ivaquero/scoopet/Excavator.svg)
+[![Excavator](https://github.com/ivaquero/scoopet/actions/workflows/schedule.yml/badge.svg)](https://github.com/ivaquero/scoopet/actions/workflows/schedule.yml)
 [![code size](https://img.shields.io/github/languages/code-size/ivaquero/scoopet.svg)](https://img.shields.io/github/languages/code-size/ivaquero/scoopet.svg)
 [![repo size](https://img.shields.io/github/repo-size/ivaquero/scoopet.svg)](https://img.shields.io/github/repo-size/ivaquero/scoopet.svg)
 [![license](https://img.shields.io/github/license/ivaquero/scoopet)](https://img.shields.io/github/license/ivaquero/scoopet)
