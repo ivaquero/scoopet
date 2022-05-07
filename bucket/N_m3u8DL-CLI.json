@@ -11,11 +11,11 @@
     },	
     "shortcuts": [
         [
-            "N_m3u8DL-CLI.exe",
-            "N_m3u8DL-CLI"
+            "N_m3u8DL-CLI-SimpleG.exe",
+            "N_m3u8DL-CLI-SimpleG"
         ]
     ],
-	"bin": "N_m3u8DL-CLI.exe",
+	"bin": "N_m3u8DL-CLI-SimpleG.exe",
     "checkver": {
         "github": "https://github.com/nilaoda/N_m3u8DL-CLI"
     },
