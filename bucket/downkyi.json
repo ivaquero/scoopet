@@ -14,26 +14,6 @@
         }
     },	
 	"notes": "This package need .NET Framework 4.7.2",
-	"pre_install": [
-	"foreach ($form in @('aria2c.exe')) {",
-        "    foreach ($_ in Get-ChildItem \"$(appdir Aria2 $global)\\current\" -File) {",
-        "        $name = $_.Name",
-        "        if ($name -Like $form) {",
-        "            Write-Host \"Creating hardlink for $name\"",
-        "            New-Item -ItemType HardLink -Path \"$dir\" -Name $name -Target \"$(appdir DownKyi $global)\\current\\$name\" | Out-Null",
-        "        }",
-        "    }",
-        "}",
-	"foreach ($form in @('ffmpeg.exe')) {",
-        "    foreach ($_ in Get-ChildItem \"$(appdir ffmpeg $global)\\current\\bin\" -File) {",
-        "        $name = $_.Name",
-        "        if ($name -Like $form) {",
-        "            Write-Host \"Creating hardlink for $name\"",
-        "            New-Item -ItemType HardLink -Path \"$dir\" -Name $name -Target \"$(appdir DownKyi $global)\\current\\$name\" | Out-Null",
-        "        }",
-        "    }",
-        "}"
-	],
     "shortcuts": [
         [
             "DownKyi.exe",
