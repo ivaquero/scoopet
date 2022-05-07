@@ -16,11 +16,11 @@
 	"notes": "This package need .NET Framework 4.7.2",
 	"pre_install": [
 	"foreach ($form in @('*.exe')) {",
-        "    foreach ($_ in Get-ChildItem \"$(appdir aria2c $global)\\current\" -File) {",
+        "    foreach ($_ in Get-ChildItem \"$(appdir aria $global)\\current\" -File) {",
         "        $name = $_.Name",
         "        if ($name -Like $form) {",
         "            Write-Host \"Creating hardlink for $name\"",
-        "            New-Item -ItemType HardLink -Path \"$dir\" -Name $name -Target \"$(appdir aria2c $global)\\current\\$name\" | Out-Null",
+        "            New-Item -ItemType HardLink -Path \"$dir\" -Name $name -Target \"$(appdir aria $global)\\current\\$name\" | Out-Null",
         "        }",
         "    }",
         "}",
