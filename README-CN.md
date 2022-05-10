@@ -1,9 +1,9 @@
 # 🍨 Scoopet 🍨
 
-[![build](https://img.shields.io/github/workflow/status/ivaquero/scoopet/Excavator.svg)](https://img.shields.io/github/workflow/status/ivaquero/scoopet/Excavator.svg)
+[![Excavator](https://github.com/ivaquero/scoopet/actions/workflows/schedule.yml/badge.svg)](https://github.com/ivaquero/scoopet/actions/workflows/schedule.yml)
+[![license](https://img.shields.io/github/license/ivaquero/scoopet)](https://github.com/ivaquero/scoopet/blob/master/LICENSE)
 [![code size](https://img.shields.io/github/languages/code-size/ivaquero/scoopet.svg)](https://img.shields.io/github/languages/code-size/ivaquero/scoopet.svg)
 [![repo size](https://img.shields.io/github/repo-size/ivaquero/scoopet.svg)](https://img.shields.io/github/repo-size/ivaquero/scoopet.svg)
-[![license](https://img.shields.io/github/license/ivaquero/scoopet)](https://img.shields.io/github/license/ivaquero/scoopet)
 
 一个用于 Windows 最佳包管理器 [Scoop](https://github.com/lukesampson/scoop)的脚本仓库：持续助力科研
 
