@@ -7,6 +7,8 @@
 
 一个用于 Windows 最佳包管理器 [Scoop](https://github.com/lukesampson/scoop)的脚本仓库：持续助力科研
 
+> 如果你想参与仓库管理，尽管通过 new issue 告知。
+
 <p align="left">
 <a href="README.md">English</a> |
 <a href="README-CN.md">简体中文</a>
