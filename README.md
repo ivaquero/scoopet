@@ -7,6 +7,8 @@
 
 A Bucket for the Best Windows Package Manager [Scoop](https://github.com/lukesampson/scoop): Continuously Assisting in Academic Research.
 
+> If you would like to be a co-maintainer, feel free to create a new issue.
+
 <p align="left">
 <a href="README.md">English</a> |
 <a href="README-CN.md">简体中文</a>
