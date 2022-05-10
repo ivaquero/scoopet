@@ -1,5 +1,5 @@
 {
-    "version": "1.5.0",
+    "version": "1.5.1",
     "description": "DownKyi is a bilibili video download tool.",
     "homepage": "https://github.com/leiurayer/downkyi/blob/main/README.md",
     "license": "GPL",
@@ -8,12 +8,13 @@
         "ffmpeg"
     ],
 	"architecture": {
-        "64bit": {
+        {
             "url": "https://github.com/leiurayer/downkyi/releases/download/v1.5.1/DownKyi-1.5.1.zip",
-            "hash": "4bebbbd17f71e7bffa86302963d4c42213528cd42b08558b8b0c71f799b8af21"
+            "hash": "4fc6a36d0432e0d2e2ee930cbd995b5b905b44af6db6b2c9b416cba521d8f9fc"
         }
     },	
 	"notes": "This package need .NET Framework 4.7.2",
+	"bin": "DownKyi.exe",
     "shortcuts": [
         [
             "DownKyi.exe",
@@ -27,13 +28,12 @@
         "Logs",
 		"Storage"
     ],
-	"bin": "DownKyi.exe",
     "checkver": {
         "github": "https://github.com/leiurayer/downkyi"
     },
     "autoupdate": {
         "architecture": {
-            "64bit": {
+            {
                 "url": "https://github.com/leiurayer/downkyi/releases/download/v$version/DownKyi-$version.zip"
             }
         }
