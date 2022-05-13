@@ -1,7 +1,7 @@
 {
     "homepage": "https://u.tools/",
     "description": "Your productive tools set and launcher.",
-    "license": "Unknown",
+    "license": "Proprietary",
     "version": "2.6.3",
     "architecture": {
         "64bit": {
@@ -27,23 +27,23 @@
         ]
     ],
     "checkver": {
-        "url": "https://res.u-tools.cn/currentversion/public.yml?",
-        "regex": "uTools-([\\w.-]+).exe"
+        "url": "https://res.u-tools.cn/version2/latest.yml",
+        "regex": "version: ([\\d.]+)"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://res.u-tools.cn/currentversion/uTools-$version.exe#/dl.7z",
+                "url": "https://res.u-tools.cn/version2/uTools-$version.exe#/dl.7z",
                 "hash": {
-                    "url": "https://res.u-tools.cn/currentversion/public.yml",
+                    "url": "https://res.u-tools.cn/version2/latest.yml?",
                     "mode": "extract",
                     "regex": "(?sm)$version.exe.*?sha512: $base64"
                 }
             },
             "32bit": {
-                "url": "https://res.u-tools.cn/currentversion/uTools-$version-ia32.exe#/dl.7z",
+                "url": "https://res.u-tools.cn/version2/uTools-$version-ia32.exe#/dl.7z",
                 "hash": {
-                    "url": "https://res.u-tools.cn/currentversion/public-ia32.yml",
+                    "url": "https://res.u-tools.cn/version2/latest-ia32.yml?",
                     "mode": "extract",
                     "regex": "(?sm)$version-ia32.exe.*?sha512: $base64"
                 }
