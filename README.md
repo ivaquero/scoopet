@@ -127,26 +127,27 @@ scoop config aria2-min-split-size 4M
 
 ### Research Tools
 
-|          App          | Auto-Update ? | Original ?                                                  |
-| :-------------------: | :-----------: | ----------------------------------------------------------- |
-|    CopyTranslator     |       √       | √                                                           |
-|       Julia-cn        |       √       | √                                                           |
-|       KingDraw        |       √       | √                                                           |
-|        LyX-cn         |       √       | √                                                           |
-| Mathpix-Snipping-Tool |       √       | √                                                           |
-|   Mendeley-Desktop    |       √       | √                                                           |
-|     Mambaforge-cn     |       √       | √                                                           |
-|     Miniconda-cn      |       √       | √                                                           |
-|        NetLogo        |       √       | √                                                           |
-|      SageMath-cn      |       √       | √                                                           |
-|        TeXLive        |       √       | modified [dorado](https://github.com/chawyehsu/dorado) |
-|     Yuque Desktop     |       √       | copied from [dorado](https://github.com/chawyehsu/dorado)   |
+|          App          | Auto-Update ? | Original ?                                                |
+| :-------------------: | :-----------: | --------------------------------------------------------- |
+|    CopyTranslator     |       √       | √                                                         |
+|       Julia-cn        |       √       | √                                                         |
+|       KingDraw        |       √       | √                                                         |
+|        LyX-cn         |       √       | √                                                         |
+| Mathpix-Snipping-Tool |       √       | √                                                         |
+|   Mendeley-Desktop    |       √       | √                                                         |
+|     Mambaforge-cn     |       √       | √                                                         |
+|     Miniconda-cn      |       √       | √                                                         |
+|        NetLogo        |       √       | √                                                         |
+|      SageMath-cn      |       √       | √                                                         |
+|        TeXLive        |       √       | modified [dorado](https://github.com/chawyehsu/dorado)    |
+|     Yuque Desktop     |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
 
 ### Development Auxillary
 
 |                  App                  | Auto-Update ? | Original ?                                                   |
 | :-----------------------------------: | :-----------: | ------------------------------------------------------------ |
 |           Clash-for-Windows           |       √       | copied from [dorado](https://github.com/chawyehsu/dorado)    |
+|             DiskGenius-cn             |       √       | √                                                            |
 |          Partition-Assistant          |       √       | √                                                            |
 |             RectangleWin              |       √       | √                                                            |
 |                uTools                 |       √       | copied from [dorado](https://github.com/chawyehsu/dorado)    |
