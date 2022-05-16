@@ -11,7 +11,7 @@ A Bucket for the Best Windows Package Manager [Scoop](https://github.com/lukesam
 
 <p align="left">
 <a href="README.md">English</a> |
-<a href="README_CN.md">简体中文</a>
+<a href="README-CN.md">简体中文</a>
 </p>
 
 For ones familiar with Scoop:
@@ -180,6 +180,7 @@ scoop config aria2-min-split-size 4M
 |   LX-Music   |       √       | √                                                         |
 |   magnetW    |       √       | √                                                         |
 | NetEaseMusic |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
+| Tencent-Edu  |       √       | √                                                         |
 |    WeChat    |       √       | √                                                         |
 |  WeChatWork  |       ×       | copied from [dorado](https://github.com/chawyehsu/dorado) |
 |   You-Get    |       √       | √                                                         |
