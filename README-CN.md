@@ -149,7 +149,7 @@ scoop config aria2-min-split-size 4M
 |          App           | 自动更新 | 原创                                                    |
 | :--------------------: | :------: | ------------------------------------------------------- |
 |   Clash-for-Windows    |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
-|     DiskGenius-cn      |    √     | √                                                       |
+|     DiskGenius-cn      |    √     | √ （由@CronusLM 贡献）                                  |
 |      RectangleWin      |    √     | √                                                       |
 |         uTools         |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
 | VirtualBox [含扩展包]  |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
@@ -181,6 +181,7 @@ scoop config aria2-min-split-size 4M
 |  网易云音乐  |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
 |     微信     |    √     | √                                                    |
 |   企业微信   |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
+|   downkyi    |    √     | √ （由@CronusLM 贡献）                               |
 |   magnetW    |    √     | √                                                    |
 |   You-Get    |    √     | √                                                    |
 

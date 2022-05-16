@@ -147,7 +147,7 @@ scoop config aria2-min-split-size 4M
 |                  App                  | Auto-Update ? | Original ?                                                   |
 | :-----------------------------------: | :-----------: | ------------------------------------------------------------ |
 |           Clash-for-Windows           |       √       | copied from [dorado](https://github.com/chawyehsu/dorado)    |
-|             DiskGenius-cn             |       √       | √                                                            |
+|             DiskGenius-cn             |       √       | √ (added by @CronusLM)                                       |
 |          Partition-Assistant          |       √       | √                                                            |
 |             RectangleWin              |       √       | √                                                            |
 |                uTools                 |       √       | copied from [dorado](https://github.com/chawyehsu/dorado)    |
@@ -175,6 +175,7 @@ scoop config aria2-min-split-size 4M
 |     App      | Auto-Update ? | Original ?                                                |
 | :----------: | :-----------: | --------------------------------------------------------- |
 |   DingTalk   |       √       | √                                                         |
+|   downkyi    |       √       | √ (added by @CronusLM)                                    |
 |   LX-Music   |       √       | √                                                         |
 |   magnetW    |       √       | √                                                         |
 | NetEaseMusic |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
