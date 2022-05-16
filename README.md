@@ -175,7 +175,8 @@ scoop config aria2-min-split-size 4M
 |     App      | Auto-Update ? | Original ?                                                |
 | :----------: | :-----------: | --------------------------------------------------------- |
 |   DingTalk   |       √       | √                                                         |
-|   downkyi    |       √       | √ (added by @CronusLM)                                    |
+|   DownKyi    |       √       | √ (added by @CronusLM)                                    |
+|   Edgeless   |       √       | √ (added by @IsaacWangTT)                                 |
 |   LX-Music   |       √       | √                                                         |
 |   magnetW    |       √       | √                                                         |
 | NetEaseMusic |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |

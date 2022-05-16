@@ -181,8 +181,9 @@ scoop config aria2-min-split-size 4M
 |  网易云音乐  |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
 |     微信     |    √     | √                                                    |
 |   企业微信   |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
-|   downkyi    |    √     | √ （由@CronusLM 贡献）                               |
-|   magnetW    |    √     | √                                                    |
+|   DownKyi    |    √     | √ （由@CronusLM 贡献）                               |
+|   Edgeless   |    √     | √ （由@IsaacWangTT 贡献）                            |
+|   MagnetW    |    √     | √                                                    |
 |   You-Get    |    √     | √                                                    |
 
 ## 备注
