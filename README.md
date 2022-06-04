@@ -129,6 +129,8 @@ scoop config aria2-min-split-size 4M
 
 |          App          | Auto-Update ? | Original ?                                                |
 | :-------------------: | :-----------: | --------------------------------------------------------- |
+|       CAJViewer       |       √       | √ (added by @rayinfinite)                                 |
+|      CNKIExpress      |       √       | √ (added by @rayinfinite)                                 |
 |    CopyTranslator     |       √       | √                                                         |
 |       Julia-cn        |       √       | √                                                         |
 |       KingDraw        |       √       | √                                                         |

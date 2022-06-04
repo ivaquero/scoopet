@@ -142,6 +142,8 @@ scoop config aria2-min-split-size 4M
 |        NetLogo        |    √     | √                                                    |
 |      SageMath-cn      |    √     | √                                                    |
 |        TeXLive        |    √     | 修改自 [dorado](https://github.com/chawyehsu/dorado) |
+|      CAJ 查看器       |    √     | √ （由 @rayinfinite 贡献）                           |
+|     全球学术快报      |    √     | √ （由 @rayinfinite 贡献）                           |
 |         语雀          |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
 
 ### 开发辅助
@@ -149,7 +151,7 @@ scoop config aria2-min-split-size 4M
 |          App           | 自动更新 | 原创                                                    |
 | :--------------------: | :------: | ------------------------------------------------------- |
 |   Clash-for-Windows    |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
-|     DiskGenius-cn      |    √     | √ （由@CronusLM 贡献）                                  |
+|     DiskGenius-cn      |    √     | √ （由 @CronusLM 贡献）                                 |
 |      RectangleWin      |    √     | √                                                       |
 |         uTools         |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
 | VirtualBox [含扩展包]  |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
@@ -165,7 +167,7 @@ scoop config aria2-min-split-size 4M
 |  OBS Studio-cn   |    √     | √                                                    |
 | Office Tool Plus |    √     | √                                                    |
 |     RustDesk     |    √     | √                                                    |
-|     腾讯会议     |    √     | √ （由@Ryanjiena 贡献）                              |
+|     腾讯会议     |    √     | √ （由 @Ryanjiena 贡献）                             |
 |   小狼毫输入法   |    √     | √                                                    |
 |  Wise Care 365   |    √     | √                                                    |
 |    WPSOffice     |    ×     | 修改自 [dorado](https://github.com/chawyehsu/dorado) |
@@ -182,8 +184,8 @@ scoop config aria2-min-split-size 4M
 |   腾讯课堂   |    √     | √                                                    |
 |     微信     |    √     | √                                                    |
 |   企业微信   |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
-|   DownKyi    |    √     | √ （由@CronusLM 贡献）                               |
-|   Edgeless   |    √     | √ （由@IsaacWangTT 贡献）                            |
+|   DownKyi    |    √     | √ （由 @CronusLM 贡献）                              |
+|   Edgeless   |    √     | √ （由 @IsaacWangTT 贡献）                           |
 |   MagnetW    |    √     | √                                                    |
 |   You-Get    |    √     | √                                                    |
 
