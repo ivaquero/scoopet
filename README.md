@@ -132,6 +132,7 @@ scoop config aria2-min-split-size 4M
 |       CAJViewer       |       √       | √ (added by @rayinfinite)                                 |
 |      CNKIExpress      |       √       | √ (added by @rayinfinite)                                 |
 |    CopyTranslator     |       √       | √                                                         |
+|         Eudic         |       √       | √                                                         |
 |       Julia-cn        |       √       | √                                                         |
 |       KingDraw        |       √       | √                                                         |
 |        LyX-cn         |       √       | √                                                         |
@@ -141,6 +142,7 @@ scoop config aria2-min-split-size 4M
 |     Miniconda-cn      |       √       | √                                                         |
 |        NetLogo        |       √       | √                                                         |
 |      SageMath-cn      |       √       | √                                                         |
+|        Ting-En        |       √       | √                                                         |
 |        TeXLive        |       √       | modified [dorado](https://github.com/chawyehsu/dorado)    |
 |     Yuque Desktop     |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
 

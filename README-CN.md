@@ -142,6 +142,8 @@ scoop config aria2-min-split-size 4M
 |        NetLogo        |    √     | √                                                    |
 |      SageMath-cn      |    √     | √                                                    |
 |        TeXLive        |    √     | 修改自 [dorado](https://github.com/chawyehsu/dorado) |
+|       欧路词典        |    √     | √                                                    |
+|     每日英语听力      |    √     | √                                                    |
 |      CAJ 查看器       |    √     | √ （由 @rayinfinite 贡献）                           |
 |     全球学术快报      |    √     | √ （由 @rayinfinite 贡献）                           |
 |         语雀          |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
