@@ -167,7 +167,6 @@ scoop config aria2-min-split-size 4M
 | :--------------: | :------: | ---------------------------------------------------- |
 |  File Converter  |    √     | √                                                    |
 |  OBS Studio-cn   |    √     | √                                                    |
-| Office Tool Plus |    √     | √                                                    |
 |     RustDesk     |    √     | √                                                    |
 |     腾讯会议     |    √     | √ （由 @Ryanjiena 贡献）                             |
 |   小狼毫输入法   |    √     | √                                                    |
