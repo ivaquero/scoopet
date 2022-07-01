@@ -1,12 +1,12 @@
 {
-    "version": "2.02",
+    "version": "2.2",
     "description": "An internet file download manager",
     "homepage": "https://github.com/filecxx/FileCentipede",
     "license": "Unknown",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/filecxx/FileCentipede/releases/download/2.0/filecxx_2.02_win_x64.zip",
-            "hash": "5d93979706f3a806ddaabb776d37d33e9339170ea5e05a1312e40883081b37bb",
+            "url": "https://github.com/filecxx/FileCentipede/releases/download/2.0/filecxx_2.2_win_x64.zip",
+            "hash": "4a4d243bf58a444c1c955a29ae3cb614384157a28e7798497156d8cd32a11f43",
             "bin": [
                 [
                     "fileu.exe",
@@ -47,7 +47,8 @@
         "lib\\fileu_win32.conf"
     ],
     "checkver": {
-        "github": "https://github.com/filecxx/FileCentipede"
+        "url": "http://www.filecxx.com/en_US/update_log.html",
+        "regex": "([\d\.])+\s\(uptime\:"
     },
     "autoupdate": {
         "architecture": {
