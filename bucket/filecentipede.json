@@ -48,7 +48,7 @@
     ],
     "checkver": {
         "url": "http://www.filecxx.com/en_US/update_log.html",
-        "regex": "([\d\.])+\s\(uptime\:"
+        "regex": "([\\d.]+)..uptime"
     },
     "autoupdate": {
         "architecture": {
