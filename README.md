@@ -184,6 +184,5 @@ scoop config aria2-min-split-size 4M
 |   magnetW    |       √       | √                                                         |
 | NetEaseMusic |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
 | Tencent-Edu  |       √       | √                                                         |
-|    WeChat    |       √       | √                                                         |
 |  WeChatWork  |       ×       | copied from [dorado](https://github.com/chawyehsu/dorado) |
 |   You-Get    |       √       | √                                                         |

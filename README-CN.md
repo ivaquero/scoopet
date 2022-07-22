@@ -183,7 +183,6 @@ scoop config aria2-min-split-size 4M
 | 洛雪音乐助手 |    √     | √                                                    |
 |  网易云音乐  |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
 |   腾讯课堂   |    √     | √                                                    |
-|     微信     |    √     | √                                                    |
 |   企业微信   |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
 |   DownKyi    |    √     | √ （由 @CronusLM 贡献）                              |
 |   Edgeless   |    √     | √ （由 @IsaacWangTT 贡献）                           |
