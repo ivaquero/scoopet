@@ -1,10 +1,10 @@
 {
-    "version": "6.3.5.613",
+    "version": "6.3.6.614",
     "description": "Clean registry and junk files from your PCs. Protect your privacy and make your PCs more secure. Provide a better option of optimizing and accelerating your computer!",
     "homepage": "https://www.wisecleaner.com/wise-care-365.html",
     "license": "Freeware",
-    "url": "https://downloads.wisecleaner.com/soft/WiseCare365_6.3.5.613.exe",
-    "hash": "f3c91c150354fdb81d825de72c3896647e952ca4a41e2f6a3e48087cc41e6c7b",
+    "url": "https://downloads.wisecleaner.com/soft/WiseCare365_6.3.6.614.exe",
+    "hash": "8ba04339b9f881172ff8adf55d72a3184a83affc583a39d41dfa17c04fc2d80e",
     "innosetup": true,
     "installer": {
         "script": [
