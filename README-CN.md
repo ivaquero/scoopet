@@ -158,7 +158,6 @@ scoop config aria2-min-split-size 4M
 |         uTools         |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
 | VirtualBox [含扩展包]  |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
 | VMware Workstation Pro |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
-|         WinGet         |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
 |      傲梅分区助手      |    √     | √                                                       |
 
 ### 日常办公

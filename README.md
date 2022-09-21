@@ -157,7 +157,6 @@ scoop config aria2-min-split-size 4M
 |                uTools                 |       √       | copied from [dorado](https://github.com/chawyehsu/dorado)    |
 | VirtualBox <br> [with Extension Pack] |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258) |
 |        VMware-Workstation-Pro         |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258) |
-|                WinGet                 |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258) |
 
 ### Daily Work
 
