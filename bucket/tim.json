@@ -1,0 +1,21 @@
+{
+    "version": "3.3.8.22043",
+    "homepage": "https://tim.qq.com",
+    "description": "TIM",
+    "url": "https://dl.softmgr.qq.com/original/im/TIM3.3.8.22043.exe#/dl.7z",
+    "hash": "435b11b9a7be94db7a2496039f01d79b9b9c895968e6ebc203340a3e3d2d8e5d",
+    "extract_dir": "Files",
+    "shortcuts": [
+        [
+            "Bin\\TIM.exe",
+            "TIM"
+        ]
+    ],
+    "checkver": {
+        "url": "https://pc.qq.com/detail/18/detail_23258.html",
+        "regex": "TIM([\\d.]+)\\.exe"
+    },
+    "autoupdate": {
+        "url": "https://dl.softmgr.qq.com/original/im/TIM$version.exe#/dl.7z"
+    }
+}
