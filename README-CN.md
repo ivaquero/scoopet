@@ -162,17 +162,17 @@ scoop config aria2-min-split-size 4M
 
 ### 日常办公
 
-|       App        | 自动更新 | 原创                                                 |
-| :--------------: | :------: | ---------------------------------------------------- |
-|  File Converter  |    √     | √                                                    |
-|  OBS Studio-cn   |    √     | √                                                    |
-|     RustDesk     |    √     | √                                                    |
-|     腾讯会议     |    √     | √ （由 @Ryanjiena 贡献）                             |
-|   小狼毫输入法   |    √     | √                                                    |
-|  Wise Care 365   |    √     | √                                                    |
-|    WPSOffice-cn     |    ×     | 修改自 [dorado](https://github.com/chawyehsu/dorado) |
-|     百度网盘     |    √     | √                                                    |
-| M3u8-Downloader  |    √     | √                                                    |
+|       App       | 自动更新 | 原创                     |
+| :-------------: | :------: | ------------------------ |
+| File Converter  |    √     | √                        |
+|  OBS Studio-cn  |    √     | √                        |
+|    RustDesk     |    √     | √                        |
+|    腾讯会议     |    √     | √ （由 @Ryanjiena 贡献） |
+|  小狼毫输入法   |    √     | √                        |
+|  Wise Care 365  |    √     | √                        |
+|  WPSOffice-cn   |    √     | √                        |
+|    百度网盘     |    √     | √                        |
+| M3u8-Downloader |    √     | √                        |
 
 ### 社交休闲
 
