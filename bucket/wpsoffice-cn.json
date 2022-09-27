@@ -1,23 +1,32 @@
 {
-    "homepage": "https://pc.wps.cn",
+    "version": "10314.12012.2019",
     "description": "Complete office suite.",
-    "version": "11.1.0.9828",
+    "homepage": "https://www.wps.cn",
     "license": {
-        "identifier": "Freeware",
-        "url": "https://www.wps.com/eula"
+        "identifier": "Freeware"
     },
-    "url": "https://pacakge.cache.wpscdn.cn/wps/download/W.P.S.9828.12012.2019.exe#/dl.7z",
-    "hash": "279f4f49aa7f141a9b07dc2e8c7333341976db6e50bb3789a4f935986a03a6c8",
-    "extract_dir": "$_11_",
+    "url": "https://official-package.wpscdn.cn/wps/download/W.P.S.10314.12012.2019.exe",
+    "hash": "3d80d57762a8879cf09cb2ae18a3369ade3f98faab89387b1b75302d9449da0c",
     "pre_install": [
-        "Expand-7zipArchive \"$dir\\`$EXEFILE\" -Switches '-t#'",
-        "Remove-Item \"$dir\\*\" -Exclude '4.7z' -Recurse",
+        "Expand-7zipArchive \"$dir\\$fname\"",
+        "Expand-7zipArchive \"$dir\\`$_11_\\`$EXEFILE\" -Switches '-t#'",
+        "Move-Item \"$dir\\`$_11_\\*.7z\" \"$dir\"",
+        "Remove-Item \"$dir\\*\" -Exclude '4.7z', '2.7z' -Recurse",
+        "Expand-7zipArchive \"$dir\\2.7z\" -ExtractDir 'CONTROL\\office6' -Removal",
         "Expand-7zipArchive \"$dir\\4.7z\" -ExtractDir 'office6' -Removal"
     ],
+    "bin": "wpsoffice.exe",
     "shortcuts": [
         [
             "wpsoffice.exe",
             "WPS Office"
         ]
-    ]
+    ],
+    "checkver": {
+        "url": "https://platform.wps.cn/",
+        "regex": "W\\.P\\.S\\.([\\d.]+)\\.exe"
+    },
+    "autoupdate": {
+        "url": "https://official-package.wpscdn.cn/wps/download/W.P.S.$version.exe"
+    }
 }
