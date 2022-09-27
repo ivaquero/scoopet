@@ -1,10 +1,9 @@
 {
-    "version": "13.0.5",
+    "version": "13.1.0",
     "description": "权威的英语词典软件 英语学习者必备的工具",
     "homepage": "https://www.eudic.net/",
     "license": "BSD-3-Clause",
     "url": "https://static.frdic.com/pkg/eudic_win.zip",
-    "hash": "fe487b30d9a9d9fdc28fa8d515f128dbcdfe0a2d60aeeabc509084767e362b12",
     "installer": {
         "script": [
             "Expand-7ZipArchive \"$dir\\eudic_win.exe\" \"$dir\\\" -Removal",
