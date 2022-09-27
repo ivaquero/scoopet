@@ -170,7 +170,7 @@ scoop config aria2-min-split-size 4M
 | Tencent-Meeting |       √       | √ (added by @Ryanjiena)                                |
 |     Weasel      |       √       | √                                                      |
 |   WiseCare365   |       √       | √                                                      |
-|    WPSOffice-cn    |       ×       | modified [dorado](https://github.com/chawyehsu/dorado) |
+|    WPSOffice-cn    |       √        | √  |
 
 ### Social & Entertainment
 
