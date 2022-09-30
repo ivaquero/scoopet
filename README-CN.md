@@ -157,7 +157,7 @@ scoop config aria2-min-split-size 4M
 |      RectangleWin      |    √     | √                                                       |
 |         uTools         |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
 | VirtualBox [含扩展包]  |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
-| VMware Workstation Pro |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
+| VMware Workstation Pro |    √     | 修改自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
 |      傲梅分区助手      |    √     | √                                                       |
 
 ### 日常办公
@@ -176,17 +176,17 @@ scoop config aria2-min-split-size 4M
 
 ### 社交休闲
 
-|     App      | 自动更新 | 原创                                                 |
-| :----------: | :------: | ---------------------------------------------------- |
-|     钉钉     |    √     | √                                                    |
-| 洛雪音乐助手 |    √     | √                                                    |
-|  网易云音乐  |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
-|   腾讯课堂   |    √     | √                                                    |
-|   企业微信   |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado) |
-|   DownKyi    |    √     | √ （由 @CronusLM 贡献）                              |
-|   Edgeless   |    √     | √ （由 @IsaacWangTT 贡献）                           |
-|   MagnetW    |    √     | √                                                    |
-|   You-Get    |    √     | √                                                    |
+|     App      | 自动更新 | 原创                       |
+| :----------: | :------: | -------------------------- |
+|     钉钉     |    √     | √                          |
+| 洛雪音乐助手 |    √     | √                          |
+|  网易云音乐  |    √     | √                          |
+|   腾讯课堂   |    √     | √                          |
+|   企业微信   |    √     | √                          |
+|   DownKyi    |    √     | √ （由 @CronusLM 贡献）    |
+|   Edgeless   |    √     | √ （由 @IsaacWangTT 贡献） |
+|   MagnetW    |    √     | √                          |
+|   You-Get    |    √     | √                          |
 
 ## 备注
 
