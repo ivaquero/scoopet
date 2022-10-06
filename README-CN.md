@@ -154,8 +154,9 @@ scoop config aria2-min-split-size 4M
 |   Clash-for-Windows    |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
 |     DiskGenius-cn      |    √     | √ （由 @CronusLM 贡献）                                 |
 |      RectangleWin      |    √     | √                                                       |
+|               QTTabBar                |       √       | √ 拷贝自 [nonportable](https://github.com/ScoopInstaller/Nonportable) |
 |         uTools         |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
-| VirtualBox [含扩展包]  |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
+| VirtualBox（含扩展包）  |    √     | 拷贝自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
 | VMware Workstation Pro |    √     | 修改自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
 |      傲梅分区助手      |    √     | √                                                       |
 
