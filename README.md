@@ -154,7 +154,7 @@ scoop config aria2-min-split-size 4M
 |             DiskGenius-cn             |       √       | √ (added by @CronusLM)                                       |
 |          Partition-Assistant          |       √       | √                                                            |
 |             RectangleWin              |       √       | √                                                            |
-|               QTTabBar                |       √       | [nonportable](https://github.com/ScoopInstaller/Nonportable) |
+|               QTTabBar                |       √       | copied from [nonportable](https://github.com/ScoopInstaller/Nonportable) |
 |                uTools                 |       √       | copied from [dorado](https://github.com/chawyehsu/dorado)    |
 | VirtualBox <br> (with Extension Pack) |       √       | copied from [Ash258](https://github.com/Ash258/Scoop-Ash258) |
 |        VMware-Workstation-Pro         |       √       | modified [Ash258](https://github.com/Ash258/Scoop-Ash258)    |
