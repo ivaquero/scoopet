@@ -34,8 +34,10 @@ Set-ExecutionPolicy RemoteSigned -scope CurrentUser
 ### :gear: Step 2: Customize your Scoop directory
 
 ```powershell
-$env:SCOOP='Your_Scoop_Path'
-[Environment]::SetEnvironmentVariable('SCOOP', $env:SCOOP, 'User')
+irm get.scoop.sh -outfile 'install.ps1'
+.\install.ps1 -ScoopDir ['Scoop_Path'] -ScoopGlobalDir ['GlobalScoopApps_Path'] -NoProxy
+# for example
+.\install.ps1 -ScoopDir 'C:\Scoop' -ScoopGlobalDir 'C:\Program Files' -NoProxy
 ```
 
 > If you skip this step, all user installed Apps and Scoop itself will live in `c:/users/user_name/scoop`.
