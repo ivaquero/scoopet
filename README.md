@@ -167,7 +167,6 @@ scoop config aria2-min-split-size 4M
 | File-Converter  |       √       | √                       |
 | M3u8-Downloader |       √       | √                       |
 |  OBS-Studio-cn  |       √       | √                       |
-|    RustDesk     |       √       | √                       |
 | Tencent-Meeting |       √       | √ (added by @Ryanjiena) |
 |     Weasel      |       √       | √                       |
 |   WiseCare365   |       √       | √                       |
