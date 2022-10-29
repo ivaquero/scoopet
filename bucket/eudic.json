@@ -27,7 +27,7 @@
     ],
     "checkver": {
         "url": "https://www.eudic.net/v4/en/app/history?appkey=eusoft_eudic_en",
-        "regex": "Windows(\s[\\d.]+)"
+        "regex": "Windows(\\s[\\d.]+)"
     },
     "autoupdate": {
         "architecture": {
