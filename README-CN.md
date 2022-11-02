@@ -154,6 +154,7 @@ scoop config aria2-min-split-size 4M
 |          App           | 自动更新 | 原创                                                    |
 | :--------------------: | :------: | ------------------------------------------------------- |
 |   Clash-for-Windows    |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
+|   Clash-Verge    |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
 |     DiskGenius-cn      |    √     | √ （由 @CronusLM 贡献）                                 |
 |      RectangleWin      |    √     | √                                                       |
 |               QTTabBar                |       √       | √ 拷贝自 [nonportable](https://github.com/ScoopInstaller/Nonportable) |

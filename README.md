@@ -153,6 +153,8 @@ scoop config aria2-min-split-size 4M
 |          App           | Auto-Update ? | Original ?                                                |
 | :--------------------: | :-----------: | --------------------------------------------------------- |
 |   Clash-for-Windows    |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
+|   Clash-Verge    |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
+|   Clash-for-Windows    |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
 |     DiskGenius-cn      |       √       | √ (added by @CronusLM)                                    |
 |  Partition-Assistant   |       √       | √                                                         |
 |      RectangleWin      |       √       | √                                                         |
