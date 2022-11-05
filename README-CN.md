@@ -136,13 +136,14 @@ scoop config aria2-min-split-size 4M
 |       Julia-cn        |    √     | √                                                    |
 |       KingDraw        |    √     | √                                                    |
 |        LyX-cn         |    √     | √                                                    |
-| Mathpix Snipping Tool |    √     | √                                                    |
-|   Mendeley Desktop    |    √     | √                                                    |
+| Mathpix-Snipping-Tool |    √     | √                                                    |
+|   Mendeley-Desktop    |    √     | √                                                    |
 |     Mambaforge-cn     |    √     | √                                                    |
 |     Miniconda-cn      |    √     | √                                                    |
 |        NetLogo        |    √     | √                                                    |
 |      SageMath-cn      |    √     | √                                                    |
 |        TeXLive        |    √     | 修改自 [dorado](https://github.com/chawyehsu/dorado) |
+|      TeXStudio-cn      |       √       | √                                                         |
 |       欧路词典        |    √     | √                                                    |
 |     每日英语听力      |    √     | √                                                    |
 |      CAJ 查看器       |    √     | √ （由 @rayinfinite 贡献）                           |
@@ -156,21 +157,22 @@ scoop config aria2-min-split-size 4M
 |   Clash-for-Windows    |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
 |   Clash-Verge    |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
 |     DiskGenius-cn      |    √     | √ （由 @CronusLM 贡献）                                 |
+|     Git-cn      |       √       | √                                     |
 |      RectangleWin      |    √     | √                                                       |
 |               QTTabBar                |       √       | √ 拷贝自 [nonportable](https://github.com/ScoopInstaller/Nonportable) |
 |         uTools         |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
-| VMware Workstation Pro |    √     | 修改自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
+| VMware-Workstation-Pro |    √     | 修改自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
 |      傲梅分区助手      |    √     | √                                                       |
 
 ### 日常办公
 
 |       App       | 自动更新 | 原创                     |
 | :-------------: | :------: | ------------------------ |
-| File Converter  |    √     | √                        |
-|  OBS Studio-cn  |    √     | √                        |
+| File-Converter  |    √     | √                        |
+|  OBS-Studio-cn  |    √     | √                        |
 |    腾讯会议     |    √     | √ （由 @Ryanjiena 贡献） |
 |  小狼毫输入法   |    √     | √                        |
-|  Wise Care 365  |    √     | √                        |
+|  WiseCare365  |    √     | √                        |
 |  WPSOffice-cn   |    √     | √                        |
 |    百度网盘     |    √     | √                        |
 | M3u8-Downloader |    √     | √                        |

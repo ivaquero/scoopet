@@ -146,6 +146,7 @@ scoop config aria2-min-split-size 4M
 |      SageMath-cn      |       √       | √                                                         |
 |        Ting-En        |       √       | √                                                         |
 |        TeXLive        |       √       | modified [dorado](https://github.com/chawyehsu/dorado)    |
+|      TeXStudio-cn      |       √       | √                                                         |
 |     Yuque Desktop     |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
 
 ### Development Auxillary
@@ -156,6 +157,7 @@ scoop config aria2-min-split-size 4M
 |   Clash-Verge    |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
 |   Clash-for-Windows    |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
 |     DiskGenius-cn      |       √       | √ (added by @CronusLM)                                    |
+|     Git-cn      |       √       | √                                     |
 |  Partition-Assistant   |       √       | √                                                         |
 |      RectangleWin      |       √       | √                                                         |
 |         uTools         |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
