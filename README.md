@@ -135,6 +135,7 @@ scoop config aria2-min-split-size 4M
 |       CAJViewer       |       √       | √ (added by @rayinfinite)                                 |
 |      CNKIExpress      |       √       | √ (added by @rayinfinite)                                 |
 |         Eudic         |       √       | √                                                         |
+|         Inkscape-cn         |       √       | √                                                         |
 |       Julia-cn        |       √       | √                                                         |
 |       KingDraw        |       √       | √                                                         |
 |        LyX-cn         |       √       | √                                                         |
