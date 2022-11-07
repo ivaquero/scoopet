@@ -133,6 +133,7 @@ scoop config aria2-min-split-size 4M
 
 |          App          | 自动更新 | 原创                                                 |
 | :-------------------: | :------: | ---------------------------------------------------- |
+|       Blender-cn        |    √     | √                                                    |
 |       Inkscape-cn        |    √     | √                                                    |
 |       Julia-cn        |    √     | √                                                    |
 |       KingDraw        |    √     | √                                                    |

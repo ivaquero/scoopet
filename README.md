@@ -132,6 +132,7 @@ scoop config aria2-min-split-size 4M
 
 |          App          | Auto-Update ? | Original ?                                                |
 | :-------------------: | :-----------: | --------------------------------------------------------- |
+|       Blender-cn       |       √       | √                                  |
 |       CAJViewer       |       √       | √ (added by @rayinfinite)                                 |
 |      CNKIExpress      |       √       | √ (added by @rayinfinite)                                 |
 |         Eudic         |       √       | √                                                         |
