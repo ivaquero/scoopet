@@ -189,5 +189,6 @@ scoop config aria2-min-split-size 4M
 |   magnetW    |       √       | √                         |
 | NetEaseMusic |       √       | √                         |
 | Tencent-Edu  |       √       | √                         |
+| VLC-cn  |       √       | √                         |
 |  WeChatWork  |       √       | √                         |
 |   You-Get    |       √       | √                         |

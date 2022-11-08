@@ -39,7 +39,7 @@ irm get.scoop.sh -outfile 'install.ps1'
 .\install.ps1 -ScoopDir 'C:\Scoop' -ScoopGlobalDir 'C:\Program Files' -NoProxy
 ```
 
-> 如果跳过该步骤， Scoop 将默认把所有用户安装的 App 和 Scoop 本身置于`c:/users/user_name/scoop`
+> 如果跳过该步骤，Scoop 将默认把所有用户安装的 App 和 Scoop 本身置于`c:/users/user_name/scoop`
 
 ### :hammer: 步骤 3：下载并安装 Scoop
 
@@ -191,6 +191,7 @@ scoop config aria2-min-split-size 4M
 |   DownKyi    |    √     | √ （由 @CronusLM 贡献）    |
 |   Edgeless   |    √     | √ （由 @IsaacWangTT 贡献） |
 |   MagnetW    |    √     | √                          |
+| VLC-cn  |       √       | √                         |
 |   You-Get    |    √     | √                          |
 
 ## 备注
