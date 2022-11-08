@@ -39,7 +39,7 @@ irm get.scoop.sh -outfile 'install.ps1'
 .\install.ps1 -ScoopDir 'C:\Scoop' -ScoopGlobalDir 'C:\Program Files' -NoProxy
 ```
 
-> 如果跳过该步骤，Scoop 将默认把所有用户安装的 App 和 Scoop 本身置于`c:/users/user_name/scoop`
+> 如果跳过该步骤，Scoop 将默认把所有用户安装的 App 和 Scoop 本身置于 `c:/users/user_name/scoop`
 
 ### :hammer: 步骤 3：下载并安装 Scoop
 
@@ -133,8 +133,8 @@ scoop config aria2-min-split-size 4M
 
 |          App          | 自动更新 | 原创                                                 |
 | :-------------------: | :------: | ---------------------------------------------------- |
-|       Blender-cn        |    √     | √                                                    |
-|       Inkscape-cn        |    √     | √                                                    |
+|      Blender-cn       |    √     | √                                                    |
+|      Inkscape-cn      |    √     | √                                                    |
 |       Julia-cn        |    √     | √                                                    |
 |       KingDraw        |    √     | √                                                    |
 |        LyX-cn         |    √     | √                                                    |
@@ -145,7 +145,7 @@ scoop config aria2-min-split-size 4M
 |        NetLogo        |    √     | √                                                    |
 |      SageMath-cn      |    √     | √                                                    |
 |        TeXLive        |    √     | 修改自 [dorado](https://github.com/chawyehsu/dorado) |
-|      TeXStudio-cn      |       √       | √                                                         |
+|     TeXStudio-cn      |    √     | √                                                    |
 |       欧路词典        |    √     | √                                                    |
 |     每日英语听力      |    √     | √                                                    |
 |      CAJ 查看器       |    √     | √ （由 @rayinfinite 贡献）                           |
@@ -154,17 +154,18 @@ scoop config aria2-min-split-size 4M
 
 ### 开发辅助
 
-|          App           | 自动更新 | 原创                                                    |
-| :--------------------: | :------: | ------------------------------------------------------- |
-|   Clash-for-Windows    |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
-|   Clash-Verge    |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
-|     DiskGenius-cn      |    √     | √ （由 @CronusLM 贡献）                                 |
-|     Git-cn      |       √       | √                                     |
-|      RectangleWin      |    √     | √                                                       |
-|               QTTabBar                |       √       | √ 拷贝自 [nonportable](https://github.com/ScoopInstaller/Nonportable) |
-|         uTools         |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)    |
-| VMware-Workstation-Pro |    √     | 修改自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
-|      傲梅分区助手      |    √     | √                                                       |
+|          App           | 自动更新 | 原创                                                                  |
+| :--------------------: | :------: | --------------------------------------------------------------------- |
+|   Clash-for-Windows    |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)                  |
+|      Clash-Verge       |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)                  |
+|     DiskGenius-cn      |    √     | √ （由 @CronusLM 贡献）                                               |
+|         Git-cn         |    √     | √                                                                     |
+|      RectangleWin      |    √     | √                                                                     |
+|        QTTabBar        |    √     | √ 拷贝自 [nonportable](https://github.com/ScoopInstaller/Nonportable) |
+|         uTools         |    √     | 拷贝自 [dorado](https://github.com/chawyehsu/dorado)                  |
+|      VSCodium-cn       |    √     | √                                                                     |
+| VMware-Workstation-Pro |    √     | 修改自 [Ash258](https://github.com/Ash258/Scoop-Ash258)               |
+|      傲梅分区助手      |    √     | √                                                                     |
 
 ### 日常办公
 
@@ -174,7 +175,7 @@ scoop config aria2-min-split-size 4M
 |  OBS-Studio-cn  |    √     | √                        |
 |    腾讯会议     |    √     | √ （由 @Ryanjiena 贡献） |
 |  小狼毫输入法   |    √     | √                        |
-|  WiseCare365  |    √     | √                        |
+|   WiseCare365   |    √     | √                        |
 |  WPSOffice-cn   |    √     | √                        |
 |    百度网盘     |    √     | √                        |
 | M3u8-Downloader |    √     | √                        |
@@ -191,7 +192,7 @@ scoop config aria2-min-split-size 4M
 |   DownKyi    |    √     | √ （由 @CronusLM 贡献）    |
 |   Edgeless   |    √     | √ （由 @IsaacWangTT 贡献） |
 |   MagnetW    |    √     | √                          |
-| VLC-cn  |       √       | √                         |
+|    VLC-cn    |    √     | √                          |
 |   You-Get    |    √     | √                          |
 
 ## 备注

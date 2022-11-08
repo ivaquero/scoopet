@@ -1,4 +1,3 @@
-
 # 🍨 Scoopet 🍨
 
 [![Excavator](https://github.com/ivaquero/scoopet/actions/workflows/schedule.yml/badge.svg)](https://github.com/ivaquero/scoopet/actions/workflows/schedule.yml)
@@ -132,11 +131,11 @@ scoop config aria2-min-split-size 4M
 
 |          App          | Auto-Update ? | Original ?                                                |
 | :-------------------: | :-----------: | --------------------------------------------------------- |
-|       Blender-cn       |       √       | √                                  |
+|      Blender-cn       |       √       | √                                                         |
 |       CAJViewer       |       √       | √ (added by @rayinfinite)                                 |
 |      CNKIExpress      |       √       | √ (added by @rayinfinite)                                 |
 |         Eudic         |       √       | √                                                         |
-|         Inkscape-cn         |       √       | √                                                         |
+|      Inkscape-cn      |       √       | √                                                         |
 |       Julia-cn        |       √       | √                                                         |
 |       KingDraw        |       √       | √                                                         |
 |        LyX-cn         |       √       | √                                                         |
@@ -148,7 +147,7 @@ scoop config aria2-min-split-size 4M
 |      SageMath-cn      |       √       | √                                                         |
 |        Ting-En        |       √       | √                                                         |
 |        TeXLive        |       √       | modified [dorado](https://github.com/chawyehsu/dorado)    |
-|      TeXStudio-cn      |       √       | √                                                         |
+|     TeXStudio-cn      |       √       | √                                                         |
 |     Yuque Desktop     |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
 
 ### Development Auxillary
@@ -156,13 +155,14 @@ scoop config aria2-min-split-size 4M
 |          App           | Auto-Update ? | Original ?                                                |
 | :--------------------: | :-----------: | --------------------------------------------------------- |
 |   Clash-for-Windows    |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
-|   Clash-Verge    |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
+|      Clash-Verge       |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
 |   Clash-for-Windows    |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
 |     DiskGenius-cn      |       √       | √ (added by @CronusLM)                                    |
-|     Git-cn      |       √       | √                                     |
+|         Git-cn         |       √       | √                                                         |
 |  Partition-Assistant   |       √       | √                                                         |
 |      RectangleWin      |       √       | √                                                         |
 |         uTools         |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
+|      VSCodium-cn       |       √       | √                                                         |
 | VMware-Workstation-Pro |       √       | modified [Ash258](https://github.com/Ash258/Scoop-Ash258) |
 
 ### Daily Work
@@ -189,6 +189,6 @@ scoop config aria2-min-split-size 4M
 |   magnetW    |       √       | √                         |
 | NetEaseMusic |       √       | √                         |
 | Tencent-Edu  |       √       | √                         |
-| VLC-cn  |       √       | √                         |
+|    VLC-cn    |       √       | √                         |
 |  WeChatWork  |       √       | √                         |
 |   You-Get    |       √       | √                         |
