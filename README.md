@@ -129,66 +129,69 @@ scoop config aria2-min-split-size 4M
 
 ### Research Tools
 
-|          App          | Auto-Update ? | Original ?                                                |
-| :-------------------: | :-----------: | --------------------------------------------------------- |
-|      Blender-cn       |       √       | √                                                         |
-|       CAJViewer       |       √       | √ (added by @rayinfinite)                                 |
-|      CNKIExpress      |       √       | √ (added by @rayinfinite)                                 |
-|         Eudic         |       √       | √                                                         |
-|      Inkscape-cn      |       √       | √                                                         |
-|       Julia-cn        |       √       | √                                                         |
-|       KingDraw        |       √       | √                                                         |
-|        LyX-cn         |       √       | √                                                         |
-| Mathpix-Snipping-Tool |       √       | √                                                         |
-|   Mendeley-Desktop    |       √       | √                                                         |
-|     Mambaforge-cn     |       √       | √                                                         |
-|     Miniconda-cn      |       √       | √                                                         |
-|        NetLogo        |       √       | √                                                         |
-|      SageMath-cn      |       √       | √                                                         |
-|        Ting-En        |       √       | √                                                         |
-|        TeXLive        |       √       | modified [dorado](https://github.com/chawyehsu/dorado)    |
-|     TeXStudio-cn      |       √       | √                                                         |
-|     Yuque Desktop     |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
+|          App          | Auto-Update ? |                       Original ?                       |
+| :-------------------: | :-----------: | :----------------------------------------------------: |
+|       KingDraw        |       √       |                           √                            |
+| Mathpix-Snipping-Tool |       √       |                           √                            |
+|   Mendeley-Desktop    |       √       |                           √                            |
+|        NetLogo        |       √       |                           √                            |
+|        TeXLive        |       √       | modified [dorado](https://github.com/chawyehsu/dorado) |
 
 ### Development Auxillary
 
-|          App           | Auto-Update ? | Original ?                                                |
-| :--------------------: | :-----------: | --------------------------------------------------------- |
+|          App           | Auto-Update ? |                        Original ?                         |
+| :--------------------: | :-----------: | :-------------------------------------------------------: |
+|      AutoDarkMode      |       √       |                             √                             |
 |   Clash-for-Windows    |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
-|      Clash-Verge       |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
-|   Clash-for-Windows    |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
-|     DiskGenius-cn      |       √       | √ (added by @CronusLM)                                    |
-|         Git-cn         |       √       | √                                                         |
-|  Partition-Assistant   |       √       | √                                                         |
-|      RectangleWin      |       √       | √                                                         |
-|         uTools         |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
-|      VSCodium-cn       |       √       | √                                                         |
+|      Clash-Verge       |       √       |                             √                             |
+|     FileCentipede      |       √       |                     √ (by @CronusLM)                      |
+|     File-Converter     |       √       |                             √                             |
+|      n-m3u8dl-cli      |       √       |                             √                             |
+|      RectangleWin      |       √       |                             √                             |
+|         WinRAR         |       √       |                             √                             |
+|      WiseCare365       |       √       |                             √                             |
 | VMware-Workstation-Pro |       √       | modified [Ash258](https://github.com/Ash258/Scoop-Ash258) |
 
-### Daily Work
+### Opensource Mirrors
 
-|       App       | Auto-Update ? | Original ?              |
-| :-------------: | :-----------: | ----------------------- |
-|  BaiduNetDisk   |       √       | √                       |
-| File-Converter  |       √       | √                       |
-| M3u8-Downloader |       √       | √                       |
-|  OBS-Studio-cn  |       √       | √                       |
-| Tencent-Meeting |       √       | √ (added by @Ryanjiena) |
-|     Weasel      |       √       | √                       |
-|   WiseCare365   |       √       | √                       |
-|  WPSOffice-cn   |       √       | √                       |
+|      App      | Auto-Update ? | Original ? |
+| :-----------: | :-----------: | :--------: |
+|  Blender-cn   |       √       |     √      |
+|    Git-cn     |       √       |     √      |
+|  Inkscape-cn  |       √       |     √      |
+|   Julia-cn    |       √       |     √      |
+|    LyX-cn     |       √       |     √      |
+| Mambaforge-cn |       √       |     √      |
+| Miniconda-cn  |       √       |     √      |
+| OBS-Studio-cn |       √       |     √      |
+|  SageMath-cn  |       √       |     √      |
+| TeXStudio-cn  |       √       |     √      |
+|    VLC-cn     |       √       |     √      |
+|  VSCodium-cn  |       √       |     √      |
 
-### Social & Entertainment
+### Mainly for Chinese
 
-|     App      | Auto-Update ? | Original ?                |
-| :----------: | :-----------: | ------------------------- |
-|   DingTalk   |       √       | √                         |
-|   DownKyi    |       √       | √ (added by @CronusLM)    |
-|   Edgeless   |       √       | √ (added by @IsaacWangTT) |
-|   LX-Music   |       √       | √                         |
-|   magnetW    |       √       | √                         |
-| NetEaseMusic |       √       | √                         |
-| Tencent-Edu  |       √       | √                         |
-|    VLC-cn    |       √       | √                         |
-|  WeChatWork  |       √       | √                         |
-|   You-Get    |       √       | √                         |
+|         App         | Auto-Update ? |                        Original ?                         |
+| :-----------------: | :-----------: | :-------------------------------------------------------: |
+|    BaiduNetDisk     |       √       |                             √                             |
+|      CAJViewer      |       √       |                    √ (by @rayinfinite)                    |
+|     CNKIExpress     |       √       |                    √ (by @rayinfinite)                    |
+|      DingTalk       |       √       |                             √                             |
+|       DownKyi       |       √       |                     √ (by @CronusLM)                      |
+|    DiskGenius-cn    |       √       |                     √ (by @CronusLM)                      |
+|      Edgeless       |       √       |                    √ (by @IsaacWangTT)                    |
+|        Eudic        |               |                             √                             |
+|      LX-Music       |       √       |                             √                             |
+|   M3u8-Downloader   |       √       |                             √                             |
+|    NetEaseMusic     |       √       |                             √                             |
+|   (by @CronusLM)    |
+| Partition-Assistant |       √       |                             √                             |
+|     Tencent-Edu     |       √       |                             √                             |
+|   Tencent-Meeting   |   3.5.6.416   |                     √ (by @Ryanjiena)                     |
+|       Ting-En       |       √       |                             √                             |
+|       uTools        |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
+|       Weasel        |       √       |                             √                             |
+|     WeChatWork      |       √       |                             √                             |
+|    WPSOffice-cn     |       √       |                             √                             |
+|       You-Get       |       √       |                             √                             |
+|        Yuque        |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
