@@ -183,8 +183,7 @@ scoop config aria2-min-split-size 4M
 |        Eudic        |               |                             √                             |
 |      LX-Music       |       √       |                             √                             |
 |   M3u8-Downloader   |       √       |                             √                             |
-|    NetEaseMusic     |       √       |                             √                             |
-|   (by @CronusLM)    |
+|    NetEaseMusic     |       √       |                     √ (by @CronusLM)                      |
 | Partition-Assistant |       √       |                             √                             |
 |     Tencent-Edu     |       √       |                             √                             |
 |   Tencent-Meeting   |   3.5.6.416   |                     √ (by @Ryanjiena)                     |

@@ -156,28 +156,28 @@ scoop config aria2-min-split-size 4M
 
 ### 国人产品
 
-|   中文名称   |         App         | 自动更新  | 原创                                                 |
-| :----------: | :-----------------: | :-------: | ---------------------------------------------------- |
-|   百度云盘   |    BaiduNetDisk     |     √     | √                                                    |
-|              |      CAJViewer      |     √     | √ (by @rayinfinite)                                  |
-| 全球学术快报 |     CNKIExpress     |     √     | √ (by @rayinfinite)                                  |
-|     钉钉     |      DingTalk       |     √     | √                                                    |
-|  哔哩下载姬  |       DownKyi       |     √     | √ (by @CronusLM)                                     |
-|              |    DiskGenius-cn    |     √     | √ (by @CronusLM)                                     |
-|              |      Edgeless       |     √     | √ (by @IsaacWangTT)                                  |
-|   欧路词典   |        Eudic        |           | √                                                    |
-| 洛雪音乐助手 |      LX-Music       |     √     | √                                                    |
-|              |   M3u8-Downloader   |     √     | √                                                    |
-|  网易云音乐  |    NetEaseMusic     |     √     | √                                                    |
-| 傲梅分区助手 | Partition-Assistant |     √     | √                                                    |
-|   腾讯教育   |     Tencent-Edu     |     √     | √                                                    |
-|   腾讯会议   |   Tencent-Meeting   | 3.5.6.416 | √ (by @Ryanjiena)                                    |
-| 每日英语听力 |       Ting-En       |     √     | √                                                    |
+|   中文名称   |         App         | 自动更新  |                         原创                         |
+| :----------: | :-----------------: | :-------: | :--------------------------------------------------: |
+|   百度云盘   |    BaiduNetDisk     |     √     |                          √                           |
+|              |      CAJViewer      |     √     |                 √ (by @rayinfinite)                  |
+| 全球学术快报 |     CNKIExpress     |     √     |                 √ (by @rayinfinite)                  |
+|     钉钉     |      DingTalk       |     √     |                          √                           |
+|  哔哩下载姬  |       DownKyi       |     √     |                   √ (by @CronusLM)                   |
+|              |    DiskGenius-cn    |     √     |                   √ (by @CronusLM)                   |
+|              |      Edgeless       |     √     |                 √ (by @IsaacWangTT)                  |
+|   欧路词典   |        Eudic        |           |                          √                           |
+| 洛雪音乐助手 |      LX-Music       |     √     |                          √                           |
+|              |   M3u8-Downloader   |     √     |                          √                           |
+|  网易云音乐  |    NetEaseMusic     |     √     |                          √                           |
+| 傲梅分区助手 | Partition-Assistant |     √     |                          √                           |
+|   腾讯教育   |     Tencent-Edu     |     √     |                          √                           |
+|   腾讯会议   |   Tencent-Meeting   | 3.5.6.416 |                  √ (by @Ryanjiena)                   |
+| 每日英语听力 |       Ting-En       |     √     |                          √                           |
 |              |       uTools        |     √     | 复制于 [dorado](https://github.com/chawyehsu/dorado) |
-|    小狼毫    |       Weasel        |     √     | √                                                    |
-|   企业微信   |     WeChatWork      |     √     | √                                                    |
-|              |    WPSOffice-cn     |     √     | √                                                    |
-|              |       You-Get       |     √     | √                                                    |
+|    小狼毫    |       Weasel        |     √     |                          √                           |
+|   企业微信   |     WeChatWork      |     √     |                          √                           |
+|              |    WPSOffice-cn     |     √     |                          √                           |
+|              |       You-Get       |     √     |                          √                           |
 |     语雀     |        Yuque        |     √     | 复制于 [dorado](https://github.com/chawyehsu/dorado) |
 
 ### 开源镜像
