@@ -186,6 +186,7 @@ scoop config aria2-min-split-size 4M
 | :-----------: | :------: | :--: |
 |  Blender-cn   |    √     |  √   |
 |    Git-cn     |    √     |  √   |
+|    GIMP-cn     |       √       |     √      |
 |  Inkscape-cn  |    √     |  √   |
 |   Julia-cn    |    √     |  √   |
 |    LyX-cn     |    √     |  √   |
