@@ -1,0 +1,29 @@
+{
+    "version": "1.9.2",
+    "description": "A python-gtk based PDF manipulation toolkit",
+    "homepage": "https://github.com/pdfarranger/pdfarranger",
+    "license": "GPL-3.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/pdfarranger/pdfarranger/releases/download/1.9.2/pdfarranger-1.9.2-windows-portable.zip",
+            "hash": "5005b9d49fad0a4fb2c34eb60fbb25739d00d01651255258c2f408c7ee8dc7be"
+        }
+    },
+    "shortcuts": [
+        [
+            "pdfarranger.exe",
+            "pdfarranger"
+        ]
+    ],
+    "bin": "pdfarranger.exe",
+    "checkver": {
+        "github": "https://github.com/pdfarranger/pdfarranger"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/pdfarranger/pdfarranger/releases/download/$version/pdfarranger-$version-windows-portable.zip"
+            }
+        }
+    }
+}
