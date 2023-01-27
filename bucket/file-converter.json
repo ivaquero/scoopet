@@ -1,16 +1,16 @@
 {
     "homepage": "https://file-converter.org/",
-    "version": "1.2.3",
+    "version": "1.2.1",
     "description": "Various file converter and compressor",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Tichau/FileConverter/releases/download/v1.2.3/FileConverter-1.2.3-x64-setup.msi",
-            "hash": "2410944075ed4f0bfd4740e9ee2fd17eae4922980937d738c42bed07ac130c32"
+            "url": "https://github.com/Tichau/FileConverter/releases/download/v1.2.1/FileConverter-1.2.1-x64-setup.msi",
+            "hash": "4fd973d6576baad510f546910000f36433bd9aa410ee0b631cc2585ef8bfc3c1"
         },
         "32bit": {
-            "url": "https://github.com/Tichau/FileConverter/releases/download/v1.2.3/FileConverter-1.2.3-x86-setup.msi",
-            "hash": "00bc76929bc173491f2107b97836c7cb18e0bd52917442cdc743a9c4fd00bf3f"
+            "url": "https://github.com/Tichau/FileConverter/releases/download/v1.2.1/FileConverter-1.2.1-x86-setup.msi",
+            "hash": "ebe78fb5fc267dd79785a2c3cd7d28ce31092f1567aa3fc5715540d2794829cb"
         }
     },
     "extract_dir": "File Converter",
