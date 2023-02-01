@@ -149,6 +149,7 @@ scoop config aria2-min-split-size 4M
 |     FileCentipede      |    √     |                    √ (by @CronusLM)                     |
 |     File-Converter     |    √     |                            √                            |
 |      n-m3u8dl-cli      |    √     |                    √ (by @CronusLM)                     |
+|      N-m3u8DL-RE       |    √     |                            √                            |
 |      RectangleWin      |    √     |                            √                            |
 |         WinRAR         |    √     |                            √                            |
 |      WiseCare365       |    √     |                            √                            |
@@ -186,14 +187,14 @@ scoop config aria2-min-split-size 4M
 | :-----------: | :------: | :--: |
 |  Blender-cn   |    √     |  √   |
 |    Git-cn     |    √     |  √   |
-|    GIMP-cn     |       √       |     √      |
+|    GIMP-cn    |    √     |  √   |
 |  Inkscape-cn  |    √     |  √   |
 |   Julia-cn    |    √     |  √   |
 |    LyX-cn     |    √     |  √   |
 | Mambaforge-cn |    √     |  √   |
 | Miniconda-cn  |    √     |  √   |
 | OBS-Studio-cn |    √     |  √   |
-| Octave-cn |    √     |  √   |
+|   Octave-cn   |    √     |  √   |
 |  SageMath-cn  |    √     |  √   |
 | TeXStudio-cn  |    √     |  √   |
 |    VLC-cn     |    √     |  √   |
