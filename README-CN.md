@@ -183,22 +183,23 @@ scoop config aria2-min-split-size 4M
 
 ### 开源镜像
 
-|      App      | 自动更新 | 原创 |
-| :-----------: | :------: | :--: |
-|  Blender-cn   |    √     |  √   |
-|    Git-cn     |    √     |  √   |
-|    GIMP-cn    |    √     |  √   |
-|  Inkscape-cn  |    √     |  √   |
-|   Julia-cn    |    √     |  √   |
-|    LyX-cn     |    √     |  √   |
-| Mambaforge-cn |    √     |  √   |
-| Miniconda-cn  |    √     |  √   |
-| OBS-Studio-cn |    √     |  √   |
-|   Octave-cn   |    √     |  √   |
-|  SageMath-cn  |    √     |  √   |
-| TeXStudio-cn  |    √     |  √   |
-|    VLC-cn     |    √     |  √   |
-|  VSCodium-cn  |    √     |  √   |
+|      App       | 自动更新 | 原创 |
+| :------------: | :------: | :--: |
+|   Blender-cn   |    √     |  √   |
+|     Git-cn     |    √     |  √   |
+|    GIMP-cn     |    √     |  √   |
+|  Inkscape-cn   |    √     |  √   |
+|    Julia-cn    |    √     |  √   |
+| LibreOffice-cn |    √     |  √   |
+|     LyX-cn     |    √     |  √   |
+| Mambaforge-cn  |    √     |  √   |
+|  Miniconda-cn  |    √     |  √   |
+| OBS-Studio-cn  |    √     |  √   |
+|   Octave-cn    |    √     |  √   |
+|  SageMath-cn   |    √     |  √   |
+|  TeXStudio-cn  |    √     |  √   |
+|     VLC-cn     |    √     |  √   |
+|  VSCodium-cn   |    √     |  √   |
 
 ## 备注
 

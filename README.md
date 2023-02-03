@@ -146,7 +146,7 @@ scoop config aria2-min-split-size 4M
 |      Clash-Verge       |        √         |                             √                             |
 |     FileCentipede      |        √         |                     √ (by @CronusLM)                      |
 |     File-Converter     |        √         |                             √                             |
-|      N-m3u8DL-CLI      | √ (by @CronusLM) |                             √                             |
+|      N-m3u8DL-CLI      | √  |                             √ (by @CronusLM)                            |
 |      N-m3u8DL-RE       |        √         |                             √                             |
 |      RectangleWin      |        √         |                             √                             |
 |         WinRAR         |        √         |                             √                             |
@@ -155,22 +155,23 @@ scoop config aria2-min-split-size 4M
 
 ### Opensource Mirrors
 
-|      App      | Auto-Update ? | Original ? |
-| :-----------: | :-----------: | :--------: |
-|  Blender-cn   |       √       |     √      |
-|    Git-cn     |       √       |     √      |
-|    GIMP-cn    |       √       |     √      |
-|  Inkscape-cn  |       √       |     √      |
-|   Julia-cn    |       √       |     √      |
-|    LyX-cn     |       √       |     √      |
-| Mambaforge-cn |       √       |     √      |
-| Miniconda-cn  |       √       |     √      |
-| OBS-Studio-cn |       √       |     √      |
-|   Octave-cn   |       √       |     √      |
-|  SageMath-cn  |       √       |     √      |
-| TeXStudio-cn  |       √       |     √      |
-|    VLC-cn     |       √       |     √      |
-|  VSCodium-cn  |       √       |     √      |
+|      App       | Auto-Update ? | Original ? |
+| :------------: | :-----------: | :--------: |
+|   Blender-cn   |       √       |     √      |
+|     Git-cn     |       √       |     √      |
+|    GIMP-cn     |       √       |     √      |
+|  Inkscape-cn   |       √       |     √      |
+|    Julia-cn    |       √       |     √      |
+| LibreOffice-cn |       √       |     √      |
+|     LyX-cn     |       √       |     √      |
+| Mambaforge-cn  |       √       |     √      |
+|  Miniconda-cn  |       √       |     √      |
+| OBS-Studio-cn  |       √       |     √      |
+|   Octave-cn    |       √       |     √      |
+|  SageMath-cn   |       √       |     √      |
+|  TeXStudio-cn  |       √       |     √      |
+|     VLC-cn     |       √       |     √      |
+|  VSCodium-cn   |       √       |     √      |
 
 ### Mainly for Chinese
 
