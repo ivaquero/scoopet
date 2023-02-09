@@ -1,23 +1,23 @@
 {
-    "version": "2.12",
+    "version": "2.12.1",
     "homepage": "https://github.com/hanmin0822/MisakaTranslator/",
     "license": "GPLv3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hanmin0822/MisakaTranslator/releases/download/2.12/MisakaTranslator.2.12.zip",
-            "hash": "5a98904972fb2f2c465410b4f8e4157f7b660c3c7f4ac873e20f9825405395be"
+            "url": "https://github.com/hanmin0822/MisakaTranslator/releases/download/2.12.1/MisakaTranslator.2.12.1.zip",
+            "hash": "2169954e3ca76ea9fe1efd3ed82182260a80e5d2a64296fdc6492ed53ea1ec26"
         },
         "32bit": {
-            "url": "https://github.com/hanmin0822/MisakaTranslator/releases/download/2.12/MisakaTranslator.2.12.zip",
-            "hash": "5a98904972fb2f2c465410b4f8e4157f7b660c3c7f4ac873e20f9825405395be"
+            "url": "https://github.com/hanmin0822/MisakaTranslator/releases/download/2.12.1/MisakaTranslator.2.12.1.zip",
+            "hash": "2169954e3ca76ea9fe1efd3ed82182260a80e5d2a64296fdc6492ed53ea1ec26"
         }
     },
     "extract_dir": "Debug",
     "pre_install": [
         "if (!(Test-Path \"$persist_dir\\settings\")) { New-Item \"$dir\\settings\" -ItemType directory | Out-Null }",
         "if (Test-Path \"$persist_dir\\MisakaGameLibrary.sqlite\") { Copy-Item \"$persist_dir\\MisakaGameLibrary.sqlite\" \"$dir\\\" }"
-     ],
-    "pre_uninstall": "if (Test-Path \"$dir\\MisakaGameLibrary.sqlite\") { Copy-Item \"$dir\\MisakaGameLibrary.sqlite\" \"$persist_dir\\\" }"    , 
+    ],
+    "pre_uninstall": "if (Test-Path \"$dir\\MisakaGameLibrary.sqlite\") { Copy-Item \"$dir\\MisakaGameLibrary.sqlite\" \"$persist_dir\\\" }",
     "bin": "MisakaTranslator-WPF.exe",
     "shortcuts": [
         [
