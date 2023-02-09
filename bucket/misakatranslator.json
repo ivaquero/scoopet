@@ -15,7 +15,7 @@
     "extract_dir": "Debug",
     "pre_install": [
         "if (!(Test-Path \"$persist_dir\\settings\")) { New-Item \"$dir\\settings\" -ItemType directory | Out-Null }",
-        "if (!(Test-Path \"$persist_dir\\MisakaGameLibrary.sqlites\")) { New-Item \"$dir\\MisakaGameLibrary.sqlite\" | Out-Null }"
+        "if (!(Test-Path \"$persist_dir\\MisakaGameLibrary.sqlite\")) { New-Item \"$dir\\MisakaGameLibrary.sqlite\" | Out-Null }"
     ],
     "bin": "MisakaTranslator-WPF.exe",
     "shortcuts": [
