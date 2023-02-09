@@ -159,6 +159,7 @@ scoop config aria2-min-split-size 4M
 
 |   中文名称   |         App         | 自动更新  |                         原创                         |
 | :----------: | :-----------------: | :-------: | :--------------------------------------------------: |
+|   阿里云盘   |       ADrive        |     √     |                          √                           |
 |   百度云盘   |    BaiduNetDisk     |     √     |                          √                           |
 |              |      CAJViewer      |     √     |                 √ (by @rayinfinite)                  |
 | 全球学术快报 |     CNKIExpress     |     √     |                 √ (by @rayinfinite)                  |
