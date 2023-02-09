@@ -12,7 +12,7 @@
             "hash": "5a98904972fb2f2c465410b4f8e4157f7b660c3c7f4ac873e20f9825405395be"
         }
     },
-    "extract_dir": "Release",
+    "extract_dir": "Debug",
     "pre_install": [
         "if (!(Test-Path \"$persist_dir\\settings\")) { New-Item \"$dir\\settings\" -ItemType directory | Out-Null }",
         "if (!(Test-Path \"$persist_dir\\MisakaGameLibrary.sqlites\")) { New-Item \"$dir\\MisakaGameLibrary.sqlite\" | Out-Null }"
