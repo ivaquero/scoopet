@@ -186,6 +186,7 @@ scoop config aria2-min-split-size 4M
 |    DiskGenius-cn    |       √       |                     √ (by @CronusLM)                      |
 |      Edgeless       |       √       |                    √ (by @IsaacWangTT)                    |
 |        Eudic        |               |                             √                             |
+|      i4Tools       |       √       |                             √                             |
 |      LX-Music       |       √       |                             √                             |
 |   M3u8-Downloader   |       √       |                             √                             |
 |    NetEaseMusic     |       √       |                     √ (by @CronusLM)                      |

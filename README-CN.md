@@ -168,6 +168,7 @@ scoop config aria2-min-split-size 4M
 |              |    DiskGenius-cn    |     √     |                   √ (by @CronusLM)                   |
 |              |      Edgeless       |     √     |                 √ (by @IsaacWangTT)                  |
 |   欧路词典   |        Eudic        |           |                          √                           |
+| 爱思助手 |      i4Tools       |     √     |                          √                           |
 | 洛雪音乐助手 |      LX-Music       |     √     |                          √                           |
 |              |   M3u8-Downloader   |     √     |                          √                           |
 |  网易云音乐  |    NetEaseMusic     |     √     |                          √                           |
