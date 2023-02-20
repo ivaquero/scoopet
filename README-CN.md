@@ -30,7 +30,7 @@ scoop bucket add scoopet https://github.com/ivaquero/scoopet
 Set-ExecutionPolicy RemoteSigned -scope CurrentUser
 ```
 
-### :gear: 步骤 2：自定义 Scoop 安装目录
+### :gear: 步骤 2：下载并安装 Scoop
 
 ```powershell
 irm get.scoop.sh -outfile 'install.ps1'
@@ -41,13 +41,7 @@ irm get.scoop.sh -outfile 'install.ps1'
 
 > 如果跳过该步骤，Scoop 将默认把所有用户安装的 App 和 Scoop 本身置于 `c:/users/user_name/scoop`
 
-### :hammer: 步骤 3：下载并安装 Scoop
-
-```powershell
-Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://get.scoop.sh')
-```
-
-### :book: 步骤 4：通过`scoop help`查看快速上手方法
+### :book: 步骤 3：通过`scoop help`查看快速上手方法
 
 更多信息，请访问 Scoop 官网 👉 <https://scoop.sh/> 👈
 
