@@ -129,6 +129,7 @@ scoop config aria2-min-split-size 4M
 | Mathpix-Snipping-Tool |       √       |                           √                            |
 |   Mendeley-Desktop    |       √       |                           √                            |
 |        NetLogo        |       √       |                           √                            |
+|        Spyder         |       √       |                           √                            |
 |        TeXLive        |       √       | modified [dorado](https://github.com/chawyehsu/dorado) |
 
 ### Development Auxillary
@@ -179,7 +180,8 @@ scoop config aria2-min-split-size 4M
 |       DownKyi       |       √       |                     √ (by @CronusLM)                      |
 |    DiskGenius-cn    |       √       |                     √ (by @CronusLM)                      |
 |      Edgeless       |       √       |                    √ (by @IsaacWangTT)                    |
-|        Eudic        |               |                             √                             |
+|        Eudic        |       √       |                             √                             |
+|       Feishu        |       √       |                             √                             |
 |      LX-Music       |       √       |                             √                             |
 |   M3u8-Downloader   |       √       |                             √                             |
 |    NetEaseMusic     |       √       |                     √ (by @CronusLM)                      |
@@ -191,5 +193,4 @@ scoop config aria2-min-split-size 4M
 |       Weasel        |       √       |                             √                             |
 |     WeChatWork      |       √       |                             √                             |
 |    WPSOffice-cn     |       √       |                             √                             |
-|       You-Get       |       √       |                             √                             |
 |        Yuque        |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
