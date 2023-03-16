@@ -1,12 +1,12 @@
 {
-    "version": "5.4.0",
+    "version": "5.4.2",
     "homepage": "https://www.spyder-ide.org/",
     "description": "The Scientific Python Development Environment.",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/spyder-ide/spyder/releases/download/v5.4.0/Spyder_64bit_full.exe#/dl.7z",
-            "hash": "ce665e2475ce1d6defc56ac9147871d021d0c28cf08b8225924a960e1ac5094b"
+            "url": "https://github.com/spyder-ide/spyder/releases/download/v5.4.2/Spyder_64bit_full.exe#/dl.7z",
+            "hash": "ef91ddf4ba54cf67888e6e89f54f8641e85c08f189b694f56d17c3f2dd712b65"
         }
     },
     "pre_install": "Remove-Item \"$dir\" -Include @('uninstall.exe', '$PLUGINSDIR')",
