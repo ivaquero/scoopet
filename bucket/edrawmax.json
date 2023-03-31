@@ -3,7 +3,6 @@
     "description": "集两百多种绘图于一身的综合图形图表设计软件",
     "homepage": "https://www.edrawsoft.cn/download-edrawmax.html",
     "url": "https://cc-download.edrawsoft.cn/origin/edraw-max_cn_full5374.exe",
-    "hash": "e292e89c2d29af674bd5b8834b95c95ff97bf9a685cf87575b7d33b5c879ee1e",
     "innosetup": true,
     "bin": "EdrawMax.exe",
     "shortcuts": [
