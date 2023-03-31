@@ -179,6 +179,7 @@ scoop config aria2-min-split-size 4M
 |       DownKyi       |       √       |                     √ (by @CronusLM)                      |
 |    DiskGenius-cn    |       √       |                     √ (by @CronusLM)                      |
 |      Edgeless       |       √       |                    √ (by @IsaacWangTT)                    |
+|      EDrawMax       |       √       |                             √                             |
 |        Eudic        |       √       |                             √                             |
 |       Feishu        |       √       |                             √                             |
 |      LX-Music       |       √       |                             √                             |
