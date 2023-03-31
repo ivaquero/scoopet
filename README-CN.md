@@ -125,14 +125,13 @@ scoop config aria2-min-split-size 4M
 
 ### 科研工具
 
-|          App          | 自动更新 |                         原创                         |
-| :-------------------: | :------: | :--------------------------------------------------: |
-|       KingDraw        |    √     |                          √                           |
-| Mathpix-Snipping-Tool |    √     |                          √                           |
-|   Mendeley-Desktop    |    √     |                          √                           |
-|        Spyder         |    √     |                          √                           |
-|        NetLogo        |    √     |                          √                           |
-|        TeXLive        |    √     | 修改自 [dorado](https://github.com/chawyehsu/dorado) |
+|       App        | 自动更新 |                         原创                         |
+| :--------------: | :------: | :--------------------------------------------------: |
+|     KingDraw     |    √     |                          √                           |
+| Mendeley-Desktop |    √     |                          √                           |
+|      Spyder      |    √     |                          √                           |
+|     NetLogo      |    √     |                          √                           |
+|     TeXLive      |    √     | 修改自 [dorado](https://github.com/chawyehsu/dorado) |
 
 ### 日常工作
 
