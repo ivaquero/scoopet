@@ -139,7 +139,6 @@ scoop config aria2-min-split-size 4M
 | :--------------------: | :------: | :-----------------------------------------------------: |
 |      AutoDarkMode      |    √     |                            √                            |
 |   Clash-for-Windows    |    √     |  复制于 [dorado](https://github.com/chawyehsu/dorado)   |
-|      Clash-Verge       |    √     |                            √                            |
 |     FileCentipede      |    √     |                    √ (by @CronusLM)                     |
 |     File-Converter     |    √     |                            √                            |
 |      n-m3u8dl-cli      |    √     |                    √ (by @CronusLM)                     |
