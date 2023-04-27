@@ -139,7 +139,6 @@ scoop config aria2-min-split-size 4M
 |   Clash-for-Windows    |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
 |     FileCentipede      |       √       |                     √ (by @CronusLM)                      |
 |     File-Converter     |       √       |                             √                             |
-|      N-m3u8DL-CLI      |       √       |                     √ (by @CronusLM)                      |
 |      N-m3u8DL-RE       |       √       |                             √                             |
 |      RectangleWin      |       √       |                             √                             |
 |         WinRAR         |       √       |                             √                             |
