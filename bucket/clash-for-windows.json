@@ -1,7 +1,7 @@
 {
+	"version": "0.20.18",
 	"homepage": "https://github.com/Fndroid/clash_for_windows_pkg",
 	"description": "A Windows GUI based on Clash",
-	"version": "0.20.18",
 	"license": "MIT",
 	"architecture": {
 		"64bit": {

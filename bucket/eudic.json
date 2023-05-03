@@ -2,7 +2,7 @@
 	"description": "权威的英语词典软件，英语学习者必备的工具",
 	"homepage": "https://www.eudic.net/",
 	"version": "2023-03-09",
-	"license": "freeware",
+	"license": "Freeware",
 	"architecture": {
 		"64bit": {
 			"url": "https://static.frdic.com/pkg/eudic_win.zip",
