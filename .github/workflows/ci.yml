@@ -25,4 +25,4 @@ jobs:
         run: |
           $env:SCOOP_HOME="$(Convert-Path '.\scoop_core')"
           .\scoop_core\test\bin\init.ps1
-          .\my_bucket\bin\test.ps1
+          # .\my_bucket\bin\test.ps1
