@@ -1,6 +1,7 @@
 {
     "version": "7.26.0.10",
     "homepage": "https://pan.baidu.com/download",
+    "license": "Freeware",
     "description": "百度网盘 PC 版",
     "url": "http://issuecdn.baidupcs.com/issue/netdisk/yunguanjia/BaiduNetdisk_7.26.0.10.exe#dl.7z",
     "hash": "7adb05a529a999901b5c6da56b070fa984609aa78ceb85d0cae90307770bce26",
