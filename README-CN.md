@@ -1,11 +1,11 @@
 # 🍨 Scoopet 🍨
 
-[![Excavator](https://github.com/ivaquero/scoopet/actions/workflows/schedule.yml/badge.svg)](https://github.com/ivaquero/scoopet/actions/workflows/schedule.yml)
+[![Excavator](https://github.com/ivaquero/scoopet/actions/workflows/ci.yml/badge.svg)](https://github.com/ivaquero/scoopet/actions/workflows/ci.yml)
 [![license](https://img.shields.io/github/license/ivaquero/scoopet)](https://github.com/ivaquero/scoopet/blob/master/LICENSE)
 [![code size](https://img.shields.io/github/languages/code-size/ivaquero/scoopet.svg)](https://img.shields.io/github/languages/code-size/ivaquero/scoopet.svg)
 [![repo size](https://img.shields.io/github/repo-size/ivaquero/scoopet.svg)](https://img.shields.io/github/repo-size/ivaquero/scoopet.svg)
 
-一个用于 Windows 最佳包管理器 [Scoop](https://github.com/lukesampson/scoop)的脚本仓库：持续助力科研
+一个用于 Windows 最佳包管理器 [Scoop](https://github.com/ScoopInstaller/Scoop)的脚本仓库：持续助力科研
 
 > 如果你想参与仓库管理，尽管通过 new issue 告知。
 

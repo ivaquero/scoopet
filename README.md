@@ -1,11 +1,11 @@
 # 🍨 Scoopet 🍨
 
-[![Excavator](https://github.com/ivaquero/scoopet/actions/workflows/schedule.yml/badge.svg)](https://github.com/ivaquero/scoopet/actions/workflows/schedule.yml)
+[![Excavator](https://github.com/ivaquero/scoopet/actions/workflows/ci.yml/badge.svg)](https://github.com/ivaquero/scoopet/actions/workflows/ci.yml)
 [![license](https://img.shields.io/github/license/ivaquero/scoopet)](https://github.com/ivaquero/scoopet/blob/master/LICENSE)
 [![code size](https://img.shields.io/github/languages/code-size/ivaquero/scoopet.svg)](https://img.shields.io/github/languages/code-size/ivaquero/scoopet.svg)
 [![repo size](https://img.shields.io/github/repo-size/ivaquero/scoopet.svg)](https://img.shields.io/github/repo-size/ivaquero/scoopet.svg)
 
-A Bucket for the Best Windows Package Manager [Scoop](https://github.com/lukesampson/scoop): Continuously Assisting in Academic Research.
+A Bucket for the Best Windows Package Manager [Scoop](https://github.com/ScoopInstaller/Scoop): Continuously Assisting in Academic Research.
 
 > If you would like to be a co-maintainer, feel free to create a new issue.
 
