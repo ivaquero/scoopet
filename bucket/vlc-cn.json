@@ -23,7 +23,12 @@
 		"}"
 	],
 	"bin": "vlc.exe",
-	"shortcuts": [["vlc.exe", "VLC media player"]],
+	"shortcuts": [
+		[
+			"vlc.exe",
+			"VLC media player"
+		]
+	],
 	"persist": "portable",
 	"checkver": {
 		"url": "https://www.videolan.org/vlc/download-windows.html",

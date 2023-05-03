@@ -11,7 +11,12 @@
 	},
 	"pre_install": "Remove-Item \"$dir\" -Include @('uninstall.exe', '$PLUGINSDIR')",
 	"shortcuts": [
-		["Python\\pythonw.exe", "SPYDER", "$dir\\Spyder.launch.pyw", "spyder.ico"]
+		[
+			"Python\\pythonw.exe",
+			"SPYDER",
+			"$dir\\Spyder.launch.pyw",
+			"spyder.ico"
+		]
 	],
 	"checkver": {
 		"github": "https://github.com/spyder-ide/spyder"

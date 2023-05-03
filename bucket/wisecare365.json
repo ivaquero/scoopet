@@ -12,8 +12,16 @@
 			"if (-not (Test-Path \"$persist_dir\\$file\")) { Set-Content \"$dir\\$file\" '[General]', 'checkNewVer=3' -Encoding Ascii }"
 		]
 	},
-	"shortcuts": [["WiseCare365.exe", "Wise Care 365"]],
-	"persist": ["config.ini", "DefragOptions.ini"],
+	"shortcuts": [
+		[
+			"WiseCare365.exe",
+			"Wise Care 365"
+		]
+	],
+	"persist": [
+		"config.ini",
+		"DefragOptions.ini"
+	],
 	"checkver": {
 		"url": "https://www.wisecleaner.com/download.html",
 		"regex": "WiseCare365_(?<version>[\\d\\.]+)\\.zip"

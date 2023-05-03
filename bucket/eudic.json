@@ -21,7 +21,12 @@
 		]
 	},
 	"bin": "eudic.exe",
-	"shortcuts": [["eudic.exe", "Eudic"]],
+	"shortcuts": [
+		[
+			"eudic.exe",
+			"Eudic"
+		]
+	],
 	"checkver": {
 		"url": "https://www.eudic.net/v4/en/app/download",
 		"regex": "<a href=\"https://www.eudic.net/download/eudic_win.zip\\?v=([\\d-]+)\""

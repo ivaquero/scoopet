@@ -7,17 +7,21 @@
 	"hash": "aca4490fe0a82ed8e73fe366f791aa4e684e350b6a4d7391aeca790b163986f7",
 	"installer": {
 		"script": [
-			"# handle runtime cache", "if (!(Test-Path $persist_dir)) {",
-			"    New-Item $persist_dir -Type Directory -Force | Out-Null", "}",
+			"# handle runtime cache",
+			"if (!(Test-Path $persist_dir)) {",
+			"    New-Item $persist_dir -Type Directory -Force | Out-Null",
+			"}",
 			"$runtimeCache = \"$env:APPDATA\\aDrive\"",
 			"$runtimeCachePersist = \"$persist_dir\\appdata\"",
 			"if (Test-Path $runtimeCachePersist) {",
 			"    Remove-Item $runtimeCache -Force -Recurse -ErrorAction SilentlyContinue",
 			"    New-Item -Type Junction -Path $runtimeCache -Target $runtimeCachePersist | Out-Null",
-			"} else {", "    if (Test-Path $runtimeCache) {",
+			"} else {",
+			"    if (Test-Path $runtimeCache) {",
 			"        Move-Item $runtimeCache $runtimeCachePersist -Force",
 			"        New-Item -Type Junction -Path $runtimeCache -Target $runtimeCachePersist | Out-Null",
-			"    }", "}"
+			"    }",
+			"}"
 		]
 	},
 	"uninstaller": {
@@ -25,12 +29,18 @@
 			"$runtimeCache = \"$env:APPDATA\\aDrive\"",
 			"$runtimeCachePersist = \"$persist_dir\\appdata\"",
 			"if (!(Test-Path $runtimeCachePersist)) {",
-			"    Move-Item $runtimeCache $runtimeCachePersist -Force", "} else {",
+			"    Move-Item $runtimeCache $runtimeCachePersist -Force",
+			"} else {",
 			"    Remove-Item $runtimeCache -Force -Recurse -ErrorAction SilentlyContinue",
 			"}"
 		]
 	},
-	"shortcuts": [["aDrive.exe", "阿里云盘"]],
+	"shortcuts": [
+		[
+			"aDrive.exe",
+			"阿里云盘"
+		]
+	],
 	"post_install": [
 		"Remove-Item -Force -Recurse \"$dir\\`$PLUGINSDIR\"",
 		"Remove-Item -Force -Recurse \"$dir\\`$TEMP\""

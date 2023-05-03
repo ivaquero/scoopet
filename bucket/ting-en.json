@@ -12,5 +12,10 @@
 		]
 	},
 	"bin": "ting_en.exe",
-	"shortcuts": [["ting_en.exe", "每日英语听力"]]
+	"shortcuts": [
+		[
+			"ting_en.exe",
+			"每日英语听力"
+		]
+	]
 }

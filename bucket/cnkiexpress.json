@@ -6,7 +6,12 @@
 	"hash": "f06931ba754803c48a9461591ab230d61659220e522591688cb58ad0d767eacc",
 	"notes": "We don't persist your cnki express data, they are still storaged in \"%APPDATA%\\cnkiexpress\".",
 	"bin": "全球学术快报.exe",
-	"shortcuts": [["全球学术快报.exe", "全球学术快报"]],
+	"shortcuts": [
+		[
+			"全球学术快报.exe",
+			"全球学术快报"
+		]
+	],
 	"installer": {
 		"script": [
 			"7z x \"$dir\\`$PLUGINSDIR\\app-64.7z\" -o\"$dir\"| FIND \"ing  \"",

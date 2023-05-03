@@ -12,7 +12,12 @@
 			"hash": "ccf932570a471d1c0f778e9410d4c88fb6e9a385733c85aba3810f1ff92cc6c2"
 		}
 	},
-	"shortcuts": [["WXWork.exe", "WeChat Work"]],
+	"shortcuts": [
+		[
+			"WXWork.exe",
+			"WeChat Work"
+		]
+	],
 	"post_install": [
 		"Remove-Item \"$dir\\`$PLUGINSDIR\" -Force -Recurse",
 		"Remove-Item \"$dir\\Uninstall.exe\" -Force -Recurse"

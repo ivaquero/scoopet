@@ -22,7 +22,12 @@
 		}
 	},
 	"env_add_path": "bin",
-	"shortcuts": [["VSCodium.exe", "VSCodium"]],
+	"shortcuts": [
+		[
+			"VSCodium.exe",
+			"VSCodium"
+		]
+	],
 	"post_install": [
 		"$dirpath = \"$dir\".Replace('\\', '\\\\')",
 		"$exepath = \"$dir\\VSCodium.exe\".Replace('\\', '\\\\')",
@@ -34,7 +39,10 @@
 		"    $content = $content.Replace('&Code', '&VSCodium')",
 		"    if ($global) {",
 		"      $content = $content.Replace('HKEY_CURRENT_USER', 'HKEY_LOCAL_MACHINE')",
-		"    }", "    $content | Set-Content -Path \"$dir\\$_.reg\"", "  }", "}",
+		"    }",
+		"    $content | Set-Content -Path \"$dir\\$_.reg\"",
+		"  }",
+		"}",
 		"if (!(Test-Path \"$dir\\data\\extensions\") -and (Test-Path \"$env:USERPROFILE\\.vscode-oss\\extensions\")) {",
 		"    info '[Portable Mode] Copying extensions...'",
 		"    Copy-Item \"$env:USERPROFILE\\.vscode-oss\\extensions\" \"$dir\\data\" -Recurse",

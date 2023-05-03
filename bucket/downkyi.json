@@ -9,7 +9,12 @@
 			"hash": "ac38cb9ed02cc722f4242812d1a16c337920269921cc33728af02bac7e7f72bc"
 		}
 	},
-	"shortcuts": [["DownKyi.exe", "DownKyi"]],
+	"shortcuts": [
+		[
+			"DownKyi.exe",
+			"DownKyi"
+		]
+	],
 	"bin": "DownKyi.exe",
 	"persist": "Config",
 	"checkver": {

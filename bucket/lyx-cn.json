@@ -9,7 +9,12 @@
 		}
 	},
 	"bin": "bin\\LyX.exe",
-	"shortcuts": [["bin\\LyX.exe", "LyX"]],
+	"shortcuts": [
+		[
+			"bin\\LyX.exe",
+			"LyX"
+		]
+	],
 	"post_install": "Remove-Item \"$dir\\`$PLUGINSDIR\" -Force -Recurse",
 	"checkver": {
 		"url": "https://chocolatey.org/packages/lyx",

@@ -15,12 +15,25 @@
 		}
 	},
 	"bin": [
-		"bin\\sh.exe", "bin\\bash.exe", "cmd\\git.exe", "cmd\\gitk.exe",
-		"cmd\\git-gui.exe", "cmd\\scalar.exe", "usr\\bin\\tig.exe", "git-bash.exe"
+		"bin\\sh.exe",
+		"bin\\bash.exe",
+		"cmd\\git.exe",
+		"cmd\\gitk.exe",
+		"cmd\\git-gui.exe",
+		"cmd\\scalar.exe",
+		"usr\\bin\\tig.exe",
+		"git-bash.exe"
 	],
 	"shortcuts": [
-		["git-bash.exe", "Git Bash", "--cd-to-home"],
-		["cmd\\git-gui.exe", "Git GUI"]
+		[
+			"git-bash.exe",
+			"Git Bash",
+			"--cd-to-home"
+		],
+		[
+			"cmd\\git-gui.exe",
+			"Git GUI"
+		]
 	],
 	"env_set": {
 		"GIT_INSTALL_ROOT": "$dir"

@@ -10,7 +10,12 @@
 	"hash": "md5:f39ae7d7420e03ff43ef402a48e0564f",
 	"post_install": "Remove-Item \"$dir\\`$PLUGINSDIR\" -Force -Recurse",
 	"bin": "cloudmusic.exe",
-	"shortcuts": [["cloudmusic.exe", "Netease Cloud Music"]],
+	"shortcuts": [
+		[
+			"cloudmusic.exe",
+			"Netease Cloud Music"
+		]
+	],
 	"checkver": {
 		"url": "https://h404bi.azurewebsites.net/ncmversion.php",
 		"jsonpath": "$.updateFiles[0].url",

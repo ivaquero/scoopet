@@ -15,8 +15,18 @@
 		"Remove-Item \"$dir\\wemeetapp_new.exe\" -Force -ErrorAction SilentlyContinue",
 		"create_startmenu_shortcuts $manifest $dir\\..\\$version $global $arch"
 	],
-	"bin": [["wemeetapp.exe", "tencent-meeting"]],
-	"shortcuts": [["wemeetapp.exe", "Tencent Meeting"]],
+	"bin": [
+		[
+			"wemeetapp.exe",
+			"tencent-meeting"
+		]
+	],
+	"shortcuts": [
+		[
+			"wemeetapp.exe",
+			"Tencent Meeting"
+		]
+	],
 	"checkver": {
 		"url": "https://meeting.tencent.com/wemeet-webapi/v2/config/query-download-info",
 		"script": "(Invoke-WebRequest -Body '[{\"instance\":\"windows\",\"type\":\"0300000000\"}]' -Method 'POST' -Uri $url).Content",

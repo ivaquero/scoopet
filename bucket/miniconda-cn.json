@@ -30,8 +30,18 @@
 			"if (!(Test-Path \"$dir\\envs\")) { New-Item \"$dir\\envs\" -ItemType Directory | Out-Null }"
 		]
 	},
-	"bin": ["python.exe", "pythonw.exe", ["python.exe", "python3"]],
-	"env_add_path": ["scripts", "Library\\bin"],
+	"bin": [
+		"python.exe",
+		"pythonw.exe",
+		[
+			"python.exe",
+			"python3"
+		]
+	],
+	"env_add_path": [
+		"scripts",
+		"Library\\bin"
+	],
 	"persist": "envs",
 	"checkver": {
 		"url": "https://docs.conda.io/en/latest/miniconda.html",

@@ -11,7 +11,12 @@
 		}
 	},
 	"bin": "mpvnet.exe",
-	"shortcuts": [["mpvnet.exe", "mpvnet"]],
+	"shortcuts": [
+		[
+			"mpvnet.exe",
+			"mpvnet"
+		]
+	],
 	"checkver": {
 		"github": "https://github.com/hooke007/mpv.net_CM",
 		"regex": "/releases/download/(?<tag>\\w+)/mpvnet-CM-(?<build>\\d{8})",

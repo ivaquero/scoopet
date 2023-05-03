@@ -28,8 +28,18 @@
 			"New-Item \"$dir\\envs\" -ItemType Directory | Out-Null"
 		]
 	},
-	"bin": ["python.exe", "pythonw.exe", ["python.exe", "python3"]],
-	"env_add_path": ["scripts", "Library\\bin"],
+	"bin": [
+		"python.exe",
+		"pythonw.exe",
+		[
+			"python.exe",
+			"python3"
+		]
+	],
+	"env_add_path": [
+		"scripts",
+		"Library\\bin"
+	],
 	"persist": "envs",
 	"checkver": {
 		"github": "https://github.com/conda-forge/miniforge",

@@ -15,8 +15,16 @@
 			"extract_dir": "inkscape-1.2.2_2022-12-09_732a01da63-x86"
 		}
 	},
-	"bin": ["bin\\inkscape.com", "bin\\inkview.com"],
-	"shortcuts": [["bin\\inkscape.exe", "Inkscape"]],
+	"bin": [
+		"bin\\inkscape.com",
+		"bin\\inkview.com"
+	],
+	"shortcuts": [
+		[
+			"bin\\inkscape.exe",
+			"Inkscape"
+		]
+	],
 	"checkver": {
 		"script": [
 			"$redirUrl = [System.Net.HttpWebRequest]::Create('https://inkscape.org/release/').GetResponse().ResponseUri.AbsoluteUri",

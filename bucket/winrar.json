@@ -18,8 +18,17 @@
 		}
 	},
 	"pre_install": "if (!(Test-Path \"$persist_dir\\rarreg.key\")) { New-Item \"$dir\\rarreg.key\" | Out-Null }",
-	"bin": ["Rar.exe", "UnRAR.exe", "WinRAR.exe"],
-	"shortcuts": [["WinRAR.exe", "WinRAR"]],
+	"bin": [
+		"Rar.exe",
+		"UnRAR.exe",
+		"WinRAR.exe"
+	],
+	"shortcuts": [
+		[
+			"WinRAR.exe",
+			"WinRAR"
+		]
+	],
 	"persist": "rarreg.key",
 	"checkver": "WinRAR and RAR ([\\d.]+) release",
 	"autoupdate": {

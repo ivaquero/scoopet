@@ -18,7 +18,12 @@
 			}
 		}
 	},
-	"shortcuts": [["语雀.exe", "语雀"]],
+	"shortcuts": [
+		[
+			"语雀.exe",
+			"语雀"
+		]
+	],
 	"checkver": {
 		"url": "https://www.yuque.com/download",
 		"regex": "Yuque-([\\d.]+).exe"

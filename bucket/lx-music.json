@@ -13,7 +13,12 @@
 			"hash": "2b5ff77a9be0fb4f0c82cf9ce123c5ee47f6161ec0a97705d0a7e86bc723a3ad"
 		}
 	},
-	"shortcuts": [["lx-music-desktop.exe", "洛雪音乐助手"]],
+	"shortcuts": [
+		[
+			"lx-music-desktop.exe",
+			"洛雪音乐助手"
+		]
+	],
 	"checkver": "github",
 	"autoupdate": {
 		"architecture": {

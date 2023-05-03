@@ -5,7 +5,12 @@
 	"license": "Freeware",
 	"url": "https://raw.githubusercontent.com/h404bi/phpstudy-lagecy-scoop/master/phpstudy-lagecy-scoop/phpstudy-lagecy-scoop_v3.0.zip",
 	"hash": "6fba686528a373db9255290781662dd361016d92c531678f2761ec85af292687",
-	"depends": ["apache", "nginx", "mysql57", "php-nts"],
+	"depends": [
+		"apache",
+		"nginx",
+		"mysql57",
+		"php-nts"
+	],
 	"suggest": {
 		"vcruntime": "extras/vcredist2019"
 	},
@@ -33,8 +38,16 @@
 			"Move-Item \"$dir\\conf\\php.ini\" \"$dir\\php\\php-current-nts\\php.ini\""
 		]
 	},
-	"persist": ["tools\\phpStudy.ini", "www"],
-	"shortcuts": [["phpStudy.exe", "phpStudy Lagecy"]],
+	"persist": [
+		"tools\\phpStudy.ini",
+		"www"
+	],
+	"shortcuts": [
+		[
+			"phpStudy.exe",
+			"phpStudy Lagecy"
+		]
+	],
 	"checkver": "github",
 	"autoupdate": {
 		"url": "https://raw.githubusercontent.com/h404bi/phpstudy-lagecy-scoop/master/phpstudy-lagecy-scoop/phpstudy-lagecy-scoop_v$version.zip",

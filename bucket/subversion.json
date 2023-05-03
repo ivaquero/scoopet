@@ -14,12 +14,28 @@
 		"Remove-Item \"$dir\\`$*\", \"$dir\\Uninstall*\" -Recurse"
 	],
 	"bin": [
-		"svn.exe", "svnadmin.exe", "svnauthz-validate.exe", "svnauthz.exe",
-		"svnbench.exe", "svndumpfilter.exe", "svnfsfs.exe", "svnlook.exe",
-		"svnmover.exe", "svnmucc.exe", "svnraisetreeconflict.exe", "svnrdump.exe",
-		"svnserve.exe", "svnsync.exe", "svnversion.exe"
+		"svn.exe",
+		"svnadmin.exe",
+		"svnauthz-validate.exe",
+		"svnauthz.exe",
+		"svnbench.exe",
+		"svndumpfilter.exe",
+		"svnfsfs.exe",
+		"svnlook.exe",
+		"svnmover.exe",
+		"svnmucc.exe",
+		"svnraisetreeconflict.exe",
+		"svnrdump.exe",
+		"svnserve.exe",
+		"svnsync.exe",
+		"svnversion.exe"
 	],
 	"shortcuts": [
-		["Documentation\\subversion-book.pdf", "Subversion Book", "", "help.ico"]
+		[
+			"Documentation\\subversion-book.pdf",
+			"Subversion Book",
+			"",
+			"help.ico"
+		]
 	]
 }

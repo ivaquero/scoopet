@@ -10,7 +10,12 @@
 		}
 	},
 	"bin": "texstudio.exe",
-	"shortcuts": [["texstudio.exe", "TeXstudio"]],
+	"shortcuts": [
+		[
+			"texstudio.exe",
+			"TeXstudio"
+		]
+	],
 	"persist": "config",
 	"checkver": "<span class=\"currentVersion\">([\\d.]+)</span>",
 	"autoupdate": {

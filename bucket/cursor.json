@@ -13,8 +13,15 @@
 	],
 	"url": "https://dl.todesktop.com/230313mzl4w4u92/windows/nsis/x64#/dl.7z",
 	"hash": "a91845d7c72836fc4e5230e0f4cd2c87b1ea9cd6b69efa6d54d5c360ee78a8c3",
-	"shortcuts": [["Cursor.exe", "Cursor"]],
-	"persist": ["resources/lsp"],
+	"shortcuts": [
+		[
+			"Cursor.exe",
+			"Cursor"
+		]
+	],
+	"persist": [
+		"resources/lsp"
+	],
 	"checkver": {
 		"script": [
 			"$response = Invoke-WebRequest -Uri 'https://www.cursor.so/'",

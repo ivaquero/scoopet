@@ -12,20 +12,42 @@
 			"hash": "6b1de8005ae088209016b7f24a21d831ba6255d302b7adbe642d4fe0dbb4939e",
 			"installer": {
 				"args": [
-					"/s", "/v\"", "/qn", "EULAS_AGREED=1", "DATACOLLECTION=0",
-					"DESKTOP_SHORTCUT=0", "STARTMENU_SHORTCUT=0", "AUTOSOFTWAREUPDATE=0",
-					"INSTALLDIR=\"\"$dir\"\"", "\""
+					"/s",
+					"/v\"",
+					"/qn",
+					"EULAS_AGREED=1",
+					"DATACOLLECTION=0",
+					"DESKTOP_SHORTCUT=0",
+					"STARTMENU_SHORTCUT=0",
+					"AUTOSOFTWAREUPDATE=0",
+					"INSTALLDIR=\"\"$dir\"\"",
+					"\""
 				],
 				"keep": true
 			},
 			"uninstaller": {
 				"file": "cosi.exe",
-				"args": ["/s", "/v\"", "/qn", "REMOVE=ALL", "\""]
+				"args": [
+					"/s",
+					"/v\"",
+					"/qn",
+					"REMOVE=ALL",
+					"\""
+				]
 			},
 			"shortcuts": [
-				["vmware.exe", "VMware Workstation Pro"],
-				["vmplayer.exe", "VMware Workstation Player"],
-				["vmnetcfg.exe", "Virtual Network Editor"]
+				[
+					"vmware.exe",
+					"VMware Workstation Pro"
+				],
+				[
+					"vmplayer.exe",
+					"VMware Workstation Player"
+				],
+				[
+					"vmnetcfg.exe",
+					"Virtual Network Editor"
+				]
 			]
 		}
 	},

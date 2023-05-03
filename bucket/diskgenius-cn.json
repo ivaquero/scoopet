@@ -16,7 +16,12 @@
 	"extract_dir": "DiskGenius",
 	"pre_install": "if (!(Test-Path \"$persist_dir\\Options.ini\")) { New-Item \"$dir\\Options.ini\" | Out-Null }",
 	"bin": "DiskGenius.exe",
-	"shortcuts": [["DiskGenius.exe", "DiskGenius"]],
+	"shortcuts": [
+		[
+			"DiskGenius.exe",
+			"DiskGenius"
+		]
+	],
 	"persist": "Options.ini",
 	"checkver": {
 		"url": "https://internal.eassos.com/update/diskgenius/update.php",

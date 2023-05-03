@@ -25,24 +25,48 @@
 		"# keeping files in 'LibreOffice' directory so that bundled font can work properly",
 		"ensure \"$dir\\LibreOffice\\share\\fonts\" | Out-Null",
 		"# usage: get_config ($name, $default). $default ==> set to what value if the value is empty (not being set before)",
-		"if (get_config USE_LESSMSI $false) {", "    # if 'use_lessmsi' is true",
+		"if (get_config USE_LESSMSI $false) {",
+		"    # if 'use_lessmsi' is true",
 		"    Expand-MsiArchive \"$dir\\dl.msi_\" \"$dir\" | Out-Null",
 		"    Move-Item \"$dir\\Fonts\" \"$dir\\LibreOffice\\share\\fonts\\truetype\" -Force",
-		"    Remove-Item \"$dir\\System*\" -Recurse -Force", "} else {",
+		"    Remove-Item \"$dir\\System*\" -Recurse -Force",
+		"} else {",
 		"    # if 'use_lessmsi' is false or not set",
 		"    Expand-MsiArchive \"$dir\\dl.msi_\" \"$dir\\LibreOffice\" | Out-Null",
 		"    Expand-MsiArchive \"$dir\\dl.msi_\" \"$dir\\LibreOffice\\share\\fonts\\truetype\" -ExtractDir 'Fonts' | Out-Null",
 		"    Remove-Item \"$dir\\LibreOffice\\Fonts\", \"$dir\\LibreOffice\\System*\" -Recurse -Force",
-		"}", "Remove-Item \"$dir\\dl.msi_\""
+		"}",
+		"Remove-Item \"$dir\\dl.msi_\""
 	],
 	"shortcuts": [
-		["LibreOffice\\program\\soffice.exe", "LibreOffice\\LibreOffice"],
-		["LibreOffice\\program\\sbase.exe", "LibreOffice\\LibreOffice Base"],
-		["LibreOffice\\program\\scalc.exe", "LibreOffice\\LibreOffice Calc"],
-		["LibreOffice\\program\\sdraw.exe", "LibreOffice\\LibreOffice Draw"],
-		["LibreOffice\\program\\simpress.exe", "LibreOffice\\LibreOffice Impress"],
-		["LibreOffice\\program\\smath.exe", "LibreOffice\\LibreOffice Math"],
-		["LibreOffice\\program\\swriter.exe", "LibreOffice\\LibreOffice Writer"]
+		[
+			"LibreOffice\\program\\soffice.exe",
+			"LibreOffice\\LibreOffice"
+		],
+		[
+			"LibreOffice\\program\\sbase.exe",
+			"LibreOffice\\LibreOffice Base"
+		],
+		[
+			"LibreOffice\\program\\scalc.exe",
+			"LibreOffice\\LibreOffice Calc"
+		],
+		[
+			"LibreOffice\\program\\sdraw.exe",
+			"LibreOffice\\LibreOffice Draw"
+		],
+		[
+			"LibreOffice\\program\\simpress.exe",
+			"LibreOffice\\LibreOffice Impress"
+		],
+		[
+			"LibreOffice\\program\\smath.exe",
+			"LibreOffice\\LibreOffice Math"
+		],
+		[
+			"LibreOffice\\program\\swriter.exe",
+			"LibreOffice\\LibreOffice Writer"
+		]
 	],
 	"checkver": {
 		"url": "https://mirrors.bfsu.edu.cn/libreoffice/libreoffice/stable/",

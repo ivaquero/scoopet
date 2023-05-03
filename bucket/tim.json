@@ -13,7 +13,12 @@
 	],
 	"url": "https://webcdn.m.qq.com/spcmgr/download/TIM3.4.5.22071.exe#/dl.exe",
 	"hash": "e92a4705964f2f572e376aa6634e6d487fba2dd3060f0f1c1991ab86350934e6",
-	"shortcuts": [["Bin\\QQScLauncher.exe", "TIM"]],
+	"shortcuts": [
+		[
+			"Bin\\QQScLauncher.exe",
+			"TIM"
+		]
+	],
 	"installer": {
 		"script": [
 			"Expand-7zipArchive \"$dir\\$fname\" -Switches '-t*' -Removal",
@@ -21,7 +26,8 @@
 			"Expand-7zipArchive \"$dir\\.rsrc\\2052\\MSI\\101\" \"$dir\" -ExtractDir 'Files'",
 			"Expand-7zipArchive \"$dir\\.rsrc\\2052\\MSI\\102\" \"$dir\\temp\"",
 			"'vcruntime140.dll', 'msvcp140.dll', 'msvcr100.dll', 'vcomp140.dll', 'msvcp100.dll' | ForEach-Object {",
-			"  Move-Item \"$dir\\temp\\$_\" \"$dir\\Bin\\\"", "}",
+			"  Move-Item \"$dir\\temp\\$_\" \"$dir\\Bin\\\"",
+			"}",
 			"Expand-7zipArchive \"$dir\\temp\\TXSSO\\TXSSOSetup.exe\" \"$dir\\Bin\\TXSSO\" -ExtractDir 'TXSSO'",
 			"Remove-Item \"$dir\\.rsrc\", \"$dir\\temp\" -Recurse"
 		]
