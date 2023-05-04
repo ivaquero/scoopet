@@ -180,6 +180,7 @@ scoop config aria2-min-split-size 4M
 |      App       | 自动更新 | 原创  |
 | :------------: | :------: | :---: |
 |   Blender-cn   |    √     |   √   |
+|   FreeCAD-cn   |    √     |   √   |
 |     Git-cn     |    √     |   √   |
 |    GIMP-cn     |    √     |   √   |
 |  Inkscape-cn   |    √     |   √   |

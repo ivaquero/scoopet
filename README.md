@@ -150,6 +150,7 @@ scoop config aria2-min-split-size 4M
 |      App       | Auto-Update ? | Original ? |
 | :------------: | :-----------: | :--------: |
 |   Blender-cn   |       √       |     √      |
+|   FreeCAD-cn   |       √       |     √      |
 |     Git-cn     |       √       |     √      |
 |    GIMP-cn     |       √       |     √      |
 |  Inkscape-cn   |       √       |     √      |

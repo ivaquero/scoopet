@@ -26,8 +26,8 @@
     ],
     "checkver": {
         "github": "https://github.com/nilaoda/N_m3u8DL-RE",
-        "regex": "/releases/download/v(?<version>\\d.+)-beta/N_m3u8DL-RE-_Beta_win-(?<build>\\d{8})",
-        "replace": "${version}-${build}"
+        "regex": "/releases/download/v(?<version>[\\d.]+)-beta/N_m3u8DL-RE-_Beta_win-(?<build>\\d{8})",
+        "replace": "${version}${build}"
     },
     "autoupdate": {
         "architecture": {
