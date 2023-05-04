@@ -1,10 +1,10 @@
 {
-    "version": "4.1.0",
+    "version": "4.3.0",
     "description": "阿里云盘是一款速度快、不打扰、够安全、易于分享的网盘，由阿里巴巴集团出品",
     "homepage": "https://www.aliyundrive.com/",
     "license": "Unknown",
-    "url": "https://cdn.aliyundrive.net/downloads/apps/desktop/update/4.1.0/win32/ia32/aDrive-4.1.0.exe#/dl.7z",
-    "hash": "aca4490fe0a82ed8e73fe366f791aa4e684e350b6a4d7391aeca790b163986f7",
+    "url": "https://cdn.aliyundrive.net/downloads/apps/desktop/update/4.3.0/win32/ia32/aDrive-4.3.0.exe#/dl.7z",
+    "hash": "80872f1eef7376852146d7d1311f55064985879947afa53d75ca48d1e3939009",
     "installer": {
         "script": [
             "# handle runtime cache",
