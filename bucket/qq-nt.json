@@ -24,6 +24,10 @@
         ]
     ],
     "persist": "QQ Files",
+    "checkver": {
+        "url": "https://bbs.pcbeta.com/viewthread-1969561-1-1.html",
+        "regex": " QQ([\\d.]+)\\.exe"
+    },
     "uninstaller": {
         "script": [
             "Remove-Item -Path \"$env:PUBLIC\\Documents\\Tencent\" -Force | Out-Null"
