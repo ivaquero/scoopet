@@ -37,18 +37,5 @@
             "Remove-Item -Path \"$env:PUBLIC\\Documents\\Tencent\" -Force | Out-Null"
         ]
     }
-    // "checkver": {
-    //     "url": "https://pc.qq.com/detail/2/detail_2.html",
-    //     "regex": "QQ([\\d.]+).exe"
-    // },
-    // "autoupdate": {
-    //     "architecture": {
-    //         "64bit": {
-    //             "url": "https://dldir1.qq.com/qqfile/qq/QQNT/$version/QQ$version_x64.exe"
-    //         },
-    //         "32bit": {
-    //             "url": "https://dldir1.qq.com/qqfile/qq/QQNT/$version/QQ$version_x86.exe"
-    //         }
-    //     }
-    // }
+
 }
