@@ -1,5 +1,5 @@
 {
-    "version": "3.4.7.22084",
+    "version": "3.4.7.22085",
     "description": "An lightweight instant messaging software service developed by Tencent",
     "homepage": "https://tim.qq.com/",
     "license": {
@@ -11,8 +11,8 @@
         "'%UserProfile%\\Documents\\Tencent Files'.",
         "Files produced at runtime leaves in '%AppData%\\Tencent'."
     ],
-    "url": "https://webcdn.m.qq.com/spcmgr/download/TIM3.4.7.22084.exe#/dl.exe",
-    "hash": "5a2ae169a16d309ff79e0584abc87cc2d396c8e205ab1f977d398b8e5f38d3de",
+    "url": "https://webcdn.m.qq.com/spcmgr/download/TIM3.4.7.22085.exe#/dl.exe",
+    "hash": "aea6f78918bf989551befac3dc81122ceef302725b9fd457a561fe11a5f0d8d0",
     "shortcuts": [
         [
             "Bin\\QQScLauncher.exe",
