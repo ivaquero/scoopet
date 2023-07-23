@@ -74,13 +74,13 @@ scoop update
 
 ### :rocket: Step 4: Install Apps
 
-- Check the exact name of App by `scoop search`
+-   Check the exact name of App by `scoop search`
 
 ```powershell
 scoop search <app_name>
 ```
 
-- Install Apps with assistance of plugin `scoop-completion`
+-   Install Apps with assistance of plugin `scoop-completion`
 
 ```powershell
 scoop install scoop-completion
@@ -172,6 +172,7 @@ scoop config aria2-min-split-size 4M
 | :-----------------: | :-----------: | :-------------------------------------------------------: |
 |       ADrive        |       √       |                             √                             |
 |    BaiduNetDisk     |       √       |                             √                             |
+|       BBDown        |       √       |                             √                             |
 |      CAJViewer      |       √       |                    √ (by @rayinfinite)                    |
 |     CNKIExpress     |       √       |                    √ (by @rayinfinite)                    |
 |      DingTalk       |       √       |                             √                             |

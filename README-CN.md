@@ -74,13 +74,13 @@ scoop update
 
 ### :rocket: 步骤 4：安装 App
 
-- 使用 `scoop search` 命令搜索 App 的具体名称
+-   使用 `scoop search` 命令搜索 App 的具体名称
 
 ```powershell
 scoop search <app_name>
 ```
 
-- 利用插件`scoop-completion`协助安装
+-   利用插件`scoop-completion`协助安装
 
 ```powershell
 scoop install scoop-completion
@@ -153,6 +153,7 @@ scoop config aria2-min-split-size 4M
 | :-------------: | :-----------------: | :-------: | :--------------------------------------------------: |
 |    阿里云盘     |       ADrive        |     √     |                          √                           |
 |    百度云盘     |    BaiduNetDisk     |     √     |                          √                           |
+|     BBDown      |       BBDown        |     √     |                          √                           |
 |    CAJViewer    |      CAJViewer      |     √     |                 √ (by @rayinfinite)                  |
 |  全球学术快报   |     CNKIExpress     |     √     |                 √ (by @rayinfinite)                  |
 |      钉钉       |      DingTalk       |     √     |                          √                           |
@@ -177,24 +178,24 @@ scoop config aria2-min-split-size 4M
 
 ### 开源镜像
 
-|      App       | 自动更新 | 原创  |
-| :------------: | :------: | :---: |
-|   Blender-cn   |    √     |   √   |
-|   FreeCAD-cn   |    √     |   √   |
-|     Git-cn     |    √     |   √   |
-|    GIMP-cn     |    √     |   √   |
-|  Inkscape-cn   |    √     |   √   |
-|    Julia-cn    |    √     |   √   |
-| LibreOffice-cn |    √     |   √   |
-|     LyX-cn     |    √     |   √   |
-| Mambaforge-cn  |    √     |   √   |
-|  Miniconda-cn  |    √     |   √   |
-| OBS-Studio-cn  |    √     |   √   |
-|   Octave-cn    |    √     |   √   |
-|  SageMath-cn   |    √     |   √   |
-|  TeXStudio-cn  |    √     |   √   |
-|     VLC-cn     |    √     |   √   |
-|  VSCodium-cn   |    √     |   √   |
+|      App       | 自动更新 | 原创 |
+| :------------: | :------: | :--: |
+|   Blender-cn   |    √     |  √   |
+|   FreeCAD-cn   |    √     |  √   |
+|     Git-cn     |    √     |  √   |
+|    GIMP-cn     |    √     |  √   |
+|  Inkscape-cn   |    √     |  √   |
+|    Julia-cn    |    √     |  √   |
+| LibreOffice-cn |    √     |  √   |
+|     LyX-cn     |    √     |  √   |
+| Mambaforge-cn  |    √     |  √   |
+|  Miniconda-cn  |    √     |  √   |
+| OBS-Studio-cn  |    √     |  √   |
+|   Octave-cn    |    √     |  √   |
+|  SageMath-cn   |    √     |  √   |
+|  TeXStudio-cn  |    √     |  √   |
+|     VLC-cn     |    √     |  √   |
+|  VSCodium-cn   |    √     |  √   |
 
 ## 备注
 
