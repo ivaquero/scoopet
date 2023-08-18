@@ -74,13 +74,13 @@ scoop update
 
 ### :rocket: 步骤 4：安装 App
 
--   使用 `scoop search` 命令搜索 App 的具体名称
+#### 使用 `scoop search` 命令搜索 App 的具体名称
 
 ```powershell
 scoop search <app_name>
 ```
 
--   利用插件`scoop-completion`协助安装
+#### 利用插件`scoop-completion`协助安装
 
 ```powershell
 scoop install scoop-completion
