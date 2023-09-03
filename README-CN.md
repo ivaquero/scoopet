@@ -152,7 +152,6 @@ scoop config aria2-min-split-size 4M
 | :-------------: | :-----------------: | :-------: | :--------------------------------------------------: |
 |    阿里云盘     |       ADrive        |     √     |                          √                           |
 |    百度云盘     |    BaiduNetDisk     |     √     |                          √                           |
-|     BBDown      |       BBDown        |     √     |                          √                           |
 |    CAJViewer    |      CAJViewer      |     √     |                 √ (by @rayinfinite)                  |
 |  全球学术快报   |     CNKIExpress     |     √     |                 √ (by @rayinfinite)                  |
 |      钉钉       |      DingTalk       |     √     |                          √                           |
@@ -200,7 +199,7 @@ scoop config aria2-min-split-size 4M
 
 由于 Win 到权限管理复杂，对于一些常见的不提供 portable 安装包，且需要管理员应用的权限，建议使用 WinGet 进行安装
 
-```powerhsell
+```powershell
 scoop install winget
 winget install Tencent.QQ
 ```

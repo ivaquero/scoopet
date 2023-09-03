@@ -131,7 +131,7 @@ scoop config aria2-min-split-size 4M
 |      Spyder      |       √       |                           √                            |
 |     TeXLive      |       √       | modified [dorado](https://github.com/chawyehsu/dorado) |
 
-### Development Auxillary
+### Development Auxiliary
 
 |          App           | Auto-Update ? |                        Original ?                         |
 | :--------------------: | :-----------: | :-------------------------------------------------------: |
@@ -171,7 +171,6 @@ scoop config aria2-min-split-size 4M
 | :-----------------: | :-----------: | :-------------------------------------------------------: |
 |       ADrive        |       √       |                             √                             |
 |    BaiduNetDisk     |       √       |                             √                             |
-|       BBDown        |       √       |                             √                             |
 |      CAJViewer      |       √       |                    √ (by @rayinfinite)                    |
 |     CNKIExpress     |       √       |                    √ (by @rayinfinite)                    |
 |      DingTalk       |       √       |                             √                             |
