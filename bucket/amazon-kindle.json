@@ -1,35 +1,23 @@
 {
-    "version": "4.1.8",
-    "homepage": "https://work.weixin.qq.com/",
+    "version": "2.0.70301",
+    "homepage": "https://www.amazon.com/b/ref=ruby_redirect?node=16571048011",
     "description": "Connection Makes a Smarter Business",
-    "license": {
-        "identifier": "EULA",
-        "url": "https://work.weixin.qq.com/nl/eula"
-    },
     "architecture": {
         "64bit": {
-            "url": "https://work.weixin.qq.com/wework_admin/commdownload?platform=win&from=wwindex#/dl.7z",
-            "hash": "d12da089ba0329e9c50e059f0d68e9272c47953982f7468d2c42651cbbeb04f6"
+            "url": "https://kindleforpc.s3.amazonaws.com/70301/KindleForPC-installer-2.0.70301.exe#/dl.7z",
+            "hash": "ccc076eef4eac9b0fa7ec541cc13be637b661b46b3a5bf9d77759ba7b6cd9b54"
         }
     },
     "shortcuts": [
         [
-            "WXWork.exe",
-            "WeChat Work"
+            "Kindle.exe",
+            "Kindle"
         ]
     ],
-    "post_install": [
-        "Remove-Item \"$dir\\`$PLUGINSDIR\" -Force -Recurse",
-        "Remove-Item \"$dir\\Uninstall.exe\" -Force -Recurse"
-    ],
-    "checkver": {
-        "url": "https://work.weixin.qq.com",
-        "regex": "企业微信 ([\\d.]+)"
-    },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://work.weixin.qq.com/wework_admin/commdownload?platform=win&from=wwindex#/dl.7z"
+                "url": "https://kindleforpc.s3.amazonaws.com/$patchVersion/KindleForPC-installer-$version.exe"
             }
         }
     }
