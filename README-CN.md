@@ -136,12 +136,13 @@ scoop config aria2-min-split-size 4M
 ### 日常工作
 
 |          App           | 自动更新 |                          原创                           |
-| :--------------------: | :------: | :-----------------------------------------------------: |
+| :--------------------: | :------: | :-----------------------------------------------------: | ----------------------------------------------------------- |
 |      AutoDarkMode      |    √     |                            √                            |
 |   Clash-for-Windows    |    √     |  复制于 [dorado](https://github.com/chawyehsu/dorado)   |
 |     FileCentipede      |    √     |                    √ (by @CronusLM)                     |
 |      N-m3u8DL-RE       |    √     |                            √                            |
 |      RectangleWin      |    √     |                            √                            |
+|         Viber          |    √     |                                                         | 复制于 [ScoopMaster](https://github.com/okibcn/ScoopMaster) |
 |         WinRAR         |    √     |                            √                            |
 |      WiseCare365       |    √     |                            √                            |
 | VMware-Workstation-Pro |    √     | 修改自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |

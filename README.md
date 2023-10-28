@@ -133,16 +133,17 @@ scoop config aria2-min-split-size 4M
 
 ### Development Auxiliary
 
-|          App           | Auto-Update ? |                        Original ?                         |
-| :--------------------: | :-----------: | :-------------------------------------------------------: |
-|      AutoDarkMode      |       √       |                             √                             |
-|   Clash-for-Windows    |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
-|     FileCentipede      |       √       |                     √ (by @CronusLM)                      |
-|      N-m3u8DL-RE       |       √       |                             √                             |
-|      RectangleWin      |       √       |                             √                             |
-|         WinRAR         |       √       |                             √                             |
-|      WiseCare365       |       √       |                             √                             |
-| VMware-Workstation-Pro |       √       | modified [Ash258](https://github.com/Ash258/Scoop-Ash258) |
+|          App           | Auto-Update ? |                            Original ?                            |
+| :--------------------: | :-----------: | :--------------------------------------------------------------: |
+|      AutoDarkMode      |       √       |                                √                                 |
+|   Clash-for-Windows    |       √       |    copied from [dorado](https://github.com/chawyehsu/dorado)     |
+|     FileCentipede      |       √       |                         √ (by @CronusLM)                         |
+|      N-m3u8DL-RE       |       √       |                                √                                 |
+|      RectangleWin      |       √       |                                √                                 |
+|         Viber          |       √       | copied from [ScoopMaster](https://github.com/okibcn/ScoopMaster) |
+|         WinRAR         |       √       |                                √                                 |
+|      WiseCare365       |       √       |                                √                                 |
+| VMware-Workstation-Pro |       √       |    modified [Ash258](https://github.com/Ash258/Scoop-Ash258)     |
 
 ### Opensource Mirrors
 
