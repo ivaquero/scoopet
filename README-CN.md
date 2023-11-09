@@ -138,8 +138,10 @@ scoop config aria2-min-split-size 4M
 |          App           | 自动更新 |                          原创                           |
 | :--------------------: | :------: | :-----------------------------------------------------: | ----------------------------------------------------------- |
 |      AutoDarkMode      |    √     |                            √                            |
+|        ChatBox         |    √     |                            √                            |
 |   Clash-for-Windows    |    √     |  复制于 [dorado](https://github.com/chawyehsu/dorado)   |
 |     FileCentipede      |    √     |                    √ (by @CronusLM)                     |
+|    LKY-Officetools     |    √     |   复制于 [DoveBoy](hhttps://github.com/DoveBoy/Apps)    |
 |      N-m3u8DL-RE       |    √     |                            √                            |
 |      RectangleWin      |    √     |                            √                            |
 |         Viber          |    √     |                                                         | 复制于 [ScoopMaster](https://github.com/okibcn/ScoopMaster) |
