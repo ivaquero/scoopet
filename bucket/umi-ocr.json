@@ -9,12 +9,12 @@
     "hash": [
         "de850eb92c23306f57ad07eb9a35e5d11cba966de4f97d680c5f7e84febce921"
     ],
-    "extract_dir": "Umi-OCR",
-    "bin": "Umi-OCR 文字识别.exe",
+    "extract_dir": "Umi-OCR_Rapid_v2.0.0",
+    "bin": "Umi-OCR.exe",
     "shortcuts": [
         [
-            "Umi-OCR 文字识别.exe",
-            "Umi-OCR 文字识别"
+            "Umi-OCR.exe",
+            "Umi-OCR"
         ]
     ],
     "persist": "Umi-OCR_config.json",
