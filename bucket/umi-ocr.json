@@ -4,10 +4,10 @@
     "license": "MIT",
     "version": "2.0.0",
     "url": [
-        "https://github.com/hiroi-sora/Umi-OCR/releases/download/release%2F2.0.0/Umi-OCR_Paddle_v2.0.0.7z.exe"
+        "https://github.com/hiroi-sora/Umi-OCR/releases/download/release%2F2.0.0/Umi-OCR_Rapid_v2.0.0.7z.exe"
     ],
     "hash": [
-        "141f9a9bd82666862335e71d20743b43e3d231738f255012c1cb1c39aa83f976"
+        "de850eb92c23306f57ad07eb9a35e5d11cba966de4f97d680c5f7e84febce921"
     ],
     "extract_dir": "Umi-OCR",
     "bin": "Umi-OCR 文字识别.exe",
@@ -20,6 +20,6 @@
     "persist": "Umi-OCR_config.json",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/hiroi-sora/Umi-OCR/releases/download/release%2Fv$version/Umi-OCR_Paddle_v$version.7z.exe"
+        "url": "https://github.com/hiroi-sora/Umi-OCR/releases/download/release%2Fv$version/Umi-OCR_Rapid_v$version.7z.exe"
     }
 }
