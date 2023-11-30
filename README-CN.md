@@ -127,76 +127,76 @@ scoop config aria2-min-split-size 4M
 
 |       App        | 自动更新 |                         原创                         |
 | :--------------: | :------: | :--------------------------------------------------: |
-|     KingDraw     |    √     |                          √                           |
-| Mendeley-Desktop |    √     |                          √                           |
-|      Spyder      |    √     |                          √                           |
-|     NetLogo      |    √     |                          √                           |
-|     TeXLive      |    √     | 修改自 [dorado](https://github.com/chawyehsu/dorado) |
+|     KingDraw     |    ✓     |                          ✓                           |
+| Mendeley-Desktop |    ✓     |                          ✓                           |
+|      Spyder      |    ✓     |                          ✓                           |
+|     NetLogo      |    ✓     |                          ✓                           |
+|     TeXLive      |    ✓     | 修改自 [dorado](https://github.com/chawyehsu/dorado) |
 
 ### 日常工作
 
 |          App           | 自动更新 |                          原创                           |
 | :--------------------: | :------: | :-----------------------------------------------------: | ----------------------------------------------------------- |
-|      AutoDarkMode      |    √     |                            √                            |
-|        ChatBox         |    √     |                            √                            |
-|   Clash-for-Windows    |    √     |  复制于 [dorado](https://github.com/chawyehsu/dorado)   |
-|     FileCentipede      |    √     |                    √ (by @CronusLM)                     |
-|    LKY-Officetools     |    √     |   复制于 [DoveBoy](hhttps://github.com/DoveBoy/Apps)    |
-|      N-m3u8DL-RE       |    √     |                            √                            |
-|      RectangleWin      |    √     |                            √                            |
-|         Viber          |    √     |                                                         | 复制于 [ScoopMaster](https://github.com/okibcn/ScoopMaster) |
-|         WinRAR         |    √     |                            √                            |
-|      WiseCare365       |    √     |                            √                            |
-| VMware-Workstation-Pro |    √     | 修改自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
+|      AutoDarkMode      |    ✓     |                            ✓                            |
+|        ChatBox         |    ✓     |                            ✓                            |
+|    Clash-Verge-Rev     |    ✓     |                            ✓                            |
+|     FileCentipede      |    ✓     |                    ✓ (by @CronusLM)                     |
+|    LKY-Officetools     |    ✓     |   复制于 [DoveBoy](hhttps://github.com/DoveBoy/Apps)    |
+|      N-m3u8DL-RE       |    ✓     |                            ✓                            |
+|      RectangleWin      |    ✓     |                            ✓                            |
+|         Viber          |    ✓     |                                                         | 复制于 [ScoopMaster](https://github.com/okibcn/ScoopMaster) |
+|         WinRAR         |    ✓     |                            ✓                            |
+|      WiseCare365       |    ✓     |                            ✓                            |
+| VMware-Workstation-Pro |    ✓     | 修改自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
 
 ### 国人产品
 
 |    中文名称     |         App         | 自动更新  |                         原创                         |
 | :-------------: | :-----------------: | :-------: | :--------------------------------------------------: |
-|    阿里云盘     |       ADrive        |     √     |                          √                           |
-|    百度云盘     |    BaiduNetDisk     |     √     |                          √                           |
-|    CAJViewer    |      CAJViewer      |     √     |                 √ (by @rayinfinite)                  |
-|  全球学术快报   |     CNKIExpress     |     √     |                 √ (by @rayinfinite)                  |
-|      钉钉       |      DingTalk       |     √     |                          √                           |
-|   哔哩下载姬    |       DownKyi       |     √     |                   √ (by @CronusLM)                   |
-|    磁盘精灵     |    DiskGenius-cn    |     √     |                   √ (by @CronusLM)                   |
-|    Edgeless     |      Edgeless       |     √     |                 √ (by @IsaacWangTT)                  |
-|    亿图图示     |      edrawmax       |     √     |                          √                           |
-|    欧路词典     |        Eudic        |     √     |                          √                           |
-|      飞书       |       Feishu        |     √     |                          √                           |
-|  洛雪音乐助手   |      LX-Music       |     √     |                          √                           |
-| M3u8-Downloader |   M3u8-Downloader   |     √     |                          √                           |
-|   网易云音乐    |    NetEaseMusic     |     √     |                          √                           |
-|  傲梅分区助手   | Partition-Assistant |     √     |                          √                           |
-|    腾讯教育     |     Tencent-Edu     |     √     |                          √                           |
-|    腾讯会议     |   Tencent-Meeting   | 3.5.6.416 |                  √ (by @Ryanjiena)                   |
-|  每日英语听力   |       Ting-En       |     √     |                          √                           |
-|     uTools      |       uTools        |     √     | 复制于 [dorado](https://github.com/chawyehsu/dorado) |
-|     小狼毫      |       Weasel        |     √     |                          √                           |
-|    企业微信     |     WeChatWork      |     √     |                          √                           |
-|    WPSOffice    |    WPSOffice-cn     |     √     |                          √                           |
-|      语雀       |        Yuque        |     √     | 复制于 [dorado](https://github.com/chawyehsu/dorado) |
+|    阿里云盘     |       ADrive        |     ✓     |                          ✓                           |
+|    百度云盘     |    BaiduNetDisk     |     ✓     |                          ✓                           |
+|    CAJViewer    |      CAJViewer      |     ✓     |                 ✓ (by @rayinfinite)                  |
+|  全球学术快报   |     CNKIExpress     |     ✓     |                 ✓ (by @rayinfinite)                  |
+|      钉钉       |      DingTalk       |     ✓     |                          ✓                           |
+|   哔哩下载姬    |       DownKyi       |     ✓     |                   ✓ (by @CronusLM)                   |
+|    磁盘精灵     |    DiskGenius-cn    |     ✓     |                   ✓ (by @CronusLM)                   |
+|    Edgeless     |      Edgeless       |     ✓     |                 ✓ (by @IsaacWangTT)                  |
+|    亿图图示     |      edrawmax       |     ✓     |                          ✓                           |
+|    欧路词典     |        Eudic        |     ✓     |                          ✓                           |
+|      飞书       |       Feishu        |     ✓     |                          ✓                           |
+|  洛雪音乐助手   |      LX-Music       |     ✓     |                          ✓                           |
+| M3u8-Downloader |   M3u8-Downloader   |     ✓     |                          ✓                           |
+|   网易云音乐    |    NetEaseMusic     |     ✓     |                          ✓                           |
+|  傲梅分区助手   | Partition-Assistant |     ✓     |                          ✓                           |
+|    腾讯教育     |     Tencent-Edu     |     ✓     |                          ✓                           |
+|    腾讯会议     |   Tencent-Meeting   | 3.5.6.416 |                  ✓ (by @Ryanjiena)                   |
+|  每日英语听力   |       Ting-En       |     ✓     |                          ✓                           |
+|     uTools      |       uTools        |     ✓     | 复制于 [dorado](https://github.com/chawyehsu/dorado) |
+|     小狼毫      |       Weasel        |     ✓     |                          ✓                           |
+|    企业微信     |     WeChatWork      |     ✓     |                          ✓                           |
+|    WPSOffice    |    WPSOffice-cn     |     ✓     |                          ✓                           |
+|      语雀       |        Yuque        |     ✓     | 复制于 [dorado](https://github.com/chawyehsu/dorado) |
 
 ### 开源镜像
 
 |      App       | 自动更新 | 原创 |
 | :------------: | :------: | :--: |
-|   Blender-cn   |    √     |  √   |
-|   FreeCAD-cn   |    √     |  √   |
-|     Git-cn     |    √     |  √   |
-|    GIMP-cn     |    √     |  √   |
-|  Inkscape-cn   |    √     |  √   |
-|    Julia-cn    |    √     |  √   |
-| LibreOffice-cn |    √     |  √   |
-|     LyX-cn     |    √     |  √   |
-| Mambaforge-cn  |    √     |  √   |
-|  Miniconda-cn  |    √     |  √   |
-| OBS-Studio-cn  |    √     |  √   |
-|   Octave-cn    |    √     |  √   |
-|  SageMath-cn   |    √     |  √   |
-|  TeXStudio-cn  |    √     |  √   |
-|     VLC-cn     |    √     |  √   |
-|  VSCodium-cn   |    √     |  √   |
+|   Blender-cn   |    ✓     |  ✓   |
+|   FreeCAD-cn   |    ✓     |  ✓   |
+|     Git-cn     |    ✓     |  ✓   |
+|    GIMP-cn     |    ✓     |  ✓   |
+|  Inkscape-cn   |    ✓     |  ✓   |
+|    Julia-cn    |    ✓     |  ✓   |
+| LibreOffice-cn |    ✓     |  ✓   |
+|     LyX-cn     |    ✓     |  ✓   |
+| Mambaforge-cn  |    ✓     |  ✓   |
+|  Miniconda-cn  |    ✓     |  ✓   |
+| OBS-Studio-cn  |    ✓     |  ✓   |
+|   Octave-cn    |    ✓     |  ✓   |
+|  SageMath-cn   |    ✓     |  ✓   |
+|  TeXStudio-cn  |    ✓     |  ✓   |
+|     VLC-cn     |    ✓     |  ✓   |
+|  VSCodium-cn   |    ✓     |  ✓   |
 
 ## 备注
 

@@ -125,73 +125,73 @@ scoop config aria2-min-split-size 4M
 
 |       App        | Auto-Update ? |                       Original ?                       |
 | :--------------: | :-----------: | :----------------------------------------------------: |
-|     KingDraw     |       √       |                           √                            |
-| Mendeley-Desktop |       √       |                           √                            |
-|     NetLogo      |       √       |                           √                            |
-|      Spyder      |       √       |                           √                            |
-|     TeXLive      |       √       | modified [dorado](https://github.com/chawyehsu/dorado) |
+|     KingDraw     |       ✓       |                           ✓                            |
+| Mendeley-Desktop |       ✓       |                           ✓                            |
+|     NetLogo      |       ✓       |                           ✓                            |
+|      Spyder      |       ✓       |                           ✓                            |
+|     TeXLive      |       ✓       | modified [dorado](https://github.com/chawyehsu/dorado) |
 
 ### Development Auxiliary
 
 |          App           | Auto-Update ? |                            Original ?                            |
 | :--------------------: | :-----------: | :--------------------------------------------------------------: |
-|      AutoDarkMode      |       √       |                                √                                 |
-|        ChatBox         |       √       |                                √                                 |
-|   Clash-for-Windows    |       √       |    copied from [dorado](https://github.com/chawyehsu/dorado)     |
-|     FileCentipede      |       √       |                         √ (by @CronusLM)                         |
-|    LKY-Officetools     |       √       |     copied from [DoveBoy](hhttps://github.com/DoveBoy/Apps)      |
-|      N-m3u8DL-RE       |       √       |                                √                                 |
-|      RectangleWin      |       √       |                                √                                 |
-|         Viber          |       √       | copied from [ScoopMaster](https://github.com/okibcn/ScoopMaster) |
-|         WinRAR         |       √       |                                √                                 |
-|      WiseCare365       |       √       |                                √                                 |
-| VMware-Workstation-Pro |       √       |    modified [Ash258](https://github.com/Ash258/Scoop-Ash258)     |
+|      AutoDarkMode      |       ✓       |                                ✓                                 |
+|        ChatBox         |       ✓       |                                ✓                                 |
+|    Clash-Verge-Rev     |       ✓       |                                ✓                                 |
+|     FileCentipede      |       ✓       |                         ✓ (by @CronusLM)                         |
+|    LKY-Officetools     |       ✓       |     copied from [DoveBoy](hhttps://github.com/DoveBoy/Apps)      |
+|      N-m3u8DL-RE       |       ✓       |                                ✓                                 |
+|      RectangleWin      |       ✓       |                                ✓                                 |
+|         Viber          |       ✓       | copied from [ScoopMaster](https://github.com/okibcn/ScoopMaster) |
+|         WinRAR         |       ✓       |                                ✓                                 |
+|      WiseCare365       |       ✓       |                                ✓                                 |
+| VMware-Workstation-Pro |       ✓       |    modified [Ash258](https://github.com/Ash258/Scoop-Ash258)     |
 
 ### Opensource Mirrors
 
 |      App       | Auto-Update ? | Original ? |
 | :------------: | :-----------: | :--------: |
-|   Blender-cn   |       √       |     √      |
-|   FreeCAD-cn   |       √       |     √      |
-|     Git-cn     |       √       |     √      |
-|    GIMP-cn     |       √       |     √      |
-|  Inkscape-cn   |       √       |     √      |
-|    Julia-cn    |       √       |     √      |
-| LibreOffice-cn |       √       |     √      |
-|     LyX-cn     |       √       |     √      |
-| Mambaforge-cn  |       √       |     √      |
-|  Miniconda-cn  |       √       |     √      |
-| OBS-Studio-cn  |       √       |     √      |
-|   Octave-cn    |       √       |     √      |
-|  SageMath-cn   |       √       |     √      |
-|  TeXStudio-cn  |       √       |     √      |
-|     VLC-cn     |       √       |     √      |
-|  VSCodium-cn   |       √       |     √      |
+|   Blender-cn   |       ✓       |     ✓      |
+|   FreeCAD-cn   |       ✓       |     ✓      |
+|     Git-cn     |       ✓       |     ✓      |
+|    GIMP-cn     |       ✓       |     ✓      |
+|  Inkscape-cn   |       ✓       |     ✓      |
+|    Julia-cn    |       ✓       |     ✓      |
+| LibreOffice-cn |       ✓       |     ✓      |
+|     LyX-cn     |       ✓       |     ✓      |
+| Mambaforge-cn  |       ✓       |     ✓      |
+|  Miniconda-cn  |       ✓       |     ✓      |
+| OBS-Studio-cn  |       ✓       |     ✓      |
+|   Octave-cn    |       ✓       |     ✓      |
+|  SageMath-cn   |       ✓       |     ✓      |
+|  TeXStudio-cn  |       ✓       |     ✓      |
+|     VLC-cn     |       ✓       |     ✓      |
+|  VSCodium-cn   |       ✓       |     ✓      |
 
 ### Mainly for Chinese
 
 |         App         | Auto-Update ? |                        Original ?                         |
 | :-----------------: | :-----------: | :-------------------------------------------------------: |
-|       ADrive        |       √       |                             √                             |
-|    BaiduNetDisk     |       √       |                             √                             |
-|      CAJViewer      |       √       |                    √ (by @rayinfinite)                    |
-|     CNKIExpress     |       √       |                    √ (by @rayinfinite)                    |
-|      DingTalk       |       √       |                             √                             |
-|       DownKyi       |       √       |                     √ (by @CronusLM)                      |
-|    DiskGenius-cn    |       √       |                     √ (by @CronusLM)                      |
-|      Edgeless       |       √       |                    √ (by @IsaacWangTT)                    |
-|      EDrawMax       |       √       |                             √                             |
-|        Eudic        |       √       |                             √                             |
-|       Feishu        |       √       |                             √                             |
-|      LX-Music       |       √       |                             √                             |
-|   M3u8-Downloader   |       √       |                             √                             |
-|    NetEaseMusic     |       √       |                     √ (by @CronusLM)                      |
-| Partition-Assistant |       √       |                             √                             |
-|     Tencent-Edu     |       √       |                             √                             |
-|   Tencent-Meeting   |   3.5.6.416   |                     √ (by @Ryanjiena)                     |
-|       Ting-En       |       √       |                             √                             |
-|       uTools        |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
-|       Weasel        |       √       |                             √                             |
-|     WeChatWork      |       √       |                             √                             |
-|    WPSOffice-cn     |       √       |                             √                             |
-|        Yuque        |       √       | copied from [dorado](https://github.com/chawyehsu/dorado) |
+|       ADrive        |       ✓       |                             ✓                             |
+|    BaiduNetDisk     |       ✓       |                             ✓                             |
+|      CAJViewer      |       ✓       |                    ✓ (by @rayinfinite)                    |
+|     CNKIExpress     |       ✓       |                    ✓ (by @rayinfinite)                    |
+|      DingTalk       |       ✓       |                             ✓                             |
+|       DownKyi       |       ✓       |                     ✓ (by @CronusLM)                      |
+|    DiskGenius-cn    |       ✓       |                     ✓ (by @CronusLM)                      |
+|      Edgeless       |       ✓       |                    ✓ (by @IsaacWangTT)                    |
+|      EDrawMax       |       ✓       |                             ✓                             |
+|        Eudic        |       ✓       |                             ✓                             |
+|       Feishu        |       ✓       |                             ✓                             |
+|      LX-Music       |       ✓       |                             ✓                             |
+|   M3u8-Downloader   |       ✓       |                             ✓                             |
+|    NetEaseMusic     |       ✓       |                     ✓ (by @CronusLM)                      |
+| Partition-Assistant |       ✓       |                             ✓                             |
+|     Tencent-Edu     |       ✓       |                             ✓                             |
+|   Tencent-Meeting   |   3.5.6.416   |                     ✓ (by @Ryanjiena)                     |
+|       Ting-En       |       ✓       |                             ✓                             |
+|       uTools        |       ✓       | copied from [dorado](https://github.com/chawyehsu/dorado) |
+|       Weasel        |       ✓       |                             ✓                             |
+|     WeChatWork      |       ✓       |                             ✓                             |
+|    WPSOffice-cn     |       ✓       |                             ✓                             |
+|        Yuque        |       ✓       | copied from [dorado](https://github.com/chawyehsu/dorado) |
