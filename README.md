@@ -128,6 +128,7 @@ scoop config aria2-min-split-size 4M
 |     KingDraw     |       ✓       |                           ✓                            |
 | Mendeley-Desktop |       ✓       |                           ✓                            |
 |     NetLogo      |       ✓       |                           ✓                            |
+|   Pot-Desktop    |       ✓       |                           ✓                            |
 |      Spyder      |       ✓       |                           ✓                            |
 |     TeXLive      |       ✓       | modified [dorado](https://github.com/chawyehsu/dorado) |
 
