@@ -1,5 +1,5 @@
 {
-    "version": "v0.1.0",
+    "version": "0.1.0",
     "description": "Clash Meta TUI Client",
     "homepage": "https://github.com/JohanChane/clashtui",
     "license": "MIT",
@@ -15,9 +15,7 @@
         "nssm": "nssm",
         "clash.meta": "clash.meta"
     },
-    "pre_uninstall": [
-        "echo 'Please make sure to remove the clash-meta service installed by clashtui before uninstalling.'"
-    ],
+    "pre_uninstall": "echo 'Please make sure to remove the clash-meta service installed by clashtui before uninstalling.'",
     "checkver": "github",
     "autoupdate": {
         "architecture": {
