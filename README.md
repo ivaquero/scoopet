@@ -157,6 +157,7 @@ scoop config aria2-min-split-size 4M
 |     Git-cn     |       ✓       |     ✓      |
 |    GIMP-cn     |       ✓       |     ✓      |
 |  Inkscape-cn   |       ✓       |     ✓      |
+|    Kicad-cn    |       ✓       |     ✓      |
 |    Julia-cn    |       ✓       |     ✓      |
 | LibreOffice-cn |       ✓       |     ✓      |
 |     LyX-cn     |       ✓       |     ✓      |
