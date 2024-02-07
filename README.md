@@ -139,7 +139,7 @@ scoop config aria2-min-split-size 4M
 | :--------------------: | :-----------: | :---------------------------------------------------------: |
 |      AutoDarkMode      |       ✓       |                              ✓                              |
 |        ChatBox         |       ✓       |                              ✓                              |
-|        Doxygen         |       ✓       |                              ✓                              |
+|      Doxygen--GUI      |       ✓       |                              ✓                              |
 |     FileCentipede      |       ✓       |                      ✓ (by @CronusLM)                       |
 |    LKY-Officetools     |       ✓       |   copied from [DoveBoy](hhttps://github.com/DoveBoy/Apps)   |
 |      N-m3u8DL-RE       |       ✓       |                              ✓                              |
