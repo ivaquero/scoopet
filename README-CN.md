@@ -132,7 +132,6 @@ scoop config aria2-min-split-size 4M
 |   Mendeley-Desktop   |    ✓     |                               ✓                                |
 |       NetLogo        |    ✓     |                               ✓                                |
 |     Pot-Desktop      |    ✓     |                               ✓                                |
-|        Spyder        |    ✓     |                               ✓                                |
 |       TeXLive        |    ✓     |   修改自 [chawyehsu](https://github.com/chawyehsu/chawyehsu)   |
 
 ### 日常工作
