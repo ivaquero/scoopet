@@ -123,14 +123,15 @@ scoop config aria2-min-split-size 4M
 
 ### Research Tools
 
-|         App          | Auto-Update ? |                           Original ?                           |
-| :------------------: | :-----------: | :------------------------------------------------------------: |
-| Inkscape-ext-TexText |       ✓       | copied from [hrshtst](https://github.com/hrshtst/scoop-bucket) |
-|       KingDraw       |       ✓       |                               ✓                                |
-|   Mendeley-Desktop   |       ✓       |                               ✓                                |
-|       NetLogo        |       ✓       |                               ✓                                |
-|     Pot-Desktop      |       ✓       |                               ✓                                |
-|       TeXLive        |       ✓       |  modified [chawyehsu](https://github.com/chawyehsu/chawyehsu)  |
+|         App          | Auto-Update ? |                             Original ?                             |
+| :------------------: | :-----------: | :----------------------------------------------------------------: |
+|         Buzz         |       ✓       | copied from [DEV-tools](https://github.com/anderlli0053/DEV-tools) |
+| Inkscape-ext-TexText |       ✓       |   copied from [hrshtst](https://github.com/hrshtst/scoop-bucket)   |
+|       KingDraw       |       ✓       |                                 ✓                                  |
+|   Mendeley-Desktop   |       ✓       |                                 ✓                                  |
+|       NetLogo        |       ✓       |                                 ✓                                  |
+|     Pot-Desktop      |       ✓       |                                 ✓                                  |
+|       TeXLive        |       ✓       |    modified [chawyehsu](https://github.com/chawyehsu/chawyehsu)    |
 
 ### Development Auxiliary
 
@@ -138,7 +139,7 @@ scoop config aria2-min-split-size 4M
 | :--------------------: | :-----------: | :---------------------------------------------------------: |
 |      AutoDarkMode      |       ✓       |                              ✓                              |
 |        ChatBox         |       ✓       |                              ✓                              |
-|      Doxygen--GUI      |       ✓       |                              ✓                              |
+|      Doxygen-GUI       |       ✓       |                              ✓                              |
 |     FileCentipede      |       ✓       |                      ✓ (by @CronusLM)                       |
 |    LKY-Officetools     |       ✓       |   copied from [DoveBoy](hhttps://github.com/DoveBoy/Apps)   |
 |      N-m3u8DL-RE       |       ✓       |                              ✓                              |

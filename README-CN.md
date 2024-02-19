@@ -125,14 +125,15 @@ scoop config aria2-min-split-size 4M
 
 ### 科研工具
 
-|         App          | 自动更新 |                              原创                              |
-| :------------------: | :------: | :------------------------------------------------------------: |
-| Inkscape-ext-TexText |    ✓     | copied from [hrshtst](https://github.com/hrshtst/scoop-bucket) |
-|       KingDraw       |    ✓     |                               ✓                                |
-|   Mendeley-Desktop   |    ✓     |                               ✓                                |
-|       NetLogo        |    ✓     |                               ✓                                |
-|     Pot-Desktop      |    ✓     |                               ✓                                |
-|       TeXLive        |    ✓     |   修改自 [chawyehsu](https://github.com/chawyehsu/chawyehsu)   |
+|         App          | 自动更新 |                             原创                              |
+| :------------------: | :------: | :-----------------------------------------------------------: |
+|         Buzz         |    ✓     | 复制于 [DEV-tools](https://github.com/anderlli0053/DEV-tools) |
+| Inkscape-ext-TexText |    ✓     |   复制于 [hrshtst](https://github.com/hrshtst/scoop-bucket)   |
+|       KingDraw       |    ✓     |                               ✓                               |
+|   Mendeley-Desktop   |    ✓     |                               ✓                               |
+|       NetLogo        |    ✓     |                               ✓                               |
+|     Pot-Desktop      |    ✓     |                               ✓                               |
+|       TeXLive        |    ✓     |  修改自 [chawyehsu](https://github.com/chawyehsu/chawyehsu)   |
 
 ### 日常工作
 
