@@ -166,6 +166,7 @@ scoop config aria2-min-split-size 4M
 |    亿图图示     |      edrawmax       |     ✓     |                             ✓                              |
 |    欧路词典     |        Eudic        |     ✓     |                             ✓                              |
 |      飞书       |       Feishu        |     ✓     |                             ✓                              |
+|  Fishing-Funds  |    Fishing-Funds    |     ✓     |                             ✓                              |
 |  洛雪音乐助手   |      LX-Music       |     ✓     |                             ✓                              |
 | M3u8-Downloader |   M3u8-Downloader   |     ✓     |                             ✓                              |
 |   网易云音乐    |    NetEaseMusic     |     ✓     |                             ✓                              |

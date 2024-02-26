@@ -186,6 +186,7 @@ scoop config aria2-min-split-size 4M
 |      EDrawMax       |       ✓       |                                ✓                                |
 |        Eudic        |       ✓       |                                ✓                                |
 |       Feishu        |       ✓       |                                ✓                                |
+|    Fishing-Funds    |       ✓       |                                ✓                                |
 |      LX-Music       |       ✓       |                                ✓                                |
 |   M3u8-Downloader   |       ✓       |                                ✓                                |
 |    NetEaseMusic     |       ✓       |                        ✓ (by @CronusLM)                         |
