@@ -7,7 +7,7 @@
 
 一个用于 Windows 最佳包管理器 [Scoop](https://github.com/ScoopInstaller/Scoop)的脚本仓库：持续助力科研
 
-> 如果你想参与仓库管理，尽管通过 new issue 告知。
+> 如果你想共同维护仓库，欢迎在讨论版块告诉我。
 
 <p align="left">
 <a href="README.md">English</a> |
