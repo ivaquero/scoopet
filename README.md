@@ -7,7 +7,7 @@
 
 A Bucket for the Best Windows Package Manager [Scoop](https://github.com/ScoopInstaller/Scoop): Continuously Assisting in Academic Research.
 
-> If you would like to be a co-maintainer, feel free to create a new issue.
+> If you would like to be a co-maintainer, feel free to tell me in the Discussion.
 
 <p align="left">
 <a href="README.md">English</a> |
