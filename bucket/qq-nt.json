@@ -37,7 +37,7 @@
     },
     "checkver": {
         "url": "https://cdn-go.cn/qq-web/im.qq.com_new/latest/rainbow/windowsDownloadUrl.js",
-        "regex": "\"ntVersion\":\"(?<Version>[\\d.]+)\".*\"ntPublishTime\":\"[\\d年月日]+\".*\"newTag\":.*?.*\"ntDownloadUrl\":\"(?<Url>[^\"]+)\".*\"ntDownloadX64Url\":\"(?<Url64>[^\"]+)\""
+        "regex": "\"ntVersion\":\"(?<Version>[\\d.]+)\"|\"ntPublishTime\":\"[\\d年月日]+\"|\"ntDownloadUrl\":\"(?<Url>[^\"]+)\"|\"ntDownloadX64Url\":\"(?<Url64>[^\"]+)\""
     },
     "autoupdate": {
         "architecture": {
