@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://download.qt.io/archive/qt/5.12/5.12.12/qt-opensource-windows-x86-5.12.12.exe#/dl.7z",
-            "hash": "md5:e78ce7f5a1575ce0a1f7c9c6cc845f99"
+            "hash": "md5:601a12d7e6c5043b8d836179d127fb57"
         }
     },
     "bin": "bin\\qtcreator.exe",
