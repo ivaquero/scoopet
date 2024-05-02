@@ -143,6 +143,7 @@ scoop config aria2-min-split-size 4M
 |     FileCentipede      |       ✓       |                      ✓ (by @CronusLM)                       |
 |    LKY-Officetools     |       ✓       |   copied from [DoveBoy](hhttps://github.com/DoveBoy/Apps)   |
 |      N-m3u8DL-RE       |       ✓       |                              ✓                              |
+|      Qt5-Offline       |       ✓       |                              ✓                              |
 |      RectangleWin      |       ✓       |                              ✓                              |
 |         Viber          |       ✓       | copied from [okibcn](https://github.com/okibcn/ScoopMaster) |
 |         WinRAR         |       ✓       |                              ✓                              |
