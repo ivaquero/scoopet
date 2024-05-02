@@ -138,7 +138,7 @@ scoop config aria2-min-split-size 4M
 ### 日常工作
 
 |          App           | 自动更新 |                          原创                           |
-| :-----------------: | :------: | :----------: |
+| :--------------------: | :------: | :-----------------------------------------------------: |
 |      AutoDarkMode      |    ✓     |                            ✓                            |
 |        ChatBox         |    ✓     |                            ✓                            |
 |      Doxygen-GUI       |    ✓     |                            ✓                            |
@@ -146,7 +146,7 @@ scoop config aria2-min-split-size 4M
 |    LKY-Officetools     |    ✓     |   复制于 [DoveBoy](hhttps://github.com/DoveBoy/Apps)    |
 |      N-m3u8DL-RE       |    ✓     |                            ✓                            |
 |      RectangleWin      |    ✓     |                            ✓                            |
-|         Viber          |    ✓     |                                                         | 复制于 [okibcn](https://github.com/okibcn/ScoopMaster) |
+|         Viber          |    ✓     | 复制于 [okibcn](https://github.com/okibcn/ScoopMaster)  |
 |         WinRAR         |    ✓     |                            ✓                            |
 |      WiseCare365       |    ✓     |                            ✓                            |
 | VMware-Workstation-Pro |    ✓     | 修改自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
@@ -182,25 +182,26 @@ scoop config aria2-min-split-size 4M
 
 ### 开源镜像
 
-|      App       | 自动更新 | 原创 |
-| :------------: | :------: | :--: |
-|   Blender-cn   |    ✓     |  ✓   |
-|   FreeCAD-cn   |    ✓     |  ✓   |
-|     Git-cn     |    ✓     |  ✓   |
-|    GIMP-cn     |    ✓     |  ✓   |
-|  Inkscape-cn   |    ✓     |  ✓   |
-|    Julia-cn    |    ✓     |  ✓   |
-|    Kicad-cn    |    ✓     |  ✓   |
-| LibreOffice-cn |    ✓     |  ✓   |
-|     LyX-cn     |    ✓     |  ✓   |
-| Mambaforge-cn  |    ✓     |  ✓   |
-|  Miniconda-cn  |    ✓     |  ✓   |
-| OBS-Studio-cn  |    ✓     |  ✓   |
-|   Octave-cn    |    ✓     |  ✓   |
-|  SageMath-cn   |    ✓     |  ✓   |
-|  TeXStudio-cn  |    ✓     |  ✓   |
-|     VLC-cn     |    ✓     |  ✓   |
-|  VSCodium-cn   |    ✓     |  ✓   |
+|      App       | 自动更新 | 原创  |
+| :------------: | :------: | :---: |
+|   Blender-cn   |    ✓     |   ✓   |
+|   FreeCAD-cn   |    ✓     |   ✓   |
+|     Git-cn     |    ✓     |   ✓   |
+|    GIMP-cn     |    ✓     |   ✓   |
+|  Inkscape-cn   |    ✓     |   ✓   |
+|    Julia-cn    |    ✓     |   ✓   |
+|    Kicad-cn    |    ✓     |   ✓   |
+| LibreOffice-cn |    ✓     |   ✓   |
+|     LyX-cn     |    ✓     |   ✓   |
+| Mambaforge-cn  |    ✓     |   ✓   |
+|  Miniconda-cn  |    ✓     |   ✓   |
+| OBS-Studio-cn  |    ✓     |   ✓   |
+|   Octave-cn    |    ✓     |   ✓   |
+| Qt-Creator-cn  |    ✓     |   ✓   |
+|  SageMath-cn   |    ✓     |   ✓   |
+|  TeXStudio-cn  |    ✓     |   ✓   |
+|     VLC-cn     |    ✓     |   ✓   |
+|  VSCodium-cn   |    ✓     |   ✓   |
 
 ## 备注
 

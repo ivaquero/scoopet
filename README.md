@@ -166,6 +166,7 @@ scoop config aria2-min-split-size 4M
 |  Miniconda-cn  |       ✓       |     ✓      |
 | OBS-Studio-cn  |       ✓       |     ✓      |
 |   Octave-cn    |       ✓       |     ✓      |
+| Qt-Creator-cn  |       ✓       |     ✓      |
 |  SageMath-cn   |       ✓       |     ✓      |
 |  TeXStudio-cn  |       ✓       |     ✓      |
 |     VLC-cn     |       ✓       |     ✓      |
