@@ -9,7 +9,8 @@
             "hash": "md5:e78ce7f5a1575ce0a1f7c9c6cc845f99"
         }
     },
-    "bin": [
+    "bin": "bin\\qtcreator.exe",
+    "shortcuts": [
         [
             "bin\\qmake.exe",
             "qmake"
