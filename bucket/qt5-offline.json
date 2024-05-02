@@ -22,7 +22,7 @@
     ],
     "checkver": {
         "url": "https://www.qt.io/offline-installers",
-        "regex": "Qt ([5\.12\.\d+]) for Windows"
+        "regex": "Qt ([5\\.12\\.\\d+]) for Windows"
     },
     "autoupdate": {
         "architecture": {
