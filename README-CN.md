@@ -127,13 +127,14 @@ scoop config aria2-min-split-size 4M
 
 |         App          | 自动更新 |                             原创                              |
 | :------------------: | :------: | :-----------------------------------------------------------: |
-|         Buzz         |    ✓    | 复制于 [DEV-tools](https://github.com/anderlli0053/DEV-tools) |
+|         Buzz         |    ✓    | 复制于 [anderlli0053](https://github.com/anderlli0053/DEV-tools) |
 | Inkscape-ext-TexText |    ✓    |   复制于 [hrshtst](https://github.com/hrshtst/scoop-bucket)   |
 |       KingDraw       |    ✓    |                              ✓                               |
 |   Mendeley-Desktop   |    ✓    |                              ✓                               |
 |       NetLogo        |    ✓    |                              ✓                               |
 |     Pot-Desktop      |    ✓    |                              ✓                               |
-|       TeXLive        |    ✓    |  修改自 [chawyehsu](https://github.com/chawyehsu/chawyehsu)   |
+|       revezone       |    ✓    |  修改自 [gdm257](https://github.com/gdm257/scoop-257)   |
+|       TeXLive        |    ✓    |  修改自 [chawyehsu](https://github.com/chawyehsu/dorado)   |
 
 ### 日常工作
 
@@ -175,11 +176,11 @@ scoop config aria2-min-split-size 4M
 |    腾讯教育     |     Tencent-Edu     |    ✓     |                             ✓                             |
 |    腾讯会议     |   Tencent-Meeting   | 3.5.6.416 |                     ✓ (by @Ryanjiena)                     |
 |  每日英语听力   |       Ting-En       |    ✓     |                             ✓                             |
-|     uTools      |       uTools        |    ✓     | 复制于 [chawyehsu](https://github.com/chawyehsu/chawyehsu) |
+|     uTools      |       uTools        |    ✓     | 复制于 [chawyehsu](https://github.com/chawyehsu/dorado) |
 |     小狼毫      |       Weasel        |    ✓     |                             ✓                             |
 |    企业微信     |     WeChatWork      |    ✓     |                             ✓                             |
 |    WPSOffice    |    WPSOffice-cn     |    ✓     |                             ✓                             |
-|      语雀       |        Yuque        |    ✓     | 复制于 [chawyehsu](https://github.com/chawyehsu/chawyehsu) |
+|      语雀       |        Yuque        |    ✓     | 复制于 [chawyehsu](https://github.com/chawyehsu/dorado) |
 
 ### 开源镜像
 

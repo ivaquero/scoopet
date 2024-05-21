@@ -131,7 +131,8 @@ scoop config aria2-min-split-size 4M
 |   Mendeley-Desktop   |      ✓       |                                 ✓                                 |
 |       NetLogo        |      ✓       |                                 ✓                                 |
 |     Pot-Desktop      |      ✓       |                                 ✓                                 |
-|       TeXLive        |      ✓       |    modified [chawyehsu](https://github.com/chawyehsu/chawyehsu)    |
+|       revezone       |    ✓    |  modified [gdm257](https://github.com/gdm257/scoop-257)   |
+|       TeXLive        |      ✓       |    modified [chawyehsu](https://github.com/chawyehsu/dorado)    |
 
 ### Development Auxiliary
 
@@ -196,8 +197,8 @@ scoop config aria2-min-split-size 4M
 |     Tencent-Edu     |      ✓       |                               ✓                                |
 |   Tencent-Meeting   |   3.5.6.416   |                       ✓ (by @Ryanjiena)                        |
 |       Ting-En       |      ✓       |                               ✓                                |
-|       uTools        |      ✓       | copied from [chawyehsu](https://github.com/chawyehsu/chawyehsu) |
+|       uTools        |      ✓       | copied from [chawyehsu](https://github.com/chawyehsu/dorado) |
 |       Weasel        |      ✓       |                               ✓                                |
 |     WeChatWork      |      ✓       |                               ✓                                |
 |    WPSOffice-cn     |      ✓       |                               ✓                                |
-|        Yuque        |      ✓       | copied from [chawyehsu](https://github.com/chawyehsu/chawyehsu) |
+|        Yuque        |      ✓       | copied from [chawyehsu](https://github.com/chawyehsu/dorado) |
