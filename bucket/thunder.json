@@ -1,0 +1,32 @@
+{
+    "homepage": "https://www.xunlei.com/",
+    "license": "Freeware",
+    "version": "12.0.12.2510",
+    "architecture": {
+        "64bit": {
+            "url": "https://down.sandai.net/thunder11/XunLeiWebSetup12.0.12.2510xl11.exe#/dl.7z",
+            "hash": "de63dc2ef45d5b094a239fc704051270f3185bf9e883132532b7e17d2fdaf81b"
+        }
+    },
+    "installer": {
+        "script": [
+            "Move-Item \"$dir\\$fname\" \"$dir\\..\\$fname\"",
+            "Start-Process -Wait \"$dir\\..\\$fname\" -ArgumentList @('/S', '/InstallationType=JustMe', '/RegisterPython=0', '/AddToPath=0', '/NoRegistry=1', \"/D=$dir\")",
+            "Remove-Item \"$dir\\..\\$fname\""
+        ]
+    },
+    "uninstaller": {
+        "script": "Invoke-ExternalCommand \"$dir/uninstall.exe\" -ArgumentList '/S' -RunAs | Out-Null"
+    },
+    "checkver": {
+        "url": "https://www.xunlei.com/",
+        "regex": "/down.sandai.net/thunder11/XunLeiWebSetup([\\d.]+)xl11.exe"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://down.sandai.net/thunder11/XunLeiWebSetup$versionxl11.exe#/dl.7z"
+            }
+        }
+    }
+}
