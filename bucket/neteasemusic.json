@@ -18,10 +18,10 @@
     ],
     "checkver": {
         "script": "return (iwr -useb 'https://music.163.com/api/pc/package/download/latest' -Method Head).Headers['x-nos-object-name']",
-        "regex": "(?<version>[\\d.]+(?:_[\\d.]+)?).exe"
+        "regex": "(?<version>[\\d.]+(?:_[\\d.]+)?)_32.exe"
     },
     "autoupdate": {
-        "url": "https://d1.music.126.net/dmusic/NeteaseCloudMusic_Music_official_$version.exe#/dl.7z"
+        "url": "https://d1.music.126.net/dmusic/NeteaseCloudMusic_Music_official_$version_32.exe#/dl.7z"
     },
     "notes": "We don't persist your CloudMusic data, they are still storaged in '%LOCALAPPDATA%\\Netease\\CloudMusic'."
 }
