@@ -36,7 +36,7 @@
         "script": "Remove-Item -Path \"$env:PUBLIC\\Documents\\Tencent\" -Recurse -Force | Out-Null"
     },
     "checkver": {
-        "url": "https://cdn-go.cn/qq-web/im.qq.com_new/latest/rainbow/windowsDownloadUrl.js",
+        "url": "https://qq-web.cdn-go.cn/im.qq.com_new/f2ff7664/rainbow/windowsDownloadUrl.js",
         "regex": "QQNT/Windows/QQ_([\\d.]+)_([\\d.]+)_x86_([\\d.]+).exe.*QQNT/Windows/QQ_([\\d.]+)_([\\d.]+)_x64_([\\d.]+).exe"
     },
     "autoupdate": {
