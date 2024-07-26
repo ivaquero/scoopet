@@ -125,13 +125,12 @@ scoop config aria2-min-split-size 4M
 
 |         App          | Auto-Update ? |                             Original ?                             |
 | :------------------: | :-----------: | :----------------------------------------------------------------: |
-|         Buzz         |      ✓       | copied from [DEV-tools](https://github.com/anderlli0053/DEV-tools) |
+|         Buzz         |      ✓       | copied from [anderlli0053](https://github.com/anderlli0053/DEV-tools) |
 | Inkscape-ext-TexText |      ✓       |   copied from [hrshtst](https://github.com/hrshtst/scoop-bucket)   |
 |  jupyterlab-desktop  |      ✓       |       modified [gdm257](https://github.com/gdm257/scoop-257)       |
 |       KingDraw       |      ✓       |                                 ✓                                 |
 |   Mendeley-Desktop   |      ✓       |                                 ✓                                 |
 |       NetLogo        |      ✓       |                                 ✓                                 |
-|       revezone       |      ✓       |       modified [gdm257](https://github.com/gdm257/scoop-257)       |
 |       TeXLive        |      ✓       |     modified [chawyehsu](https://github.com/chawyehsu/dorado)      |
 
 ### Development Auxiliary

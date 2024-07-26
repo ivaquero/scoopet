@@ -133,7 +133,6 @@ scoop config aria2-min-split-size 4M
 |       KingDraw       |    ✓    |                                ✓                                |
 |   Mendeley-Desktop   |    ✓    |                                ✓                                |
 |       NetLogo        |    ✓    |                                ✓                                |
-|       revezone       |    ✓    |       修改自 [gdm257](https://github.com/gdm257/scoop-257)       |
 |       TeXLive        |    ✓    |     修改自 [chawyehsu](https://github.com/chawyehsu/dorado)      |
 
 ### 日常工作
