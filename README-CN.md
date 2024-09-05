@@ -145,6 +145,7 @@ scoop config aria2-min-split-size 4M
 |        escrcpy         |    ✓    |   复制于 [DoveBoy](hhttps://github.com/DoveBoy/Apps)    |
 |     FileCentipede      |    ✓    |                    ✓ (by @CronusLM)                    |
 |    LKY-Officetools     |    ✓    |   复制于 [DoveBoy](hhttps://github.com/DoveBoy/Apps)    |
+|       MicroMamba       |    ✓    |                           ✓                            |
 |      N-m3u8DL-RE       |    ✓    |                           ✓                            |
 |      Pot-Desktop       |    ✓    |                           ✓                            |
 |      RectangleWin      |    ✓    |                           ✓                            |
@@ -197,6 +198,7 @@ scoop config aria2-min-split-size 4M
 | LibreOffice-cn |    ✓    |  ✓  |
 |     LyX-cn     |    ✓    |  ✓  |
 | Mambaforge-cn  |    ✓    |  ✓  |
+| MicroMamba-cn  |    ✓    |  ✓  |
 |  Miniconda-cn  |    ✓    |  ✓  |
 | OBS-Studio-cn  |    ✓    |  ✓  |
 |   Octave-cn    |    ✓    |  ✓  |
