@@ -13,7 +13,6 @@
             "hash": "58183eecdb099477849a9c32086f9e86a0a96b19a0c017620b2a00722b5d732b"
         }
     },
-    "innosetup": true,
     "bin": "bin\\julia.exe",
     "checkver": {
         "url": "https://julialang.org/downloads/",
@@ -28,5 +27,11 @@
                 "url": "https://mirrors.bfsu.edu.cn/julia-releases/bin/winnt/x86/$majorVersion.$minorVersion/julia-$version-win32.exe"
             }
         }
-    }
+    },
+    "shortcuts": [
+        [
+            "bin\\julia.exe",
+            "Julia"
+        ]
+    ]
 }
