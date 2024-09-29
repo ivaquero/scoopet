@@ -6,11 +6,13 @@
     "architecture": {
         "64bit": {
             "url": "https://mirrors.tuna.tsinghua.edu.cn/julia-releases/bin/winnt/x64/1.10/julia-1.10.5-win64.zip",
-            "hash": "7b21b30c0a412df7bf2472ff5ee5d47aab5a9b4f184a7595da62eea3f10650b1"
+            "hash": "7b21b30c0a412df7bf2472ff5ee5d47aab5a9b4f184a7595da62eea3f10650b1",
+            "extract_dir": "julia-1.10.5"
         },
         "32bit": {
             "url": "https://mirrors.tuna.tsinghua.edu.cn/julia-releases/bin/winnt/x86/1.10/julia-1.10.5-win32.zip",
-            "hash": "5a2ff3252ae8707c1e9c5b46389c596b4f8036efeff64fea5e1acd219a5db3c9"
+            "hash": "5a2ff3252ae8707c1e9c5b46389c596b4f8036efeff64fea5e1acd219a5db3c9",
+            "extract_dir": "julia-1.10.5"
         }
     },
     "bin": "bin\\julia.exe",
@@ -21,10 +23,12 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://mirrors.tuna.tsinghua.edu.cn/julia-releases/bin/winnt/x64/$majorVersion.$minorVersion/julia-$version-win64.zip"
+                "url": "https://mirrors.tuna.tsinghua.edu.cn/julia-releases/bin/winnt/x64/$majorVersion.$minorVersion/julia-$version-win64.zip",
+                "extract_dir": "julia-$version"
             },
             "32bit": {
-                "url": "https://mirrors.tuna.tsinghua.edu.cn/julia-releases/bin/winnt/x86/$majorVersion.$minorVersion/julia-$version-win32.zip"
+                "url": "https://mirrors.tuna.tsinghua.edu.cn/julia-releases/bin/winnt/x86/$majorVersion.$minorVersion/julia-$version-win32.zip",
+                "extract_dir": "julia-$version"
             }
         }
     },
