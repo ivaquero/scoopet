@@ -6,13 +6,9 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.2.5-1/JupyterLab-Setup-Windows-x64.exe",
-            "hash": "sha512:61150aebc779d1ec40ba75025434d02fa6c19a8cbfec7d15fbb216eb5ed23ebdf6e338e4a5e6dabfccb752320fb56d94ecce5c1deca579b4a8b20f7c68a5d39d"
+            "hash": "N9VnFbOvhCdOwoOSM/qiu2F5k3VrE5lrLVWz934r5FwiNBVX6b7YQBEk2Y1j6jJsmH7Ige9ZnyXYFFf6ubj7aQ=="
         }
     },
-    "pre_install": [
-        "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
-        "Remove-Item \"$dir\\`$*\", \"$dir\\Uninstall*\" -Recurse"
-    ],
     "bin": "jlab.cmd",
     "shortcuts": [
         [
