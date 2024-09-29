@@ -21,6 +21,10 @@
         "architecture": {
             "64bit": {
                 "url": "https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v$version/JupyterLab-Setup-Windows-x64.exe"
+            },
+            "hash": {
+                "url": "https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v$version/latest.yml",
+                "find": "sha512: ([a-fA-F0-9]{128})"
             }
         }
     }
