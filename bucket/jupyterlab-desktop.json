@@ -5,10 +5,14 @@
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.2.5-1/JupyterLab-Setup-Windows-x64.exe",
-            "hash": "N9VnFbOvhCdOwoOSM/qiu2F5k3VrE5lrLVWz934r5FwiNBVX6b7YQBEk2Y1j6jJsmH7Ige9ZnyXYFFf6ubj7aQ=="
+            "url": "https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.2.5-1/JupyterLab-Setup-Windows-x64.exe#/dl.7z",
+            "hash": "sha512:f63202132d706ceb5c89ce76e304abaf9c1f021316c016f4855a3a55f519a1e8"
         }
     },
+    "pre_install": [
+        "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
+        "Remove-Item \"$dir\\`$*\", \"$dir\\Uninstall*\" -Recurse"
+    ],
     "bin": "jlab.cmd",
     "shortcuts": [
         [
@@ -20,11 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v$version/JupyterLab-Setup-Windows-x64.exe"
-            },
-            "hash": {
-                "url": "https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v$version/latest.yml",
-                "find": "sha512: ([a-fA-F0-9]{128})"
+                "url": "https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v$version/JupyterLab-Setup-Windows-x64.exe#/dl.7z"
             }
         }
     }
