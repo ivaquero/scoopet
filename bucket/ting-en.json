@@ -23,7 +23,7 @@
         ]
     ],
     "checkver": {
-        "url": "https://www.eudic.net/v4/es/app/ting",
+        "url": "https://www.eudic.net/v4/en/app/ting",
         "regex": "<a href=\"https://static.frdic.com/pkg/ting_en_setup.zip?\\?v=([\\d-]+)\""
     },
     "autoupdate": {

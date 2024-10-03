@@ -185,6 +185,8 @@ scoop config aria2-min-split-size 4M
 |    西语助手     |      EsHelper       |    ✓     |                            ✓                            |
 |    法语助手     |      FrHelper       |    ✓     |                            ✓                            |
 |  每日英语听力   |       ting-en       |    ✓     |                            ✓                            |
+|  每日西语听力   |       ting-es       |    ✓     |                            ✓                            |
+|  每日法语听力   |       ting-fr       |    ✓     |                            ✓                            |
 |      飞书       |       Feishu        |    ✓     |                            ✓                            |
 |  Fishing-Funds  |    Fishing-Funds    |    ✓     |                            ✓                            |
 |  洛雪音乐助手   |      LX-Music       |    ✓     |                            ✓                            |
