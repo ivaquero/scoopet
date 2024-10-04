@@ -211,7 +211,7 @@ scoop config aria2-min-split-size 4M
 |   FreeCAD-cn   |    ✓     |   ✓   |
 |     Git-cn     |    ✓     |   ✓   |
 |    GIMP-cn     |    ✓     |   ✓   |
-|  GIMP-Dev-cn   |    ✓     |   ✓   |
+|  GIMP@dev-cn   |    ✓     |   ✓   |
 |  Inkscape-cn   |    ✓     |   ✓   |
 |    Julia-cn    |    ✓     |   ✓   |
 |    Kicad-cn    |    ✓     |   ✓   |
