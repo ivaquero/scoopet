@@ -1,6 +1,6 @@
 {
     "version": "1.3.10",
-    "description": "ChatBox. a cross-platform desktop client for OpenAI API, also a prompt debugging and management tool.",
+    "description": "Cross-platform desktop client for OpenAI API",
     "homepage": "https://github.com/Bin-Huang/chatbox",
     "license": "NO LICENSE",
     "architecture": {

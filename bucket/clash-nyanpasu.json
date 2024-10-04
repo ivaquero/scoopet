@@ -1,6 +1,6 @@
 {
     "version": "1.6.1",
-    "description": "A Clash GUI based on Tauri.",
+    "description": "A Clash GUI based on Tauri",
     "homepage": "https://github.com/keiko233/clash-nyanpasu",
     "license": "GPL-3.0-only",
     "architecture": {

@@ -1,6 +1,6 @@
 {
     "version": "2.1.24255",
-    "description": "Set of software components that allows the creation of user mode file systems.",
+    "description": "Set of software components that allows the creation of user mode file systems",
     "homepage": "https://winfsp.dev/",
     "license": "GPL-3.0-only",
     "architecture": {

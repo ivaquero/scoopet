@@ -1,6 +1,6 @@
 {
     "version": "10.4.1.1",
-    "description": "Auto Dark Mode. Automatically switches between the dark and light theme of Windows 10 at scheduled times.",
+    "description": "Automatically switches between the dark and light theme of Windows 10 at scheduled times",
     "homepage": "https://github.com/Armin2208/Windows-Auto-Night-Mode",
     "license": "GPL-3.0-only",
     "architecture": {

@@ -1,6 +1,6 @@
 {
     "version": "0.1.5",
-    "description": "Alist Helper is an application developed using Flutter, designed to simplify the use of the desktop version of alist. It can manage alist, allowing you to easily start and stop the alist program.",
+    "description": "Application to simplify the use of the desktop version of alist",
     "homepage": "https://github.com/Xmarmalade/alisthelper",
     "license": "GPL-3.0 license",
     "architecture": {
