@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/https://github.com/huiyadanli/RevokeMsgPatcher/releases/download/1.9/RevokeMsgPatcher.v1.9.zip",
+            "url": "https://github.com/huiyadanli/RevokeMsgPatcher/releases/download/1.9/RevokeMsgPatcher.v1.9.zip",
             "hash": "003642c3736ace8620a99a59af4b237d3e5b8f3ae9f56a278259344c9caa394c"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/https://github.com/huiyadanli/RevokeMsgPatcher/releases/download/$version/RevokeMsgPatcher.v$version.zip",
+                "url": "https://github.com/huiyadanli/RevokeMsgPatcher/releases/download/$version/RevokeMsgPatcher.v$version.zip",
                 "extract_dir": "RevokeMsgPatcher.v$version"
             }
         }

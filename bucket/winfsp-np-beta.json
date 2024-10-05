@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/https://github.com/winfsp/winfsp/releases/download/v2.1B2/winfsp-2.1.24255.msi#/setup.msi_",
+            "url": "https://github.com/winfsp/winfsp/releases/download/v2.1B2/winfsp-2.1.24255.msi#/setup.msi_",
             "hash": "5f05856a75e89c244a9d845e9a8b426052a33d26e65874277ce8871fec7073d6"
         }
     },
@@ -32,14 +32,14 @@
         "install/bin/memfs.exe"
     ],
     "checkver": {
-        "url": "https://ghproxy.com/https://api.github.com/repositories/59151203/releases",
+        "url": "https://api.github.com/repositories/59151203/releases",
         "jsonpath": "$[0].assets[0].browser_download_url",
         "regex": "v(?<tag>[\\w.]+)/winfsp-([\\d.]+)\\.msi"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.com/https://github.com/winfsp/winfsp/releases/download/v$matchTag/winfsp-$version.msi#/setup.msi_"
+                "url": "https://github.com/winfsp/winfsp/releases/download/v$matchTag/winfsp-$version.msi#/setup.msi_"
             }
         }
     }
