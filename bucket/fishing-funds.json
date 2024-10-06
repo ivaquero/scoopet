@@ -18,10 +18,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": "https://github.com/1zilc/fishing-funds/releases/download/$version/Fishing-Funds-Setup-$version.exe#/dl.7z"
-            }
-        }
+        "url": "https://github.com/1zilc/fishing-funds/releases/download/$version/Fishing-Funds-Setup-$version.exe#/dl.7z"
     }
 }
