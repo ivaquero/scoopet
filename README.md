@@ -144,6 +144,7 @@ scoop config aria2-min-split-size 4M
 |     FileCentipede      |       ✓       |                      ✓ (by @CronusLM)                       |
 |      Pot-Desktop       |       ✓       |                              ✓                              |
 |      RectangleWin      |       ✓       |                              ✓                              |
+|        Veracypt        |       ✓       |                              ✓                              |
 |         Viber          |       ✓       | copied from [okibcn](https://github.com/okibcn/ScoopMaster) |
 |         WinRAR         |       ✓       |                              ✓                              |
 |      WiseCare365       |       ✓       |                              ✓                              |
