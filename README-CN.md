@@ -132,6 +132,7 @@ scoop config aria2-min-split-size 4M
 |      KingDraw      |    ✓     |                                ✓                                 |
 |  Mendeley-Desktop  |    ✓     |                                ✓                                 |
 |      NetLogo       |    ✓     |                                ✓                                 |
+|  OpenBB-Terminal   |    ✓     |                                ✓                                 |
 |     SciHubEVA      |    ✓     |                                ✓                                 |
 |      TeXLive       |    ✓     |     修改自 [chawyehsu](https://github.com/chawyehsu/dorado)      |
 
