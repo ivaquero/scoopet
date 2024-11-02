@@ -180,7 +180,6 @@ scoop config aria2-min-split-size 4M
 |   DashPlayer    |     DashPlayer      |    ✓     |                            ✓                            |
 |      钉钉       |      DingTalk       |    ✓     |                            ✓                            |
 |   哔哩下载姬    |       DownKyi       |    ✓     |                    ✓ (by @CronusLM)                     |
-|    磁盘精灵     |    DiskGenius-cn    |    ✓     |                    ✓ (by @CronusLM)                     |
 |    Edgeless     |      Edgeless       |    ✓     |                   ✓ (by @IsaacWangTT)                   |
 |    亿图图示     |      edrawmax       |    ✓     |                            ✓                            |
 |    欧路词典     |        Eudic        |    ✓     |                            ✓                            |
