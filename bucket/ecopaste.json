@@ -1,12 +1,12 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "description": "Cross-platform clipboard management tool",
     "homepage": "https://github.com/ayangweb/EcoPaste/",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/EcoPasteHub/EcoPaste/releases/download/v0.2.0/EcoPaste_0.2.0_x64-setup.exe#/dl.7z",
-            "hash": "f879beaff3e263519c99313ebfe6ba9ac899bb547d4ce296835e6db77008306d"
+            "url": "https://github.com/EcoPasteHub/EcoPaste/releases/download/v0.3.0/EcoPaste_0.3.0_x64-setup.exe#/dl.7z",
+            "hash": "5525e666a1a0bdcdf90c76206400e877f547bdf1c0b968a05bf73356a56af43b"
         }
     },
     "shortcuts": [
