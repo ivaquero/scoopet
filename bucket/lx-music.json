@@ -23,7 +23,9 @@
             "洛雪音乐助手"
         ]
     ],
-    "checkver": "github",
+    "checkver": {
+        "github": "https://github.com/lyswhut/lx-music-desktop"
+    },
     "autoupdate": {
         "architecture": {
             "64bit": {

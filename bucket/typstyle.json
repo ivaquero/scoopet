@@ -14,7 +14,9 @@
         }
     },
     "bin": "typstyle.exe",
-    "checkver": "github",
+    "checkver": {
+        "github": "https://github.com/Enter-tainer/typstyle"
+    },
     "autoupdate": {
         "architecture": {
             "64bit": {

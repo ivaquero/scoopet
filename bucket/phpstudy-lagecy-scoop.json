@@ -48,7 +48,9 @@
             "phpStudy Lagecy"
         ]
     ],
-    "checkver": "github",
+    "checkver": {
+        "github": "https://github.com/h404bi/phpstudy-lagecy-scoop"
+    },
     "autoupdate": {
         "url": "https://raw.githubusercontent.com/h404bi/phpstudy-lagecy-scoop/master/phpstudy-lagecy-scoop/phpstudy-lagecy-scoop_v$version.zip",
         "hash": {

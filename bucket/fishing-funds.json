@@ -16,7 +16,9 @@
         "Move-Item \"$dir\\`$R0\\*\" \"$dir\"",
         "Remove-Item \"$dir\\`$PLUGINSDIR\",\"$dir\\`$R0\" -Force -Recurse"
     ],
-    "checkver": "github",
+    "checkver": {
+        "github": "https://github.com/1zilc/fishing-funds"
+    },
     "autoupdate": {
         "url": "https://github.com/1zilc/fishing-funds/releases/download/$version/Fishing-Funds-Setup-$version.exe#/dl.7z"
     }

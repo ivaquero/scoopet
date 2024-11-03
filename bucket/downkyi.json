@@ -13,7 +13,9 @@
     ],
     "bin": "DownKyi.exe",
     "persist": "Config",
-    "checkver": "github",
+    "checkver": {
+        "github": "https://github.com/VSCodium/vscodium"
+    },
     "autoupdate": {
         "url": "https://github.com/leiurayer/downkyi/releases/download/v$version/DownKyi-$version.zip"
     }

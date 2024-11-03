@@ -16,7 +16,9 @@
     "bin": [
         "chatgpt.exe"
     ],
-    "checkver": "github",
+    "checkver": {
+        "github": "https://github.com/j178/chatgpt"
+    },
     "autoupdate": {
         "architecture": {
             "64bit": {

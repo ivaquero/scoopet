@@ -14,7 +14,9 @@
     "suggest": {
         "alist": "main/alist"
     },
-    "checkver": "github",
+    "checkver": {
+        "github": "https://github.com/Xmarmalade/alisthelper"
+    },
     "autoupdate": {
         "url": "https://github.com/Xmarmalade/alisthelper/releases/download/v$version/AlistHelper_v$version_windows-x86_64.zip"
     }

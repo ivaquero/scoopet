@@ -29,7 +29,10 @@
         ]
     ],
     "persist": "rarreg.key",
-    "checkver": "WinRAR and RAR ([\\d.]+) release",
+    "checkver": {
+        "url": "https://www.rarlab.com/",
+        "regex": "WinRAR and RAR ([\\d.]+) release"
+    },
     "autoupdate": {
         "architecture": {
             "64bit": {

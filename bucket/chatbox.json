@@ -13,7 +13,9 @@
             "ChatBox"
         ]
     ],
-    "checkver": "github",
+    "checkver": {
+        "github": "https://github.com/Bin-Huang/chatbox"
+    },
     "autoupdate": {
         "url": "https://github.com/Bin-Huang/chatbox/releases/download/v$version/Chatbox-CE-$version-Setup.exe#/setup.exe"
     }
