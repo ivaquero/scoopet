@@ -136,21 +136,20 @@ scoop config aria2-min-split-size 4M
 
 ### Development Auxiliary
 
-|          App           | Auto-Update ? |                         Original ?                          |
-| :--------------------: | :-----------: | :---------------------------------------------------------: |
-|        ChatBox         |       ✓       |                              ✓                              |
-|      Doxygen-GUI       |       ✓       |                              ✓                              |
-|        escrcpy         |       ✓       |   copied from [DoveBoy](hhttps://github.com/DoveBoy/Apps)   |
-|     FileCentipede      |       ✓       |                      ✓ (by @CronusLM)                       |
-|         PDF4QT         |       ✓       |                              ✓                              |
-|      Pot-Desktop       |       ✓       |                              ✓                              |
-|      RectangleWin      |       ✓       |                              ✓                              |
-|        Veracypt        |       ✓       |                              ✓                              |
-|         Viber          |       ✓       | copied from [okibcn](https://github.com/okibcn/ScoopMaster) |
-|         WinRAR         |       ✓       |                              ✓                              |
-|      WiseCare365       |       ✓       |                              ✓                              |
-|    WIFI-Crack-Tool     |       ✓       |                              ✓                              |
-| VMware-Workstation-Pro |       ✓       |  modified [Ash258](https://github.com/Ash258/Scoop-Ash258)  |
+|          App           | Auto-Update ? |                        Original ?                         |
+| :--------------------: | :-----------: | :-------------------------------------------------------: |
+|        ChatBox         |       ✓       |                             ✓                             |
+|      Doxygen-GUI       |       ✓       |                             ✓                             |
+|        escrcpy         |       ✓       |  copied from [DoveBoy](hhttps://github.com/DoveBoy/Apps)  |
+|     FileCentipede      |       ✓       |                     ✓ (by @CronusLM)                      |
+|         PDF4QT         |       ✓       |                             ✓                             |
+|      Pot-Desktop       |       ✓       |                             ✓                             |
+|      RectangleWin      |       ✓       |                             ✓                             |
+|        Veracypt        |       ✓       |                             ✓                             |
+|         WinRAR         |       ✓       |                             ✓                             |
+|      WiseCare365       |       ✓       |                             ✓                             |
+|    WIFI-Crack-Tool     |       ✓       |                             ✓                             |
+| VMware-Workstation-Pro |       ✓       | modified [Ash258](https://github.com/Ash258/Scoop-Ash258) |
 
 ### Windows-Only
 
@@ -167,3 +166,12 @@ scoop config aria2-min-split-size 4M
 | MicroMamba  |       ✓       |     ✓      |
 | N-m3u8DL-RE |       ✓       |     ✓      |
 |    serpl    |       ✓       |     ✓      |
+
+## Notes
+
+Due to the complexity of Win to permission management, for some common applications that do not provide portable installation packages and require administrator application permissions, it is recommended to use WinGet for installation
+
+```powershell
+scoop install winget
+winget install Rakuten.Viber
+```
