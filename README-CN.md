@@ -145,6 +145,7 @@ scoop config aria2-min-split-size 4M
 |      Doxygen-GUI       |    ✓     |                            ✓                            |
 |        escrcpy         |    ✓     |   复制于 [DoveBoy](hhttps://github.com/DoveBoy/Apps)    |
 |     FileCentipede      |    ✓     |                    ✓ (by @CronusLM)                     |
+|         PDF4QT         |    ✓     |                            ✓                            |
 |      Pot-Desktop       |    ✓     |                            ✓                            |
 |        Veracypt        |    ✓     |                            ✓                            |
 |         Viber          |    ✓     | 复制于 [okibcn](https://github.com/okibcn/ScoopMaster)  |
