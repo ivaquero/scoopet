@@ -28,6 +28,7 @@
             "Set-Content -NoNewline -Path \"$configpath\\UserDataInfo.ini\" -Value \"[UserDataSet]`nUserDataSavePathType=2`nUserDataSavePath=$persist_dir\\QQ Files\""
         ]
     },
+    "bin": "Files\\QQ.exe",
     "shortcuts": [
         [
             "Files\\QQ.exe",

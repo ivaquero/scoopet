@@ -9,6 +9,7 @@
     "url": "https://dtapp-pub.dingtalk.com/dingtalk-desktop/win_installer/Release/DingTalk_v7.6.10.82010807.exe#/dl.7z",
     "hash": "md5:6ce428c251bd92894b1e18fa15336c9e",
     "post_install": "Remove-Item \"$dir\\`$PLUGINSDIR\" -Recurse",
+    "bin": "DingtalkLauncher.exe",
     "shortcuts": [
         [
             "DingtalkLauncher.exe",

@@ -5,13 +5,13 @@
     "license": "GPL",
     "url": "https://github.com/leiurayer/downkyi/releases/download/v1.6.1/DownKyi-1.6.1.zip",
     "hash": "d809c230c9dd9ab18a7cbafc413db2d93eca25e45c4df5fa6aaad3f253015986",
+    "bin": "DownKyi.exe",
     "shortcuts": [
         [
             "DownKyi.exe",
             "DownKyi"
         ]
     ],
-    "bin": "DownKyi.exe",
     "persist": "Config",
     "checkver": {
         "github": "https://github.com/VSCodium/vscodium"

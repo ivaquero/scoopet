@@ -9,6 +9,7 @@
     "url": "https://sf3-cn.feishucdn.com/obj/ee-appcenter/d3bcb78b/Feishu-win32_ia32-7.29.5-signed.exe#/feishu-7.29.5.7z",
     "hash": "md5:0108174bf9c9fbfeb7334b73a8a2ea10",
     "extract_to": "app",
+    "bin": "app/Feishu.exe",
     "shortcuts": [
         [
             "app/Feishu.exe",
