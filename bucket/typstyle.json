@@ -1,6 +1,6 @@
 {
     "version": "0.12.1",
-    "description": "Beautiful and reliable typst code formatter.",
+    "description": "Beautiful and reliable typst code formatter",
     "homepage": "https://github.com/Enter-tainer/typstyle",
     "license": "Apache-2.0",
     "architecture": {
