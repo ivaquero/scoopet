@@ -138,7 +138,6 @@ scoop config aria2-min-split-size 4M
 
 |          App           | Auto-Update ? |                         Original ?                          |
 | :--------------------: | :-----------: | :---------------------------------------------------------: |
-|      AutoDarkMode      |       ✓       |                              ✓                              |
 |        ChatBox         |       ✓       |                              ✓                              |
 |      Doxygen-GUI       |       ✓       |                              ✓                              |
 |        escrcpy         |       ✓       |   copied from [DoveBoy](hhttps://github.com/DoveBoy/Apps)   |
@@ -149,12 +148,14 @@ scoop config aria2-min-split-size 4M
 |         Viber          |       ✓       | copied from [okibcn](https://github.com/okibcn/ScoopMaster) |
 |         WinRAR         |       ✓       |                              ✓                              |
 |      WiseCare365       |       ✓       |                              ✓                              |
+|    WIFI-Crack-Tool     |       ✓       |                              ✓                              |
 | VMware-Workstation-Pro |       ✓       |  modified [Ash258](https://github.com/Ash258/Scoop-Ash258)  |
 
 ### Windows-Only
 
 |       App       | Auto-Update ? |                       Original ?                        |
 | :-------------: | :-----------: | :-----------------------------------------------------: |
+|  AutoDarkMode   |       ✓       |                            ✓                            |
 | LKY-Officetools |       ✓       | copied from [DoveBoy](hhttps://github.com/DoveBoy/Apps) |
 |  RectangleWin   |       ✓       |                            ✓                            |
 
