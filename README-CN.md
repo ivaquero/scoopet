@@ -221,9 +221,9 @@ scoop config aria2-min-split-size 4M
 |    Kicad-cn    |    ✓     |   ✓   |
 | LibreOffice-cn |    ✓     |   ✓   |
 |     LyX-cn     |    ✓     |   ✓   |
-| Mambaforge-cn  |    ✓     |   ✓   |
 | MicroMamba-cn  |    ✓     |   ✓   |
 |  Miniconda-cn  |    ✓     |   ✓   |
+|  Miniforge-cn  |    ✓     |   ✓   |
 | OBS-Studio-cn  |    ✓     |   ✓   |
 |   Octave-cn    |    ✓     |   ✓   |
 | Qt-Creator-cn  |    ✓     |   ✓   |
