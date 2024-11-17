@@ -143,7 +143,6 @@ scoop config aria2-min-split-size 4M
 |      Alist-Helper      |    ✓     |                            ✓                            |
 |        ChatBox         |    ✓     |                            ✓                            |
 |      Doxygen-GUI       |    ✓     |                            ✓                            |
-|        escrcpy         |    ✓     |   复制于 [DoveBoy](hhttps://github.com/DoveBoy/Apps)    |
 |     FileCentipede      |    ✓     |                    ✓ (by @CronusLM)                     |
 |         PDF4QT         |    ✓     |                            ✓                            |
 |      Pot-Desktop       |    ✓     |                            ✓                            |
