@@ -163,6 +163,7 @@ scoop config aria2-min-split-size 4M
 | :---------: | :-----------: | :--------: |
 | MicroMamba  |       ✓       |     ✓      |
 | N-m3u8DL-RE |       ✓       |     ✓      |
+|    pixi     |       ✓       |     ✓      |
 |    serpl    |       ✓       |     ✓      |
 
 ## Notes
