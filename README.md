@@ -159,12 +159,13 @@ scoop config aria2-min-split-size 4M
 
 ### CLI
 
-|     App     | Auto-Update ? | Original ? |
-| :---------: | :-----------: | :--------: |
-| MicroMamba  |       ✓       |     ✓      |
-| N-m3u8DL-RE |       ✓       |     ✓      |
-|    pixi     |       ✓       |     ✓      |
-|    serpl    |       ✓       |     ✓      |
+|     App      | Auto-Update ? | Original ? |
+| :----------: | :-----------: | :--------: |
+| LTeX-ls-Plus |       ✓       |     ✓      |
+|  MicroMamba  |       ✓       |     ✓      |
+| N-m3u8DL-RE  |       ✓       |     ✓      |
+|     pixi     |       ✓       |     ✓      |
+|    serpl     |       ✓       |     ✓      |
 
 ## Notes
 
