@@ -140,6 +140,7 @@ scoop config aria2-min-split-size 4M
 | :--------------------: | :-----------: | :-------------------------------------------------------: |
 |        ChatBox         |       ✓       |                             ✓                             |
 |      Doxygen-GUI       |       ✓       |                             ✓                             |
+|  Navicat-Premium-Lite  |       ✓       |                             ✓                             |
 |         PDF4QT         |       ✓       |                             ✓                             |
 |      Pot-Desktop       |       ✓       |                             ✓                             |
 |      RectangleWin      |       ✓       |                             ✓                             |

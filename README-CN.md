@@ -143,6 +143,7 @@ scoop config aria2-min-split-size 4M
 |      Alist-Helper      |    ✓     |                            ✓                            |
 |        ChatBox         |    ✓     |                            ✓                            |
 |      Doxygen-GUI       |    ✓     |                            ✓                            |
+|  Navicat-Premium-Lite  |    ✓     |                            ✓                            |
 |     FileCentipede      |    ✓     |                    ✓ (by @CronusLM)                     |
 |         PDF4QT         |    ✓     |                            ✓                            |
 |      Pot-Desktop       |    ✓     |                            ✓                            |
