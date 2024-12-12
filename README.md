@@ -97,14 +97,13 @@ scoop bucket known
 main [default]
 extras [strongly recommended]
 versions
-nightlies
 nirsoft
+sysinternals
 php
 nerd-fonts
 nonportable
 java
 games
-jetbrains
 ```
 
 ## :m: Trivial
