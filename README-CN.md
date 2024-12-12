@@ -97,14 +97,13 @@ scoop bucket known
 main [默认]
 extras [墙裂推荐]
 versions
-nightlies
 nirsoft
+sysinternals
 php
 nerd-fonts
 nonportable
 java
 games
-jetbrains
 ```
 
 ## :m: 其他
