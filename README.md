@@ -124,7 +124,6 @@ scoop config aria2-min-split-size 4M
 
 |        App         | Auto-Update ? |                        Original ?                         |
 | :----------------: | :-----------: | :-------------------------------------------------------: |
-|        Buzz        |       ✓       |                             ✓                             |
 | Jupyterlab-Desktop |       ✓       |  modified [gdm257](https://github.com/gdm257/scoop-257)   |
 |      KingDraw      |       ✓       |                             ✓                             |
 |  Mendeley-Desktop  |       ✓       |                             ✓                             |
@@ -137,6 +136,9 @@ scoop config aria2-min-split-size 4M
 
 |          App           | Auto-Update ? |                        Original ?                         |
 | :--------------------: | :-----------: | :-------------------------------------------------------: |
+|      Alist-Helper      |       ✓       |                             ✓                             |
+|          Buzz          |       ✓       |                             ✓                             |
+|     Cherry-Studio      |       ✓       |                             ✓                             |
 |        ChatBox         |       ✓       |                             ✓                             |
 |      Doxygen-GUI       |       ✓       |                             ✓                             |
 |  Navicat-Premium-Lite  |       ✓       |                             ✓                             |

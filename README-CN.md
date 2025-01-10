@@ -122,11 +122,12 @@ scoop config aria2-min-split-size 4M
 
 ## :star: 总结
 
+### AI
+
 ### 科研工具
 
 |        App         | 自动更新 |                          原创                           |
 | :----------------: | :------: | :-----------------------------------------------------: |
-|        Buzz        |    ✓     |                            ✓                            |
 | Jupyterlab-Desktop |    ✓     |  修改自 [gdm257](https://github.com/gdm257/scoop-257)   |
 |      KingDraw      |    ✓     |                            ✓                            |
 |  Mendeley-Desktop  |    ✓     |                            ✓                            |
@@ -140,7 +141,9 @@ scoop config aria2-min-split-size 4M
 |          App           | 自动更新 |                          原创                           |
 | :--------------------: | :------: | :-----------------------------------------------------: |
 |      Alist-Helper      |    ✓     |                            ✓                            |
+|          Buzz          |    ✓     |                            ✓                            |
 |        ChatBox         |    ✓     |                            ✓                            |
+|     Cherry-Studio      |    ✓     |                            ✓                            |
 |      Doxygen-GUI       |    ✓     |                            ✓                            |
 |  Navicat-Premium-Lite  |    ✓     |                            ✓                            |
 |     FileCentipede      |    ✓     |                    ✓ (by @CronusLM)                     |
