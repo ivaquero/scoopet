@@ -129,6 +129,7 @@ scoop config aria2-min-split-size 4M
 |  Mendeley-Desktop  |       ✓       |                             ✓                             |
 |      NetLogo       |       ✓       |                             ✓                             |
 |  OpenBB-Terminal   |       ✓       |                             ✓                             |
+|      Readest       |       ✓       |                             ✓                             |
 |     SciHubEVA      |       ✓       |                             ✓                             |
 |      TeXLive       |       ✓       | modified [chawyehsu](https://github.com/chawyehsu/dorado) |
 

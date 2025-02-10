@@ -122,7 +122,13 @@ scoop config aria2-min-split-size 4M
 
 ## :star: 总结
 
-### AI
+### AI 工具
+
+|      App      | 自动更新 | 原创  |
+| :-----------: | :------: | :---: |
+|     Buzz      |    ✓     |   ✓   |
+|    ChatBox    |    ✓     |   ✓   |
+| Cherry-Studio |    ✓     |   ✓   |
 
 ### 科研工具
 
@@ -133,17 +139,15 @@ scoop config aria2-min-split-size 4M
 |  Mendeley-Desktop  |    ✓     |                            ✓                            |
 |      NetLogo       |    ✓     |                            ✓                            |
 |  OpenBB-Terminal   |    ✓     |                            ✓                            |
+|      Readest       |    ✓     |                            ✓                            |
 |     SciHubEVA      |    ✓     |                            ✓                            |
 |      TeXLive       |    ✓     | 修改自 [chawyehsu](https://github.com/chawyehsu/dorado) |
 
-### 日常工作
+### 开发辅助
 
 |          App           | 自动更新 |                          原创                           |
 | :--------------------: | :------: | :-----------------------------------------------------: |
 |      Alist-Helper      |    ✓     |                            ✓                            |
-|          Buzz          |    ✓     |                            ✓                            |
-|        ChatBox         |    ✓     |                            ✓                            |
-|     Cherry-Studio      |    ✓     |                            ✓                            |
 |      Doxygen-GUI       |    ✓     |                            ✓                            |
 |  Navicat-Premium-Lite  |    ✓     |                            ✓                            |
 |     FileCentipede      |    ✓     |                    ✓ (by @CronusLM)                     |
@@ -175,7 +179,7 @@ scoop config aria2-min-split-size 4M
 |    sendme    |    ✓     |   ✓   |
 |    serpl     |    ✓     |   ✓   |
 
-### 国人产品
+### 国人专享
 
 |    中文名称     |         App         | 自动更新 |                          原创                           |
 | :-------------: | :-----------------: | :------: | :-----------------------------------------------------: |
