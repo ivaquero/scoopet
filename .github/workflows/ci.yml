@@ -13,18 +13,18 @@ jobs:
     runs-on: windows-latest
     steps:
       - name: Checkout Bucket
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           fetch-depth: 2
           path: "my_bucket"
       - name: Checkout Scoop
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           repository: ScoopInstaller/Scoop
           ref: develop
           path: "scoop_core"
       - name: Init Test Suite
-        uses: potatoqualitee/psmodulecache@v4
+        uses: potatoqualitee/psmodulecache@v6
         with:
           modules-to-cache: PSScriptAnalyzer, BuildHelpers, Pester:4.10.1
           shell: powershell
@@ -38,18 +38,18 @@ jobs:
     runs-on: windows-latest
     steps:
       - name: Checkout Bucket
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           fetch-depth: 2
           path: "my_bucket"
       - name: Checkout Scoop
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           repository: ScoopInstaller/Scoop
           ref: develop
           path: "scoop_core"
       - name: Init Test Suite
-        uses: potatoqualitee/psmodulecache@v4
+        uses: potatoqualitee/psmodulecache@v6
         with:
           modules-to-cache: PSScriptAnalyzer, BuildHelpers, Pester:4.10.1
           shell: pwsh

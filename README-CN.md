@@ -20,17 +20,17 @@
 scoop bucket add scoopet https://github.com/ivaquero/scoopet
 ```
 
-# :running: 开始
+# 🏃 开始
 
-## :bike: 安装 Scoop
+## 🚲 安装 Scoop
 
-### :computer: 步骤 1：在 PowerShell 中打开远程权限
+### 💻 步骤 1：在 PowerShell 中打开远程权限
 
 ```powershell
 Set-ExecutionPolicy RemoteSigned -scope CurrentUser
 ```
 
-### :gear: 步骤 2：下载并安装 Scoop
+### ⚙️ 步骤 2：下载并安装 Scoop
 
 ```powershell
 irm get.scoop.sh -outfile 'install.ps1'
@@ -41,13 +41,13 @@ irm get.scoop.sh -outfile 'install.ps1'
 
 > 如果跳过该步骤，Scoop 将默认把所有用户安装的 App 和 Scoop 本身置于 `c:/users/user_name/scoop`
 
-### :book: 步骤 3：通过`scoop help`查看快速上手方法
+### 📖 步骤 3：通过`scoop help`查看快速上手方法
 
 更多信息，请访问 Scoop 官网 👉 <https://scoop.sh/> 👈
 
-## :car: 利用扩展库安装 App
+## 🚗 利用扩展库安装 App
 
-### :train: 步骤 1：安装 Aria2 来加速下载
+### 🚋 步骤 1：安装 Aria2 来加速下载
 
 ```powershell
 scoop install aria2
@@ -59,20 +59,20 @@ scoop install aria2
 scoop config aria2-enabled false
 ```
 
-### :ticket: 步骤 2：安装 Git 来添加新仓库
+### 🎫 步骤 2：安装 Git 来添加新仓库
 
 ```powershell
 scoop install git
 ```
 
-### :airplane: 步骤 3：添加本仓库并更新，么么哒~ :kiss
+### ✈️ 步骤 3：添加本仓库并更新，么么哒~ 💋
 
 ```powershell
 scoop bucket add scoopet https://github.com/ivaquero/scoopet
 scoop update
 ```
 
-### :rocket: 步骤 4：安装 App
+### 🚀 步骤 4：安装 App
 
 #### 使用 `scoop search` 命令搜索 App 的具体名称
 
@@ -80,7 +80,7 @@ scoop update
 scoop search <app_name>
 ```
 
-#### 利用插件`scoop-completion`协助安装
+#### 利用插件 `scoop-completion` 协助安装
 
 ```powershell
 scoop install scoop-completion
@@ -89,24 +89,7 @@ scoop install <app_name>
 
 > 使用`scoop-completion`：键入 App 名称的前几个字母后敲击`tab`键进行补全
 
-### :100: 步骤 5：查看官方推荐仓库
-
-```powershell
-scoop bucket known
-
-main [默认]
-extras [墙裂推荐]
-versions
-nirsoft
-sysinternals
-php
-nerd-fonts
-nonportable
-java
-games
-```
-
-## :m: 其他
+## 📝 杂项
 
 ### Aria2 的参数自定义
 
@@ -120,7 +103,7 @@ scoop config aria2-max-connection-per-server 16
 scoop config aria2-min-split-size 4M
 ```
 
-## :star: 总结
+## ⭐️ 总结
 
 ### AI 工具
 
@@ -167,17 +150,6 @@ scoop config aria2-min-split-size 4M
 |  AutoDarkMode   |    ✓     |                         ✓                          |
 | LKY-Officetools |    ✓     | 复制于 [DoveBoy](hhttps://github.com/DoveBoy/Apps) |
 |  RectangleWin   |    ✓     |                         ✓                          |
-
-### 命令行工具
-
-|     App      | 自动更新 | 原创  |
-| :----------: | :------: | :---: |
-| LTeX-ls-Plus |    ✓     |   ✓   |
-|  MicroMamba  |    ✓     |   ✓   |
-| N-m3u8DL-RE  |    ✓     |   ✓   |
-|     pixi     |    ✓     |   ✓   |
-|    sendme    |    ✓     |   ✓   |
-|    serpl     |    ✓     |   ✓   |
 
 ### 国人专享
 

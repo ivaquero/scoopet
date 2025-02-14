@@ -20,17 +20,17 @@ For ones familiar with Scoop:
 scoop bucket add scoopet https://github.com/ivaquero/scoopet
 ```
 
-# :running: To Start
+# 🏃 To Start
 
-## :bike: Install Scoop
+## 🚲 Install Scoop
 
-### :computer: Step 1: Enable remote policy in PowerShell
+### 💻 Step 1: Enable remote policy in PowerShell
 
 ```powershell
 Set-ExecutionPolicy RemoteSigned -scope CurrentUser
 ```
 
-### :gear: Step 2: Download and install Scoop
+### ⚙️ Step 2: Download and install Scoop
 
 ```powershell
 irm get.scoop.sh -outfile 'install.ps1'
@@ -41,19 +41,19 @@ irm get.scoop.sh -outfile 'install.ps1'
 
 > If you skip this step, all user installed Apps and Scoop itself will live in `c:/users/user_name/scoop`.
 
-### :book: Step 3: Glance at quick-start by `scoop help`
+### 📖 Step 3: Glance at quick-start by `scoop help`
 
 For more information, please visit Scoop official site at 👉 https://scoop.sh/ 👈
 
-## :car: Install Apps from this bucket
+## 🚗 Install Apps from this bucket
 
-### :train: Step 1: Install Aria2 to accelerate downloading
+### 🚋 Step 1: Install Aria2 to accelerate downloading
 
 ```powershell
 scoop install aria2
 ```
 
-### :ticket: Step 2: Install Git to add new repositories
+### 🎫 Step 2: Install Git to add new repositories
 
 ```powershell
 scoop install git
@@ -65,14 +65,14 @@ if you are using VPN, you need to turn off aria2 before installing Apps
 scoop config aria2-enabled false
 ```
 
-### :airplane: Step 3: Add this wonderful bucket and update, mo-mo-da~ :kiss:
+### ✈️ Step 3: Add this wonderful bucket and update, mua~ 💋
 
 ```powershell
-scoop bucket add scoopet https://github.com/ivaquero/scoopet
+scoop bucket add main-plus https://github.com/ivaquero/scoop-main-plus
 scoop update
 ```
 
-### :rocket: Step 4: Install Apps
+### 🚀 Step 4: Install Apps
 
 #### Check the exact name of App by `scoop search`
 
@@ -89,24 +89,7 @@ scoop install <app_name>
 
 > to use `scoop-completion`, just to hit `tab` after initial letters of App names
 
-### :100: Step 5: List the official recommended buckets by `scoop bucket known`
-
-```powershell
-scoop bucket known
-
-main [default]
-extras [strongly recommended]
-versions
-nirsoft
-sysinternals
-php
-nerd-fonts
-nonportable
-java
-games
-```
-
-## :m: Trivial
+## 📝 Trivial
 
 ### Tweak with Parameters in Aria2
 
@@ -118,7 +101,7 @@ scoop config aria2-max-connection-per-server 16
 scoop config aria2-min-split-size 4M
 ```
 
-## :star: Summary
+## ⭐️ Summary
 
 ### Research Tools
 
@@ -159,17 +142,6 @@ scoop config aria2-min-split-size 4M
 |  AutoDarkMode   |       ✓       |                            ✓                            |
 | LKY-Officetools |       ✓       | copied from [DoveBoy](hhttps://github.com/DoveBoy/Apps) |
 |  RectangleWin   |       ✓       |                            ✓                            |
-
-### CLI
-
-|     App      | Auto-Update ? | Original ? |
-| :----------: | :-----------: | :--------: |
-| LTeX-ls-Plus |       ✓       |     ✓      |
-|  MicroMamba  |       ✓       |     ✓      |
-| N-m3u8DL-RE  |       ✓       |     ✓      |
-|     pixi     |       ✓       |     ✓      |
-|    sendme    |       ✓       |     ✓      |
-|    serpl     |       ✓       |     ✓      |
 
 ## Notes
 
