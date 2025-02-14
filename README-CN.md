@@ -131,6 +131,7 @@ scoop config aria2-min-split-size 4M
 |          App           | 自动更新 |                          原创                           |
 | :--------------------: | :------: | :-----------------------------------------------------: |
 |      Alist-Helper      |    ✓     |                            ✓                            |
+|         DBGate         |    ✓     |                            ✓                            |
 |      Doxygen-GUI       |    ✓     |                            ✓                            |
 |  Navicat-Premium-Lite  |    ✓     |                            ✓                            |
 |     FileCentipede      |    ✓     |                    ✓ (by @CronusLM)                     |

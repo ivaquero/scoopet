@@ -124,6 +124,7 @@ scoop config aria2-min-split-size 4M
 |          Buzz          |       ✓       |                             ✓                             |
 |     Cherry-Studio      |       ✓       |                             ✓                             |
 |        ChatBox         |       ✓       |                             ✓                             |
+|         DBGate         |       ✓       |                             ✓                             |
 |      Doxygen-GUI       |       ✓       |                             ✓                             |
 |  Navicat-Premium-Lite  |       ✓       |                             ✓                             |
 |         PDF4QT         |       ✓       |                             ✓                             |
