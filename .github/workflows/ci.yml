@@ -24,9 +24,9 @@ jobs:
           ref: develop
           path: "scoop_core"
       - name: Init Test Suite
-        uses: potatoqualitee/psmodulecache@v6
+        uses: potatoqualitee/psmodulecache@v6.2
         with:
-          modules-to-cache: PSScriptAnalyzer, BuildHelpers, Pester:4.10.1
+          modules-to-cache: PSScriptAnalyzer, BuildHelpers, Pester:5.7.1
           shell: powershell
       - name: Test
         shell: powershell
@@ -51,7 +51,7 @@ jobs:
       - name: Init Test Suite
         uses: potatoqualitee/psmodulecache@v6.2
         with:
-          modules-to-cache: PSScriptAnalyzer, BuildHelpers, Pester:4.10.1
+          modules-to-cache: PSScriptAnalyzer, BuildHelpers, Pester:5.7.1
           shell: pwsh
       - name: Test
         shell: pwsh
