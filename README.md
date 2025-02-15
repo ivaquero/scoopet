@@ -116,14 +116,19 @@ scoop config aria2-min-split-size 4M
 |     SciHubEVA      |       ✓       |                             ✓                             |
 |      TeXLive       |       ✓       | modified [chawyehsu](https://github.com/chawyehsu/dorado) |
 
-### Development Auxiliary
+### AI Tools
+
+|      App      | Auto-Update ? | Original ? |
+| :-----------: | :-----------: | :--------: |
+|     Buzz      |       ✓       |     ✓      |
+| Cherry-Studio |       ✓       |     ✓      |
+|    ChatBox    |       ✓       |     ✓      |
+
+### Development
 
 |          App           | Auto-Update ? |                        Original ?                         |
 | :--------------------: | :-----------: | :-------------------------------------------------------: |
 |      Alist-Helper      |       ✓       |                             ✓                             |
-|          Buzz          |       ✓       |                             ✓                             |
-|     Cherry-Studio      |       ✓       |                             ✓                             |
-|        ChatBox         |       ✓       |                             ✓                             |
 |         DBGate         |       ✓       |                             ✓                             |
 |      Doxygen-GUI       |       ✓       |                             ✓                             |
 |  Navicat-Premium-Lite  |       ✓       |                             ✓                             |

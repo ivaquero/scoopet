@@ -105,14 +105,6 @@ scoop config aria2-min-split-size 4M
 
 ## ⭐️ 总结
 
-### AI 工具
-
-|      App      | 自动更新 | 原创  |
-| :-----------: | :------: | :---: |
-|     Buzz      |    ✓     |   ✓   |
-|    ChatBox    |    ✓     |   ✓   |
-| Cherry-Studio |    ✓     |   ✓   |
-
 ### 科研工具
 
 |        App         | 自动更新 |                          原创                           |
@@ -126,6 +118,15 @@ scoop config aria2-min-split-size 4M
 |     SciHubEVA      |    ✓     |                            ✓                            |
 |      TeXLive       |    ✓     | 修改自 [chawyehsu](https://github.com/chawyehsu/dorado) |
 
+### AI 工具
+
+|      App      | 自动更新 | 原创  |
+| :-----------: | :------: | :---: |
+|   AigcPanel   |    ✓     |   ✓   |
+|     Buzz      |    ✓     |   ✓   |
+|    ChatBox    |    ✓     |   ✓   |
+| Cherry-Studio |    ✓     |   ✓   |
+
 ### 开发辅助
 
 |          App           | 自动更新 |                          原创                           |
@@ -138,7 +139,6 @@ scoop config aria2-min-split-size 4M
 |         PDF4QT         |    ✓     |                            ✓                            |
 |      Pot-Desktop       |    ✓     |                            ✓                            |
 |        Veracypt        |    ✓     |                            ✓                            |
-|         Viber          |    ✓     | 复制于 [okibcn](https://github.com/okibcn/ScoopMaster)  |
 |         WinRAR         |    ✓     |                            ✓                            |
 |      WiseCare365       |    ✓     |                            ✓                            |
 |    WIFI-Crack-Tool     |    ✓     |                            ✓                            |

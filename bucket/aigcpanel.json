@@ -1,0 +1,29 @@
+{
+    "version": "0.3.0",
+    "description": "An easy-to-use AI digital human system",
+    "homepage": "https://aigcpanel.com/",
+    "license": "AGPL-3.0 license",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/modstart-lib/aigcpanel/releases/download/v0.3.0/AigcPanel-0.3.0-win-setup-x64.exe",
+            "hash": "02d1646e2a3ab1b33eea1b4686cb475fca23883948cd7a7e0281827e1556c4e0"
+        },
+        "arm64": {
+            "url": "https://github.com/modstart-lib/aigcpanel/releases/download/v0.3.0/AigcPanel-0.3.0-win-setup-arm64.exe",
+            "hash": "02d1646e2a3ab1b33eea1b4686cb475fca23883948cd7a7e0281827e1556c4e0"
+        }
+    },
+    "bin": "AigcPanel.exe",
+    "shortcuts": [
+        [
+            "AigcPanel.exe",
+            "Aigc Panel"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/modstart-lib/aigcpanel"
+    },
+    "autoupdate": {
+        "url": "https://github.com/modstart-lib/aigcpanel/releases/download/v$version/AlistHelper_v$version_windows-x86_64.zip"
+    }
+}
