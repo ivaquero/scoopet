@@ -144,7 +144,7 @@ scoop config aria2-min-split-size 4M
 |    WIFI-Crack-Tool     |    ✓     |                            ✓                            |
 | VMware-Workstation-Pro |    ✓     | 修改自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
 
-### Windows 专属
+### Win 专属
 
 |       App       | 自动更新 |                        原创                        |
 | :-------------: | :------: | :------------------------------------------------: |

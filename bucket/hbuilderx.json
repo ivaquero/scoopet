@@ -1,32 +1,42 @@
 {
-    "version": "4.29.2024093009",
-    "description": "HBuilderX，H 是 HTML 的首字母，Builder 是构造者，X 是 HBuilder 的下一代版本。我们也简称 HX。HX 是轻如编辑器、强如 IDE 的合体版本。",
+    "version": "4.45.2025010502",
+    "description": "A code editor by DCloud.",
     "homepage": "https://www.dcloud.io/hbuilderx.html",
-    "license": {
-        "identifier": "DCloud",
-        "url": "https://dcloud.io/license/hbuilder.html"
-    },
+    "license": "Unknown",
+    "url": "https://qiniu-ecdn.dcloud.net.cn/download/HBuilderX.4.45.2025010502.zip",
+    "hash": "6f51e5a50c9f13d165c5b9e58a90fee0af9883e66b5fc193ab832284cbc77ea4",
     "extract_dir": "HBuilderX",
     "bin": "HBuilderX.exe",
     "shortcuts": [
         [
             "HBuilderX.exe",
-            "HBuilderX"
+            "HBuilder X"
         ]
     ],
-    "notes": [
-        "如果使用 cli 请使用 \"$dir\\cli\""
+    "pre_install": [
+        "$bucket=(scoop bucket list | where-Object { $_.Source -match '(gitee|github).com/abgox/abgo_bucket'})[0].Name",
+        ". \"$bucketsdir\\$bucket\\bin\\utils.ps1\"",
+        "persist_file -dir @(\"$user_AppData\\HBuilder X\") @(\"$persist_dir\\HBuilder X\")",
+        "handle_app_lnk",
+        "do_some_things"
     ],
-    "architecture": {
-        "64bit": {
-            "url": "https://qiniu-ecdn.dcloud.net.cn/download/HBuilderX.4.29.2024093009.zip"
-        }
+    "pre_uninstall": [
+        "$bucket=(scoop bucket list | where-Object { $_.Source -match '(gitee|github).com/abgox/abgo_bucket'})[0].Name",
+        ". \"$bucketsdir\\$bucket\\bin\\utils.ps1\"",
+        "stop_process",
+        "remove_files @(\"$user_AppData\\HBuilder X\")"
+    ],
+    "checkver": {
+        "script": [
+            "$url=\"https://hx.dcloud.net.cn/Tutorial/changelog/ReleaseNote_release\"",
+            "$regex=\"<span>([\\d\\.]+)\"",
+            "$page=python $pwd\\bin\\get_page.py $url",
+            "$matches=[regex]::Matches($page, $regex)",
+            "$matches[0]"
+        ],
+        "regex": "([\\d\\.]+)"
     },
     "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": "https://qiniu-ecdn.dcloud.net.cn/download/HBuilderX.$version.zip"
-            }
-        }
+        "url": "https://qiniu-ecdn.dcloud.net.cn/download/HBuilderX.$version.zip"
     }
 }

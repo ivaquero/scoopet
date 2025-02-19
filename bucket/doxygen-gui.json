@@ -15,7 +15,7 @@
     ],
     "checkver": {
         "url": "http://www.doxygen.nl/download.html",
-        "re": "The latest version of doxygen is ([\\d.]+)"
+        "re": "Version (\\d[\\.\\d+]+) is now available"
     },
     "autoupdate": {
         "url": "http://doxygen.nl/files/doxygen-$version-setup.exe"
