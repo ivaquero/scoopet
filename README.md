@@ -110,6 +110,8 @@ scoop config aria2-min-split-size 4M
 
 |        App         | 自动更新 |                          原创                           |
 | :----------------: | :------: | :-----------------------------------------------------: |
+|      ChatBox       |    ✓     |                            ✓                            |
+|   Cherry-Studio    |    ✓     |                            ✓                            |
 | Jupyterlab-Desktop |    ✓     |  修改自 [gdm257](https://github.com/gdm257/scoop-257)   |
 |      KingDraw      |    ✓     |                            ✓                            |
 |  Mendeley-Desktop  |    ✓     |                            ✓                            |
@@ -119,31 +121,16 @@ scoop config aria2-min-split-size 4M
 |     SciHubEVA      |    ✓     |                            ✓                            |
 |      TeXLive       |    ✓     | 修改自 [chawyehsu](https://github.com/chawyehsu/dorado) |
 
-### AI 工具
-
-|      App      | 自动更新 | 原创  |
-| :-----------: | :------: | :---: |
-|   AigcPanel   |    ✓     |   ✓   |
-|    ChatBox    |    ✓     |   ✓   |
-| Cherry-Studio |    ✓     |   ✓   |
-
 ### Win 专属
 
 |          App           | 自动更新 |                          原创                           |
 | :--------------------: | :------: | :-----------------------------------------------------: |
 |      AutoDarkMode      |    ✓     |                            ✓                            |
+|     FileCentipede      |    ✓     |                    ✓ (by @CronusLM)                     |
 |    LKY-Officetools     |    ✓     |   复制于 [DoveBoy](hhttps://github.com/DoveBoy/Apps)    |
 | VMware-Workstation-Pro |    ✓     | 修改自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
 |      WiseCare365       |    ✓     |                            ✓                            |
 |    WIFI-Crack-Tool     |    ✓     |                            ✓                            |
-
-### 开发辅助
-
-|      App      | 自动更新 |       原创       |
-| :-----------: | :------: | :--------------: |
-| Alist-Helper  |    ✓     |        ✓         |
-| FileCentipede |    ✓     | ✓ (by @CronusLM) |
-|   Veracypt    |    ✓     |        ✓         |
 
 ### 国人专享
 
@@ -151,6 +138,7 @@ scoop config aria2-min-split-size 4M
 | :-------------: | :-----------------: | :------: | :-----------------------------------------------------: |
 |   阿波波外语    |       aboboo        |    ✓     |                            ✓                            |
 |   阿波波外语    |     aboboo-full     |    ✓     |                            ✓                            |
+|    AigcPanel    |          ✓          |    ✓     |                            ✓                            |
 |    阿里云盘     |       ADrive        |    ✓     |                            ✓                            |
 |    百度云盘     |    BaiduNetDisk     |    ✓     |                            ✓                            |
 |    CAJViewer    |      CAJViewer      |    ✓     |                   ✓ (by @rayinfinite)                   |

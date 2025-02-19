@@ -103,10 +103,12 @@ scoop config aria2-min-split-size 4M
 
 ## ⭐️ Summary
 
-### Research Tools
+### Research
 
 |        App         | Auto-Update ? |                        Original ?                         |
 | :----------------: | :-----------: | :-------------------------------------------------------: |
+|      ChatBox       |       ✓       |                             ✓                             |
+|   Cherry-Studio    |       ✓       |                             ✓                             |
 | Jupyterlab-Desktop |       ✓       |  modified [gdm257](https://github.com/gdm257/scoop-257)   |
 |      KingDraw      |       ✓       |                             ✓                             |
 |  Mendeley-Desktop  |       ✓       |                             ✓                             |
@@ -116,30 +118,16 @@ scoop config aria2-min-split-size 4M
 |     SciHubEVA      |       ✓       |                             ✓                             |
 |      TeXLive       |       ✓       | modified [chawyehsu](https://github.com/chawyehsu/dorado) |
 
-### AI Tools
-
-|      App      | Auto-Update ? | Original ? |
-| :-----------: | :-----------: | :--------: |
-|    ChatBox    |       ✓       |     ✓      |
-| Cherry-Studio |       ✓       |     ✓      |
-
 ### Windows-Only
 
 |          App           | Auto-Update ? |                        Original ?                         |
 | :--------------------: | :-----------: | :-------------------------------------------------------: |
 |      AutoDarkMode      |       ✓       |                             ✓                             |
+|     FileCentipede      |       ✓       |                     ✓ (by @CronusLM)                      |
 |    LKY-Officetools     |       ✓       |  copied from [DoveBoy](hhttps://github.com/DoveBoy/Apps)  |
 | VMware-Workstation-Pro |       ✓       | modified [Ash258](https://github.com/Ash258/Scoop-Ash258) |
 |    WIFI-Crack-Tool     |       ✓       |                             ✓                             |
 |      WiseCare365       |       ✓       |                             ✓                             |
-
-### Development
-
-|      App      | Auto-Update ? |    Original ?    |
-| :-----------: | :-----------: | :--------------: |
-| Alist-Helper  |       ✓       |        ✓         |
-| FileCentipede |       ✓       | ✓ (by @CronusLM) |
-|   Veracypt    |       ✓       |        ✓         |
 
 ## Notes
 
