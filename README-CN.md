@@ -114,7 +114,7 @@ scoop config aria2-min-split-size 4M
 |  Mendeley-Desktop  |    ✓     |                            ✓                            |
 |      NetLogo       |    ✓     |                            ✓                            |
 |  OpenBB-Terminal   |    ✓     |                            ✓                            |
-|      Readest       |    ✓     |                            ✓                            |
+|    Pot-Desktop     |    ✓     |                            ✓                            |
 |     SciHubEVA      |    ✓     |                            ✓                            |
 |      TeXLive       |    ✓     | 修改自 [chawyehsu](https://github.com/chawyehsu/dorado) |
 
@@ -127,30 +127,23 @@ scoop config aria2-min-split-size 4M
 |    ChatBox    |    ✓     |   ✓   |
 | Cherry-Studio |    ✓     |   ✓   |
 
-### 开发辅助
+### Win 专属
 
 |          App           | 自动更新 |                          原创                           |
 | :--------------------: | :------: | :-----------------------------------------------------: |
-|      Alist-Helper      |    ✓     |                            ✓                            |
-|         DBGate         |    ✓     |                            ✓                            |
-|      Doxygen-GUI       |    ✓     |                            ✓                            |
-|  Navicat-Premium-Lite  |    ✓     |                            ✓                            |
-|     FileCentipede      |    ✓     |                    ✓ (by @CronusLM)                     |
-|         PDF4QT         |    ✓     |                            ✓                            |
-|      Pot-Desktop       |    ✓     |                            ✓                            |
-|        Veracypt        |    ✓     |                            ✓                            |
-|         WinRAR         |    ✓     |                            ✓                            |
+|      AutoDarkMode      |    ✓     |                            ✓                            |
+|    LKY-Officetools     |    ✓     |   复制于 [DoveBoy](hhttps://github.com/DoveBoy/Apps)    |
+| VMware-Workstation-Pro |    ✓     | 修改自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
 |      WiseCare365       |    ✓     |                            ✓                            |
 |    WIFI-Crack-Tool     |    ✓     |                            ✓                            |
-| VMware-Workstation-Pro |    ✓     | 修改自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
 
-### Win 专属
+### 开发辅助
 
-|       App       | 自动更新 |                        原创                        |
-| :-------------: | :------: | :------------------------------------------------: |
-|  AutoDarkMode   |    ✓     |                         ✓                          |
-| LKY-Officetools |    ✓     | 复制于 [DoveBoy](hhttps://github.com/DoveBoy/Apps) |
-|  RectangleWin   |    ✓     |                         ✓                          |
+|      App      | 自动更新 |       原创       |
+| :-----------: | :------: | :--------------: |
+| Alist-Helper  |    ✓     |        ✓         |
+| FileCentipede |    ✓     | ✓ (by @CronusLM) |
+|   Veracypt    |    ✓     |        ✓         |
 
 ### 国人专享
 
@@ -191,28 +184,29 @@ scoop config aria2-min-split-size 4M
 
 ### 开源镜像
 
-|      App       | 自动更新 | 原创  |
-| :------------: | :------: | :---: |
-|   Blender-cn   |    ✓     |   ✓   |
-|   FreeCAD-cn   |    ✓     |   ✓   |
-|     Git-cn     |    ✓     |   ✓   |
-|    GIMP-cn     |    ✓     |   ✓   |
-|  GIMP@dev-cn   |    ✓     |   ✓   |
-|  Inkscape-cn   |    ✓     |   ✓   |
-|    Julia-cn    |    ✓     |   ✓   |
-|    Kicad-cn    |    ✓     |   ✓   |
-| LibreOffice-cn |    ✓     |   ✓   |
-|     LyX-cn     |    ✓     |   ✓   |
-| MicroMamba-cn  |    ✓     |   ✓   |
-|  Miniconda-cn  |    ✓     |   ✓   |
-|  Miniforge-cn  |    ✓     |   ✓   |
-| OBS-Studio-cn  |    ✓     |   ✓   |
-|   Octave-cn    |    ✓     |   ✓   |
-| Qt-Creator-cn  |    ✓     |   ✓   |
-|  SageMath-cn   |    ✓     |   ✓   |
-|  TeXStudio-cn  |    ✓     |   ✓   |
-|     VLC-cn     |    ✓     |   ✓   |
-|  VSCodium-cn   |    ✓     |   ✓   |
+|           App           | 自动更新 | 原创  |
+| :---------------------: | :------: | :---: |
+|       Blender-cn        |    ✓     |   ✓   |
+|       FreeCAD-cn        |    ✓     |   ✓   |
+|         Git-cn          |    ✓     |   ✓   |
+|         GIMP-cn         |    ✓     |   ✓   |
+|       GIMP@dev-cn       |    ✓     |   ✓   |
+|       Inkscape-cn       |    ✓     |   ✓   |
+|        Julia-cn         |    ✓     |   ✓   |
+|        Kicad-cn         |    ✓     |   ✓   |
+|     LibreOffice-cn      |    ✓     |   ✓   |
+|         LyX-cn          |    ✓     |   ✓   |
+|      MicroMamba-cn      |    ✓     |   ✓   |
+|      Miniconda-cn       |    ✓     |   ✓   |
+|      Miniforge-cn       |    ✓     |   ✓   |
+| Navicat-Premium-Lite-cn |    ✓     |   ✓   |
+|      OBS-Studio-cn      |    ✓     |   ✓   |
+|        Octave-cn        |    ✓     |   ✓   |
+|      Qt-Creator-cn      |    ✓     |   ✓   |
+|       SageMath-cn       |    ✓     |   ✓   |
+|      TeXStudio-cn       |    ✓     |   ✓   |
+|         VLC-cn          |    ✓     |   ✓   |
+|       VSCodium-cn       |    ✓     |   ✓   |
 
 ## 备注
 

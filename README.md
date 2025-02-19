@@ -112,7 +112,7 @@ scoop config aria2-min-split-size 4M
 |  Mendeley-Desktop  |       ✓       |                             ✓                             |
 |      NetLogo       |       ✓       |                             ✓                             |
 |  OpenBB-Terminal   |       ✓       |                             ✓                             |
-|      Readest       |       ✓       |                             ✓                             |
+|    Pot-Desktop     |       ✓       |                             ✓                             |
 |     SciHubEVA      |       ✓       |                             ✓                             |
 |      TeXLive       |       ✓       | modified [chawyehsu](https://github.com/chawyehsu/dorado) |
 
@@ -124,30 +124,23 @@ scoop config aria2-min-split-size 4M
 | Cherry-Studio |       ✓       |     ✓      |
 |    ChatBox    |       ✓       |     ✓      |
 
-### Development
+### Windows-Only
 
 |          App           | Auto-Update ? |                        Original ?                         |
 | :--------------------: | :-----------: | :-------------------------------------------------------: |
-|      Alist-Helper      |       ✓       |                             ✓                             |
-|         DBGate         |       ✓       |                             ✓                             |
-|      Doxygen-GUI       |       ✓       |                             ✓                             |
-|  Navicat-Premium-Lite  |       ✓       |                             ✓                             |
-|         PDF4QT         |       ✓       |                             ✓                             |
-|      Pot-Desktop       |       ✓       |                             ✓                             |
-|      RectangleWin      |       ✓       |                             ✓                             |
-|        Veracypt        |       ✓       |                             ✓                             |
-|         WinRAR         |       ✓       |                             ✓                             |
-|      WiseCare365       |       ✓       |                             ✓                             |
-|    WIFI-Crack-Tool     |       ✓       |                             ✓                             |
+|      AutoDarkMode      |       ✓       |                             ✓                             |
+|    LKY-Officetools     |       ✓       |  copied from [DoveBoy](hhttps://github.com/DoveBoy/Apps)  |
 | VMware-Workstation-Pro |       ✓       | modified [Ash258](https://github.com/Ash258/Scoop-Ash258) |
+|    WIFI-Crack-Tool     |       ✓       |                             ✓                             |
+|      WiseCare365       |       ✓       |                             ✓                             |
 
-### Windows-Only
+### Development
 
-|       App       | Auto-Update ? |                       Original ?                        |
-| :-------------: | :-----------: | :-----------------------------------------------------: |
-|  AutoDarkMode   |       ✓       |                            ✓                            |
-| LKY-Officetools |       ✓       | copied from [DoveBoy](hhttps://github.com/DoveBoy/Apps) |
-|  RectangleWin   |       ✓       |                            ✓                            |
+|      App      | Auto-Update ? |    Original ?    |
+| :-----------: | :-----------: | :--------------: |
+| Alist-Helper  |       ✓       |        ✓         |
+| FileCentipede |       ✓       | ✓ (by @CronusLM) |
+|   Veracypt    |       ✓       |        ✓         |
 
 ## Notes
 
