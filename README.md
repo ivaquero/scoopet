@@ -5,145 +5,212 @@
 [![code size](https://img.shields.io/github/languages/code-size/ivaquero/scoopet.svg)](https://img.shields.io/github/languages/code-size/ivaquero/scoopet.svg)
 [![repo size](https://img.shields.io/github/repo-size/ivaquero/scoopet.svg)](https://img.shields.io/github/repo-size/ivaquero/scoopet.svg)
 
-A Bucket for the Best Windows Package Manager [Scoop](https://github.com/ScoopInstaller/Scoop): Continuously Assisting in Academic Research.
+一个用于 Windows 最佳包管理器 [Scoop](https://github.com/ScoopInstaller/Scoop)的脚本仓库：持续助力科研
 
-> If you would like to be a co-maintainer, feel free to tell me in the Discussion.
+> 如果你想共同维护仓库，欢迎在讨论版块告诉我。
 
 <p align="left">
-<a href="README.md">English</a> |
-<a href="README-CN.md">简体中文</a>
+<a href="README.md">简体中文</a>
+|
+<a href="README-EN.md">English</a>
 </p>
 
-For ones familiar with Scoop:
+对于熟悉 Scoop 的用户：
 
 ```powershell
 scoop bucket add scoopet https://github.com/ivaquero/scoopet
 ```
 
-# 🏃 To Start
+# 🏃 开始
 
-## 🚲 Install Scoop
+## 🚲 安装 Scoop
 
-### 💻 Step 1: Enable remote policy in PowerShell
+### 💻 步骤 1：在 PowerShell 中打开远程权限
 
 ```powershell
 Set-ExecutionPolicy RemoteSigned -scope CurrentUser
 ```
 
-### ⚙️ Step 2: Download and install Scoop
+### ⚙️ 步骤 2：下载并安装 Scoop
 
 ```powershell
 irm get.scoop.sh -outfile 'install.ps1'
 .\install.ps1 -ScoopDir ['Scoop_Path'] -ScoopGlobalDir ['GlobalScoopApps_Path'] -NoProxy
-# for example
+# 例如
 .\install.ps1 -ScoopDir 'C:\Scoop' -ScoopGlobalDir 'C:\Program Files' -NoProxy
 ```
 
-> If you skip this step, all user installed Apps and Scoop itself will live in `c:/users/user_name/scoop`.
+> 如果跳过该步骤，Scoop 将默认把所有用户安装的 App 和 Scoop 本身置于 `c:/users/user_name/scoop`
 
-### 📖 Step 3: Glance at quick-start by `scoop help`
+### 📖 步骤 3：通过`scoop help`查看快速上手方法
 
-For more information, please visit Scoop official site at 👉 https://scoop.sh/ 👈
+更多信息，请访问 Scoop 官网 👉 <https://scoop.sh/> 👈
 
-## 🚗 Install Apps from this bucket
+## 🚗 利用扩展库安装 App
 
-### 🚋 Step 1: Install Aria2 to accelerate downloading
+### 🚋 步骤 1：安装 Aria2 来加速下载
 
 ```powershell
 scoop install aria2
 ```
 
-### 🎫 Step 2: Install Git to add new repositories
-
-```powershell
-scoop install git
-```
-
-if you are using VPN, you need to turn off aria2 before installing Apps
+如果使用 VPN，需要通过如下命令关闭 aria2
 
 ```powershell
 scoop config aria2-enabled false
 ```
 
-### ✈️ Step 3: Add this wonderful bucket and update, mua~ 💋
+### 🎫 步骤 2：安装 Git 来添加新仓库
 
 ```powershell
-scoop bucket add main-plus https://github.com/ivaquero/scoop-main-plus
+scoop install git
+```
+
+### ✈️ 步骤 3：添加本仓库并更新，么么哒~ 💋
+
+```powershell
+scoop bucket add scoopet https://github.com/ivaquero/scoopet
 scoop update
 ```
 
-### 🚀 Step 4: Install Apps
+### 🚀 步骤 4：安装 App
 
-#### Check the exact name of App by `scoop search`
+#### 使用 `scoop search` 命令搜索 App 的具体名称
 
 ```powershell
 scoop search <app_name>
 ```
 
-#### Install Apps with assistance of plugin `scoop-completion`
+#### 利用插件 `scoop-completion` 协助安装
 
 ```powershell
 scoop install scoop-completion
 scoop install <app_name>
 ```
 
-> to use `scoop-completion`, just to hit `tab` after initial letters of App names
+> 使用`scoop-completion`：键入 App 名称的前几个字母后敲击`tab`键进行补全
 
-## 📝 Trivial
+## 📝 杂项
 
-### Tweak with Parameters in Aria2
+### Aria2 的参数自定义
 
 ```powershell
+# aria2 在 Scoop 中默认开启
 scoop config aria2-enabled true
+# 关于以下参数的作用，详见 aria2 的相关资料
 scoop config aria2-retry-wait 4
 scoop config aria2-split 16
 scoop config aria2-max-connection-per-server 16
 scoop config aria2-min-split-size 4M
 ```
 
-## ⭐️ Summary
+## ⭐️ 总结
 
-### Research Tools
+### 科研工具
 
-|        App         | Auto-Update ? |                        Original ?                         |
-| :----------------: | :-----------: | :-------------------------------------------------------: |
-| Jupyterlab-Desktop |       ✓       |  modified [gdm257](https://github.com/gdm257/scoop-257)   |
-|      KingDraw      |       ✓       |                             ✓                             |
-|  Mendeley-Desktop  |       ✓       |                             ✓                             |
-|      NetLogo       |       ✓       |                             ✓                             |
-|  OpenBB-Terminal   |       ✓       |                             ✓                             |
-|    Pot-Desktop     |       ✓       |                             ✓                             |
-|     SciHubEVA      |       ✓       |                             ✓                             |
-|      TeXLive       |       ✓       | modified [chawyehsu](https://github.com/chawyehsu/dorado) |
+|        App         | 自动更新 |                          原创                           |
+| :----------------: | :------: | :-----------------------------------------------------: |
+| Jupyterlab-Desktop |    ✓     |  修改自 [gdm257](https://github.com/gdm257/scoop-257)   |
+|      KingDraw      |    ✓     |                            ✓                            |
+|  Mendeley-Desktop  |    ✓     |                            ✓                            |
+|      NetLogo       |    ✓     |                            ✓                            |
+|  OpenBB-Terminal   |    ✓     |                            ✓                            |
+|    Pot-Desktop     |    ✓     |                            ✓                            |
+|     SciHubEVA      |    ✓     |                            ✓                            |
+|      TeXLive       |    ✓     | 修改自 [chawyehsu](https://github.com/chawyehsu/dorado) |
 
-### AI Tools
+### AI 工具
 
-|      App      | Auto-Update ? | Original ? |
-| :-----------: | :-----------: | :--------: |
-|    ChatBox    |       ✓       |     ✓      |
-| Cherry-Studio |       ✓       |     ✓      |
+|      App      | 自动更新 | 原创  |
+| :-----------: | :------: | :---: |
+|   AigcPanel   |    ✓     |   ✓   |
+|    ChatBox    |    ✓     |   ✓   |
+| Cherry-Studio |    ✓     |   ✓   |
 
-### Windows-Only
+### Win 专属
 
-|          App           | Auto-Update ? |                        Original ?                         |
-| :--------------------: | :-----------: | :-------------------------------------------------------: |
-|      AutoDarkMode      |       ✓       |                             ✓                             |
-|    LKY-Officetools     |       ✓       |  copied from [DoveBoy](hhttps://github.com/DoveBoy/Apps)  |
-| VMware-Workstation-Pro |       ✓       | modified [Ash258](https://github.com/Ash258/Scoop-Ash258) |
-|    WIFI-Crack-Tool     |       ✓       |                             ✓                             |
-|      WiseCare365       |       ✓       |                             ✓                             |
+|          App           | 自动更新 |                          原创                           |
+| :--------------------: | :------: | :-----------------------------------------------------: |
+|      AutoDarkMode      |    ✓     |                            ✓                            |
+|    LKY-Officetools     |    ✓     |   复制于 [DoveBoy](hhttps://github.com/DoveBoy/Apps)    |
+| VMware-Workstation-Pro |    ✓     | 修改自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
+|      WiseCare365       |    ✓     |                            ✓                            |
+|    WIFI-Crack-Tool     |    ✓     |                            ✓                            |
 
-### Development
+### 开发辅助
 
-|      App      | Auto-Update ? |    Original ?    |
-| :-----------: | :-----------: | :--------------: |
-| Alist-Helper  |       ✓       |        ✓         |
-| FileCentipede |       ✓       | ✓ (by @CronusLM) |
-|   Veracypt    |       ✓       |        ✓         |
+|      App      | 自动更新 |       原创       |
+| :-----------: | :------: | :--------------: |
+| Alist-Helper  |    ✓     |        ✓         |
+| FileCentipede |    ✓     | ✓ (by @CronusLM) |
+|   Veracypt    |    ✓     |        ✓         |
 
-## Notes
+### 国人专享
 
-Due to the complexity of Win to permission management, for some common applications that do not provide portable installation packages and require administrator application permissions, it is recommended to use WinGet for installation
+|    中文名称     |         App         | 自动更新 |                          原创                           |
+| :-------------: | :-----------------: | :------: | :-----------------------------------------------------: |
+|   阿波波外语    |       aboboo        |    ✓     |                            ✓                            |
+|   阿波波外语    |     aboboo-full     |    ✓     |                            ✓                            |
+|    阿里云盘     |       ADrive        |    ✓     |                            ✓                            |
+|    百度云盘     |    BaiduNetDisk     |    ✓     |                            ✓                            |
+|    CAJViewer    |      CAJViewer      |    ✓     |                   ✓ (by @rayinfinite)                   |
+|  全球学术快报   |     CNKIExpress     |    ✓     |                   ✓ (by @rayinfinite)                   |
+|   DashPlayer    |     DashPlayer      |    ✓     |                            ✓                            |
+|      钉钉       |      DingTalk       |    ✓     |                            ✓                            |
+|   哔哩下载姬    |       DownKyi       |    ✓     |                    ✓ (by @CronusLM)                     |
+|    Edgeless     |      Edgeless       |    ✓     |                   ✓ (by @IsaacWangTT)                   |
+|    亿图图示     |      edrawmax       |    ✓     |                            ✓                            |
+|    欧路词典     |        Eudic        |    ✓     |                            ✓                            |
+|    西语助手     |      EsHelper       |    ✓     |                            ✓                            |
+|    法语助手     |      FrHelper       |    ✓     |                            ✓                            |
+|  每日英语听力   |       ting-en       |    ✓     |                            ✓                            |
+|  每日西语听力   |       ting-es       |    ✓     |                            ✓                            |
+|  每日法语听力   |       ting-fr       |    ✓     |                            ✓                            |
+|      飞书       |       Feishu        |    ✓     |                            ✓                            |
+|  Fishing-Funds  |    Fishing-Funds    |    ✓     |                            ✓                            |
+|  洛雪音乐助手   |      LX-Music       |    ✓     |                            ✓                            |
+| M3u8-Downloader |   M3u8-Downloader   |    ✓     |                            ✓                            |
+|  恶意软件补丁   |    Malware-Patch    |    ✓     |                            ✓                            |
+|   网易云音乐    |    NetEaseMusic     |    ✓     |                            ✓                            |
+|  傲梅分区助手   | Partition-Assistant |    ✓     |                            ✓                            |
+|  聊天消息撤回   | Revoke-Msg-Patcher  |    ✓     |                            ✓                            |
+|    腾讯教育     |     Tencent-Edu     |    ✓     |                            ✓                            |
+|    腾讯会议     |   Tencent-Meeting   |    ✓     |                    ✓ (by @Ryanjiena)                    |
+|     uTools      |       uTools        |    ✓     | 复制于 [chawyehsu](https://github.com/chawyehsu/dorado) |
+|     小狼毫      |       Weasel        |    ✓     |                            ✓                            |
+|    企业微信     |     WeChatWork      |    ✓     |                            ✓                            |
+|    WPSOffice    |    WPSOffice-cn     |    ✓     |                            ✓                            |
+|      语雀       |        Yuque        |    ✓     | 复制于 [chawyehsu](https://github.com/chawyehsu/dorado) |
+
+### 开源镜像
+
+|           App           | 自动更新 | 原创  |
+| :---------------------: | :------: | :---: |
+|       Blender-cn        |    ✓     |   ✓   |
+|       FreeCAD-cn        |    ✓     |   ✓   |
+|         Git-cn          |    ✓     |   ✓   |
+|         GIMP-cn         |    ✓     |   ✓   |
+|       GIMP@dev-cn       |    ✓     |   ✓   |
+|       Inkscape-cn       |    ✓     |   ✓   |
+|        Julia-cn         |    ✓     |   ✓   |
+|        Kicad-cn         |    ✓     |   ✓   |
+|     LibreOffice-cn      |    ✓     |   ✓   |
+|         LyX-cn          |    ✓     |   ✓   |
+|      MicroMamba-cn      |    ✓     |   ✓   |
+|      Miniconda-cn       |    ✓     |   ✓   |
+|      Miniforge-cn       |    ✓     |   ✓   |
+| Navicat-Premium-Lite-cn |    ✓     |   ✓   |
+|      OBS-Studio-cn      |    ✓     |   ✓   |
+|        Octave-cn        |    ✓     |   ✓   |
+|      Qt-Creator-cn      |    ✓     |   ✓   |
+|       SageMath-cn       |    ✓     |   ✓   |
+|      TeXStudio-cn       |    ✓     |   ✓   |
+|         VLC-cn          |    ✓     |   ✓   |
+|       VSCodium-cn       |    ✓     |   ✓   |
+
+## 备注
+
+由于 Win 到权限管理复杂，对于一些常见的不提供 portable 安装包，且需要管理员应用的权限，建议使用 WinGet 进行安装
 
 ```powershell
 scoop install winget
