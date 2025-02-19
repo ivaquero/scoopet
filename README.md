@@ -120,9 +120,8 @@ scoop config aria2-min-split-size 4M
 
 |      App      | Auto-Update ? | Original ? |
 | :-----------: | :-----------: | :--------: |
-|     Buzz      |       ✓       |     ✓      |
-| Cherry-Studio |       ✓       |     ✓      |
 |    ChatBox    |       ✓       |     ✓      |
+| Cherry-Studio |       ✓       |     ✓      |
 
 ### Windows-Only
 
