@@ -5,9 +5,7 @@
 [![code size](https://img.shields.io/github/languages/code-size/ivaquero/scoopet.svg)](https://img.shields.io/github/languages/code-size/ivaquero/scoopet.svg)
 [![repo size](https://img.shields.io/github/repo-size/ivaquero/scoopet.svg)](https://img.shields.io/github/repo-size/ivaquero/scoopet.svg)
 
-A Bucket for the Best Windows Package Manager [Scoop](https://github.com/ScoopInstaller/Scoop): Continuously Assisting in Academic Research.
-
-> If you would like to be a co-maintainer, feel free to tell me in the Discussion.
+⚠️ For a better management, this repo now intends to only contains scripts for Chinese users in the near future, for international softwares, please try the bucket [Extras-Plus](https://github.com/Scoopforge/Extras-Plus).
 
 <p align="left">
 <a href="README-EN.md">English</a> |
@@ -113,7 +111,6 @@ scoop config aria2-min-split-size 4M
 |      KingDraw      |       ✓       |                             ✓                             |
 |  Mendeley-Desktop  |       ✓       |                             ✓                             |
 |      NetLogo       |       ✓       |                             ✓                             |
-|  OpenBB-Terminal   |       ✓       |                             ✓                             |
 |    Pot-Desktop     |       ✓       |                             ✓                             |
 |     SciHubEVA      |       ✓       |                             ✓                             |
 |      TeXLive       |       ✓       | modified [chawyehsu](https://github.com/chawyehsu/dorado) |

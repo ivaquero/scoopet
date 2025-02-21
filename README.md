@@ -5,7 +5,7 @@
 [![code size](https://img.shields.io/github/languages/code-size/ivaquero/scoopet.svg)](https://img.shields.io/github/languages/code-size/ivaquero/scoopet.svg)
 [![repo size](https://img.shields.io/github/repo-size/ivaquero/scoopet.svg)](https://img.shields.io/github/repo-size/ivaquero/scoopet.svg)
 
-一个用于 Windows 最佳包管理器 [Scoop](https://github.com/ScoopInstaller/Scoop)的脚本仓库：持续助力科研
+ 专注于服务国人的 Windows 最佳包管理器 [Scoop](https://github.com/ScoopInstaller/Scoop)扩展库
 
 > 如果你想共同维护仓库，欢迎在讨论版块告诉我。
 
@@ -116,7 +116,6 @@ scoop config aria2-min-split-size 4M
 |      KingDraw      |    ✓     |                            ✓                            |
 |  Mendeley-Desktop  |    ✓     |                            ✓                            |
 |      NetLogo       |    ✓     |                            ✓                            |
-|  OpenBB-Terminal   |    ✓     |                            ✓                            |
 |    Pot-Desktop     |    ✓     |                            ✓                            |
 |     SciHubEVA      |    ✓     |                            ✓                            |
 |      TeXLive       |    ✓     | 修改自 [chawyehsu](https://github.com/chawyehsu/dorado) |
