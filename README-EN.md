@@ -105,8 +105,6 @@ scoop config aria2-min-split-size 4M
 
 |        App         | Auto-Update ? |                        Original ?                         |
 | :----------------: | :-----------: | :-------------------------------------------------------: |
-|      ChatBox       |       ✓       |                             ✓                             |
-|   Cherry-Studio    |       ✓       |                             ✓                             |
 | Jupyterlab-Desktop |       ✓       |  modified [gdm257](https://github.com/gdm257/scoop-257)   |
 |      KingDraw      |       ✓       |                             ✓                             |
 |  Mendeley-Desktop  |       ✓       |                             ✓                             |
@@ -124,7 +122,6 @@ scoop config aria2-min-split-size 4M
 |    LKY-Officetools     |       ✓       |  copied from [DoveBoy](hhttps://github.com/DoveBoy/Apps)  |
 | VMware-Workstation-Pro |       ✓       | modified [Ash258](https://github.com/Ash258/Scoop-Ash258) |
 |    WIFI-Crack-Tool     |       ✓       |                             ✓                             |
-|      WiseCare365       |       ✓       |                             ✓                             |
 
 ## Notes
 

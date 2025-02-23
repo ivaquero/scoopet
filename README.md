@@ -5,9 +5,9 @@
 [![code size](https://img.shields.io/github/languages/code-size/ivaquero/scoopet.svg)](https://img.shields.io/github/languages/code-size/ivaquero/scoopet.svg)
 [![repo size](https://img.shields.io/github/repo-size/ivaquero/scoopet.svg)](https://img.shields.io/github/repo-size/ivaquero/scoopet.svg)
 
- 专注于服务国人的 Windows 最佳包管理器 [Scoop](https://github.com/ScoopInstaller/Scoop)扩展库
+专注于服务国人的 Windows 最佳包管理器 [Scoop](https://github.com/ScoopInstaller/Scoop)扩展库
 
-> 如果你想共同维护仓库，欢迎在讨论版块告诉我。
+> 国际通用软件请关注[Extras-Plus](https://github.com/Scoopforge/Extras-Plus)。
 
 <p align="left">
 <a href="README.md">简体中文</a>
@@ -110,8 +110,6 @@ scoop config aria2-min-split-size 4M
 
 |        App         | 自动更新 |                          原创                           |
 | :----------------: | :------: | :-----------------------------------------------------: |
-|      ChatBox       |    ✓     |                            ✓                            |
-|   Cherry-Studio    |    ✓     |                            ✓                            |
 | Jupyterlab-Desktop |    ✓     |  修改自 [gdm257](https://github.com/gdm257/scoop-257)   |
 |      KingDraw      |    ✓     |                            ✓                            |
 |  Mendeley-Desktop  |    ✓     |                            ✓                            |
@@ -128,7 +126,6 @@ scoop config aria2-min-split-size 4M
 |     FileCentipede      |    ✓     |                    ✓ (by @CronusLM)                     |
 |    LKY-Officetools     |    ✓     |   复制于 [DoveBoy](hhttps://github.com/DoveBoy/Apps)    |
 | VMware-Workstation-Pro |    ✓     | 修改自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
-|      WiseCare365       |    ✓     |                            ✓                            |
 |    WIFI-Crack-Tool     |    ✓     |                            ✓                            |
 
 ### 国人专享
