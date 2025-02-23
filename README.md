@@ -108,15 +108,13 @@ scoop config aria2-min-split-size 4M
 
 ### 科研工具
 
-|        App         | 自动更新 |                          原创                           |
-| :----------------: | :------: | :-----------------------------------------------------: |
-| Jupyterlab-Desktop |    ✓     |  修改自 [gdm257](https://github.com/gdm257/scoop-257)   |
-|      KingDraw      |    ✓     |                            ✓                            |
-|  Mendeley-Desktop  |    ✓     |                            ✓                            |
-|      NetLogo       |    ✓     |                            ✓                            |
-|    Pot-Desktop     |    ✓     |                            ✓                            |
-|     SciHubEVA      |    ✓     |                            ✓                            |
-|      TeXLive       |    ✓     | 修改自 [chawyehsu](https://github.com/chawyehsu/dorado) |
+|     App     | 自动更新 |                          原创                           |
+| :---------: | :------: | :-----------------------------------------------------: |
+|  KingDraw   |    ✓     |                            ✓                            |
+|   NetLogo   |    ✓     |                            ✓                            |
+| Pot-Desktop |    ✓     |                            ✓                            |
+|  SciHubEVA  |    ✓     |                            ✓                            |
+|   TeXLive   |    ✓     | 修改自 [chawyehsu](https://github.com/chawyehsu/dorado) |
 
 ### Win 专属
 
