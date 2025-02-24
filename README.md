@@ -106,63 +106,67 @@ scoop config aria2-min-split-size 4M
 
 ## ⭐️ 总结
 
-### 科研工具
+### 跨平台
 
-|     App     | 自动更新 |                          原创                           |
-| :---------: | :------: | :-----------------------------------------------------: |
-|  KingDraw   |    ✓     |                            ✓                            |
-|   NetLogo   |    ✓     |                            ✓                            |
-| Pot-Desktop |    ✓     |                            ✓                            |
-|  SciHubEVA  |    ✓     |                            ✓                            |
-|   TeXLive   |    ✓     | 修改自 [chawyehsu](https://github.com/chawyehsu/dorado) |
+|              中文名称               |                               App                                | 自动更新 |                          原创                           |
+| :---------------------------------: | :--------------------------------------------------------------: | :------: | :-----------------------------------------------------: |
+|             阿波波外语              |                   [aboboo](http://aboboo.com)                    |    ✓     |                            ✓                            |
+|             阿波波外语              |                 [aboboo-full](http://aboboo.com)                 |    ✓     |                            ✓                            |
+|              阿里云盘               |                   [adrive](https://alipan.com)                   |    ✓     |                            ✓                            |
+|              百度云盘               |          [baidunetdisk](https://pan.baidu.com/download)          |    ✓     |                            ✓                            |
+|              CAJViewer              |        [cajviewer](https://cajviewer.cnki.net/index.html)        |    ✓     |                   ✓ (by @rayinfinite)                   |
+|            全球学术快报             |             [cnkiexpress](https://express.cnki.net)              |    ✓     |                   ✓ (by @rayinfinite)                   |
+|                钉钉                 |                 [dingtalk](https://dingtalk.com)                 |    ✓     |                            ✓                            |
+|                抖音                 |                   [douyin](https://douyin.com)                   |    ✓     |                            ✓                            |
+|                抖音                 |                   [douyin](https://douyin.com)                   |    ✓     |                            ✓                            |
+|             哔哩下载姬              |         [downkyi](https://github.com/leiurayer/downkyi)          |    ✓     |                    ✓ (by @CronusLM)                     |
+|              Edgeless               |              [edgeless](https://home.edgeless.top/)              |    ✓     |                   ✓ (by @IsaacWangTT)                   |
+|              亿图图示               |                [edrawmax](https://edrawsoft.cn/)                 |    ✓     |                            ✓                            |
+|              欧路词典               |                    [eudic](https://eudic.net)                    |    ✓     |                            ✓                            |
+|              西语助手               |         [eshelper](https://eudic.net/v4/es/app/eshelper)         |    ✓     |                            ✓                            |
+|              法语助手               |         [frhelper](https://eudic.net/v4/fr/app/frhelper)         |    ✓     |                            ✓                            |
+|            每日英语听力             |              [ting-en](http://dict.eudic.net/ting)               |    ✓     |                            ✓                            |
+|            每日西语听力             |           [ting-es](https://eudic.net/v4/fr/app/ting)            |    ✓     |                            ✓                            |
+|            每日法语听力             |           [ting-fr](https://eudic.net/v4/fr/app/ting)            |    ✓     |                            ✓                            |
+|                飞书                 |                   [feishu](https://feishu.cn)                    |    ✓     |                            ✓                            |
+|               EV 录屏               |           [evcapture](https://ieway.cn/evcapture.html)           |    ✓     |                            ✓                            |
+|                剪映                 |                [jianying-pro](https://capcut.cn)                 |    ✓     |                            ✓                            |
+|            洛雪音乐助手             |     [lx-music](https://github.com/lyswhut/lx-music-desktop)      |    ✓     |                            ✓                            |
+|             网易云音乐              |              [neteasemusic](https://music.163.com)               |    ✓     |                            ✓                            |
+|              腾讯教育               |                 [tencent-edu](https://ke.qq.com)                 |    ✓     |                            ✓                            |
+|              腾讯会议               |          [tencent-meeting](https://meeting.tencent.com)          |    ✓     |                    ✓ (by @Ryanjiena)                    |
+|                 TIM                 |                    [tim](https://tim.qq.com)                     |    ✓     |                            ✓                            |
+|               uTools                |                    [utools](https://u.tools)                     |    ✓     |                            ✓                            |
+|               小狼毫                |                    [weasel](https://rime.im)                     |    ✓     |                            ✓                            |
+|              企业微信               |             [wechatwork](https://work.weixin.qq.com)             |    ✓     |                            ✓                            |
+|              WPSOffice              |             [wpsoffice-cn](https://wps.com/zh-hant/)             |    ✓     |                            ✓                            |
+|                语雀                 |                    [yuque](https://yuque.com)                    |    ✓     | 复制于 [chawyehsu](https://github.com/chawyehsu/dorado) |
+| [AigcPanel](https://aigcpanel.com/) |                                ✓                                 |    ✓     |                            ✓                            |
+|             DashPlayer              |      [dashplayer](https://github.com/solidSpoon/DashPlayer)      |    ✓     |                            ✓                            |
+|            Fishing-Funds            |     [fishing-funds](https://github.com/1zilc/fishing-funds)      |    ✓     |                            ✓                            |
+|              HBuilderX              |          [hbuilderx](https://dcloud.io/hbuilderx.html)           |    ✓     |                            ✓                            |
+|           M3u8-Downloader           | [m3u8-downloader](https://github.com/HeiSir2014/M3U8-Downloader) |    ✓     |                            ✓                            |
+|              KingDraw               |                  [kingdraw](http://kingdraw.cn)                  |    ✓     |                            ✓                            |
+|             Pot-Desktop             |                [pot-desktop](https://pot-app.com)                |    ✓     |                            ✓                            |
+|              SciHubEVA              |         [scihubeva](https://github.com/leovan/SciHubEVA)         |    ✓     |                            ✓                            |
+|               TeXLive               |                [texlive](https://tug.org/texlive)                |    ✓     |                            ✓                            |
 
 ### Win 专属
 
-|          App           | 自动更新 |                          原创                           |
-| :--------------------: | :------: | :-----------------------------------------------------: |
-|      AutoDarkMode      |    ✓     |                            ✓                            |
-|     FileCentipede      |    ✓     |                    ✓ (by @CronusLM)                     |
-|    LKY-Officetools     |    ✓     |   复制于 [DoveBoy](hhttps://github.com/DoveBoy/Apps)    |
-| VMware-Workstation-Pro |    ✓     | 修改自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
-|    WIFI-Crack-Tool     |    ✓     |                            ✓                            |
-
-### 国人专享
-
-|    中文名称     |         App         | 自动更新 |                          原创                           |
-| :-------------: | :-----------------: | :------: | :-----------------------------------------------------: |
-|   阿波波外语    |       aboboo        |    ✓     |                            ✓                            |
-|   阿波波外语    |     aboboo-full     |    ✓     |                            ✓                            |
-|    AigcPanel    |          ✓          |    ✓     |                            ✓                            |
-|    阿里云盘     |       ADrive        |    ✓     |                            ✓                            |
-|    百度云盘     |    BaiduNetDisk     |    ✓     |                            ✓                            |
-|    CAJViewer    |      CAJViewer      |    ✓     |                   ✓ (by @rayinfinite)                   |
-|  全球学术快报   |     CNKIExpress     |    ✓     |                   ✓ (by @rayinfinite)                   |
-|   DashPlayer    |     DashPlayer      |    ✓     |                            ✓                            |
-|      钉钉       |      DingTalk       |    ✓     |                            ✓                            |
-|   哔哩下载姬    |       DownKyi       |    ✓     |                    ✓ (by @CronusLM)                     |
-|    Edgeless     |      Edgeless       |    ✓     |                   ✓ (by @IsaacWangTT)                   |
-|    亿图图示     |      edrawmax       |    ✓     |                            ✓                            |
-|    欧路词典     |        Eudic        |    ✓     |                            ✓                            |
-|    西语助手     |      EsHelper       |    ✓     |                            ✓                            |
-|    法语助手     |      FrHelper       |    ✓     |                            ✓                            |
-|  每日英语听力   |       ting-en       |    ✓     |                            ✓                            |
-|  每日西语听力   |       ting-es       |    ✓     |                            ✓                            |
-|  每日法语听力   |       ting-fr       |    ✓     |                            ✓                            |
-|      飞书       |       Feishu        |    ✓     |                            ✓                            |
-|  Fishing-Funds  |    Fishing-Funds    |    ✓     |                            ✓                            |
-|  洛雪音乐助手   |      LX-Music       |    ✓     |                            ✓                            |
-| M3u8-Downloader |   M3u8-Downloader   |    ✓     |                            ✓                            |
-|  恶意软件补丁   |    Malware-Patch    |    ✓     |                            ✓                            |
-|   网易云音乐    |    NetEaseMusic     |    ✓     |                            ✓                            |
-|  傲梅分区助手   | Partition-Assistant |    ✓     |                            ✓                            |
-|  聊天消息撤回   | Revoke-Msg-Patcher  |    ✓     |                            ✓                            |
-|    腾讯教育     |     Tencent-Edu     |    ✓     |                            ✓                            |
-|    腾讯会议     |   Tencent-Meeting   |    ✓     |                    ✓ (by @Ryanjiena)                    |
-|     uTools      |       uTools        |    ✓     | 复制于 [chawyehsu](https://github.com/chawyehsu/dorado) |
-|     小狼毫      |       Weasel        |    ✓     |                            ✓                            |
-|    企业微信     |     WeChatWork      |    ✓     |                            ✓                            |
-|    WPSOffice    |    WPSOffice-cn     |    ✓     |                            ✓                            |
-|      语雀       |        Yuque        |    ✓     | 复制于 [chawyehsu](https://github.com/chawyehsu/dorado) |
+|                        |                                 App                                  | 自动更新 |                          原创                           |
+| :--------------------: | :------------------------------------------------------------------: | :------: | :-----------------------------------------------------: |
+|      AutoDarkMode      | [AutoDarkMode](https://github.com/Armin2208/Windows-Auto-Night-Mode) |    ✓     |                            ✓                            |
+|     FileCentipede      |      [filecentipede](https://github.com/filecxx/FileCentipede)       |    ✓     |                    ✓ (by @CronusLM)                     |
+|    MisakaTranslator    |  [misakatranslator](https://github.com/hanmin0822/MisakaTranslator)  |    ✓     |                    ✓ (by @CronusLM)                     |
+|    LKY-OfficeTools     |  [lky-officetools](https://github.com/OdysseusYuan/LKY_OfficeTools)  |    ✓     |   复制于 [DoveBoy](hhttps://github.com/DoveBoy/Apps)    |
+|         Reader         |              [reader](https://github.com/binbyu/Reader)              |    ✓     |                            ✓                            |
+|        Regester        |       [regester](https://deerchao.cn/tools/regester/index.htm)       |    ✓     |                            ✓                            |
+|       SubRenamer       |         [subrenamer](https://github.com/arition/SubRenamer)          |    ✓     |                            ✓                            |
+| VMware-Workstation-Pro |                        VMware-Workstation-Pro                        |    ✓     | 修改自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
+|   WiFi 密码暴力破解    |  [wifi-crack-tool](https://github.com/baihengaead/wifi-crack-tool)   |    ✓     |                            ✓                            |
+|      傲梅分区助手      |              [partition-assistant](https://disktool.cn)              |    ✓     |                            ✓                            |
+|       软件屏蔽器       |      [malware-patch](https://github.com/the1812/Malware-Patch)       |    ✓     |                            ✓                            |
+| 微信/QQ/TIM 防撤回补丁 | [revoke-msg-patcher](https://github.com/huiyadanli/RevokeMsgPatcher) |    ✓     |                            ✓                            |
 
 ### 开源镜像
 

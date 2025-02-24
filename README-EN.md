@@ -103,13 +103,10 @@ scoop config aria2-min-split-size 4M
 
 ### Research
 
-|     App     | Auto-Update ? |                        Original ?                         |
-| :---------: | :-----------: | :-------------------------------------------------------: |
-|  KingDraw   |       ✓       |                             ✓                             |
-|   NetLogo   |       ✓       |                             ✓                             |
-| Pot-Desktop |       ✓       |                             ✓                             |
-|  SciHubEVA  |       ✓       |                             ✓                             |
-|   TeXLive   |       ✓       | modified [chawyehsu](https://github.com/chawyehsu/dorado) |
+|    App    | Auto-Update ? |                        Original ?                         |
+| :-------: | :-----------: | :-------------------------------------------------------: |
+| SciHubEVA |       ✓       |                             ✓                             |
+|  TeXLive  |       ✓       | modified [chawyehsu](https://github.com/chawyehsu/dorado) |
 
 ### Windows-Only
 
