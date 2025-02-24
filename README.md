@@ -7,13 +7,9 @@
 
 专注于服务国人的 Windows 最佳包管理器 [Scoop](https://github.com/ScoopInstaller/Scoop)扩展库
 
-> 国际通用软件请关注[Extras-Plus](https://github.com/Scoopforge/Extras-Plus)。
-
-<p align="left">
-<a href="README.md">简体中文</a>
-|
-<a href="README-EN.md">English</a>
-</p>
+> ⚠️ 为更好的进行管理，本仓库只收录主要针对国内用户的软件，国际通用软件请添加仓库[Extras-Plus](https://github.com/Scoopforge/Extras-Plus)。
+>
+> ⚠️ For a better management, this repo now intends to only contains scripts for Chinese users, for international softwares, please add the bucket [Extras-Plus](https://github.com/Scoopforge/Extras-Plus).
 
 对于熟悉 Scoop 的用户：
 
@@ -153,20 +149,20 @@ scoop config aria2-min-split-size 4M
 
 ### Win 专属
 
-|                        |                                 App                                  | 自动更新 |                          原创                           |
-| :--------------------: | :------------------------------------------------------------------: | :------: | :-----------------------------------------------------: |
-|      AutoDarkMode      | [AutoDarkMode](https://github.com/Armin2208/Windows-Auto-Night-Mode) |    ✓     |                            ✓                            |
-|     FileCentipede      |      [filecentipede](https://github.com/filecxx/FileCentipede)       |    ✓     |                    ✓ (by @CronusLM)                     |
-|    MisakaTranslator    |  [misakatranslator](https://github.com/hanmin0822/MisakaTranslator)  |    ✓     |                    ✓ (by @CronusLM)                     |
-|    LKY-OfficeTools     |  [lky-officetools](https://github.com/OdysseusYuan/LKY_OfficeTools)  |    ✓     |   复制于 [DoveBoy](hhttps://github.com/DoveBoy/Apps)    |
-|         Reader         |              [reader](https://github.com/binbyu/Reader)              |    ✓     |                            ✓                            |
-|        Regester        |       [regester](https://deerchao.cn/tools/regester/index.htm)       |    ✓     |                            ✓                            |
-|       SubRenamer       |         [subrenamer](https://github.com/arition/SubRenamer)          |    ✓     |                            ✓                            |
-| VMware-Workstation-Pro |                        VMware-Workstation-Pro                        |    ✓     | 修改自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
-|   WiFi 密码暴力破解    |  [wifi-crack-tool](https://github.com/baihengaead/wifi-crack-tool)   |    ✓     |                            ✓                            |
-|      傲梅分区助手      |              [partition-assistant](https://disktool.cn)              |    ✓     |                            ✓                            |
-|       软件屏蔽器       |      [malware-patch](https://github.com/the1812/Malware-Patch)       |    ✓     |                            ✓                            |
-| 微信/QQ/TIM 防撤回补丁 | [revoke-msg-patcher](https://github.com/huiyadanli/RevokeMsgPatcher) |    ✓     |                            ✓                            |
+|                        |                                        App                                        | 自动更新 |                          原创                           |
+| :--------------------: | :-------------------------------------------------------------------------------: | :------: | :-----------------------------------------------------: |
+|      AutoDarkMode      |       [AutoDarkMode](https://github.com/Armin2208/Windows-Auto-Night-Mode)        |    ✓     |                            ✓                            |
+|     FileCentipede      |             [filecentipede](https://github.com/filecxx/FileCentipede)             |    ✓     |                    ✓ (by @CronusLM)                     |
+|    MisakaTranslator    |        [misakatranslator](https://github.com/hanmin0822/MisakaTranslator)         |    ✓     |                    ✓ (by @CronusLM)                     |
+|    LKY-OfficeTools     |        [lky-officetools](https://github.com/OdysseusYuan/LKY_OfficeTools)         |    ✓     |                            ✓                            |
+|         Reader         |                    [reader](https://github.com/binbyu/Reader)                     |    ✓     |                            ✓                            |
+|        Regester        |             [regester](https://deerchao.cn/tools/regester/index.htm)              |    ✓     |                            ✓                            |
+|       SubRenamer       |                [subrenamer](https://github.com/arition/SubRenamer)                |    ✓     |                            ✓                            |
+| VMware-Workstation-Pro | [vmware-workstation-pro](https://www.vmware.com/products/desktop-hypervisor.html) |    ✓     | 修改自 [Ash258](https://github.com/Ash258/Scoop-Ash258) |
+|   WiFi 密码暴力破解    |         [wifi-crack-tool](https://github.com/baihengaead/wifi-crack-tool)         |    ✓     |                            ✓                            |
+|      傲梅分区助手      |                    [partition-assistant](https://disktool.cn)                     |    ✓     |                            ✓                            |
+|       软件屏蔽器       |             [malware-patch](https://github.com/the1812/Malware-Patch)             |    ✓     |                            ✓                            |
+| 微信/QQ/TIM 防撤回补丁 |       [revoke-msg-patcher](https://github.com/huiyadanli/RevokeMsgPatcher)        |    ✓     |                            ✓                            |
 
 ### 开源镜像
 
