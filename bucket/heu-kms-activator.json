@@ -1,12 +1,12 @@
 {
-    "version": "42.1.0",
+    "version": "42.3.2",
     "description": "HEU KMS Activator",
     "homepage": "https://github.com/zbezj/HEU_KMS_Activator",
     "license": {
         "identifier": "Freeware"
     },
-    "url": "https://github.com/zbezj/HEU_KMS_Activator/releases/download/42.1.0/HEU_KMS_Activator_v42.1.0.rar#dl.zip_",
-    "hash": "25a558d25ee5608aed0aa21020ffe3e7a2261dd8feb0fa9ff7c7bde4bac349db",
+    "url": "https://github.com/zbezj/HEU_KMS_Activator/releases/download/42.3.2/HEU_KMS_Activator_v42.3.2.rar#dl.zip_",
+    "hash": "a46f6435f42bd72eb16bcef8d3efe6d1b42151bfeead45b7d5bc64deb725de05",
     "pre_install": [
         "$7z=(Get-ChildItem $dir\\HEU_KMS_Activator_$version*).Name",
         "7z x -pHEU168 $dir\\$7z $('-o' + $dir) | Out-Null",
