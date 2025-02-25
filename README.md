@@ -127,6 +127,7 @@ scoop config aria2-min-split-size 4M
 |      飞书       |                   [feishu](https://feishu.cn)                    |    ✓     |                            ✓                            |
 |     EV 录屏     |           [evcapture](https://ieway.cn/evcapture.html)           |    ✓     |                            ✓                            |
 |      剪映       |                [jianying-pro](https://capcut.cn)                 |    ✓     |                            ✓                            |
+|    爱思助手     |             [i4tools](https://www.i4.cn/pro_pc.html)             |    ✓     |                            ✓                            |
 |  洛雪音乐助手   |     [lx-music](https://github.com/lyswhut/lx-music-desktop)      |    ✓     |                            ✓                            |
 |   网易云音乐    |              [neteasemusic](https://music.163.com)               |    ✓     |                            ✓                            |
 |    腾讯教育     |                 [tencent-edu](https://ke.qq.com)                 |    ✓     |                            ✓                            |
@@ -151,9 +152,10 @@ scoop config aria2-min-split-size 4M
 
 |                        |                                        App                                        | 自动更新 |                          原创                           |
 | :--------------------: | :-------------------------------------------------------------------------------: | :------: | :-----------------------------------------------------: |
-|      AutoDarkMode      |       [AutoDarkMode](https://github.com/Armin2208/Windows-Auto-Night-Mode)        |    ✓     |                            ✓                            |
+|      AutoDarkMode      |       [autodarkmode](https://github.com/Armin2208/Windows-Auto-Night-Mode)        |    ✓     |                            ✓                            |
 |     FileCentipede      |             [filecentipede](https://github.com/filecxx/FileCentipede)             |    ✓     |                    ✓ (by @CronusLM)                     |
 |    MisakaTranslator    |        [misakatranslator](https://github.com/hanmin0822/MisakaTranslator)         |    ✓     |                    ✓ (by @CronusLM)                     |
+|   HEU_KMS_Activator    |          [heu-kms-activator](https://github.com/zbezj/HEU_KMS_Activator)          |    ✓     |                            ✓                            |
 |    LKY-OfficeTools     |        [lky-officetools](https://github.com/OdysseusYuan/LKY_OfficeTools)         |    ✓     |                            ✓                            |
 |         Reader         |                    [reader](https://github.com/binbyu/Reader)                     |    ✓     |                            ✓                            |
 |        Regester        |             [regester](https://deerchao.cn/tools/regester/index.htm)              |    ✓     |                            ✓                            |
