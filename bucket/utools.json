@@ -1,8 +1,8 @@
 {
     "version": "6.1.0",
-    "homepage": "https://www.u.tools/",
+    "homepage": "https://u.tools/",
     "checkver": {
-        "url": "https://www.u.tools/download/",
+        "url": "https://u.tools/download/",
         "regex": "uTools-([\\d|\\.]+)\\.exe"
     },
     "autoupdate": {

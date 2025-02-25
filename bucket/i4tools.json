@@ -1,7 +1,7 @@
 {
     "version": "8.33",
     "description": "简单好用的多功能苹果设备管理助手",
-    "homepage": "https://www.i4.cn/pro_pc.html",
+    "homepage": "https://i4.cn/pro_pc.html",
     "license": "Freeware",
     "architecture": {
         "64bit": {
@@ -37,11 +37,8 @@
         ]
     },
     "checkver": {
-        "script": [
-            "try { $detail = Invoke-WebRequest 'https://url.i4.cn/2MvQruaa' -MaximumRedirection 0 -ErrorAction Ignore } catch { $_.Exception.Response }",
-            "return $detail.Headers.Location"
-        ],
-        "regex": "https://(?<partialurl>.*)/i4Tools8_v([\\d.]+?)_Setup_x64.exe"
+        "url": "https://url.i4.cn/2MvQruaa",
+        "regex": "i4Tools8_v([\\d.]+?)_Setup_x64.exe"
     },
     "autoupdate": {
         "architecture": {
