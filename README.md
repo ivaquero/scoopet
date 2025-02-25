@@ -149,20 +149,22 @@ scoop config aria2-min-split-size 4M
 
 ### Win 专属
 
-|        中文名称        |                                 App                                  | 自动更新 |       原创       |
-| :--------------------: | :------------------------------------------------------------------: | :------: | :--------------: |
-|      AutoDarkMode      | [autodarkmode](https://github.com/Armin2208/Windows-Auto-Night-Mode) |    ✓     |        ✓         |
-|     FileCentipede      |      [filecentipede](https://github.com/filecxx/FileCentipede)       |    ✓     | ✓ (by @CronusLM) |
-|    MisakaTranslator    |  [misakatranslator](https://github.com/hanmin0822/MisakaTranslator)  |    ✓     | ✓ (by @CronusLM) |
-|   HEU_KMS_Activator    |   [heu-kms-activator](https://github.com/zbezj/HEU_KMS_Activator)    |    ✓     |        ✓         |
-|    LKY-OfficeTools     |  [lky-officetools](https://github.com/OdysseusYuan/LKY_OfficeTools)  |    ✓     |        ✓         |
-|         Reader         |              [reader](https://github.com/binbyu/Reader)              |    ✓     |        ✓         |
-|        Regester        |       [regester](https://deerchao.cn/tools/regester/index.htm)       |    ✓     |        ✓         |
-|       SubRenamer       |         [subrenamer](https://github.com/arition/SubRenamer)          |    ✓     |        ✓         |
-|   WiFi 密码暴力破解    |  [wifi-crack-tool](https://github.com/baihengaead/wifi-crack-tool)   |    ✓     |        ✓         |
-|      傲梅分区助手      |              [partition-assistant](https://disktool.cn)              |    ✓     |        ✓         |
-|       软件屏蔽器       |      [malware-patch](https://github.com/the1812/Malware-Patch)       |    ✓     |        ✓         |
-| 微信/QQ/TIM 防撤回补丁 | [revoke-msg-patcher](https://github.com/huiyadanli/RevokeMsgPatcher) |    ✓     |        ✓         |
+|        中文名称        |                                     App                                     | 自动更新 |       原创       |
+| :--------------------: | :-------------------------------------------------------------------------: | :------: | :--------------: |
+|      AutoDarkMode      |    [autodarkmode](https://github.com/Armin2208/Windows-Auto-Night-Mode)     |    ✓     |        ✓         |
+|     FileCentipede      |          [filecentipede](https://github.com/filecxx/FileCentipede)          |    ✓     | ✓ (by @CronusLM) |
+|    MisakaTranslator    |     [misakatranslator](https://github.com/hanmin0822/MisakaTranslator)      |    ✓     | ✓ (by @CronusLM) |
+|       mpv.net_CM       |          [mpv.net-cm](https://hooke007.github.io/index2#mpvnetcm)           |    ✓     |        ✓         |
+|   HEU_KMS_Activator    |       [heu-kms-activator](https://github.com/zbezj/HEU_KMS_Activator)       |    ✓     |        ✓         |
+|    LKY-OfficeTools     |     [lky-officetools](https://github.com/OdysseusYuan/LKY_OfficeTools)      |    ✓     |        ✓         |
+|   phpstudy2016 scoop   | [phpstudy-lagecy-scoop](https://github.com/chawyehsu/phpstudy-lagecy-scoop) |    ✓     |        ✓         |
+|         Reader         |                 [reader](https://github.com/binbyu/Reader)                  |    ✓     |        ✓         |
+|        Regester        |          [regester](https://deerchao.cn/tools/regester/index.htm)           |    ✓     |        ✓         |
+|       SubRenamer       |             [subrenamer](https://github.com/arition/SubRenamer)             |    ✓     |        ✓         |
+|   WiFi 密码暴力破解    |      [wifi-crack-tool](https://github.com/baihengaead/wifi-crack-tool)      |    ✓     |        ✓         |
+|      傲梅分区助手      |                 [partition-assistant](https://disktool.cn)                  |    ✓     |        ✓         |
+|       软件屏蔽器       |          [malware-patch](https://github.com/the1812/Malware-Patch)          |    ✓     |        ✓         |
+| 微信/QQ/TIM 防撤回补丁 |    [revoke-msg-patcher](https://github.com/huiyadanli/RevokeMsgPatcher)     |    ✓     |        ✓         |
 
 ### 开源镜像
 
