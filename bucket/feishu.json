@@ -18,7 +18,7 @@
     ],
     "checkver": {
         "url": "https://feishu.cn/api/downloads",
-        "regex": "Windows@([\\d.]+?)"
+        "regex": "Windows@(\\d+[\\.\\d]+)"
     },
     "autoupdate": {
         "url": "https://$matchPath-$version$matchSuffix.exe#/feishu-$version.7z",
