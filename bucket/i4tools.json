@@ -5,11 +5,11 @@
     "license": "Freeware",
     "architecture": {
         "64bit": {
-            "url": "https://d-app6.i4.cn/i4tools/V8/8.33.30/i4Tools8_v8.33_Setup_x64.exe#/dl.7z",
+            "url": "https://url.i4.cn/2MvQruaa#/dl.7z",
             "hash": "5dfee102ba80e24fdaf9d9e6816fb38f278159bcd9a21fed6675e7bb8850fc1d"
         },
         "32bit": {
-            "url": "https://d-app6.i4.cn/i4tools/V8/8.33.30/i4Tools8_v8.33_Setup_x86.exe#/dl.7z",
+            "url": "https://url.i4.cn/R7BzEfaa#/dl.7z",
             "hash": "10ef8bc6190a602fa9745838008d935e15036afdc35909a9ae08cde3576fe00d"
         }
     },
@@ -43,10 +43,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://$matchPartialurl/i4Tools8_v$version_Setup_x64.exe#/dl.7z"
+                "url": "https://url.i4.cn/2MvQruaa#/dl.7z"
             },
             "32bit": {
-                "url": "https://$matchPartialurl/i4Tools8_v$version_Setup_x86.exe#/dl.7z"
+                "url": "https://url.i4.cn/R7BzEfaa#/dl.7z"
             }
         }
     }
