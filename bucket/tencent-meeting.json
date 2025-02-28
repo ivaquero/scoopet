@@ -7,14 +7,8 @@
         "url": "https://meeting.tencent.com/declare.html"
     },
     "architecture": {
-        "64bit": {
-            "url": "https://updatecdn.meeting.qq.com/cos/edac8a100538bd8d2b0187ff5bc41471/TencentMeeting_0300000000_3.31.2.441_x86_64.publish.officialwebsite.exe#/dl.7z",
-            "hash": "md5:edac8a100538bd8d2b0187ff5bc41471"
-        },
-        "32bit": {
-            "url": "https://updatecdn.meeting.qq.com/cos/e525667d95eae39bd315747cf3f1b1dd/TencentMeeting_0300000000_3.31.2.441.publish.officialwebsite.exe#/dl.7z",
-            "hash": "md5:e525667d95eae39bd315747cf3f1b1dd"
-        }
+        "url": "https://updatecdn.meeting.qq.com/cos/edac8a100538bd8d2b0187ff5bc41471/TencentMeeting_0300000000_3.31.2.441_x86_64.publish.officialwebsite.exe#/dl.7z",
+        "hash": "md5:edac8a100538bd8d2b0187ff5bc41471"
     },
     "post_install": [
         "Get-ChildItem \"$dir\\`$_*\" | Rename-Item -NewName \"$version\" -Force",
@@ -40,14 +34,7 @@
         "regex": "\"md5\":\"(?<hash>[a-f0-9]+)\".+\"version\":\"([\\d\\.]+)\""
     },
     "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": "https://updatecdn.meeting.qq.com/cos/$matchHash/TencentMeeting_0300000000_$version_x86_64.publish.officialwebsite.exe#/dl.7z"
-            },
-            "32bit": {
-                "url": "https://updatecdn.meeting.qq.com/cos/$matchHash/TencentMeeting_0300000000_$version.publish.officialwebsite.exe#/dl.7z"
-            }
-        }
+        "url": "https://updatecdn.meeting.qq.com/cos/$matchHash/TencentMeeting_0300000000_$version_x86_64.publish.officialwebsite.exe#/dl.7z"
     },
     "notes": "We don't persist your Tencent Meeting data, they are still storaged in \"$env:APPDATA\\Tencent\\WeMeet\"."
 }
