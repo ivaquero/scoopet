@@ -6,10 +6,8 @@
         "identifier": "Proprietary",
         "url": "https://meeting.tencent.com/declare.html"
     },
-    "architecture": {
-        "url": "https://updatecdn.meeting.qq.com/cos/edac8a100538bd8d2b0187ff5bc41471/TencentMeeting_0300000000_3.31.2.441_x86_64.publish.officialwebsite.exe#/dl.7z",
-        "hash": "md5:edac8a100538bd8d2b0187ff5bc41471"
-    },
+    "url": "https://updatecdn.meeting.qq.com/cos/edac8a100538bd8d2b0187ff5bc41471/TencentMeeting_0300000000_3.31.2.441_x86_64.publish.officialwebsite.exe#/dl.7z",
+    "hash": "md5:edac8a100538bd8d2b0187ff5bc41471",
     "post_install": [
         "Get-ChildItem \"$dir\\`$_*\" | Rename-Item -NewName \"$version\" -Force",
         "Remove-Item \"$dir\\`$*\" -Recurse -Force -ErrorAction SilentlyContinue",
