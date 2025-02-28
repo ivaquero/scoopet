@@ -9,11 +9,11 @@
     "architecture": {
         "64bit": {
             "url": "https://updatecdn.meeting.qq.com/cos/edac8a100538bd8d2b0187ff5bc41471/TencentMeeting_0300000000_3.31.2.441_x86_64.publish.officialwebsite.exe#/dl.7z",
-            "hash": "0b184aaa85ab6353aafe72de71e95736c49a619f08255008f53fa99625a20e9d"
+            "hash": "md5:edac8a100538bd8d2b0187ff5bc41471"
         },
         "32bit": {
             "url": "https://updatecdn.meeting.qq.com/cos/e525667d95eae39bd315747cf3f1b1dd/TencentMeeting_0300000000_3.31.2.441.publish.officialwebsite.exe#/dl.7z",
-            "hash": "15aa32726d1186d7accb3a2f40ed9dd5b611d9db9c57100618a0c4ba188bd4fb"
+            "hash": "md5:e525667d95eae39bd315747cf3f1b1dd"
         }
     },
     "post_install": [
@@ -36,16 +36,23 @@
         ]
     ],
     "checkver": {
-        "url": "https://meeting.tencent.com/web-service/query-download-info?q=[{\"package-type\":\"app\",\"channel\":\"0300000000\",\"platform\":\"windows\"},{\"package-type\":\"app\",\"channel\":\"0300000000\",\"arch\":\"x86_64\",\"platform\":\"windows\"}]&nonce=AAAAAAAAAAAAAAAA",
-        "regex": "cos/(?<x86path>[\\w\\d]+)/TencentMeeting_(?<x86ch>[\\d]+)_(?<version>[\\d.]+)\\.publish\\.officialwebsite\\.exe.*cos/(?<x64path>[\\w\\d]+)/TencentMeeting_(?<x64ch>[\\d]+)_(?<version>[\\d.]+)(?<x64tail>[\\w\\d.]+)\\.exe"
+        "architecture": {
+            "64bit": {
+                "url": "https://meeting.tencent.com/web-service/query-download-info?q=%5B%7B%22package-type%22%3A%22app%22%2C%22channel%22%3A%220300000000%22%2C%22platform%22%3A%22windows%22%2C%22arch%22%3A%22x86_64%22%7D%5D&nonce=iS5D7ipf63myinXi"
+            },
+            "32bit": {
+                "url": "https://meeting.tencent.com/web-service/query-download-info?q=%5B%0A%09%7B%0A%09%09%22package-type%22%3A%20%22app%22,%0A%09%09%22channel%22%3A%20%220300000000%22,%0A%09%09%22platform%22%3A%20%22windows%22%0A%09%7D%0A%5D&nonce=iYw8ncQFDF8DAjHn"
+            }
+        },
+        "regex": "\"md5\":\"(?<hash>[a-f0-9]+)\".+\"version\":\"([\\d\\.]+)\""
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://updatecdn.meeting.qq.com/cos/$matchX64path/TencentMeeting_$matchX64ch_$version$matchX64tail.exe#/dl.7z"
+                "url": "https://updatecdn.meeting.qq.com/cos/$matchHash/TencentMeeting_0300000000_$version_x86_64.publish.officialwebsite.exe#/dl.7z"
             },
             "32bit": {
-                "url": "https://updatecdn.meeting.qq.com/cos/$matchX86path/TencentMeeting_$matchX86ch_$version.publish.officialwebsite.exe#/dl.7z"
+                "url": "https://updatecdn.meeting.qq.com/cos/$matchHash/TencentMeeting_0300000000_$version.publish.officialwebsite.exe#/dl.7z"
             }
         }
     },
