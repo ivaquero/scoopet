@@ -36,14 +36,7 @@
         ]
     ],
     "checkver": {
-        "architecture": {
-            "64bit": {
-                "url": "https://meeting.tencent.com/web-service/query-download-info?q=%5B%7B%22package-type%22%3A%22app%22%2C%22channel%22%3A%220300000000%22%2C%22platform%22%3A%22windows%22%2C%22arch%22%3A%22x86_64%22%7D%5D&nonce=iS5D7ipf63myinXi"
-            },
-            "32bit": {
-                "url": "https://meeting.tencent.com/web-service/query-download-info?q=%5B%0A%09%7B%0A%09%09%22package-type%22%3A%20%22app%22,%0A%09%09%22channel%22%3A%20%220300000000%22,%0A%09%09%22platform%22%3A%20%22windows%22%0A%09%7D%0A%5D&nonce=iYw8ncQFDF8DAjHn"
-            }
-        },
+        "url": "https://meeting.tencent.com/web-service/query-download-info?q=%5B%7B%22package-type%22%3A%22app%22%2C%22channel%22%3A%220300000000%22%2C%22platform%22%3A%22windows%22%2C%22arch%22%3A%22x86_64%22%7D%5D&nonce=iS5D7ipf63myinXi",
         "regex": "\"md5\":\"(?<hash>[a-f0-9]+)\".+\"version\":\"([\\d\\.]+)\""
     },
     "autoupdate": {
