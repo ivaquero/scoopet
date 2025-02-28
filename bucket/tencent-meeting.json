@@ -1,13 +1,21 @@
 {
     "version": "3.31.2.441",
-    "description": "Tencent Meeting provides one-stop audio and video conferencing solutions.",
+    "description": "一站式音视频会议解决方案",
     "homepage": "https://meeting.tencent.com/",
     "license": {
         "identifier": "Proprietary",
         "url": "https://meeting.tencent.com/declare.html"
     },
-    "url": "https://updatecdn.meeting.qq.com/cos/e525667d95eae39bd315747cf3f1b1dd/TencentMeeting_0300000000_3.31.2.441.publish.officialwebsite.exe#/dl.7z",
-    "hash": "md5:e525667d95eae39bd315747cf3f1b1dd",
+    "architecture": {
+        "64bit": {
+            "url": "https://updatecdn.meeting.qq.com/cos/edac8a100538bd8d2b0187ff5bc41471/TencentMeeting_0300000000_3.31.2.441_x86_64.publish.officialwebsite.exe#/dl.7z",
+            "hash": "0b184aaa85ab6353aafe72de71e95736c49a619f08255008f53fa99625a20e9d"
+        },
+        "32bit": {
+            "url": "https://updatecdn.meeting.qq.com/cos/e525667d95eae39bd315747cf3f1b1dd/TencentMeeting_0300000000_3.31.2.441.publish.officialwebsite.exe#/dl.7z",
+            "hash": "15aa32726d1186d7accb3a2f40ed9dd5b611d9db9c57100618a0c4ba188bd4fb"
+        }
+    },
     "post_install": [
         "Get-ChildItem \"$dir\\`$_*\" | Rename-Item -NewName \"$version\" -Force",
         "Remove-Item \"$dir\\`$*\" -Recurse -Force -ErrorAction SilentlyContinue",
@@ -28,19 +36,17 @@
         ]
     ],
     "checkver": {
-        "url": "https://meeting.tencent.com/web-service/query-download-info?q=%5B%7B%22package-type%22:%22app%22,%22channel%22:%220300000000%22,%22platform%22:%22windows%22%7D%5D&nonce=0000000000000000",
-        "script": [
-            "$script:ver = json_path $page '$.info-list[0].version' -single $true",
-            "$script:matchesHashtable = @{'url' = json_path $page '$.info-list[0].url' -single $true}",
-            "$script:regexp = $null"
-        ]
+        "url": "https://meeting.tencent.com/web-service/query-download-info?q=[{\"package-type\":\"app\",\"channel\":\"0300000000\",\"platform\":\"windows\"},{\"package-type\":\"app\",\"channel\":\"0300000000\",\"arch\":\"x86_64\",\"platform\":\"windows\"}]&nonce=AAAAAAAAAAAAAAAA",
+        "regex": "cos/(?<x86path>[\\w\\d]+)/TencentMeeting_(?<x86ch>[\\d]+)_(?<version>[\\d.]+)\\.publish\\.officialwebsite\\.exe.*cos/(?<x64path>[\\w\\d]+)/TencentMeeting_(?<x64ch>[\\d]+)_(?<version>[\\d.]+)(?<x64tail>[\\w\\d.]+)\\.exe"
     },
     "autoupdate": {
-        "url": "$matchUrl#/dl.7z",
-        "hash": {
-            "jsonpath": "$.info-list[0].md5",
-            "mode": "json",
-            "url": "https://meeting.tencent.com/web-service/query-download-info?q=%5B%7B%22package-type%22:%22app%22,%22channel%22:%220300000000%22,%22platform%22:%22windows%22%7D%5D&nonce=AAAAAAAAAAAAAAAA"
+        "architecture": {
+            "64bit": {
+                "url": "https://updatecdn.meeting.qq.com/cos/$matchX64path/TencentMeeting_$matchX64ch_$version$matchX64tail.exe#/dl.7z"
+            },
+            "32bit": {
+                "url": "https://updatecdn.meeting.qq.com/cos/$matchX86path/TencentMeeting_$matchX86ch_$version.publish.officialwebsite.exe#/dl.7z"
+            }
         }
     },
     "notes": "We don't persist your Tencent Meeting data, they are still storaged in \"$env:APPDATA\\Tencent\\WeMeet\"."
