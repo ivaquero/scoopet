@@ -150,8 +150,6 @@ scoop config aria2-min-split-size 4M
 
 |        中文名称        |                                     App                                     | 自动更新 |     备注     |
 | :--------------------: | :-------------------------------------------------------------------------: | :------: | :----------: |
-|      AutoDarkMode      |    [autodarkmode](https://github.com/Armin2208/Windows-Auto-Night-Mode)     |    ✓     |              |
-|     FileCentipede      |          [filecentipede](https://github.com/filecxx/FileCentipede)          |    ✓     | by @CronusLM |
 |    MisakaTranslator    |     [misakatranslator](https://github.com/hanmin0822/MisakaTranslator)      |    ✓     | by @CronusLM |
 |       mpv.net_CM       |          [mpv.net-cm](https://hooke007.github.io/index2#mpvnetcm)           |    ✓     |              |
 |   HEU_KMS_Activator    |       [heu-kms-activator](https://github.com/zbezj/HEU_KMS_Activator)       |    ✓     |              |
