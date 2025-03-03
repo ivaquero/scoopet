@@ -104,47 +104,47 @@ scoop config aria2-min-split-size 4M
 
 ### 跨平台
 
-|    中文名称     |                               App                                | 自动更新 |                          备注                           |
-| :-------------: | :--------------------------------------------------------------: | :------: | :-----------------------------------------------------: |
-|   阿波波外语    |                   [aboboo](http://aboboo.com)                    |    ✓     |                         精简版                          |
-|   阿波波外语    |                 [aboboo-full](http://aboboo.com)                 |    ✓     |                         完整版                          |
-|    阿里云盘     |                   [adrive](https://alipan.com)                   |    ✓     |                                                         |
-|    百度云盘     |          [baidunetdisk](https://pan.baidu.com/download)          |    ✓     |                    推荐 winget 安装                     |
-|    CAJViewer    |        [cajviewer](https://cajviewer.cnki.net/index.html)        |    ✓     |                     by @rayinfinite                     |
-|  全球学术快报   |             [cnkiexpress](https://express.cnki.net)              |    ✓     |                     by @rayinfinite                     |
-|      钉钉       |                 [dingtalk](https://dingtalk.com)                 |    ✓     |                                                         |
-|      抖音       |                   [douyin](https://douyin.com)                   |    ✓     |                                                         |
-|  抖音直播伴侣   |     [douyin-streamingtool](https://streamingtool.douyin.com)     |    ✓     |                                                         |
-|   哔哩下载姬    |         [downkyi](https://github.com/leiurayer/downkyi)          |    ✓     |                      by @CronusLM                       |
-|    Edgeless     |              [edgeless](https://home.edgeless.top/)              |    ✓     |                     by @IsaacWangTT                     |
-|    亿图图示     |                [edrawmax](https://edrawsoft.cn/)                 |    ✓     |                                                         |
-|    欧路词典     |                    [eudic](https://eudic.net)                    |    ✓     |                                                         |
-|    西语助手     |         [eshelper](https://eudic.net/v4/es/app/eshelper)         |    ✓     |                                                         |
-|    法语助手     |         [frhelper](https://eudic.net/v4/fr/app/frhelper)         |    ✓     |                                                         |
-|  每日英语听力   |              [ting-en](http://dict.eudic.net/ting)               |    ✓     |                                                         |
-|  每日西语听力   |           [ting-es](https://eudic.net/v4/fr/app/ting)            |    ✓     |                                                         |
-|  每日法语听力   |           [ting-fr](https://eudic.net/v4/fr/app/ting)            |    ✓     |                                                         |
-|      飞书       |                   [feishu](https://feishu.cn)                    |    ✓     |                                                         |
-|     EV 录屏     |           [evcapture](https://ieway.cn/evcapture.html)           |    ✓     |                                                         |
-|      剪映       |                [jianying-pro](https://capcut.cn)                 |    ✓     |                                                         |
-|    爱思助手     |             [i4tools](https://www.i4.cn/pro_pc.html)             |    ✓     |                                                         |
-|  洛雪音乐助手   |     [lx-music](https://github.com/lyswhut/lx-music-desktop)      |    ✓     |                                                         |
-|   网易云音乐    |              [neteasemusic](https://music.163.com)               |    ✓     |                                                         |
-|    腾讯教育     |                 [tencent-edu](https://ke.qq.com)                 |    ✓     |                                                         |
-|    腾讯会议     |          [tencent-meeting](https://meeting.tencent.com)          |    ✓     |                      by @Ryanjiena                      |
-|       TIM       |                    [tim](https://tim.qq.com)                     |    ✓     |                                                         |
-|     uTools      |                    [utools](https://u.tools)                     |    ✓     |                                                         |
-|     小狼毫      |                    [weasel](https://rime.im)                     |    ✓     |                                                         |
-|    企业微信     |             [wechatwork](https://work.weixin.qq.com)             |    ✓     |                                                         |
-|    WPSOffice    |             [wpsoffice-cn](https://wps.com/zh-hant/)             |    ✓     |                                                         |
-|      语雀       |                    [yuque](https://yuque.com)                    |    ✓     | 复制于 [chawyehsu](https://github.com/chawyehsu/dorado) |
-|    AigcPanel    |               [aigcpanel](https://aigcpanel.com/)                |    ✓     |                                                         |
-|   DashPlayer    |      [dashplayer](https://github.com/solidSpoon/DashPlayer)      |    ✓     |                                                         |
-|  Fishing-Funds  |     [fishing-funds](https://github.com/1zilc/fishing-funds)      |    ✓     |                                                         |
-|    HBuilderX    |          [hbuilderx](https://dcloud.io/hbuilderx.html)           |    ✓     |                                                         |
-| M3u8-Downloader | [m3u8-downloader](https://github.com/HeiSir2014/M3U8-Downloader) |    ✓     |                                                         |
-|    KingDraw     |                  [kingdraw](http://kingdraw.cn)                  |    ✓     |                                                         |
-|   Pot-Desktop   |                [pot-desktop](https://pot-app.com)                |    ✓     |                                                         |
+|    中文名称     |                               App                                | 自动更新 |                         备注                         |
+| :-------------: | :--------------------------------------------------------------: | :------: | :--------------------------------------------------: |
+|   阿波波外语    |                   [aboboo](http://aboboo.com)                    |    ✓     |                        精简版                        |
+|   阿波波外语    |                 [aboboo-full](http://aboboo.com)                 |    ✓     |                        完整版                        |
+|    阿里云盘     |                   [adrive](https://alipan.com)                   |    ✓     |                                                      |
+|    百度云盘     |          [baidunetdisk](https://pan.baidu.com/download)          |    ✓     |                   推荐 winget 安装                   |
+|    CAJViewer    |        [cajviewer](https://cajviewer.cnki.net/index.html)        |    ✓     |                   by @rayinfinite                    |
+|  全球学术快报   |             [cnkiexpress](https://express.cnki.net)              |    ✓     |                   by @rayinfinite                    |
+|      钉钉       |                 [dingtalk](https://dingtalk.com)                 |    ✓     |                                                      |
+|      抖音       |                   [douyin](https://douyin.com)                   |    ✓     |                                                      |
+|  抖音直播伴侣   |     [douyin-streamingtool](https://streamingtool.douyin.com)     |    ✓     |                                                      |
+|   哔哩下载姬    |         [downkyi](https://github.com/leiurayer/downkyi)          |    ✓     |                     by @CronusLM                     |
+|    Edgeless     |              [edgeless](https://home.edgeless.top/)              |    ✓     |                   by @IsaacWangTT                    |
+|    亿图图示     |                [edrawmax](https://edrawsoft.cn/)                 |    ✓     |                                                      |
+|    欧路词典     |                    [eudic](https://eudic.net)                    |    ✓     |                                                      |
+|    西语助手     |         [eshelper](https://eudic.net/v4/es/app/eshelper)         |    ✓     |                                                      |
+|    法语助手     |         [frhelper](https://eudic.net/v4/fr/app/frhelper)         |    ✓     |                                                      |
+|  每日英语听力   |              [ting-en](http://dict.eudic.net/ting)               |    ✓     |                                                      |
+|  每日西语听力   |           [ting-es](https://eudic.net/v4/fr/app/ting)            |    ✓     |                                                      |
+|  每日法语听力   |           [ting-fr](https://eudic.net/v4/fr/app/ting)            |    ✓     |                                                      |
+|      飞书       |                   [feishu](https://feishu.cn)                    |    ✓     |                                                      |
+|     EV 录屏     |           [evcapture](https://ieway.cn/evcapture.html)           |    ✓     |                                                      |
+|      剪映       |                [jianying-pro](https://capcut.cn)                 |    ✓     |                                                      |
+|    爱思助手     |               [i4tools](https://i4.cn/pro_pc.html)               |    ✓     |                                                      |
+|  洛雪音乐助手   |     [lx-music](https://github.com/lyswhut/lx-music-desktop)      |    ✓     |                                                      |
+|   网易云音乐    |              [neteasemusic](https://music.163.com)               |    ✓     |                                                      |
+|    腾讯教育     |                 [tencent-edu](https://ke.qq.com)                 |    ✓     |                                                      |
+|    腾讯会议     |          [tencent-meeting](https://meeting.tencent.com)          |    ✓     |                    by @Ryanjiena                     |
+|       TIM       |                    [tim](https://tim.qq.com)                     |    ✓     |                                                      |
+|     uTools      |                    [utools](https://u.tools)                     |    ✓     |                                                      |
+|     小狼毫      |                    [weasel](https://rime.im)                     |    ✓     |                                                      |
+|    企业微信     |             [wechatwork](https://work.weixin.qq.com)             |    ✓     |                                                      |
+|    WPSOffice    |             [wpsoffice-cn](https://wps.com/zh-hant/)             |    ✓     |                                                      |
+|      语雀       |                    [yuque](https://yuque.com)                    |    ✓     | 复制于 [dorado](https://github.com/chawyehsu/dorado) |
+|    AigcPanel    |               [aigcpanel](https://aigcpanel.com/)                |    ✓     |                                                      |
+|   DashPlayer    |      [dashplayer](https://github.com/solidSpoon/DashPlayer)      |    ✓     |                                                      |
+|  Fishing-Funds  |     [fishing-funds](https://github.com/1zilc/fishing-funds)      |    ✓     |                                                      |
+|    HBuilderX    |          [hbuilderx](https://dcloud.io/hbuilderx.html)           |    ✓     |                                                      |
+| M3u8-Downloader | [m3u8-downloader](https://github.com/HeiSir2014/M3U8-Downloader) |    ✓     |                                                      |
+|    KingDraw     |                  [kingdraw](http://kingdraw.cn)                  |    ✓     |                                                      |
+|   Pot-Desktop   |                [pot-desktop](https://pot-app.com)                |    ✓     |                                                      |
 
 ### Win 专属
 
