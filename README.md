@@ -14,7 +14,7 @@
 对于熟悉 Scoop 的用户：
 
 ```powershell
-scoop bucket add scoopet https://github.com/Scoopforge/Extras-CN
+scoop bucket add extras-cn https://github.com/Scoopforge/Extras-CN
 ```
 
 # 🏃 开始
@@ -65,7 +65,7 @@ scoop install git
 ### ✈️ 步骤 3：添加本仓库并更新，么么哒~ 💋
 
 ```powershell
-scoop bucket add scoopet https://github.com/Scoopforge/Extras-CN
+scoop bucket add extras-cn https://github.com/Scoopforge/Extras-CN
 scoop update
 ```
 
