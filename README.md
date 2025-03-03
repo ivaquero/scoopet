@@ -1,4 +1,4 @@
-# 🍨 Scoopet 🍨
+# 🍨 Extras-CN 🍨
 
 [![Excavator](https://github.com/ivaquero/scoopet/actions/workflows/ci.yml/badge.svg)](https://github.com/ivaquero/scoopet/actions/workflows/ci.yml)
 [![license](https://img.shields.io/github/license/ivaquero/scoopet)](https://github.com/ivaquero/scoopet/blob/master/LICENSE)
