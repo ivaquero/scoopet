@@ -1,9 +1,9 @@
 # 🍨 Extras-CN 🍨
 
-[![Excavator](https://github.com/ivaquero/scoopet/actions/workflows/ci.yml/badge.svg)](https://github.com/ivaquero/scoopet/actions/workflows/ci.yml)
-[![license](https://img.shields.io/github/license/ivaquero/scoopet)](https://github.com/ivaquero/scoopet/blob/master/LICENSE)
-[![code size](https://img.shields.io/github/languages/code-size/ivaquero/scoopet.svg)](https://img.shields.io/github/languages/code-size/ivaquero/scoopet.svg)
-[![repo size](https://img.shields.io/github/repo-size/ivaquero/scoopet.svg)](https://img.shields.io/github/repo-size/ivaquero/scoopet.svg)
+[![Excavator](https://github.com/Scoopforge/Extras-CN/actions/workflows/ci.yml/badge.svg)](https://github.com/Scoopforge/Extras-CN/actions/workflows/ci.yml)
+[![license](https://img.shields.io/github/license/Scoopforge/Extras-CN)](https://github.com/Scoopforge/Extras-CN/blob/master/LICENSE)
+[![code size](https://img.shields.io/github/languages/code-size/Scoopforge/Extras-CN.svg)](https://img.shields.io/github/languages/code-size/Scoopforge/Extras-CN.svg)
+[![repo size](https://img.shields.io/github/repo-size/Scoopforge/Extras-CN.svg)](https://img.shields.io/github/repo-size/Scoopforge/Extras-CN.svg)
 
 专注于服务国人的 Windows 最佳包管理器 [Scoop](https://github.com/ScoopInstaller/Scoop)扩展库
 
@@ -14,7 +14,7 @@
 对于熟悉 Scoop 的用户：
 
 ```powershell
-scoop bucket add scoopet https://github.com/ivaquero/scoopet
+scoop bucket add scoopet https://github.com/Scoopforge/Extras-CN
 ```
 
 # 🏃 开始
@@ -65,7 +65,7 @@ scoop install git
 ### ✈️ 步骤 3：添加本仓库并更新，么么哒~ 💋
 
 ```powershell
-scoop bucket add scoopet https://github.com/ivaquero/scoopet
+scoop bucket add scoopet https://github.com/Scoopforge/Extras-CN
 scoop update
 ```
 
@@ -104,67 +104,66 @@ scoop config aria2-min-split-size 4M
 
 ### 跨平台
 
-|    中文名称     |                               App                                | 自动更新 |                          原创                           |
+|    中文名称     |                               App                                | 自动更新 |                          备注                           |
 | :-------------: | :--------------------------------------------------------------: | :------: | :-----------------------------------------------------: |
-|   阿波波外语    |                   [aboboo](http://aboboo.com)                    |    ✓     |                            ✓                            |
-|   阿波波外语    |                 [aboboo-full](http://aboboo.com)                 |    ✓     |                            ✓                            |
-|    阿里云盘     |                   [adrive](https://alipan.com)                   |    ✓     |                            ✓                            |
-|    百度云盘     |          [baidunetdisk](https://pan.baidu.com/download)          |    ✓     |                            ✓                            |
-|    CAJViewer    |        [cajviewer](https://cajviewer.cnki.net/index.html)        |    ✓     |                   ✓ (by @rayinfinite)                   |
-|  全球学术快报   |             [cnkiexpress](https://express.cnki.net)              |    ✓     |                   ✓ (by @rayinfinite)                   |
-|      钉钉       |                 [dingtalk](https://dingtalk.com)                 |    ✓     |                            ✓                            |
-|      抖音       |                   [douyin](https://douyin.com)                   |    ✓     |                            ✓                            |
-|  抖音直播伴侣   |     [douyin-streamingtool](https://streamingtool.douyin.com)     |    ✓     |                            ✓                            |
-|   哔哩下载姬    |         [downkyi](https://github.com/leiurayer/downkyi)          |    ✓     |                    ✓ (by @CronusLM)                     |
-|    Edgeless     |              [edgeless](https://home.edgeless.top/)              |    ✓     |                   ✓ (by @IsaacWangTT)                   |
-|    亿图图示     |                [edrawmax](https://edrawsoft.cn/)                 |    ✓     |                            ✓                            |
-|    欧路词典     |                    [eudic](https://eudic.net)                    |    ✓     |                            ✓                            |
-|    西语助手     |         [eshelper](https://eudic.net/v4/es/app/eshelper)         |    ✓     |                            ✓                            |
-|    法语助手     |         [frhelper](https://eudic.net/v4/fr/app/frhelper)         |    ✓     |                            ✓                            |
-|  每日英语听力   |              [ting-en](http://dict.eudic.net/ting)               |    ✓     |                            ✓                            |
-|  每日西语听力   |           [ting-es](https://eudic.net/v4/fr/app/ting)            |    ✓     |                            ✓                            |
-|  每日法语听力   |           [ting-fr](https://eudic.net/v4/fr/app/ting)            |    ✓     |                            ✓                            |
-|      飞书       |                   [feishu](https://feishu.cn)                    |    ✓     |                            ✓                            |
-|     EV 录屏     |           [evcapture](https://ieway.cn/evcapture.html)           |    ✓     |                            ✓                            |
-|      剪映       |                [jianying-pro](https://capcut.cn)                 |    ✓     |                            ✓                            |
-|    爱思助手     |             [i4tools](https://www.i4.cn/pro_pc.html)             |    ✓     |                            ✓                            |
-|  洛雪音乐助手   |     [lx-music](https://github.com/lyswhut/lx-music-desktop)      |    ✓     |                            ✓                            |
-|   网易云音乐    |              [neteasemusic](https://music.163.com)               |    ✓     |                            ✓                            |
-|    腾讯教育     |                 [tencent-edu](https://ke.qq.com)                 |    ✓     |                            ✓                            |
-|    腾讯会议     |          [tencent-meeting](https://meeting.tencent.com)          |    ✓     |                    ✓ (by @Ryanjiena)                    |
-|       TIM       |                    [tim](https://tim.qq.com)                     |    ✓     |                            ✓                            |
-|     uTools      |                    [utools](https://u.tools)                     |    ✓     |                            ✓                            |
-|     小狼毫      |                    [weasel](https://rime.im)                     |    ✓     |                            ✓                            |
-|    企业微信     |             [wechatwork](https://work.weixin.qq.com)             |    ✓     |                            ✓                            |
-|    WPSOffice    |             [wpsoffice-cn](https://wps.com/zh-hant/)             |    ✓     |                            ✓                            |
+|   阿波波外语    |                   [aboboo](http://aboboo.com)                    |    ✓     |                         精简版                          |
+|   阿波波外语    |                 [aboboo-full](http://aboboo.com)                 |    ✓     |                         完整版                          |
+|    阿里云盘     |                   [adrive](https://alipan.com)                   |    ✓     |                                                         |
+|    百度云盘     |          [baidunetdisk](https://pan.baidu.com/download)          |    ✓     |                    推荐 winget 安装                     |
+|    CAJViewer    |        [cajviewer](https://cajviewer.cnki.net/index.html)        |    ✓     |                     by @rayinfinite                     |
+|  全球学术快报   |             [cnkiexpress](https://express.cnki.net)              |    ✓     |                     by @rayinfinite                     |
+|      钉钉       |                 [dingtalk](https://dingtalk.com)                 |    ✓     |                                                         |
+|      抖音       |                   [douyin](https://douyin.com)                   |    ✓     |                                                         |
+|  抖音直播伴侣   |     [douyin-streamingtool](https://streamingtool.douyin.com)     |    ✓     |                                                         |
+|   哔哩下载姬    |         [downkyi](https://github.com/leiurayer/downkyi)          |    ✓     |                      by @CronusLM                       |
+|    Edgeless     |              [edgeless](https://home.edgeless.top/)              |    ✓     |                     by @IsaacWangTT                     |
+|    亿图图示     |                [edrawmax](https://edrawsoft.cn/)                 |    ✓     |                                                         |
+|    欧路词典     |                    [eudic](https://eudic.net)                    |    ✓     |                                                         |
+|    西语助手     |         [eshelper](https://eudic.net/v4/es/app/eshelper)         |    ✓     |                                                         |
+|    法语助手     |         [frhelper](https://eudic.net/v4/fr/app/frhelper)         |    ✓     |                                                         |
+|  每日英语听力   |              [ting-en](http://dict.eudic.net/ting)               |    ✓     |                                                         |
+|  每日西语听力   |           [ting-es](https://eudic.net/v4/fr/app/ting)            |    ✓     |                                                         |
+|  每日法语听力   |           [ting-fr](https://eudic.net/v4/fr/app/ting)            |    ✓     |                                                         |
+|      飞书       |                   [feishu](https://feishu.cn)                    |    ✓     |                                                         |
+|     EV 录屏     |           [evcapture](https://ieway.cn/evcapture.html)           |    ✓     |                                                         |
+|      剪映       |                [jianying-pro](https://capcut.cn)                 |    ✓     |                                                         |
+|    爱思助手     |             [i4tools](https://www.i4.cn/pro_pc.html)             |    ✓     |                                                         |
+|  洛雪音乐助手   |     [lx-music](https://github.com/lyswhut/lx-music-desktop)      |    ✓     |                                                         |
+|   网易云音乐    |              [neteasemusic](https://music.163.com)               |    ✓     |                                                         |
+|    腾讯教育     |                 [tencent-edu](https://ke.qq.com)                 |    ✓     |                                                         |
+|    腾讯会议     |          [tencent-meeting](https://meeting.tencent.com)          |    ✓     |                      by @Ryanjiena                      |
+|       TIM       |                    [tim](https://tim.qq.com)                     |    ✓     |                                                         |
+|     uTools      |                    [utools](https://u.tools)                     |    ✓     |                                                         |
+|     小狼毫      |                    [weasel](https://rime.im)                     |    ✓     |                                                         |
+|    企业微信     |             [wechatwork](https://work.weixin.qq.com)             |    ✓     |                                                         |
+|    WPSOffice    |             [wpsoffice-cn](https://wps.com/zh-hant/)             |    ✓     |                                                         |
 |      语雀       |                    [yuque](https://yuque.com)                    |    ✓     | 复制于 [chawyehsu](https://github.com/chawyehsu/dorado) |
-|    AigcPanel    |               [aigcpanel](https://aigcpanel.com/)                |    ✓     |                            ✓                            |
-|   DashPlayer    |      [dashplayer](https://github.com/solidSpoon/DashPlayer)      |    ✓     |                            ✓                            |
-|  Fishing-Funds  |     [fishing-funds](https://github.com/1zilc/fishing-funds)      |    ✓     |                            ✓                            |
-|    HBuilderX    |          [hbuilderx](https://dcloud.io/hbuilderx.html)           |    ✓     |                            ✓                            |
-| M3u8-Downloader | [m3u8-downloader](https://github.com/HeiSir2014/M3U8-Downloader) |    ✓     |                            ✓                            |
-|    KingDraw     |                  [kingdraw](http://kingdraw.cn)                  |    ✓     |                            ✓                            |
-|   Pot-Desktop   |                [pot-desktop](https://pot-app.com)                |    ✓     |                            ✓                            |
-|    SciHubEVA    |         [scihubeva](https://github.com/leovan/SciHubEVA)         |    ✓     |                     ✓ (by @leovan)                      |
+|    AigcPanel    |               [aigcpanel](https://aigcpanel.com/)                |    ✓     |                                                         |
+|   DashPlayer    |      [dashplayer](https://github.com/solidSpoon/DashPlayer)      |    ✓     |                                                         |
+|  Fishing-Funds  |     [fishing-funds](https://github.com/1zilc/fishing-funds)      |    ✓     |                                                         |
+|    HBuilderX    |          [hbuilderx](https://dcloud.io/hbuilderx.html)           |    ✓     |                                                         |
+| M3u8-Downloader | [m3u8-downloader](https://github.com/HeiSir2014/M3U8-Downloader) |    ✓     |                                                         |
+|    KingDraw     |                  [kingdraw](http://kingdraw.cn)                  |    ✓     |                                                         |
+|   Pot-Desktop   |                [pot-desktop](https://pot-app.com)                |    ✓     |                                                         |
 
 ### Win 专属
 
-|        中文名称        |                                     App                                     | 自动更新 |       原创       |
-| :--------------------: | :-------------------------------------------------------------------------: | :------: | :--------------: |
-|      AutoDarkMode      |    [autodarkmode](https://github.com/Armin2208/Windows-Auto-Night-Mode)     |    ✓     |        ✓         |
-|     FileCentipede      |          [filecentipede](https://github.com/filecxx/FileCentipede)          |    ✓     | ✓ (by @CronusLM) |
-|    MisakaTranslator    |     [misakatranslator](https://github.com/hanmin0822/MisakaTranslator)      |    ✓     | ✓ (by @CronusLM) |
-|       mpv.net_CM       |          [mpv.net-cm](https://hooke007.github.io/index2#mpvnetcm)           |    ✓     |        ✓         |
-|   HEU_KMS_Activator    |       [heu-kms-activator](https://github.com/zbezj/HEU_KMS_Activator)       |    ✓     |        ✓         |
-|    LKY-OfficeTools     |     [lky-officetools](https://github.com/OdysseusYuan/LKY_OfficeTools)      |    ✓     |        ✓         |
-|   phpstudy2016 scoop   | [phpstudy-lagecy-scoop](https://github.com/chawyehsu/phpstudy-lagecy-scoop) |    ✓     |        ✓         |
-|         Reader         |                 [reader](https://github.com/binbyu/Reader)                  |    ✓     |        ✓         |
-|        Regester        |          [regester](https://deerchao.cn/tools/regester/index.htm)           |    ✓     |        ✓         |
-|       SubRenamer       |             [subrenamer](https://github.com/arition/SubRenamer)             |    ✓     |        ✓         |
-|   WiFi 密码暴力破解    |      [wifi-crack-tool](https://github.com/baihengaead/wifi-crack-tool)      |    ✓     |        ✓         |
-|      傲梅分区助手      |                 [partition-assistant](https://disktool.cn)                  |    ✓     |        ✓         |
-|       软件屏蔽器       |          [malware-patch](https://github.com/the1812/Malware-Patch)          |    ✓     |        ✓         |
-| 微信/QQ/TIM 防撤回补丁 |    [revoke-msg-patcher](https://github.com/huiyadanli/RevokeMsgPatcher)     |    ✓     |        ✓         |
+|        中文名称        |                                     App                                     | 自动更新 |     备注     |
+| :--------------------: | :-------------------------------------------------------------------------: | :------: | :----------: |
+|      AutoDarkMode      |    [autodarkmode](https://github.com/Armin2208/Windows-Auto-Night-Mode)     |    ✓     |              |
+|     FileCentipede      |          [filecentipede](https://github.com/filecxx/FileCentipede)          |    ✓     | by @CronusLM |
+|    MisakaTranslator    |     [misakatranslator](https://github.com/hanmin0822/MisakaTranslator)      |    ✓     | by @CronusLM |
+|       mpv.net_CM       |          [mpv.net-cm](https://hooke007.github.io/index2#mpvnetcm)           |    ✓     |              |
+|   HEU_KMS_Activator    |       [heu-kms-activator](https://github.com/zbezj/HEU_KMS_Activator)       |    ✓     |              |
+|    LKY-OfficeTools     |     [lky-officetools](https://github.com/OdysseusYuan/LKY_OfficeTools)      |    ✓     |              |
+|   phpstudy2016 scoop   | [phpstudy-lagecy-scoop](https://github.com/chawyehsu/phpstudy-lagecy-scoop) |    ✓     |              |
+|         Reader         |                 [reader](https://github.com/binbyu/Reader)                  |    ✓     |              |
+|        Regester        |          [regester](https://deerchao.cn/tools/regester/index.htm)           |    ✓     |              |
+|       SubRenamer       |             [subrenamer](https://github.com/arition/SubRenamer)             |    ✓     |              |
+|   WiFi 密码暴力破解    |      [wifi-crack-tool](https://github.com/baihengaead/wifi-crack-tool)      |    ✓     |              |
+|      傲梅分区助手      |                 [partition-assistant](https://disktool.cn)                  |    ✓     |              |
+|       软件屏蔽器       |          [malware-patch](https://github.com/the1812/Malware-Patch)          |    ✓     |              |
+| 微信/QQ/TIM 防撤回补丁 |    [revoke-msg-patcher](https://github.com/huiyadanli/RevokeMsgPatcher)     |    ✓     |              |
 
 ### 开源镜像
 
