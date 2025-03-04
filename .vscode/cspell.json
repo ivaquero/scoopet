@@ -1,0 +1,26 @@
+{
+    "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
+    "version": "0.2",
+    "languageSettings": [
+        {
+            "languageId": "typst,markdown,txt",
+            "caseSensitive": true
+        }
+    ],
+    "dictionaries": [
+        "custom-words",
+        "software-words",
+    ],
+    "dictionaryDefinitions": [
+        {
+            "name": "custom-words",
+            "path": "../../backup/cspell/custom-words.txt",
+            "addWords": true
+        },
+        {
+            "name": "software-words",
+            "path": "../../backup/cspell/software-words.txt",
+            "addWords": true
+        }
+    ]
+}

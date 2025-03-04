@@ -109,7 +109,7 @@ scoop config aria2-min-split-size 4M
 |   阿波波外语    |                   [aboboo](http://aboboo.com)                    |    ✓     |                        精简版                        |
 |   阿波波外语    |                 [aboboo-full](http://aboboo.com)                 |    ✓     |                        完整版                        |
 |    阿里云盘     |                   [adrive](https://alipan.com)                   |    ✓     |                                                      |
-|    百度云盘     |          [baidunetdisk](https://pan.baidu.com/download)          |    ✓     |                   推荐 winget 安装                   |
+|    百度云盘     |          [baidunetdisk](https://pan.baidu.com/download)          |    ✓     |                   推荐 WinGet 安装                   |
 |    CAJViewer    |        [cajviewer](https://cajviewer.cnki.net/index.html)        |    ✓     |                   by @rayinfinite                    |
 |  全球学术快报   |             [cnkiexpress](https://express.cnki.net)              |    ✓     |                   by @rayinfinite                    |
 |      钉钉       |                 [dingtalk](https://dingtalk.com)                 |    ✓     |                                                      |
@@ -138,7 +138,7 @@ scoop config aria2-min-split-size 4M
 |    企业微信     |             [wechatwork](https://work.weixin.qq.com)             |    ✓     |                                                      |
 |    WPSOffice    |             [wpsoffice-cn](https://wps.com/zh-hant/)             |    ✓     |                                                      |
 |      语雀       |                    [yuque](https://yuque.com)                    |    ✓     | 复制于 [dorado](https://github.com/chawyehsu/dorado) |
-|    AigcPanel    |               [aigcpanel](https://aigcpanel.com/)                |    ✓     |                                                      |
+|    AIGCPanel    |               [aigcpanel](https://aigcpanel.com/)                |    ✓     |                                                      |
 |   DashPlayer    |      [dashplayer](https://github.com/solidSpoon/DashPlayer)      |    ✓     |                                                      |
 |  Fishing-Funds  |     [fishing-funds](https://github.com/1zilc/fishing-funds)      |    ✓     |                                                      |
 |    HBuilderX    |          [hbuilderx](https://dcloud.io/hbuilderx.html)           |    ✓     |                                                      |
@@ -154,9 +154,9 @@ scoop config aria2-min-split-size 4M
 |       mpv.net_CM       |          [mpv.net-cm](https://hooke007.github.io/index2#mpvnetcm)           |    ✓     |              |
 |   HEU_KMS_Activator    |       [heu-kms-activator](https://github.com/zbezj/HEU_KMS_Activator)       |    ✓     |              |
 |    LKY-OfficeTools     |     [lky-officetools](https://github.com/OdysseusYuan/LKY_OfficeTools)      |    ✓     |              |
-|   phpstudy2016 scoop   | [phpstudy-lagecy-scoop](https://github.com/chawyehsu/phpstudy-lagecy-scoop) |    ✓     |              |
+|   PHPStudy2016 scoop   | [phpstudy-lagecy-scoop](https://github.com/chawyehsu/phpstudy-lagecy-scoop) |    ✓     |              |
 |         Reader         |                 [reader](https://github.com/binbyu/Reader)                  |    ✓     |              |
-|        Regester        |          [regester](https://deerchao.cn/tools/regester/index.htm)           |    ✓     |              |
+|        RegEster        |          [regester](https://deerchao.cn/tools/regester/index.htm)           |    ✓     |              |
 |       SubRenamer       |             [subrenamer](https://github.com/arition/SubRenamer)             |    ✓     |              |
 |   WiFi 密码暴力破解    |      [wifi-crack-tool](https://github.com/baihengaead/wifi-crack-tool)      |    ✓     |              |
 |      傲梅分区助手      |                 [partition-assistant](https://disktool.cn)                  |    ✓     |              |
@@ -165,29 +165,29 @@ scoop config aria2-min-split-size 4M
 
 ### 开源镜像
 
-|           App           | 自动更新 | 原创  |
-| :---------------------: | :------: | :---: |
-|       Blender-cn        |    ✓     |   ✓   |
-|       FreeCAD-cn        |    ✓     |   ✓   |
-|         Git-cn          |    ✓     |   ✓   |
-|         GIMP-cn         |    ✓     |   ✓   |
-|       GIMP@dev-cn       |    ✓     |   ✓   |
-|       Inkscape-cn       |    ✓     |   ✓   |
-|        Julia-cn         |    ✓     |   ✓   |
-|        Kicad-cn         |    ✓     |   ✓   |
-|     LibreOffice-cn      |    ✓     |   ✓   |
-|         LyX-cn          |    ✓     |   ✓   |
-|      MicroMamba-cn      |    ✓     |   ✓   |
-|      Miniconda-cn       |    ✓     |   ✓   |
-|      Miniforge-cn       |    ✓     |   ✓   |
-| Navicat-Premium-Lite-cn |    ✓     |   ✓   |
-|      OBS-Studio-cn      |    ✓     |   ✓   |
-|        Octave-cn        |    ✓     |   ✓   |
-|      Qt-Creator-cn      |    ✓     |   ✓   |
-|       SageMath-cn       |    ✓     |   ✓   |
-|      TeXStudio-cn       |    ✓     |   ✓   |
-|         VLC-cn          |    ✓     |   ✓   |
-|       VSCodium-cn       |    ✓     |   ✓   |
+|           App           | 自动更新 |
+| :---------------------: | :------: |
+|       Blender-cn        |    ✓     |
+|       FreeCAD-cn        |    ✓     |
+|         Git-cn          |    ✓     |
+|         GIMP-cn         |    ✓     |
+|       GIMP@dev-cn       |    ✓     |
+|       Inkscape-cn       |    ✓     |
+|        Julia-cn         |    ✓     |
+|        KiCAD-cn         |    ✓     |
+|     LibreOffice-cn      |    ✓     |
+|         LyX-cn          |    ✓     |
+|      Micromamba-cn      |    ✓     |
+|      Miniconda-cn       |    ✓     |
+|      Miniforge-cn       |    ✓     |
+| Navicat-Premium-Lite-cn |    ✓     |
+|      OBS-Studio-cn      |    ✓     |
+|        Octave-cn        |    ✓     |
+|      Qt-Creator-cn      |    ✓     |
+|       SageMath-cn       |    ✓     |
+|      TeXStudio-cn       |    ✓     |
+|         VLC-cn          |    ✓     |
+|       VSCodium-cn       |    ✓     |
 
 ## 备注
 
